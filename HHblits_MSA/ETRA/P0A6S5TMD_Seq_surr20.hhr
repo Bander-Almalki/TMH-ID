@@ -1,0 +1,1726 @@
+Query         P0A6S5
+Match_columns 41
+No_of_seqs    996 out of 1109
+Neff          5.99407
+Searched_HMMs 191
+Date          Wed Apr 17 03:03:31 2024
+Command       hhblits -i /home/light/Downloads/ETRA_fasta_files/P0A6S5TMD_Seq_surr20.fasta -d /home/light/Downloads/UniproDB/uniclust30_2018_08_hhsuite/uniclust30_2018_08/uniclust30_2018_08 -oa3m /home/light/Downloads/ETRA_fasta_files/P0A6S5TMD_Seq_surr20.a3m 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 sp|A9IIP9|FTSB_BORPD Cell divi  99.5   1E-17   4E-23   97.1   0.0   41    1-41      1-41  (111)
+  2 tr|A0A2R5FG90|A0A2R5FG90_9PROT  99.5   2E-17 7.6E-23   97.5   0.0   41    1-41      1-41  (126)
+  3 tr|A0A1J5SV55|A0A1J5SV55_9ZZZZ  99.5 2.7E-17 1.1E-22   96.3   0.0   41    1-41      1-41  (120)
+  4 tr|A0A1N7QU01|A0A1N7QU01_9BURK  99.5 5.1E-17 1.8E-22   97.4   0.0   41    1-41      1-41  (146)
+  5 tr|A0A1I1V9B2|A0A1I1V9B2_9BURK  99.5 9.5E-17 3.5E-22   93.3   0.0   41    1-41      1-41  (113)
+  6 tr|D2U3T4|D2U3T4_9GAMM Cell di  99.4 1.4E-16 5.9E-22   91.2   0.0   41    1-41      6-46  (102)
+  7 tr|A0A1G0JBM5|A0A1G0JBM5_9GAMM  99.4 3.3E-16 1.5E-21   89.1   0.0   41    1-41      1-41  (98)
+  8 tr|A0A2N6N6E9|A0A2N6N6E9_9COXI  99.4 3.7E-16 1.6E-21   88.2   0.0   41    1-41      1-41  (92)
+  9 tr|E0SDJ4|E0SDJ4_DICD3 Cell di  99.4 4.5E-16 1.7E-21   90.5   0.0   41    1-41      1-41  (112)
+ 10 tr|A0A2N9MKD0|A0A2N9MKD0_9BURK  99.4 7.3E-16 2.8E-21   89.7   0.0   41    1-41      1-41  (112)
+ 11 tr|A0A1H2I769|A0A1H2I769_9PSED  99.4 1.3E-15 5.4E-21   86.2   0.0   41    1-41      2-44  (92)
+ 12 tr|A0A0A0ENH7|A0A0A0ENH7_9GAMM  99.3 1.4E-15 6.2E-21   87.6   0.0   41    1-41      4-44  (106)
+ 13 tr|A0A2D6IYF5|A0A2D6IYF5_9GAMM  99.3 9.9E-15 4.2E-20   84.9   0.0   41    1-41     11-51  (111)
+ 14 tr|A0A069PU78|A0A069PU78_9BURK  99.3 1.4E-14 4.7E-20   87.5   0.0   41    1-41      1-41  (152)
+ 15 tr|Q1QU72|Q1QU72_CHRSD Cell di  99.2 2.2E-14 8.1E-20   84.5   0.0   41    1-41      2-42  (121)
+ 16 tr|G7UP86|G7UP86_PSEUP Cell di  99.2 4.3E-14 1.6E-19   83.6   0.0   41    1-41      4-44  (123)
+ 17 tr|S0AD65|S0AD65_SERPL Cell di  99.2 5.8E-14 1.9E-19   83.2   0.0   41    1-41     25-65  (130)
+ 18 tr|A0A0S1YNW1|A0A0S1YNW1_9ALTE  99.2 6.1E-14   2E-19   81.9   0.0   40    1-40     25-64  (117)
+ 19 tr|A0A2R7T3A9|A0A2R7T3A9_9BURK  99.2 5.9E-14 2.3E-19   81.7   0.0   41    1-41      1-41  (109)
+ 20 tr|A0A2S9K0V2|A0A2S9K0V2_9BURK  99.2 7.5E-14 2.8E-19   80.2   0.0   41    1-41      5-45  (99)
+ 21 tr|A0A1T0AUH9|A0A1T0AUH9_9PAST  99.2   8E-14 2.9E-19   79.5   0.0   41    1-41      1-41  (95)
+ 22 tr|A4N0K0|A4N0K0_HAEIF Cell di  99.1 1.7E-13 5.7E-19   75.6   0.0   40    1-40      1-40  (76)
+ 23 tr|A0A259EWG4|A0A259EWG4_9PROT  99.1 2.7E-13   1E-18   80.0   0.0   41    1-41     20-60  (119)
+ 24 tr|A0A2X3CSD6|A0A2X3CSD6_KLEPN  99.0 1.1E-12 3.3E-18   70.4   0.0   41    1-41     11-51  (67)
+ 25 tr|A0A1I3WKL7|A0A1I3WKL7_9GAMM  99.0   1E-12 3.4E-18   77.8   0.0   40    1-40     24-63  (128)
+ 26 sp|P57496|FTSB_BUCAI Cell divi  99.0 1.7E-12 5.9E-18   71.1   0.0   40    1-40      1-40  (71)
+ 27 tr|D3RN67|D3RN67_ALLVD Cell di  99.0 1.8E-12 6.5E-18   77.2   0.0   41    1-41     28-68  (127)
+ 28 tr|A0A1V2ZVB7|A0A1V2ZVB7_9GAMM  98.9 7.3E-12 2.5E-17   74.8   0.0   41    1-41      1-42  (129)
+ 29 tr|A0A1N6F906|A0A1N6F906_9GAMM  98.9 1.1E-11 3.9E-17   73.1   0.0   41    1-41      3-43  (114)
+ 30 tr|W1EYZ1|W1EYZ1_ECOLX Cell di  98.8 3.7E-11 1.2E-16   73.1   0.0   41    1-41      1-41  (161)
+ 31 tr|U3U5N7|U3U5N7_9GAMM Cell di  98.7   4E-11 1.5E-16   67.6   0.0   32   10-41      1-32  (83)
+ 32 tr|E0WT47|E0WT47_9ENTR Cell di  98.7 4.9E-11 1.5E-16   70.4   0.0   40    1-40      1-40  (127)
+ 33 tr|B3R4A0|B3R4A0_CUPTR Cell di  98.7 5.8E-11 1.8E-16   71.7   0.0   40    1-40     40-79  (152)
+ 34 tr|A0A2S5NDQ6|A0A2S5NDQ6_9PROT  98.7 1.3E-10 4.1E-16   69.9   0.0   40    1-40      1-40  (146)
+ 35 tr|A0A2D5X657|A0A2D5X657_9GAMM  98.7 1.1E-10 4.4E-16   68.0   0.0   39    3-41      8-46  (104)
+ 36 tr|A0A2W6URB3|A0A2W6URB3_9BURK  98.6 2.1E-10 7.3E-16   64.3   0.0   40    2-41      4-43  (79)
+ 37 tr|C3X9M2|C3X9M2_OXAFO Cell di  98.6 2.9E-10 9.1E-16   68.2   0.0   40    1-40     14-53  (141)
+ 38 tr|A0A2T2UEI4|A0A2T2UEI4_9PROT  98.6 3.8E-10 1.2E-15   67.6   0.0   40    2-41     20-59  (139)
+ 39 tr|A0A2E1D0X7|A0A2E1D0X7_9PROT  98.5 4.4E-10 1.5E-15   64.7   0.0   39    1-39      7-45  (95)
+ 40 tr|A0A0N8R5E6|A0A0N8R5E6_PSESX  98.5   1E-09 3.1E-15   57.2   0.0   37    3-39      6-42  (53)
+ 41 tr|A0A1Y3CGX0|A0A1Y3CGX0_9GAMM  98.5   1E-09 3.7E-15   66.1   0.0   39    2-40     11-49  (130)
+ 42 tr|A0A127FA85|A0A127FA85_9GAMM  98.4 1.5E-09 4.6E-15   67.0   0.0   41    1-41      1-41  (174)
+ 43 tr|V8QL56|V8QL56_9BURK Cell di  98.4 1.7E-09 5.3E-15   66.4   0.0   41    1-41      1-41  (159)
+ 44 tr|H1LQ50|H1LQ50_9PAST Cell di  98.4 2.6E-09 8.4E-15   64.1   0.0   38    1-38     43-80  (134)
+ 45 tr|A0A1H4DWK2|A0A1H4DWK2_9GAMM  98.4 2.5E-09 8.8E-15   63.1   0.0   40    2-41      3-42  (110)
+ 46 tr|A0A0Q0H5V1|A0A0Q0H5V1_9PSED  98.4 3.4E-09 1.1E-14   62.8   0.0   38    3-40     36-73  (122)
+ 47 tr|A0A077DE51|A0A077DE51_9BURK  98.3 3.7E-09 1.2E-14   63.1   0.0   39    1-39      1-39  (123)
+ 48 tr|E6L0I6|E6L0I6_9PAST Cell di  98.1 2.5E-08 7.7E-14   60.5   0.0   40    1-40     53-92  (144)
+ 49 tr|A0A1T4RU60|A0A1T4RU60_9GAMM  98.1 2.5E-08 7.8E-14   59.9   0.0   40    2-41      3-42  (134)
+ 50 tr|U2FVK4|U2FVK4_9GAMM Cell di  98.1 2.5E-08 8.1E-14   60.5   0.0   34    2-35     33-66  (137)
+ 51 tr|A0A162TXH3|A0A162TXH3_9GAMM  98.1 2.4E-08 8.7E-14   58.6   0.0   40    1-40      4-44  (102)
+ 52 tr|A0A2W4QVV9|A0A2W4QVV9_9GAMM  98.0   5E-08 1.5E-13   61.5   0.0   40    1-40      1-40  (196)
+ 53 tr|W8FUB7|W8FUB7_9GAMM Cell di  97.9 1.8E-07 6.2E-13   55.9   0.0   35    6-40     31-65  (116)
+ 54 tr|D4G7L4|D4G7L4_RIEPU Cell di  97.9   2E-07 6.3E-13   48.7   0.0   35    3-37      9-43  (51)
+ 55 tr|A0A0C5W1C4|A0A0C5W1C4_9GAMM  97.8   2E-07 6.5E-13   53.8   0.0   38    2-39      4-41  (92)
+ 56 tr|A0A293NCF9|A0A293NCF9_9GAMM  97.8 2.3E-07 7.5E-13   55.1   0.0   40    1-40     23-62  (114)
+ 57 tr|H3KF03|H3KF03_9BURK Cell di  97.7 4.4E-07 1.4E-12   49.7   0.0   39    2-40      3-41  (67)
+ 58 tr|A0A2G6LJC1|A0A2G6LJC1_9GAMM  97.7 3.9E-07 1.4E-12   55.2   0.0   36    5-40     10-45  (123)
+ 59 tr|A0A191ZDZ9|A0A191ZDZ9_9GAMM  97.7 4.6E-07 1.5E-12   55.3   0.0   39    1-39      1-39  (138)
+ 60 tr|A0A0S2DEM3|A0A0S2DEM3_LYSEN  97.7   5E-07 1.7E-12   56.4   0.0   40    1-40     10-50  (160)
+ 61 tr|A0A2E5NL95|A0A2E5NL95_9PROT  97.7   6E-07   2E-12   53.2   0.0   31    9-39      2-32  (108)
+ 62 tr|B7J6R5|B7J6R5_ACIF2 Cell di  97.7 7.5E-07 2.3E-12   54.9   0.0   37    2-38     53-89  (155)
+ 63 tr|A0A2E7J8X8|A0A2E7J8X8_9GAMM  97.5 1.8E-06 5.5E-12   52.6   0.0   36    5-40     49-84  (136)
+ 64 tr|A0A1Z8Z381|A0A1Z8Z381_9PROT  97.5 1.9E-06 5.9E-12   50.9   0.0   36    3-38     25-60  (110)
+ 65 tr|K2DUZ3|K2DUZ3_9ZZZZ Septum   97.4 3.3E-06   1E-11   50.6   0.0   37    4-40     33-69  (121)
+ 66 tr|A0A2E1JIR0|A0A2E1JIR0_9GAMM  97.4 4.2E-06 1.5E-11   50.5   0.0   37    4-40     21-57  (116)
+ 67 tr|A0A1Y2K0P0|A0A1Y2K0P0_9PROT  97.3 7.7E-06 2.6E-11   49.9   0.0   37    3-39     20-56  (126)
+ 68 tr|A0A1R4H9L7|A0A1R4H9L7_9GAMM  97.2 1.2E-05 3.8E-11   48.2   0.0   38    1-38     31-68  (119)
+ 69 tr|V8G2D1|V8G2D1_9BURK Cell di  97.1   2E-05 6.1E-11   48.7   0.0   41    1-41      1-41  (147)
+ 70 tr|A0A2D7G547|A0A2D7G547_9GAMM  97.1 2.2E-05 7.1E-11   46.9   0.0   36    2-37     12-47  (107)
+ 71 tr|A0A144PVR0|A0A144PVR0_9GAMM  96.8 6.5E-05   2E-10   45.9   0.0   34    7-40     41-74  (131)
+ 72 tr|R5PS86|R5PS86_9BURK Cell di  96.8 6.8E-05 2.3E-10   46.9   0.0   40    2-41      3-42  (144)
+ 73 tr|W0DRR4|W0DRR4_9GAMM Cell di  96.8 6.7E-05 2.4E-10   45.9   0.0   40    1-40      1-42  (120)
+ 74 tr|A0A2P6LJ49|A0A2P6LJ49_NEPCL  96.6 0.00016 5.1E-10   54.1   0.0   39    2-40    926-964 (1038)
+ 75 tr|R7I7L7|R7I7L7_9BURK Cell di  96.6 0.00018 5.6E-10   45.3   0.0   37    3-39      7-43  (161)
+ 76 tr|A0A212J3Z6|A0A212J3Z6_9DELT  96.5  0.0002 8.1E-10   43.2   0.0   39    2-40      5-43  (108)
+ 77 tr|A0A2E2BB53|A0A2E2BB53_9GAMM  96.5 0.00028 8.7E-10   43.7   0.0   36    2-37     35-70  (139)
+ 78 tr|A0A259NHG0|A0A259NHG0_9GAMM  96.5 0.00029 8.8E-10   43.6   0.0   34    4-37      9-42  (138)
+ 79 tr|A0A2D6P0K1|A0A2D6P0K1_9GAMM  96.3  0.0005 1.9E-09   41.8   0.0   36    4-39     17-52  (108)
+ 80 tr|W6LYD9|W6LYD9_9GAMM Cell di  96.3 0.00063   2E-09   43.5   0.0   38    3-40     13-50  (174)
+ 81 tr|A0A2E8ZYV2|A0A2E8ZYV2_9GAMM  96.2 0.00063 2.3E-09   40.5   0.0   38    1-38      4-41  (93)
+ 82 tr|A0A2E1JZ61|A0A2E1JZ61_9GAMM  96.2 0.00075 2.3E-09   40.0   0.0   33    6-38     13-45  (98)
+ 83 tr|A0A1W9PWR7|A0A1W9PWR7_9DELT  96.0  0.0011   4E-09   40.0   0.0   38    1-38      7-44  (100)
+ 84 tr|W6M755|W6M755_9GAMM Cell di  96.0  0.0014 4.5E-09   41.4   0.0   39    1-39      1-39  (156)
+ 85 tr|A0A1B8QMM0|A0A1B8QMM0_MORNO  95.7  0.0032   1E-08   40.4   0.0   36    6-41     36-71  (163)
+ 86 tr|A0A2D8RI64|A0A2D8RI64_9GAMM  95.4  0.0057 1.8E-08   37.5   0.0   30    7-36     34-63  (116)
+ 87 tr|A0A2W7KXN6|A0A2W7KXN6_9BACT  95.2   0.007 2.7E-08   36.3   0.0   35    6-40     10-44  (93)
+ 88 tr|A0A2J6WQK3|A0A2J6WQK3_9BACT  95.1   0.007 3.3E-08   36.3   0.0   37    3-39     20-56  (109)
+ 89 tr|A0A066UC85|A0A066UC85_9GAMM  94.8   0.017 5.2E-08   36.8   0.0   34    7-40     35-68  (150)
+ 90 tr|A0A2E1MND6|A0A2E1MND6_9GAMM  94.2   0.027 1.1E-07   34.4   0.0   37    3-39      7-43  (102)
+ 91 tr|A0A1X7C910|A0A1X7C910_9DELT  92.4    0.14 5.3E-07   31.9   0.0   39    2-40     40-78  (107)
+ 92 tr|A0A2A4W1Z5|A0A2A4W1Z5_9PROT  91.9    0.19   7E-07   31.4   0.0   38    3-40     19-56  (107)
+ 93 tr|A0A2E7E247|A0A2E7E247_9GAMM  91.6    0.27 8.4E-07   30.1   0.0   34    5-38     17-50  (100)
+ 94 tr|A0A2T5CF40|A0A2T5CF40_9DELT  91.4    0.25 9.2E-07   30.5   0.0   36    2-37      5-40  (99)
+ 95 tr|A0A0G0ADA3|A0A0G0ADA3_9BACT  91.2    0.27 9.8E-07   30.1   0.0   36    5-40      9-44  (93)
+ 96 tr|C1F8L4|C1F8L4_ACIC5 Putativ  90.7    0.35 1.3E-06   30.8   0.0   38    2-39     10-47  (118)
+ 97 tr|A0A1W9SV85|A0A1W9SV85_9DELT  90.6    0.32 1.3E-06   29.9   0.0   32    8-39     13-44  (100)
+ 98 tr|A0A1F6F3I7|A0A1F6F3I7_9BACT  90.5    0.43 1.3E-06   28.1   0.0   37    2-38      5-41  (75)
+ 99 tr|A0A2N1Y0Y4|A0A2N1Y0Y4_9GAMM  90.5    0.42 1.3E-06   29.6   0.0   35    6-40      5-39  (102)
+100 tr|A0A2E0VUQ2|A0A2E0VUQ2_9BACT  90.4    0.46 1.4E-06   35.3   0.0   38    2-41     53-90  (496)
+101 tr|A0A1Y1RIM7|A0A1Y1RIM7_9BACT  90.2    0.49 1.5E-06   30.7   0.0   34    7-40     32-65  (145)
+102 tr|A0A2J8XQ26|A0A2J8XQ26_PONAB  90.0    0.52 1.6E-06   28.9   0.0   27   13-39     38-64  (99)
+103 tr|A0LN60|A0LN60_SYNFM Cell di  89.9    0.55 1.7E-06   29.7   0.0   39    2-40     27-65  (122)
+104 tr|A0A2A4TNT4|A0A2A4TNT4_9GAMM  87.2     1.2 3.9E-06   27.4   0.0   34    7-40     11-44  (98)
+105 tr|A0A2W5F2G5|A0A2W5F2G5_AZOBR  87.2     1.3 3.9E-06   31.9   0.0   25    5-29    215-239 (324)
+106 tr|A0A109W679|A0A109W679_9DELT  86.8     1.3 4.3E-06   27.4   0.0   38    3-40     10-47  (95)
+107 tr|A0A1T4XAW3|A0A1T4XAW3_9DELT  86.6     1.3 4.4E-06   28.1   0.0   38    3-40     38-75  (106)
+108 tr|R6Z948|R6Z948_9CLOT Unchara  85.6     1.8 5.6E-06   28.8   0.0   26    1-26     75-100 (165)
+109 tr|A0A2H0R633|A0A2H0R633_9BACT  85.0       2 6.3E-06   29.4   0.0   28    2-29     30-57  (207)
+110 tr|B9L7U4|B9L7U4_NAUPA Unchara  84.8       2 6.6E-06   26.2   0.0   34    6-39     21-54  (82)
+111 tr|A0A0S7XW90|A0A0S7XW90_9DELT  84.1     2.4 7.5E-06   26.0   0.0   31    7-37      8-38  (90)
+112 tr|A0A1F6N6N6|A0A1F6N6N6_9BACT  83.6     2.6 8.1E-06   26.4   0.0   32    4-35      5-36  (103)
+113 tr|A0A2S6RPG3|A0A2S6RPG3_9PROT  82.3     3.1   1E-05   25.8   0.0   36    5-40      6-41  (91)
+114 tr|A0A1Y1QA49|A0A1Y1QA49_9GAMM  81.9     3.5 1.1E-05   27.2   0.0   24    1-24     41-64  (145)
+115 tr|A0A1F5AN32|A0A1F5AN32_9BACT  81.1     3.9 1.2E-05   24.0   0.0   37    3-39      5-41  (66)
+116 tr|M2YPI5|M2YPI5_DOTSN Unchara  80.5     4.3 1.3E-05   25.5   0.0   35    7-41     48-82  (102)
+117 tr|A0A1Z9VQ92|A0A1Z9VQ92_9RHIZ  80.3       4 1.4E-05   25.9   0.0   36    4-39     15-50  (103)
+118 tr|A0A0G0JFY9|A0A0G0JFY9_9BACT  80.2     4.4 1.4E-05   29.5   0.0   35    4-38    202-236 (323)
+119 tr|A0A1Z9CNI1|A0A1Z9CNI1_9GAMM  79.8     3.9 1.4E-05   25.8   0.0   35    4-38     12-46  (98)
+120 tr|A0A1V6BRX7|A0A1V6BRX7_9SPIR  78.8       5 1.7E-05   27.0   0.0   35    3-37      4-38  (155)
+121 tr|A0A1Z8WU49|A0A1Z8WU49_9GAMM  75.6     7.7 2.4E-05   24.5   0.0   34    5-38      7-40  (101)
+122 tr|A0A1H0BRV8|A0A1H0BRV8_9DELT  75.4     7.4 2.4E-05   24.3   0.0   37    3-39      4-40  (89)
+123 tr|A0A1I6LEU6|A0A1I6LEU6_9EURY  73.0     9.4 3.1E-05   23.3   0.0   30   11-40     31-62  (76)
+124 tr|A0A1G3L0X5|A0A1G3L0X5_9SPIR  72.7      10 3.2E-05   23.9   0.0   37    2-38      6-42  (99)
+125 tr|A0A2D6ZPY4|A0A2D6ZPY4_9GAMM  68.7      12 4.5E-05   23.9   0.0   34    4-37     13-46  (100)
+126 tr|H9C0P9|H9C0P9_9CAUD Unchara  67.2      17 5.1E-05   24.9   0.0   29    1-29      1-30  (170)
+127 tr|X7XQG5|X7XQG5_MYCKA Fusaric  56.4      36 0.00011   24.1   0.0   23    7-29    109-131 (202)
+128 tr|A0A1F3DFZ4|A0A1F3DFZ4_9BACT  54.1      41 0.00013   23.7   0.0   40    1-40     13-52  (193)
+129 tr|J9HAD3|J9HAD3_9STAP Unchara  52.6      42 0.00014   21.4   0.0   29    1-29      1-29  (90)
+130 tr|A0A2D7AJ00|A0A2D7AJ00_9PROT  49.9      53 0.00017   22.3   0.0   36    5-40     57-92  (146)
+131 tr|M3GRC2|M3GRC2_9LEPT Unchara  26.0 2.3E+02 0.00072   18.6   0.0   32    4-36     11-42  (100)
+132 tr|M6ZNQ5|M6ZNQ5_LEPIR Unchara  23.5 2.8E+02 0.00086   18.5   0.0   33    3-36     17-49  (107)
+
+No 1
+>sp|A9IIP9|FTSB_BORPD Cell division protein FtsB OS=Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448) OX=340100 GN=ftsB PE=3 SV=1
+Probab=99.53  E-value=1e-17  Score=97.06  Aligned_cols=41  Identities=51%  Similarity=0.753  Sum_probs=39.6  Template_Neff=3.700
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++++++||+||||||||.++++|+++++.|++
+T Consensus         1 MR~l~~vLl~Ll~llQYpLW~GkGgw~~v~~L~~qv~~q~~   41 (111)
+T sp|A9IIP9|FTSB    1 MRLLTLVLLALLVLLQYPLWLGKGGWLRVWELQRQVAAQRE   41 (111)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 2
+>tr|A0A2R5FG90|A0A2R5FG90_9PROT Cell division protein FtsB OS=Novimethylophilus kurashikiensis OX=1825523 GN=ftsB PE=3 SV=1
+Probab=99.51  E-value=2e-17  Score=97.52  Aligned_cols=41  Identities=32%  Similarity=0.574  Sum_probs=39.7  Template_Neff=3.200
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||+|+|||.++|++++||++|++
+T Consensus         1 mR~l~lvL~~LialLQypLWlGkGswl~Vw~l~~qi~~qk~   41 (126)
+T tr|A0A2R5FG90|    1 MRWLTLVLVLLIALLQYPLWLGKGSWLRVWELDRQIQQQKQ   41 (126)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 3
+>tr|A0A1J5SV55|A0A1J5SV55_9ZZZZ Cell division protein FtsB OS=mine drainage metagenome OX=410659 GN=ftsB_2 PE=3 SV=1
+Probab=99.50  E-value=2.7e-17  Score=96.31  Aligned_cols=41  Identities=39%  Similarity=0.691  Sum_probs=39.6  Template_Neff=3.895
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||+|+|||.++++|++||++|++
+T Consensus         1 mk~Ltlil~iLi~~LQyPLWlGKG~wLrV~~L~~qi~~q~~   41 (120)
+T tr|A0A1J5SV55|    1 MKWLTLILVILILLLQYPLWFGKGSWLRVWQLDQQLAEQRA   41 (120)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 4
+>tr|A0A1N7QU01|A0A1N7QU01_9BURK Cell division protein FtsB OS=Achromobacter sp. MFA1 R4 OX=1881016 GN=ftsB PE=3 SV=1
+Probab=99.48  E-value=5.1e-17  Score=97.43  Aligned_cols=41  Identities=37%  Similarity=0.614  Sum_probs=39.7  Template_Neff=2.300
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++++++||+||+|||||..+|++++|+++|++
+T Consensus         1 MRll~lvL~vLl~LIQYPLWlGKGGW~kVWdl~~Qva~qre   41 (146)
+T tr|A0A1N7QU01|    1 MRLLFLVLFVLVGLIQYPLWLGKGGWFKVWDLQRQVAAQRE   41 (146)
+Confidence            99999999999999999999999999999999999999874
+
+
+No 5
+>tr|A0A1I1V9B2|A0A1I1V9B2_9BURK Cell division protein FtsB OS=Massilia yuzhufengensis OX=1164594 GN=ftsB PE=3 SV=1
+Probab=99.46  E-value=9.5e-17  Score=93.31  Aligned_cols=41  Identities=41%  Similarity=0.656  Sum_probs=39.6  Template_Neff=2.700
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++++++||+||+|+|||.+++++++|+++|++
+T Consensus         1 MRlitl~L~~LllliQYPLWlGkGgWLrV~dl~~qv~a~~~   41 (113)
+T tr|A0A1I1V9B2|    1 MRLITLALAALLLLIQYPLWLGKGGWLRVWDLEQQVAAQHQ   41 (113)
+Confidence            99999999999999999999999999999999999999864
+
+
+No 6
+>tr|D2U3T4|D2U3T4_9GAMM Cell division protein FtsB OS=Arsenophonus nasoniae OX=638 GN=ftsB PE=3 SV=1
+Probab=99.44  E-value=1.4e-16  Score=91.22  Aligned_cols=41  Identities=59%  Similarity=1.075  Sum_probs=39.4  Template_Neff=4.300
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||||+||+.|+.+++++|+.|++
+T Consensus         6 Mr~~~~iLl~ll~~lQY~LWfGkngv~d~~~l~~~v~~q~~   46 (102)
+T tr|D2U3T4|D2U3    6 MRIFTLILLVLLGWLQYRLWFGKNGVPDYWRLKNEVAVQQQ   46 (102)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 7
+>tr|A0A1G0JBM5|A0A1G0JBM5_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium RIFCSPLOWO2_02_FULL_56_15 OX=1798298 GN=ftsB PE=3 SV=1
+Probab=99.41  E-value=3.3e-16  Score=89.06  Aligned_cols=41  Identities=44%  Similarity=0.755  Sum_probs=39.3  Template_Neff=4.600
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||+|+||++++++++++|+.|++
+T Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gs~~~v~~L~~~i~~q~~   41 (98)
+T tr|A0A1G0JBM5|    1 MRWLIVVLLVLLVLLQYRLWFGEGSIAEVWQLQQQIAAQQE   41 (98)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 8
+>tr|A0A2N6N6E9|A0A2N6N6E9_9COXI Cell division protein FtsB OS=Coxiella-like endosymbiont OX=1592897 GN=ftsB PE=3 SV=1
+Probab=99.40  E-value=3.7e-16  Score=88.19  Aligned_cols=41  Identities=39%  Similarity=0.730  Sum_probs=39.4  Template_Neff=4.300
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||||+||+.+++++++++++|++
+T Consensus         1 mr~~~~iL~~l~~~LQY~LWf~~gG~~~~~~l~~~i~~q~~   41 (92)
+T tr|A0A2N6N6E9|    1 MRWIILILIALLILLQYKLWFGDGGWLQVWELKKQIAAQKK   41 (92)
+Confidence            89999999999999999999999999999999999999864
+
+
+No 9
+>tr|E0SDJ4|E0SDJ4_DICD3 Cell division protein FtsB OS=Dickeya dadantii (strain 3937) OX=198628 GN=ftsB PE=3 SV=1
+Probab=99.40  E-value=4.5e-16  Score=90.52  Aligned_cols=41  Identities=88%  Similarity=1.360  Sum_probs=39.5  Template_Neff=2.900
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||.++++|+++|++|||+||+|+||+.|+.+++++|+.|++
+T Consensus         1 Mr~ltllLl~lLg~LQY~LWlGkNg~~dy~~v~~~v~~Qq~   41 (112)
+T tr|E0SDJ4|E0SD    1 MRKLTLLLLALLGWLQYSLWLGKNGIHDYSRVNDDVAAQQA   41 (112)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 10
+>tr|A0A2N9MKD0|A0A2N9MKD0_9BURK Cell division protein FtsB OS=Burkholderiales bacterium OX=1891238 GN=ftsB PE=3 SV=1
+Probab=99.38  E-value=7.3e-16  Score=89.68  Aligned_cols=41  Identities=44%  Similarity=0.728  Sum_probs=39.5  Template_Neff=3.131
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++++.+||+||+|+|||.+++++++|++.|++
+T Consensus         1 Mr~l~lvL~alll~lQ~pLWlG~ggwlrV~~l~~Ql~aq~~   41 (112)
+T tr|A0A2N9MKD0|    1 MRRLTLVLIALLLALQYPLWLGKGGWLRVWDLDRQLEAQQQ   41 (112)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 11
+>tr|A0A1H2I769|A0A1H2I769_9PSED Cell division protein FtsB OS=Pseudomonas guangdongensis OX=1245526 GN=ftsB PE=3 SV=1
+Probab=99.35  E-value=1.3e-15  Score=86.15  Aligned_cols=41  Identities=37%  Similarity=0.650  Sum_probs=38.7  Template_Neff=4.100
+
+Q P0A6S5            1 MGKLTL--LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~--~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||++++  +|++++++|||+||+|+||+.++.+|+++++.|++
+T Consensus         2 mk~l~~~~vLllll~~LQYrLW~Gdgsl~~~~~L~~qi~~q~~   44 (92)
+T tr|A0A1H2I769|    2 MKWLWLFVVLLLLLAGLQYRLWFGDGSLAQVAELEQQIAEQKQ   44 (92)
+Confidence            788888  99999999999999999999999999999999874
+
+
+No 12
+>tr|A0A0A0ENH7|A0A0A0ENH7_9GAMM Cell division protein FtsB OS=Lysobacter concretionis Ko07 = DSM 16239 OX=1122185 GN=ftsB PE=3 SV=1
+Probab=99.35  E-value=1.4e-15  Score=87.59  Aligned_cols=41  Identities=39%  Similarity=0.763  Sum_probs=39.2  Template_Neff=4.400
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|++++++|||+||||+||+.++++|+++++.|++
+T Consensus         4 mr~l~~~L~~ll~~LQyrLW~g~gg~~~~~~L~~~i~~q~~   44 (106)
+T tr|A0A0A0ENH7|    4 MRWLLLILVVLLLLLQYRLWFGEGGLAEVWRLEQQVEQQRQ   44 (106)
+Confidence            89999999999999999999999999999999999999863
+
+
+No 13
+>tr|A0A2D6IYF5|A0A2D6IYF5_9GAMM Cell division protein FtsB OS=Chromatiales bacterium OX=2026725 GN=ftsB PE=3 SV=1
+Probab=99.26  E-value=9.9e-15  Score=84.87  Aligned_cols=41  Identities=44%  Similarity=0.725  Sum_probs=38.9  Template_Neff=4.109
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||++..+|++++++|||+||||+||+.++++|+++++.|++
+T Consensus        11 ~r~l~~~Ll~lll~LQ~RLW~g~Gs~~ev~~L~~qv~~~~~   51 (111)
+T tr|A0A2D6IYF5|   11 MRLLWALLLVLLLLLQYRLWFGEGSLAEVWRLEQQVAEQQE   51 (111)
+Confidence            79999999999999999999999999999999999998863
+
+
+No 14
+>tr|A0A069PU78|A0A069PU78_9BURK Cell division protein FtsB OS=Caballeronia glathei OX=60547 GN=ftsB PE=3 SV=1
+Probab=99.26  E-value=1.4e-14  Score=87.53  Aligned_cols=41  Identities=32%  Similarity=0.638  Sum_probs=39.2  Template_Neff=1.900
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++|+++||+||+|.|||.++.+|+++++.|.+
+T Consensus         1 MRlVTvVLi~LL~lIQyPLWwGhGGWLrVHEL~qqLa~Q~q   41 (152)
+T tr|A0A069PU78|    1 MRLVTVVLIALLALIQYPLWWGHGGWLRVHELQQQLAQQLQ   41 (152)
+Confidence            89999999999999999999999999999999999998863
+
+
+No 15
+>tr|Q1QU72|Q1QU72_CHRSD Cell division protein FtsB OS=Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) OX=290398 GN=ftsB PE=3
+Probab=99.23  E-value=2.2e-14  Score=84.49  Aligned_cols=41  Identities=37%  Similarity=0.656  Sum_probs=38.7  Template_Neff=2.600
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |||++++|+++|.+|||+||||+||+.+..+++++++.+++
+T Consensus         2 lkwl~i~L~~lLalLQY~LW~G~gG~~el~~v~~Rva~lea   42 (121)
+T tr|Q1QU72|Q1QU    2 LKWLAIALLLLLALLQYRLWLGDGGWRELQEVRQRVAVLEA   42 (121)
+Confidence            68999999999999999999999999999999999988763
+
+
+No 16
+>tr|G7UP86|G7UP86_PSEUP Cell division protein FtsB OS=Pseudoxanthomonas spadix (strain BD-a59) OX=1045855 GN=ftsB PE=3 SV=1
+Probab=99.20  E-value=4.3e-14  Score=83.59  Aligned_cols=41  Identities=37%  Similarity=0.639  Sum_probs=38.7  Template_Neff=2.900
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      .||++++|+++|++|||+||||+||+.++..|+++|+.|++
+T Consensus         4 ~rWlllvLilLL~~LQyrlW~G~G~~~ev~~L~~qV~~Q~~   44 (123)
+T tr|G7UP86|G7UP    4 WRWLLLVLALLLAWLQYRLWFGPGNSGEVMMLEAQVAHQTR   44 (123)
+Confidence            47999999999999999999999999999999999999863
+
+
+No 17
+>tr|S0AD65|S0AD65_SERPL Cell division protein FtsB OS=Serratia plymuthica 4Rx13 OX=682634 GN=ftsB PE=3 SV=1
+Probab=99.18  E-value=5.8e-14  Score=83.24  Aligned_cols=41  Identities=85%  Similarity=1.372  Sum_probs=38.9  Template_Neff=1.800
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+.+++.|+++|.+|||+||+||||++|+.+++++|+.|+.
+T Consensus        25 MgkltllLL~llgwLQysLW~GkNgi~Dy~rv~~dV~~Qq~   65 (130)
+T tr|S0AD65|S0AD   25 MGKLTLLLLVLLGWLQYSLWLGKNGIHDYVRVNDDVAVQQA   65 (130)
+Confidence            78899999999999999999999999999999999999873
+
+
+No 18
+>tr|A0A0S1YNW1|A0A0S1YNW1_9ALTE Cell division protein FtsB OS=Alteromonas stellipolaris LMG 21856 OX=1160720 GN=ftsB PE=3 SV=1
+Probab=99.18  E-value=6.1e-14  Score=81.86  Aligned_cols=40  Identities=48%  Similarity=0.784  Sum_probs=38.1  Template_Neff=1.600
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |||+.++|++++.+|||+||||+||++|+..++++|+.|.
+T Consensus        25 ~kw~~ivLi~llGlLQyRLW~GkNSipdY~~~~qev~~Q~   64 (117)
+T tr|A0A0S1YNW1|   25 MKWFPIVLIVLLGLLQYRLWFGKNSIPDYFVRQQEVQAQQ   64 (117)
+Confidence            5899999999999999999999999999999999999885
+
+
+No 19
+>tr|A0A2R7T3A9|A0A2R7T3A9_9BURK Cell division protein FtsB OS=Pelomonas sp. HMWF004 OX=2056841 GN=ftsB PE=3 SV=1
+Probab=99.18  E-value=5.9e-14  Score=81.68  Aligned_cols=41  Identities=34%  Similarity=0.618  Sum_probs=39.4  Template_Neff=3.233
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||++.++|+++++.+|++||||+||++++++|++++++|++
+T Consensus         1 mr~l~lvL~~lL~~vqaqLWfGrGsvp~V~~Lr~~l~~q~a   41 (109)
+T tr|A0A2R7T3A9|    1 MRLLALVLAALLLAVQAQLWFGRGSVPRVMSLREQLAEQRA   41 (109)
+Confidence            89999999999999999999999999999999999999874
+
+
+No 20
+>tr|A0A2S9K0V2|A0A2S9K0V2_9BURK Cell division protein FtsB OS=Malikia granosa OX=263067 GN=ftsB PE=3 SV=1
+Probab=99.16  E-value=7.5e-14  Score=80.19  Aligned_cols=41  Identities=37%  Similarity=0.619  Sum_probs=39.2  Template_Neff=3.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++|+++||+||||+||++++.++++++++|++
+T Consensus         5 ~r~v~l~L~aLL~~lq~qLWlGrGs~p~V~~lr~qL~~Q~~   45 (99)
+T tr|A0A2S9K0V2|    5 MRWVPLVLLALLALLQAQLWLGRGSLPRVAELRQQLAAQQQ   45 (99)
+Confidence            78999999999999999999999999999999999999874
+
+
+No 21
+>tr|A0A1T0AUH9|A0A1T0AUH9_9PAST Cell division protein FtsB OS=Haemophilus paracuniculus OX=734 GN=ftsB PE=3 SV=1
+Probab=99.16  E-value=8e-14  Score=79.54  Aligned_cols=41  Identities=39%  Similarity=0.811  Sum_probs=38.9  Template_Neff=2.500
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||+++++|+++|+.+||.+|||+|||.|+.+.+.+|+++++
+T Consensus         1 MRllii~l~~lL~~fqY~FWFGkNGw~dYq~~~~ev~~lk~   41 (95)
+T tr|A0A1T0AUH9|    1 MRLLIIFLALLLLFFQYSFWFGKNGWSDYQQTQTEVEQLKE   41 (95)
+Confidence            89999999999999999999999999999999999988763
+
+
+No 22
+>tr|A4N0K0|A4N0K0_HAEIF Cell division protein FtsB OS=Haemophilus influenzae 22.1-21 OX=374927 GN=ftsB PE=3 SV=1
+Probab=99.13  E-value=1.7e-13  Score=75.57  Aligned_cols=40  Identities=40%  Similarity=0.855  Sum_probs=37.4  Template_Neff=2.006
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||+++++|+.+++++||++|||+||..|+.+..++|..-+
+T Consensus         1 MRLli~iL~~~l~lFQydfWFGkNGy~Dyk~~~~eI~~~q   40 (76)
+T tr|A4N0K0|A4N0    1 MRLLIFILVGFLVLFQYDFWFGKNGYFDYKDIAAEIKENQ   40 (76)
+Confidence            8999999999999999999999999999999999987644
+
+
+No 23
+>tr|A0A259EWG4|A0A259EWG4_9PROT Cell division protein FtsB OS=Hydrogenophilales bacterium 17-61-9 OX=1970524 GN=B7X93_02665 PE=3 SV=1
+Probab=99.09  E-value=2.7e-13  Score=79.95  Aligned_cols=41  Identities=37%  Similarity=0.574  Sum_probs=38.0  Template_Neff=2.850
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+.++.+|++++++||||||.|+|||.++++-.++|+.|++
+T Consensus        20 ~~~Ltw~Laa~ivLLQYPLWlG~GgWLkV~e~~q~i~~Q~a   60 (119)
+T tr|A0A259EWG4|   20 SQGLTWVLAAAIVLLQYPLWLGEGGWLKVRERAQQIDTQQA   60 (119)
+Confidence            46788999999999999999999999999999999999874
+
+
+No 24
+>tr|A0A2X3CSD6|A0A2X3CSD6_KLEPN Cell division protein FtsB OS=Klebsiella pneumoniae OX=573 GN=ftsB PE=4 SV=1 
+Probab=99.02  E-value=1.1e-12  Score=70.41  Aligned_cols=41  Identities=93%  Similarity=1.500  Sum_probs=37.0  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |..+++.|+++++++||+||||++|..++.+....+.+|++
+T Consensus        11 mgkltllllallvwlqyslwfgknglhdytrvnddvtaqqa   51 (67)
+T tr|A0A2X3CSD6|   11 MGKLTLLLLALLVWLQYSLWFGKNGLHDYTRVNDDVTAQQA   51 (67)
+Confidence            45678899999999999999999999999999999988763
+
+
+No 25
+>tr|A0A1I3WKL7|A0A1I3WKL7_9GAMM Cell division protein FtsB OS=Xenorhabdus mauleonii OX=351675 GN=ftsB PE=3 SV=1
+Probab=99.02  E-value=1e-12  Score=77.75  Aligned_cols=40  Identities=83%  Similarity=1.382  Sum_probs=37.2  Template_Neff=1.500
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |-.++++|++++.+|||+||||+||+.|+.+.+.+|+.|+
+T Consensus        24 MgKLtLLLLvLlgWLQYSLW~GKNGihDyvrvk~ev~~q~   63 (128)
+T tr|A0A1I3WKL7|   24 MGKLTLLLLVLLGWLQYSLWFGKNGIHDYVRVKDEVAKQQ   63 (128)
+Confidence            5568899999999999999999999999999999999886
+
+
+No 26
+>sp|P57496|FTSB_BUCAI Cell division protein FtsB OS=Buchnera aphidicola subsp. Acyrthosiphon pisum (strain APS) OX=107806 GN=ftsB PE=3 SV=1
+Probab=98.98  E-value=1.7e-12  Score=71.14  Aligned_cols=40  Identities=55%  Similarity=1.046  Sum_probs=36.8  Template_Neff=2.309
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+++-++|+.++++|||+||+|+||+.|+....+.+..|+
+T Consensus         1 M~ilK~fll~Ll~wLQySLW~GkNGildyikI~kKv~iqk   40 (71)
+T sp|P57496|FTSB    1 MKILKIFLLFLLFWLQYSLWFGKNGILDYIKIYKKVTIQK   40 (71)
+Confidence            7888899999999999999999999999999988887664
+
+
+No 27
+>tr|D3RN67|D3RN67_ALLVD Cell division protein FtsB OS=Allochromatium vinosum (strain ATCC 17899 / DSM 180 / NBRC 103801 / NCIMB 10441 / D) OX=572477 GN
+Probab=98.98  E-value=1.8e-12  Score=77.21  Aligned_cols=41  Identities=32%  Similarity=0.734  Sum_probs=38.1  Template_Neff=2.472
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+++.++|+.++..|||+||||+||+.++..|+++|+.+++
+T Consensus        28 ~~~~~~vL~Lll~~LQ~rLW~GeGSl~~v~~Lk~eia~~e~   68 (127)
+T tr|D3RN67|D3RN   28 MSRVILVLFLLLLGLQYRLWFGEGSLAHVATLKSEIAQREA   68 (127)
+Confidence            67889999999999999999999999999999999987753
+
+
+No 28
+>tr|A0A1V2ZVB7|A0A1V2ZVB7_9GAMM Cell division protein FtsB OS=Thioalkalivibrio halophilus OX=252474 GN=ftsB PE=3 SV=1
+Probab=98.88  E-value=7.3e-12  Score=74.81  Aligned_cols=41  Identities=39%  Similarity=0.625  Sum_probs=36.8  Template_Neff=2.211
+
+Q P0A6S5            1 MGKLT-LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~-~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||++. +.|+++++++|++||||+|||.++++|+.+++.|++
+T Consensus         1 ~r~~~~~~L~~~ll~lQ~~LW~GeGg~~~vR~Lr~~~~~Q~A   42 (129)
+T tr|A0A1V2ZVB7|    1 MRWLLPIGLALVLLALQWPLWFGEGGWPDVRELRERVAQQEA   42 (129)
+Confidence            56655 788899999999999999999999999999998874
+
+
+No 29
+>tr|A0A1N6F906|A0A1N6F906_9GAMM Cell division protein FtsB OS=Sulfurivirga caldicuralii OX=364032 GN=ftsB PE=3 SV=1
+Probab=98.85  E-value=1.1e-11  Score=73.07  Aligned_cols=41  Identities=34%  Similarity=0.693  Sum_probs=38.5  Template_Neff=2.848
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||.+.+++++++++|||+||+|+||+.|+.+|+++++.+++
+T Consensus         3 ~k~i~~~~~~~il~LqvrLws~dgGi~e~~~Lqk~l~~~q~   43 (114)
+T tr|A0A1N6F906|    3 MKLLYVVAALVILWLQVRLWSGDGGISEWLRLQKKLAELQA   43 (114)
+Confidence            88999999999999999999999999999999999988763
+
+
+No 30
+>tr|W1EYZ1|W1EYZ1_ECOLX Cell division protein FtsB OS=Escherichia coli ISC7 OX=1432555 GN=ftsB PE=3 SV=1
+Probab=98.77  E-value=3.7e-11  Score=73.09  Aligned_cols=41  Identities=98%  Similarity=1.524  Sum_probs=37.5  Template_Neff=1.039
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |..+++.|++++++|||+||||+||+.|+.+....++.|++
+T Consensus         1 mgkltlllla~lvwlqyslwfgkngihdytrv~ddva~qqa   41 (161)
+T tr|W1EYZ1|W1EY    1 MGKLTLLLLALLVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (161)
+Confidence            55678899999999999999999999999999999998874
+
+
+No 31
+>tr|U3U5N7|U3U5N7_9GAMM Cell division protein FtsB OS=Candidatus Pantoea carbekii OX=1235990 GN=ftsB PE=3 SV=1
+Probab=98.75  E-value=4e-11  Score=67.63  Aligned_cols=32  Identities=56%  Similarity=1.146  Sum_probs=29.4  Template_Neff=3.000
+
+Q P0A6S5           10 AILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus        10 ~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      +++++|||+||+|+||+.++.++++.++.|++
+T Consensus         1 ~l~~~LQY~LW~GkNgi~dy~~i~~~v~~qq~   32 (83)
+T tr|U3U5N7|U3U5    1 LLFGWLQYTLWFGKNGISDYYTIKDEVEVQQQ   32 (83)
+Confidence            46899999999999999999999999998874
+
+
+No 32
+>tr|E0WT47|E0WT47_9ENTR Cell division protein FtsB OS=Candidatus Regiella insecticola LSR1 OX=663321 GN=ftsB PE=3 SV=1
+Probab=98.75  E-value=4.9e-11  Score=70.43  Aligned_cols=40  Identities=70%  Similarity=1.252  Sum_probs=37.4  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+-+++.|++++.++||+||||++|+.+..+.+..+.+|+
+T Consensus         1 mkkitllllillgwlqyslwfgkngihdfirvkndltaqe   40 (127)
+T tr|E0WT47|E0WT    1 MKKITLLLLILLGWLQYSLWFGKNGIHDFIRVRNDLTAQE   40 (127)
+Confidence            7888999999999999999999999999999999988875
+
+
+No 33
+>tr|B3R4A0|B3R4A0_CUPTR Cell division protein FtsB OS=Cupriavidus taiwanensis (strain DSM 17343 / BCRC 17206 / CIP 107171 / LMG 19424 / R1) OX=977880 G
+Probab=98.73  E-value=5.8e-11  Score=71.75  Aligned_cols=40  Identities=35%  Similarity=0.640  Sum_probs=37.5  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||.+.+.|++++..+||+||.|+|||.++|++.+|+.+|-
+T Consensus        40 mrlislllfvlllaiqyplwlgkggwlrvwdlnrqlteqg   79 (152)
+T tr|B3R4A0|B3R4   40 MRLISLLLFVLLLAIQYPLWLGKGGWLRVWDLNRQLTEQG   79 (152)
+Confidence            8899999999999999999999999999999999998763
+
+
+No 34
+>tr|A0A2S5NDQ6|A0A2S5NDQ6_9PROT Cell division protein FtsB OS=Methylophilus sp. OX=29541 GN=ftsB PE=3 SV=1
+Probab=98.66  E-value=1.3e-10  Score=69.93  Aligned_cols=40  Identities=30%  Similarity=0.655  Sum_probs=37.3  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||-++.++++++++|||+||.|+|||.++|+..++|+..+
+T Consensus         1 mrkltvvfvvliallqyplwlgkggwlrvwqysqqiethe   40 (146)
+T tr|A0A2S5NDQ6|    1 MRKLTVVFVVLIALLQYPLWLGKGGWLRVWQYSQQIETHE   40 (146)
+Confidence            8889999999999999999999999999999999998654
+
+
+No 35
+>tr|A0A2D5X657|A0A2D5X657_9GAMM Cell division protein FtsB OS=Psychrobacter sp. OX=56811 GN=ftsB PE=3 SV=1
+Probab=98.66  E-value=1.1e-10  Score=68.03  Aligned_cols=39  Identities=36%  Similarity=0.692  Sum_probs=34.7  Template_Neff=3.218
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ++.++.+++++.|||+.|||+||..+..+|.+++++|+.
+T Consensus         8 ~l~~~av~vll~LQyqyWfg~~G~~~~~~L~~~i~eQq~   46 (104)
+T tr|A0A2D5X657|    8 ILLAIAVAVLLGLQYQYWFGENGYFDHNKLQQQINEQQR   46 (104)
+Confidence            345567899999999999999999999999999999873
+
+
+No 36
+>tr|A0A2W6URB3|A0A2W6URB3_9BURK Septation ring formation regulator EzrA OS=Acidovorax sp. OX=1872122 GN=DI574_08515 PE=4 SV=1
+Probab=98.61  E-value=2.1e-10  Score=64.28  Aligned_cols=40  Identities=35%  Similarity=0.621  Sum_probs=37.9  Template_Neff=2.300
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |++.++|+++|+.++.+||+|.||++++.++++++++|++
+T Consensus         4 RiVp~vLl~LL~~~HaQLW~GRGSvp~V~~m~~ql~~Qka   43 (79)
+T tr|A0A2W6URB3|    4 RIVPLVLLALLAALHAQLWFGRGSVPRVAEMQRQLAAQKA   43 (79)
+Confidence            6788999999999999999999999999999999999874
+
+
+No 37
+>tr|C3X9M2|C3X9M2_OXAFO Cell division protein FtsB OS=Oxalobacter formigenes OXCC13 OX=556269 GN=ftsB PE=3 SV=1 
+Probab=98.59  E-value=2.9e-10  Score=68.20  Aligned_cols=40  Identities=30%  Similarity=0.567  Sum_probs=36.6  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||.+++.|.++++.+||+||.|+|||.++.++.+|++.-+
+T Consensus        14 mraititlailllviqyplwlgkggwlrvfdlhrqletvq   53 (141)
+T tr|C3X9M2|C3X9   14 MRAITITLAILLLVIQYPLWLGKGGWLRVFDLHRQLETVQ   53 (141)
+Confidence            7889999999999999999999999999999999887543
+
+
+No 38
+>tr|A0A2T2UEI4|A0A2T2UEI4_9PROT Cell division protein FtsB OS=Proteobacteria bacterium SW_6_67_9 OX=1919227 GN=BRD57_03800 PE=3 SV=1 
+Probab=98.57  E-value=3.8e-10  Score=67.62  Aligned_cols=40  Identities=38%  Similarity=0.664  Sum_probs=37.2  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+++.+|+++++.|||+|||.+||..++.++...|++|++
+T Consensus        20 rilisvllvllvalqyrlwftdggllevrrlhaaiaeqre   59 (139)
+T tr|A0A2T2UEI4|   20 RILISVLLVLLVALQYRLWFTDGGLLEVRRLHAAIAEQRE   59 (139)
+Confidence            6788899999999999999999999999999999998864
+
+
+No 39
+>tr|A0A2E1D0X7|A0A2E1D0X7_9PROT Cell division protein FtsB OS=Proteobacteria bacterium OX=1977087 GN=CMK57_03100 PE=3 SV=1
+Probab=98.55  E-value=4.4e-10  Score=64.66  Aligned_cols=39  Identities=28%  Similarity=0.546  Sum_probs=34.9  Template_Neff=1.968
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      |++.+++|+++++.+||+||||+|||.++++.+.+++..
+T Consensus         7 ~~~~t~~l~~~l~~iq~~lw~g~ggwl~~~~~~~~~~~~   45 (95)
+T tr|A0A2E1D0X7|    7 MRFITIVLAFFLIFIQLPLWFGEGGWLRVWDKEHNVDEA   45 (95)
+Confidence            467788999999999999999999999999999887654
+
+
+No 40
+>tr|A0A0N8R5E6|A0A0N8R5E6_PSESX Uncharacterized protein OS=Pseudomonas syringae pv. castaneae OX=264450 GN=ALO79_200312 PE=4 SV=1 
+Probab=98.48  E-value=1e-09  Score=57.24  Aligned_cols=37  Identities=32%  Similarity=0.598  Sum_probs=34.3  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      |+.++|+.++..+||++|.|.|+..++.++.+||+..
+T Consensus         6 wlflvlllllaglqyrlwvgngslaqvadltqqia~~   42 (53)
+T tr|A0A0N8R5E6|    6 WLFLVLLLLLAGLQYRLWVGNGSLAQVADLTQQIAXX   42 (53)
+Confidence            7788999999999999999999999999999998754
+
+
+No 41
+>tr|A0A1Y3CGX0|A0A1Y3CGX0_9GAMM Cell division protein FtsB OS=Acinetobacter sp. ANC 4999 OX=1977882 GN=ftsB PE=3 SV=1
+Probab=98.46  E-value=1e-09  Score=66.13  Aligned_cols=39  Identities=26%  Similarity=0.548  Sum_probs=34.9  Template_Neff=2.400
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+++.+.+++++++||++|||+||..+...|.++|.+|.
+T Consensus        11 kvil~laiilia~lQY~yW~GEgGY~~hq~L~qqIqqQ~   49 (130)
+T tr|A0A1Y3CGX0|   11 KVILLLAIVLVAGLQYQFWFGEGGYFPHQALMQQIQQQA   49 (130)
+Confidence            456667788899999999999999999999999999885
+
+
+No 42
+>tr|A0A127FA85|A0A127FA85_9GAMM Cell division protein FtsB OS=Steroidobacter denitrificans OX=465721 GN=ftsB PE=3 SV=1 
+Probab=98.44  E-value=1.5e-09  Score=67.03  Aligned_cols=41  Identities=37%  Similarity=0.742  Sum_probs=38.3  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+++...|++++++|||+||+|+.|+.++.+|+-+|..|++
+T Consensus         1 mkflaaglllllvflqyrlwlgesgmrevkqlrgeisaqre   41 (174)
+T tr|A0A127FA85|    1 MKFLAAGLLLLLVFLQYRLWLGESGMREVKQLRGEISAQRE   41 (174)
+Confidence            78899999999999999999999999999999999988863
+
+
+No 43
+>tr|V8QL56|V8QL56_9BURK Cell division protein FtsB OS=Advenella kashmirensis W13003 OX=1424334 GN=ftsB PE=3 SV=1
+Probab=98.42  E-value=1.7e-09  Score=66.40  Aligned_cols=41  Identities=34%  Similarity=0.576  Sum_probs=39.0  Template_Neff=1.299
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      ||++.+.|.+..+.+||+||+|+.||.++.-|++|++.|++
+T Consensus         1 mrllylalmvacvaiqyplwwgeegwarvtvlkqqle~qee   41 (159)
+T tr|V8QL56|V8QL    1 MRLLYLALMVACVAIQYPLWWGEEGWARVTVLKQQLEAQEE   41 (159)
+Confidence            89999999999999999999999999999999999998864
+
+
+No 44
+>tr|H1LQ50|H1LQ50_9PAST Cell division protein FtsB OS=Haemophilus sp. oral taxon 851 str. F0397 OX=762965 GN=ftsB PE=3 SV=1
+Probab=98.38  E-value=2.6e-09  Score=64.14  Aligned_cols=38  Identities=42%  Similarity=0.876  Sum_probs=34.5  Template_Neff=1.254
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ||.++++|+.+++++||++|||.||..|+++-.++|.+
+T Consensus        43 mrllilil~~vl~lfqy~~wfg~ngf~dyr~~a~ki~e   80 (134)
+T tr|H1LQ50|H1LQ   43 MRLLILILLSVLVLFQYDFWFGSNGFLDYRQNAEKIKE   80 (134)
+Confidence            89999999999999999999999999999987766654
+
+
+No 45
+>tr|A0A1H4DWK2|A0A1H4DWK2_9GAMM Cell division protein FtsB OS=Thiothrix caldifontis OX=525918 GN=ftsB PE=3 SV=1
+Probab=98.37  E-value=2.5e-09  Score=63.13  Aligned_cols=40  Identities=23%  Similarity=0.336  Sum_probs=37.4  Template_Neff=2.351
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+++++|.++.+.|+-+||.|.||++|.++|+.+|++|++
+T Consensus         3 r~Lf~~L~ll~~~LfvRLWvG~gSypdIwrle~qI~~Q~~   42 (110)
+T tr|A0A1H4DWK2|    3 RILFWVLSLLAFVLFVRLWVGEGSYPDIWRLEQQIERQNQ   42 (110)
+Confidence            6788899999999999999999999999999999999874
+
+
+No 46
+>tr|A0A0Q0H5V1|A0A0Q0H5V1_9PSED Cell division protein FtsB OS=Pseudomonas coronafaciens pv. zizaniae OX=251700 GN=ftsB PE=3 SV=1
+Probab=98.35  E-value=3.4e-09  Score=62.79  Aligned_cols=38  Identities=34%  Similarity=0.620  Sum_probs=35.9  Template_Neff=1.100
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+.++|+.++..+||++|.|.|+..++..+.+||+.|.
+T Consensus        36 wlflilllll~glqyrlwvgngslaqvasltqqiadqh   73 (122)
+T tr|A0A0Q0H5V1|   36 WLFLVLLLLLAGLQYRLWVGNGSLAQVAELTQQIADQH   73 (122)
+Confidence            77889999999999999999999999999999999885
+
+
+No 47
+>tr|A0A077DE51|A0A077DE51_9BURK Cell division protein FtsB OS=Basilea psittacipulmonis DSM 24701 OX=1072685 GN=ftsB PE=3 SV=1
+Probab=98.34  E-value=3.7e-09  Score=63.15  Aligned_cols=39  Identities=23%  Similarity=0.549  Sum_probs=36.3  Template_Neff=1.670
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ||.++++|+...+.+||+||+|++|+..+.+|+.++..-
+T Consensus         1 mr~~~l~lif~c~aiqypl~~g~~gy~k~~~lk~~l~~e   39 (123)
+T tr|A0A077DE51|    1 MRRLILILIFACIAIQYPLYMGSKGYKKVEELKEQLQNE   39 (123)
+Confidence            899999999999999999999999999999999988653
+
+
+No 48
+>tr|E6L0I6|E6L0I6_9PAST Cell division protein FtsB OS=Aggregatibacter segnis ATCC 33393 OX=888057 GN=ftsB PE=3 SV=1
+Probab=98.13  E-value=2.5e-08  Score=60.50  Aligned_cols=40  Identities=43%  Similarity=0.857  Sum_probs=35.3  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||+++..|.++++++||++|||+||.-|+..-.++|+..+
+T Consensus        53 mrlflsllfavlvlfqydfwfgkngywdyknttkeiavhq   92 (144)
+T tr|E6L0I6|E6L0   53 MRLFISLLIAVLLLFQYDFWFGKNGYWDYKNTTKEIAVHQ   92 (144)
+Confidence            7888889999999999999999999999988887776543
+
+
+No 49
+>tr|A0A1T4RU60|A0A1T4RU60_9GAMM Cell division protein FtsB OS=Oceanospirillum multiglobuliferum OX=64969 GN=ftsB PE=3 SV=1 
+Probab=98.12  E-value=2.5e-08  Score=59.92  Aligned_cols=40  Identities=38%  Similarity=0.615  Sum_probs=36.3  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |++-+.|+.+++++|.+||+|+++.++.|+++.+|++|+.
+T Consensus         3 rflnllllliivllqvrlwwgdnslpeswqlearieeqqk   42 (134)
+T tr|A0A1T4RU60|    3 RFLNLLLLLIIVLLQVRLWWGDNSLPESWQLEARIEEQQK   42 (134)
+Confidence            5677788888999999999999999999999999999873
+
+
+No 50
+>tr|U2FVK4|U2FVK4_9GAMM Cell division protein FtsB OS=Salinisphaera shabanensis E1L3A OX=1033802 GN=ftsB PE=3 SV=1
+Probab=98.12  E-value=2.5e-08  Score=60.55  Aligned_cols=34  Identities=26%  Similarity=0.579  Sum_probs=29.7  Template_Neff=1.518
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDD   35 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~   35 (41)
+                      |...++|+++++.|||+||.|+|||.++.+|++.
+T Consensus        33 r~~~i~ll~~~aglqyrlwi~dg~~a~vh~l~~m   66 (137)
+T tr|U2FVK4|U2FV   33 RAVLIVLLLVFAGLQYRLWIADGGWAEVHRLSEM   66 (137)
+Confidence            4567889999999999999999999999887653
+
+
+No 51
+>tr|A0A162TXH3|A0A162TXH3_9GAMM Cell division protein FtsB OS=Wohlfahrtiimonas chitiniclastica OX=400946 GN=ftsB PE=3 SV=1
+Probab=98.11  E-value=2.4e-08  Score=58.61  Aligned_cols=40  Identities=28%  Similarity=0.661  Sum_probs=35.6  Template_Neff=2.717
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKN-GIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~g-g~~~~~~l~~~v~~q~   40 (41)
+                      |+.++++|++++++|+|++|||++ |......|+.+++++.
+T Consensus         4 m~~L~~~L~~li~~L~y~~Wf~e~~g~~~~~~l~~~~e~~~   44 (102)
+T tr|A0A162TXH3|    4 MHLLIAILVLLIGYLQYQIWFGEDSGYEQIEKLQVKIEALN   44 (102)
+Confidence            678899999999999999999998 8888888988888764
+
+
+No 52
+>tr|A0A2W4QVV9|A0A2W4QVV9_9GAMM Cell division protein FtsB OS=Methylococcaceae bacterium AMb10-2013 OX=2202815 GN=DM484_21645 PE=4 SV=1 
+Probab=98.04  E-value=5e-08  Score=61.49  Aligned_cols=40  Identities=35%  Similarity=0.738  Sum_probs=36.7  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+-++.+|++++.+|||.||+|+|++.+.+.|..+|++.+
+T Consensus         1 mkkvtaflllligllqyklwygegnvrelrhlndriaelr   40 (196)
+T tr|A0A2W4QVV9|    1 MKKVTAFLLLLIGLLQYKLWYGEGNVRELRHLNDRIAELR   40 (196)
+Confidence            6778889999999999999999999999999999998764
+
+
+No 53
+>tr|W8FUB7|W8FUB7_9GAMM Cell division protein FtsB OS=Thalassolituus oleivorans R6-15 OX=1208320 GN=ftsB PE=3 SV=1
+Probab=97.86  E-value=1.8e-07  Score=55.94  Aligned_cols=35  Identities=23%  Similarity=0.573  Sum_probs=30.6  Template_Neff=1.908
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      .+-+++++.|||||||.+.|+...++|++|+.+.+
+T Consensus        31 tv~vllll~lqyrlwfddsgv~as~~l~qq~~~le   65 (116)
+T tr|W8FUB7|W8FU   31 TVAVLLLLLLQYRLWFDDSGVVASNELEQQTDTLE   65 (116)
+Confidence            35677888999999999999999999999987654
+
+
+No 54
+>tr|D4G7L4|D4G7L4_RIEPU Cell division protein FtsB OS=Riesia pediculicola (strain USDA) OX=515618 GN=RIEPE_0041 PE=4 SV=1 
+Probab=97.85  E-value=2e-07  Score=48.69  Aligned_cols=35  Identities=40%  Similarity=0.821  Sum_probs=30.9  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      .++.+|+.++.-+|++||||+||+....+++++|-
+T Consensus         9 vltyvllfvflklqfslwfgkngvfkknelkeeif   43 (51)
+T tr|D4G7L4|D4G7    9 VLTYVLLFVFLKLQFSLWFGKNGVFKKNELKEEIF   43 (51)
+Confidence            45678888999999999999999999999998863
+
+
+No 55
+>tr|A0A0C5W1C4|A0A0C5W1C4_9GAMM Cell division protein FtsB OS=Gynuella sunshinyii YC6258 OX=1445510 GN=YC6258_04452 PE=3 SV=1
+Probab=97.85  E-value=2e-07  Score=53.81  Aligned_cols=38  Identities=24%  Similarity=0.535  Sum_probs=33.0  Template_Neff=1.497
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      +++...|++.++.|||+||.|++|..+..+|+..|+.-
+T Consensus         4 kflwaflvv~~~~lqyrlwvge~sla~a~~l~~~id~~   41 (92)
+T tr|A0A0C5W1C4|    4 KFLWAFLVVMFIGLQYRLWVGERSLADASSLQSRIDTK   41 (92)
+Confidence            35667889999999999999999999999999887643
+
+
+No 56
+>tr|A0A293NCF9|A0A293NCF9_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=ftsB PE=3 SV=1
+Probab=97.83  E-value=2.3e-07  Score=55.10  Aligned_cols=40  Identities=33%  Similarity=0.602  Sum_probs=36.8  Template_Neff=1.364
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+.+.-++++++.+|||++|||..|..+...|..+++.|+
+T Consensus        23 mk~~~gi~l~v~~~lq~q~wfgqsg~~~~~~la~~~a~q~   62 (114)
+T tr|A0A293NCF9|   23 MKYIIGIMLLVVVLLQQQLWFGQSGYFERKVLAERLAKQQ   62 (114)
+Confidence            7788889999999999999999999999999999988875
+
+
+No 57
+>tr|H3KF03|H3KF03_9BURK Cell division protein FtsB family protein (Fragment) OS=Sutterella parvirubra YIT 11816 OX=762967 GN=HMPREF9440_01319 PE=4 SV=1 
+Probab=97.74  E-value=4.4e-07  Score=49.69  Aligned_cols=39  Identities=28%  Similarity=0.459  Sum_probs=35.6  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+++..|.+-+..+|++||-|..+|.+.++++.|++.|+
+T Consensus         3 rffivllaagiavlqwqlwagrtswdrlreleaqlaaqk   41 (67)
+T tr|H3KF03|H3KF    3 RFFIVLLAAGIAVLQWQLWAGRTSWDRLRELEAQLAAQK   41 (67)
+Confidence            566778888899999999999999999999999999886
+
+
+No 58
+>tr|A0A2G6LJC1|A0A2G6LJC1_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=ftsB PE=3 SV=1
+Probab=97.74  E-value=3.9e-07  Score=55.20  Aligned_cols=36  Identities=36%  Similarity=0.773  Sum_probs=32.2  Template_Neff=2.450
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +++-+++|+.+||+.|+|++|-.+...+++++++|+
+T Consensus        10 i~~a~vvL~~lQyQYW~Ge~G~~nla~l~~qi~EQ~   45 (123)
+T tr|A0A2G6LJC1|   10 IIFAVVVLVCLQYQYWFGENGRGNLAALNKQISEQQ   45 (123)
+Confidence            345667889999999999999999999999999986
+
+
+No 59
+>tr|A0A191ZDZ9|A0A191ZDZ9_9GAMM Cell division protein FtsB OS=Halothiobacillus sp. LS2 OX=1860122 GN=ftsB PE=3 SV=1
+Probab=97.73  E-value=4.6e-07  Score=55.35  Aligned_cols=39  Identities=26%  Similarity=0.463  Sum_probs=35.7  Template_Neff=1.397
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ||.+.++|.+++..|||+|||.+.+.+++|.-+++++..
+T Consensus         1 ~r~~~l~l~~ll~~lqwrlw~sd~slp~iw~k~~r~~~l   39 (138)
+T tr|A0A191ZDZ9|    1 IRGVALLLALLLAGLQWRLWYSDSSLPEVWNKQARVAEL   39 (138)
+Confidence            789999999999999999999999999999988887653
+
+
+No 60
+>tr|A0A0S2DEM3|A0A0S2DEM3_LYSEN Cell division protein FtsB OS=Lysobacter enzymogenes OX=69 GN=ftsB PE=3 SV=1
+Probab=97.71  E-value=5e-07  Score=56.40  Aligned_cols=40  Identities=38%  Similarity=0.679  Sum_probs=33.3  Template_Neff=1.701
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGI-HDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~-~~~~~l~~~v~~q~   40 (41)
+                      |+.+.++|+++|++|||++|...||- ..+..|+.+++.|.
+T Consensus        10 l~v~~lal~alla~lqyrlwwa~g~~gg~vaalqaqvdgqt   50 (160)
+T tr|A0A0S2DEM3|   10 LGVLALALLALLAFLQYRLWWAGGGGGGSVAALQAQVDGQT   50 (160)
+Confidence            46678899999999999999877554 67889999998775
+
+
+No 61
+>tr|A0A2E5NL95|A0A2E5NL95_9PROT Cell division protein FtsB OS=Rhodospirillaceae bacterium OX=1898112 GN=CMM56_04655 PE=3 SV=1
+Probab=97.69  E-value=6e-07  Score=53.20  Aligned_cols=31  Identities=23%  Similarity=0.655  Sum_probs=27.9  Template_Neff=1.630
+
+Q P0A6S5            9 LAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         9 ~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      .+++++|||+||.|+||+.+++.++.+|+..
+T Consensus         2 ~v~~~llq~~lwl~d~g~~~~~~~~~~i~~~   32 (108)
+T tr|A0A2E5NL95|    2 MVTIILLQYMLWLSDNGMQKVWSIQSQIEKR   32 (108)
+Confidence            3567899999999999999999999999864
+
+
+No 62
+>tr|B7J6R5|B7J6R5_ACIF2 Cell division protein FtsB OS=Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) OX=24315
+Probab=97.66  E-value=7.5e-07  Score=54.93  Aligned_cols=37  Identities=30%  Similarity=0.627  Sum_probs=31.9  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      |.+-+.|+++++.+||+||||.|+|-...++.++++.
+T Consensus        53 rlvdfmllavlcalqyplwfgagswwnmadlhqklei   89 (155)
+T tr|B7J6R5|B7J6   53 RLVDFMLLAVLCALQYPLWFGAGSWWNMADLHQKLEI   89 (155)
+Confidence            4556778999999999999999999999988887664
+
+
+No 63
+>tr|A0A2E7J8X8|A0A2E7J8X8_9GAMM Cell division protein FtsB OS=Oceanospirillaceae bacterium OX=1899355 GN=ftsB PE=3 SV=1
+Probab=97.53  E-value=1.8e-06  Score=52.64  Aligned_cols=36  Identities=28%  Similarity=0.552  Sum_probs=31.7  Template_Neff=1.125
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +.+-+.+++.|||+|||.+.|+...+.+++||++.+
+T Consensus        49 tavg~fllivlqyrlwfddsgvianralerqi~ql~   84 (136)
+T tr|A0A2E7J8X8|   49 TAVGIFLLIVLQYRLWFDDSGVIANRALERQIDQLQ   84 (136)
+Confidence            345677889999999999999999999999998765
+
+
+No 64
+>tr|A0A1Z8Z381|A0A1Z8Z381_9PROT Cell division protein FtsB OS=Betaproteobacteria bacterium TMED82 OX=1986669 GN=CBC42_06640 PE=3 SV=1 
+Probab=97.52  E-value=1.9e-06  Score=50.94  Aligned_cols=36  Identities=31%  Similarity=0.559  Sum_probs=30.4  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      .++.+|+.+++.-||-||||+|||.+++.-++.++.
+T Consensus        25 ffiavlllvliscqyllwfgeggwrqvwtkeqnlak   60 (110)
+T tr|A0A1Z8Z381|   25 FFIAVLLLVLISCQYLLWFGEGGWRQVWTKEQNLAK   60 (110)
+Confidence            355678888889999999999999999988877654
+
+
+No 65
+>tr|K2DUZ3|K2DUZ3_9ZZZZ Septum formation initiator OS=groundwater metagenome OX=717931 GN=ACD_21C00048G0001 PE=3 SV=1 
+Probab=97.43  E-value=3.3e-06  Score=50.64  Aligned_cols=37  Identities=32%  Similarity=0.607  Sum_probs=29.1  Template_Neff=1.000
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ..+.|+.++..+||+|||.+.|...+..-++.|.+.+
+T Consensus        33 alillllifaglqyrlwfaddgllkvinskrtiselq   69 (121)
+T tr|K2DUZ3|K2DU   33 ALILLLLIFAGLQYRLWFADDGLLKVINSKRTISELQ   69 (121)
+Confidence            3456677788999999999999998887777665543
+
+
+No 66
+>tr|A0A2E1JIR0|A0A2E1JIR0_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD95_02555 PE=3 SV=1
+Probab=97.37  E-value=4.2e-06  Score=50.49  Aligned_cols=37  Identities=19%  Similarity=0.573  Sum_probs=32.8  Template_Neff=2.061
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +..+|.++++.+||.+|||+++.++...++++|..+.
+T Consensus        21 ~~~~l~~l~~~~qf~~w~g~~s~~~l~~l~d~is~~~   57 (116)
+T tr|A0A2E1JIR0|   21 FCSILICLFFITQFNYWFGDYSRANLNSLKDEISQQS   57 (116)
+Confidence            4567889999999999999999999999999987664
+
+
+No 67
+>tr|A0A1Y2K0P0|A0A1Y2K0P0_9PROT Cell division protein FtsB OS=Magnetofaba australis IT-1 OX=1434232 GN=MAIT1_00865 PE=3 SV=1
+Probab=97.26  E-value=7.7e-06  Score=49.94  Aligned_cols=37  Identities=41%  Similarity=0.870  Sum_probs=31.3  Template_Neff=1.811
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ++.+.|++++++-||-||||+.|+-..++-.+|++.-
+T Consensus        20 ~~~l~llv~iv~aqyvlwfg~qgiv~wr~t~~ql~~~   56 (126)
+T tr|A0A1Y2K0P0|   20 ILILSLLVLIVWAQYVLWFGDQGIVRWRHTDQQLQAT   56 (126)
+Confidence            3567888999999999999999999888877777654
+
+
+No 68
+>tr|A0A1R4H9L7|A0A1R4H9L7_9GAMM Cell division protein FtsB OS=Crenothrix polyspora OX=360316 GN=ftsB PE=3 SV=1 
+Probab=97.19  E-value=1.2e-05  Score=48.25  Aligned_cols=38  Identities=26%  Similarity=0.487  Sum_probs=31.0  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      |++++-+.+..++.+||+||.|+.|+....-.++++++
+T Consensus        31 mkilipimllficilqyrlwvgdasiaqiklyqqrlde   68 (119)
+T tr|A0A1R4H9L7|   31 MKILIPIMLLFICILQYRLWVGDASIAQIKLYQQRLDE   68 (119)
+Confidence            67777788888999999999999999887665555544
+
+
+No 69
+>tr|V8G2D1|V8G2D1_9BURK Cell division protein FtsB OS=Pelistega indica OX=1414851 GN=ftsB PE=3 SV=1 
+Probab=97.10  E-value=2e-05  Score=48.75  Aligned_cols=41  Identities=27%  Similarity=0.464  Sum_probs=38.3  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |++++++|++..+.+||+|-+|..|+.++.+|.+|+..|++
+T Consensus         1 mklillvlviaciaiqyplrlgasgykrvdelnqqlqaqre   41 (147)
+T tr|V8G2D1|V8G2    1 MKLILLVLVIACIAIQYPLRLGASGYKRVDELNQQLQAQRE   41 (147)
+Confidence            78899999999999999999999999999999999988864
+
+
+No 70
+>tr|A0A2D7G547|A0A2D7G547_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMP93_03625 PE=3 SV=1
+Probab=97.07  E-value=2.2e-05  Score=46.89  Aligned_cols=36  Identities=33%  Similarity=0.776  Sum_probs=28.9  Template_Neff=1.523
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      |.....|+++++.|||..|||+.|+.......++++
+T Consensus        12 ~~~~~fli~lla~lqy~vwfg~sg~f~r~~~~~~l~   47 (107)
+T tr|A0A2D7G547|   12 KSSCFFLIALLAYLQYLVWFGNSGFFARQSINQDLE   47 (107)
+Confidence            455678999999999999999999987665555544
+
+
+No 71
+>tr|A0A144PVR0|A0A144PVR0_9GAMM Cell division protein FtsB OS=Psychrobacter alimentarius OX=261164 GN=ftsB PE=3 SV=1
+Probab=96.85  E-value=6.5e-05  Score=45.92  Aligned_cols=34  Identities=35%  Similarity=0.690  Sum_probs=30.0  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ..++++..+||+.|.|++|-.....+-.||++|+
+T Consensus        41 lavavllglqyqywlgengrsghnklltqieeqq   74 (131)
+T tr|A0A144PVR0|   41 LAVAVLLGLQYQYWLGENGRFEHNKLLTQIEEQQ   74 (131)
+Confidence            4566788999999999999999999999998886
+
+
+No 72
+>tr|R5PS86|R5PS86_9BURK Cell division protein FtsB OS=Sutterella wadsworthensis CAG:135 OX=1263111 GN=ftsB PE=3 SV=1
+Probab=96.82  E-value=6.8e-05  Score=46.88  Aligned_cols=40  Identities=18%  Similarity=0.247  Sum_probs=36.7  Template_Neff=1.744
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |+++++|++-++..+|+||.++|+|.+..+|+.-++.|++
+T Consensus         3 rifi~il~~gi~~~~~~l~~~~~~w~r~~el~~~l~~q~~   42 (144)
+T tr|R5PS86|R5PS    3 RIFICILAAGICAVGYQLWGPRGSWSRLSELEVALALQRE   42 (144)
+Confidence            6788899999999999999999999999999999888763
+
+
+No 73
+>tr|W0DRR4|W0DRR4_9GAMM Cell division protein FtsB OS=Thiomicrospira aerophila AL3 OX=717772 GN=THIAE_05430 PE=3 SV=1
+Probab=96.81  E-value=6.7e-05  Score=45.95  Aligned_cols=40  Identities=23%  Similarity=0.246  Sum_probs=35.9  Template_Neff=2.572
+
+Q P0A6S5            1 MG--KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr--~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ||  |+.++|+++++++|++|-..+|||.+...|+++++..+
+T Consensus         1 MKra~l~~al~v~l~~~~~rLLSSdGG~ge~l~Lq~~L~~lq   42 (120)
+T tr|W0DRR4|W0DR    1 MKRAWLNFALAVALFILQFRLLSSDGGWGERLFLQSRLSELQ   42 (120)
+Confidence            78  99999999999999999999999999988888776543
+
+
+No 74
+>tr|A0A2P6LJ49|A0A2P6LJ49_NEPCL CTP synthase OS=Nephila clavipes OX=6915 GN=NCL1_03441 PE=3 SV=1
+Probab=96.63  E-value=0.00016  Score=54.09  Aligned_cols=39  Identities=23%  Similarity=0.553  Sum_probs=33.2  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +++++..++++..|||++|.|+||+.....+.+||.+|.
+T Consensus       926 klilllaivliaslqyqfwlgeggyfphqalaqqitqqa  964 (1038)
+T tr|A0A2P6LJ49|  926 NLILLLAIVLIASLQYQFWLGEGGYFPHQALAQQITQQA  964 (1038)
+Confidence            345566677888999999999999999999999998774
+
+
+No 75
+>tr|R7I7L7|R7I7L7_9BURK Cell division protein FtsB OS=Sutterella sp. CAG:351 OX=1262975 GN=ftsB PE=3 SV=1 
+Probab=96.61  E-value=0.00018  Score=45.31  Aligned_cols=37  Identities=22%  Similarity=0.487  Sum_probs=28.9  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      |+....-++-+++|-+||||.|||..+-+|+..+-+.
+T Consensus         7 wlavavwalalliqkplwfgqggwfhvgelehklvea   43 (161)
+T tr|R7I7L7|R7I7    7 WLAVAVWALALLIQKPLWFGQGGWFHVGELEHKLVEA   43 (161)
+Confidence            3444455666788999999999999999998876544
+
+
+No 76
+>tr|A0A212J3Z6|A0A212J3Z6_9DELT Cell division protein FtsB OS=uncultured delta proteobacterium OX=34034 GN=KL86DPRO_10646 PE=3 SV=1
+Probab=96.51  E-value=0.0002  Score=43.18  Aligned_cols=39  Identities=33%  Similarity=0.455  Sum_probs=32.7  Template_Neff=3.900
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ++++.+++++=+.|-|+|++|++|+..+.+|+++-++.+
+T Consensus         5 ~~~l~~l~liN~~L~~rL~wg~~Gv~~Y~eLk~~~~~L~   43 (108)
+T tr|A0A212J3Z6|    5 RFLLGLLVLINVVLLYRLIWGDQGVFAYRELKSQYAALE   43 (108)
+Confidence            445667778888999999999999999999998876654
+
+
+No 77
+>tr|A0A2E2BB53|A0A2E2BB53_9GAMM Cell division protein FtsB OS=Thiotrichales bacterium OX=2026796 GN=ftsB PE=3 SV=1 
+Probab=96.49  E-value=0.00028  Score=43.70  Aligned_cols=36  Identities=28%  Similarity=0.601  Sum_probs=29.0  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      +++.+.|++++..+||.+||..||+.|..-+--+|+
+T Consensus        35 kflaislivvlsylqyafwfksggvadakvlmlkie   70 (139)
+T tr|A0A2E2BB53|   35 KFLAISLIVVLSYLQYAFWFKSGGVADAKVLMLKIE   70 (139)
+Confidence            456778899999999999999999998765544444
+
+
+No 78
+>tr|A0A259NHG0|A0A259NHG0_9GAMM Cell division protein FtsB OS=Halothiobacillus sp. 15-55-196 OX=1970382 GN=ftsB PE=3 SV=1
+Probab=96.49  E-value=0.00029  Score=43.63  Aligned_cols=34  Identities=32%  Similarity=0.557  Sum_probs=27.6  Template_Neff=1.000
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      +...|++++..|||+||||..+..+.|+-+.++.
+T Consensus         9 llvglliilgslqwrlwfggsslrelwqkqarls   42 (138)
+T tr|A0A259NHG0|    9 LLVGLLIILGSLQWRLWFGGSSLRELWQKQARLS   42 (138)
+Confidence            3456778889999999999999999887666554
+
+
+No 79
+>tr|A0A2D6P0K1|A0A2D6P0K1_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD93_03130 PE=3 SV=1
+Probab=96.27  E-value=0.0005  Score=41.75  Aligned_cols=36  Identities=22%  Similarity=0.638  Sum_probs=30.7  Template_Neff=2.928
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      +.++++++++..||++|+|+-|..+...++++|...
+T Consensus        17 ~~~~~l~li~~~~~~~w~g~ys~s~l~~lk~~is~~   52 (108)
+T tr|A0A2D6P0K1|   17 FLIILILLIVSTQYQFWFGDYSYSDLEKLKSEISFV   52 (108)
+Confidence            345778888999999999999999999999887654
+
+
+No 80
+>tr|W6LYD9|W6LYD9_9GAMM Cell division protein FtsB OS=Candidatus Contendobacter odensis Run_B_J11 OX=1400861 GN=ftsB PE=3 SV=1 
+Probab=96.26  E-value=0.00063  Score=43.47  Aligned_cols=38  Identities=29%  Similarity=0.618  Sum_probs=33.5  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ++..+|++++++|.|-||..+||..+.+.++-.|..|+
+T Consensus        13 ilaavliavlvflhyllwvdeggmrqtralriaiqvqk   50 (174)
+T tr|W6LYD9|W6LY   13 ILAAVLIAVLVFLHYLLWVDEGGMRQTRALRIAIQVQK   50 (174)
+Confidence            45678999999999999999999999999988777665
+
+
+No 81
+>tr|A0A2E8ZYV2|A0A2E8ZYV2_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD64_02210 PE=3 SV=1
+Probab=96.21  E-value=0.00063  Score=40.47  Aligned_cols=38  Identities=29%  Similarity=0.504  Sum_probs=34.1  Template_Neff=2.821
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ||++-++-+++++.|||+|-+++||+..+..+++..+.
+T Consensus         4 mkify~I~~vlFlsLQySll~s~NSiFsY~~lk~~~~~   41 (93)
+T tr|A0A2E8ZYV2|    4 MKIFYLICLVLFLSLQYSLLLSNNSIFSYFNLKKTLQS   41 (93)
+Confidence            78888899999999999999999999999998877643
+
+
+No 82
+>tr|A0A2E1JZ61|A0A2E1JZ61_9GAMM Cell division protein FtsB OS=Legionellales bacterium OX=2026754 GN=CMF43_00220 PE=3 SV=1 
+Probab=96.20  E-value=0.00075  Score=39.98  Aligned_cols=33  Identities=33%  Similarity=0.711  Sum_probs=28.2  Template_Neff=1.000
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ..|++-++++||.||..+.|+.+..++.+.|..
+T Consensus        13 vllivgivflqyhlwlsdtgilrhhrltqhiqr   45 (98)
+T tr|A0A2E1JZ61|   13 VLLIVGIVFLQYHLWLSDTGILRHHRLTQHIQR   45 (98)
+Confidence            467788899999999999999998888776654
+
+
+No 83
+>tr|A0A1W9PWR7|A0A1W9PWR7_9DELT Cell division protein FtsB OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_04830 PE=3 SV=1
+Probab=96.03  E-value=0.0011  Score=39.95  Aligned_cols=38  Identities=29%  Similarity=0.368  Sum_probs=32.9  Template_Neff=2.681
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ||++...+++.+++++--.|||++|..|+++|+++.++
+T Consensus         7 ~~~~~a~a~~~l~l~~~~~~fg~~~~~d~~~lq~~~~a   44 (100)
+T tr|A0A1W9PWR7|    7 MRILLALAILGLCLMVGVFLFGRNGFLDLRRLQRQNEA   44 (100)
+Confidence            46777778888888999999999999999999998764
+
+
+No 84
+>tr|W6M755|W6M755_9GAMM Cell division protein FtsB OS=Candidatus Competibacter denitrificans Run_A_D11 OX=1400863 GN=ftsB PE=3 SV=1 
+Probab=95.99  E-value=0.0014  Score=41.42  Aligned_cols=39  Identities=33%  Similarity=0.527  Sum_probs=34.4  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      |.++..+|++++++-||-||....++.+...++-.+.+|
+T Consensus         1 mqilvailiallvlcqyllwidadsvrqtytlrisvqaq   39 (156)
+T tr|W6M755|W6M7    1 MQILVAILIALLVLCQYLLWIDADSVRQTYTLRISVQAQ   39 (156)
+Confidence            678888999999999999999999999988887776655
+
+
+No 85
+>tr|A0A1B8QMM0|A0A1B8QMM0_MORNO Cell division protein FtsB OS=Moraxella nonliquefaciens OX=478 GN=ftsB PE=3 SV=1
+Probab=95.67  E-value=0.0032  Score=40.39  Aligned_cols=36  Identities=33%  Similarity=0.616  Sum_probs=30.8  Template_Neff=1.251
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      +.-+++++.|||+.|.|+-|....-+|..+++.|+.
+T Consensus        36 vfg~vvl~glq~qywygefg~~~~~~ln~el~~qqk   71 (163)
+T tr|A0A1B8QMM0|   36 IFGAVVLAGLQHQYWYGEFGYHALSELNDELAKQQK   71 (163)
+Confidence            344577899999999999999999999999888763
+
+
+No 86
+>tr|A0A2D8RI64|A0A2D8RI64_9GAMM Cell division protein FtsB OS=Hahellaceae bacterium OX=2048971 GN=ftsB PE=3 SV=1 
+Probab=95.42  E-value=0.0057  Score=37.45  Aligned_cols=30  Identities=27%  Similarity=0.691  Sum_probs=22.1  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDV   36 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v   36 (41)
+                      .|-+-...+||+|||..|+.....+.+-.|
+T Consensus        34 llsisvlylqyrlwfahgslnslseiryai   63 (116)
+T tr|A0A2D8RI64|   34 LLSISVLYLQYRLWFAHGSLNSLSEIRYAI   63 (116)
+Confidence            344556789999999999987766655444
+
+
+No 87
+>tr|A0A2W7KXN6|A0A2W7KXN6_9BACT Cell division protein FtsB OS=Fibrobacter sp. UWR1 OX=2135645 GN=C8E88_100753 PE=4 SV=1
+Probab=95.20  E-value=0.007  Score=36.31  Aligned_cols=35  Identities=29%  Similarity=0.551  Sum_probs=28.4  Template_Neff=3.192
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +++++.++.+-++|-||+||+++..++.++|+.-+
+T Consensus        10 ~~~~~~~a~~v~~l~FGknsi~~Q~ki~~~I~~yq   44 (93)
+T tr|A0A2W7KXN6|   10 LALITFIAIVVFQLMFGKNSIPQQRKIAKEIALYQ   44 (93)
+Confidence            34455557888999999999999999999988643
+
+
+No 88
+>tr|A0A2J6WQK3|A0A2J6WQK3_9BACT Septum formation initiator OS=Thermodesulfovibrio aggregans OX=86166 GN=C0186_00750 PE=4 SV=1
+Probab=95.07  E-value=0.007  Score=36.30  Aligned_cols=37  Identities=24%  Similarity=0.629  Sum_probs=29.3  Template_Neff=5.463
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ++.++.+++++.+.|.+-||+.|+.++.+++++.+..
+T Consensus        20 i~~~~~ll~~~~l~~~~~fgd~G~lky~~l~~~~~~l   56 (109)
+T tr|A0A2J6WQK3|   20 IFFILILLVFIYLLYSFFFGDMGLLKYRELKKEKKRL   56 (109)
+Confidence            3444566667888999999999999999998876543
+
+
+No 89
+>tr|A0A066UC85|A0A066UC85_9GAMM Cell division protein FtsB OS=Moraxella bovoculi 237 OX=743974 GN=ftsB PE=3 SV=1
+Probab=94.79  E-value=0.017  Score=36.82  Aligned_cols=34  Identities=29%  Similarity=0.562  Sum_probs=29.7  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ...+++.+||-+.|.|++|-.....+..||+.|.
+T Consensus        35 faaivlallqqqywhgengranlnnlnaqiakqn   68 (150)
+T tr|A0A066UC85|   35 FAAIVLALLQQQYWHGENGRANLNNLNAQIAKQN   68 (150)
+Confidence            4456778899999999999999999999998874
+
+
+No 90
+>tr|A0A2E1MND6|A0A2E1MND6_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD40_02730 PE=3 SV=1
+Probab=94.24  E-value=0.027  Score=34.36  Aligned_cols=37  Identities=27%  Similarity=0.556  Sum_probs=29.9  Template_Neff=3.738
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      .+.++++++++.+-|++.||++|......|..+=..|
+T Consensus         7 ~li~~l~lli~~l~~siFFG~nsy~~~~~L~~eN~~q   43 (102)
+T tr|A0A2E1MND6|    7 LLIILLILLIIILLYSIFFGENSYSKRNNLIEENQEQ   43 (102)
+Confidence            3556788888999999999999999988887654444
+
+
+No 91
+>tr|A0A1X7C910|A0A1X7C910_9DELT Uncharacterized membrane protein OS=Desulfovibrio sp. K3S OX=1519643 GN=SAMN06295933_0517 PE=4 SV=1
+Probab=92.37  E-value=0.14  Score=31.88  Aligned_cols=39  Identities=15%  Similarity=0.207  Sum_probs=30.9  Template_Neff=3.190
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |.+.+.|+...+.+.-|+-||.||..+-.++.++-++++
+T Consensus        40 k~~Fv~lIl~~I~~fLR~LFGP~G~~RDkeldrEA~E~~   78 (107)
+T tr|A0A1X7C910|   40 KMAFVALILGAIILFLRVLFGPKGPFRDKELDREAEEQR   78 (107)
+Confidence            445667777777888899999999999998887766654
+
+
+No 92
+>tr|A0A2A4W1Z5|A0A2A4W1Z5_9PROT Uncharacterized protein OS=Kordiimonadales bacterium OX=2030814 GN=COB37_01285 PE=4 SV=1
+Probab=91.90  E-value=0.19  Score=31.37  Aligned_cols=38  Identities=16%  Similarity=0.358  Sum_probs=33.5  Template_Neff=2.501
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +...+.+++++++-|..-.|++|.....+|+.+.+++.
+T Consensus        19 ~~~~~~~~~~~YF~yHa~~Ge~sl~al~~Le~~~~~~~   56 (107)
+T tr|A0A2A4W1Z5|   19 WLGGVWILVLAYFAYHALTGERSLAALKRLEAKIESQK   56 (107)
+Confidence            44567889999999999999999999999999988764
+
+
+No 93
+>tr|A0A2E7E247|A0A2E7E247_9GAMM Cell division protein FtsB OS=Legionellales bacterium OX=2026754 GN=CMF51_00800 PE=3 SV=1 
+Probab=91.56  E-value=0.27  Score=30.11  Aligned_cols=34  Identities=21%  Similarity=0.497  Sum_probs=29.6  Template_Neff=1.000
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ..+|+.++...||.+|-...|...+..+.-|+++
+T Consensus        17 acvlvglfsvvqyeiwgstqglthyfslaiqveq   50 (100)
+T tr|A0A2E7E247|   17 ACVLVGLFSVVQYEIWGSTQGLTHYFSLAIQVEQ   50 (100)
+Confidence            3478888999999999999999999998877765
+
+
+No 94
+>tr|A0A2T5CF40|A0A2T5CF40_9DELT Septum formation initiator OS=Desulfonatronum sp. SC1 OX=2109626 GN=C6366_04030 PE=4 SV=1
+Probab=91.37  E-value=0.25  Score=30.54  Aligned_cols=36  Identities=28%  Similarity=0.305  Sum_probs=30.0  Template_Neff=2.594
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      |++...|+++=+.|-|+|-.|++|+..+.+|+..-+
+T Consensus         5 r~L~~~L~~lN~~L~~~L~~~D~G~~sYleL~~r~d   40 (99)
+T tr|A0A2T5CF40|    5 RILFTGLLFLNIVLAYKLIAGDNGWFSYLELRARRD   40 (99)
+Confidence            456667788888999999999999999999886544
+
+
+No 95
+>tr|A0A0G0ADA3|A0A0G0ADA3_9BACT Uncharacterized protein OS=candidate division TM6 bacterium GW2011_GWF2_28_16 OX=1619077 GN=SZ59_C0001G0183 PE=4 SV=1
+Probab=91.24  E-value=0.27  Score=30.13  Aligned_cols=36  Identities=28%  Similarity=0.733  Sum_probs=29.6  Template_Neff=2.488
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      .++++++.+..-|-.-||++|+..+..++++|+..+
+T Consensus         9 ~~~~~~~~~~~l~~I~fG~~g~~~Y~~l~KEi~~ek   44 (93)
+T tr|A0A0G0ADA3|    9 SLLIIAFGVFFLYMIFFGKRGFFKYYKLKKEIQMEK   44 (93)
+Confidence            345667777788999999999999999999987543
+
+
+No 96
+>tr|C1F8L4|C1F8L4_ACIC5 Putative cell division protein FtsL OS=Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 / JCM 7670 / NBRC 15755 / NCIMB
+Probab=90.67  E-value=0.35  Score=30.77  Aligned_cols=38  Identities=13%  Similarity=0.102  Sum_probs=29.2  Template_Neff=2.427
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      |+.+++..++++++-|.--+|++|+..+.+.+.|.+..
+T Consensus        10 r~~~~~~~L~~~~~~~~~l~G~nGy~~~~~~r~q~~~L   47 (118)
+T tr|C1F8L4|C1F8   10 RWMFVGISLMAVLLLVHELAGENGYFSRKQMRHQAENL   47 (118)
+Confidence            56666666777777888889999999988877776543
+
+
+No 97
+>tr|A0A1W9SV85|A0A1W9SV85_9DELT Cell division protein FtsB OS=Desulfobacteraceae bacterium 4572_130 OX=1971625 GN=B6I26_06970 PE=3 SV=1
+Probab=90.56  E-value=0.32  Score=29.86  Aligned_cols=32  Identities=25%  Similarity=0.548  Sum_probs=22.7  Template_Neff=4.116
+
+Q P0A6S5            8 LLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         8 L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      .+++.+.+-.=.-||+||+.|+..|+++.+..
+T Consensus        13 ~i~~~~ill~~ivfs~nG~~D~~~Lk~e~~~~   44 (100)
+T tr|A0A1W9SV85|   13 AIVFMVVLLFLIVFSENGLMDYRRLKSEENSL   44 (100)
+Confidence            33334445555678999999999999876543
+
+
+No 98
+>tr|A0A1F6F3I7|A0A1F6F3I7_9BACT Uncharacterized protein OS=Candidatus Kaiserbacteria bacterium RIFCSPLOWO2_01_FULL_54_13 OX=1798512 GN=A3A39_02635 PE=4 SV=1 
+Probab=90.55  E-value=0.43  Score=28.06  Aligned_cols=37  Identities=32%  Similarity=0.604  Sum_probs=30.4  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      +.+++....+++.+---.|.|.+|..+...+.+++++
+T Consensus         5 klltlavasilvilaavvwlgpdglseraalaeevae   41 (75)
+T tr|A0A1F6F3I7|    5 KLLTLAVASILVILAAVVWLGPDGLSERAALAEEVAE   41 (75)
+Confidence            3566666777888888899999999999999888764
+
+
+No 99
+>tr|A0A2N1Y0Y4|A0A2N1Y0Y4_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium HGW-Gammaproteobacteria-2 OX=2013798 GN=ftsB PE=3 SV=1
+Probab=90.54  E-value=0.42  Score=29.63  Aligned_cols=35  Identities=29%  Similarity=0.458  Sum_probs=28.8  Template_Neff=1.329
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      .+++.++..+-++|..|.||+.|+.+|.-.+..|+
+T Consensus         5 ~~~~~~~~~~g~qlfngaggirdv~elavsvrvqq   39 (102)
+T tr|A0A2N1Y0Y4|    5 MVLRVLALVLGWQLFNGAGGIRDVHELAVSVRVQQ   39 (102)
+Confidence            45677778889999999999999999877666554
+
+
+No 100
+>tr|A0A2E0VUQ2|A0A2E0VUQ2_9BACT Uncharacterized protein OS=Saprospirales bacterium OX=2026790 GN=CMN32_11795 PE=4 SV=1 
+Probab=90.37  E-value=0.46  Score=35.32  Aligned_cols=38  Identities=32%  Similarity=0.495  Sum_probs=31.3  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      |.+++.|++++.+|...|||..  -.++.++++.+++|++
+T Consensus        53 rvlliallallallfaglwfas--qrqveqlektvaqqrq   90 (496)
+T tr|A0A2E0VUQ2|   53 RVLLIALLALLALLFAGLWFAS--QRQVEQLEKTVAQQRQ   90 (496)
+Confidence            5677889999999999999974  5678888888888764
+
+
+No 101
+>tr|A0A1Y1RIM7|A0A1Y1RIM7_9BACT Uncharacterized protein OS=Candidatus Cloacimonetes bacterium 4572_55 OX=1971726 GN=B6244_05115 PE=4 SV=1 
+Probab=90.23  E-value=0.49  Score=30.67  Aligned_cols=34  Identities=24%  Similarity=0.479  Sum_probs=29.2  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +.++.+..|.|-|-||+-|+-+...++++++.|+
+T Consensus        32 viivfigvlvyillfgdygvwrikalqrelerqq   65 (145)
+T tr|A0A1Y1RIM7|   32 VIIVFIGVLVYILLFGDYGVWRIKALQRELERQQ   65 (145)
+Confidence            4566777888999999999999999999988775
+
+
+No 102
+>tr|A0A2J8XQ26|A0A2J8XQ26_PONAB LARP7 isoform 14 OS=Pongo abelii OX=9601 GN=CR201_G0000484 PE=4 SV=1
+Probab=90.05  E-value=0.52  Score=28.94  Aligned_cols=27  Identities=19%  Similarity=0.514  Sum_probs=23.5  Template_Neff=1.000
+
+Q P0A6S5           13 VWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus        13 ~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      +.=|.++|||+.....-+-|++||+.-
+T Consensus        38 iakqvdfwfgdanlhkdrflreqieks   64 (99)
+T tr|A0A2J8XQ26|   38 IAKQVDFWFGDANLHKDRFLREQIEKS   64 (99)
+Confidence            456889999999999999999998764
+
+
+No 103
+>tr|A0LN60|A0LN60_SYNFM Cell division protein FtsB OS=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) OX=335543 GN=Sfum_3189 PE=3 SV=1 
+Probab=89.92  E-value=0.55  Score=29.75  Aligned_cols=39  Identities=28%  Similarity=0.544  Sum_probs=31.4  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |.+..+|++.=..+-|.+.|+..|+..+++-++|+.+.+
+T Consensus        27 rflvvillvanlillyaiffsaqgiqgyrrheeqvrele   65 (122)
+T tr|A0LN60|A0LN   27 RFLVVILLVANLILLYAIFFSAQGIQGYRRHEEQVRELE   65 (122)
+Confidence            556667777777889999999999999988888776543
+
+
+No 104
+>tr|A0A2A4TNT4|A0A2A4TNT4_9GAMM Cell division protein FtsB OS=Thiotrichales bacterium OX=2026796 GN=COB50_05520 PE=3 SV=1 
+Probab=87.20  E-value=1.2  Score=27.43  Aligned_cols=34  Identities=24%  Similarity=0.524  Sum_probs=28.5  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +|+..+.++|..+.-|..++.....++..-+.|+
+T Consensus        11 vlllfllllqikffagqssvfnivklkdtaesqr   44 (98)
+T tr|A0A2A4TNT4|   11 VLLLFLLLLQIKFFAGQSSVFNIVKLKDTAESQR   44 (98)
+Confidence            5677788899999999999999888887766664
+
+
+No 105
+>tr|A0A2W5F2G5|A0A2W5F2G5_AZOBR Uncharacterized protein OS=Azospirillum brasilense OX=192 GN=DI601_02045 PE=4 SV=1 
+Probab=87.18  E-value=1.3  Score=31.93  Aligned_cols=25  Identities=28%  Similarity=0.850  Sum_probs=20.7  Template_Neff=1.000
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDY   29 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~   29 (41)
+                      +..-++++.+.-|.||-|+|+...+
+T Consensus       215 lsfavvllawmaynlwrgegsfdpy  239 (324)
+T tr|A0A2W5F2G5|  215 LSFAVVLLAWMAYNLWRGEGSFDPY  239 (324)
+Confidence            3456788999999999999998765
+
+
+No 106
+>tr|A0A109W679|A0A109W679_9DELT Cell division protein FtsB OS=Desulfomicrobium orale DSM 12838 OX=888061 GN=AXF15_08860 PE=3 SV=1
+Probab=86.79  E-value=1.3  Score=27.38  Aligned_cols=38  Identities=18%  Similarity=0.421  Sum_probs=31.5  Template_Neff=1.389
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +..++|..+=+.|-|...-.+.|.+.+.+|++.|++-+
+T Consensus        10 ~~~f~l~~~nifl~~kifde~sglp~y~~l~~kie~vq   47 (95)
+T tr|A0A109W679|   10 IFLFLLCIINIFLVFKIFDEDSGLPVYKDLKNKIESVQ   47 (95)
+Confidence            34556666778899999999999999999999998654
+
+
+No 107
+>tr|A0A1T4XAW3|A0A1T4XAW3_9DELT Uncharacterized membrane protein OS=Desulfovibrio gracilis DSM 16080 OX=1121449 GN=SAMN02745704_01992 PE=4 SV=1
+Probab=86.65  E-value=1.3  Score=28.08  Aligned_cols=38  Identities=18%  Similarity=0.268  Sum_probs=29.7  Template_Neff=2.250
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ...++++..++...-++-+|.+|+.+-.++.++-++++
+T Consensus        38 ~aF~~~i~a~i~~flR~L~GP~G~~RdkemD~eaEe~R   75 (106)
+T tr|A0A1T4XAW3|   38 LAFSLLIFAVIAYFLRLLYGPKGILRDKEMDREAEEQR   75 (106)
+Confidence            34456666777778899999999999988888777664
+
+
+No 108
+>tr|R6Z948|R6Z948_9CLOT Uncharacterized protein OS=Clostridium sp. CAG:299 OX=1262792 GN=BN593_00304 PE=4 SV=1 
+Probab=85.60  E-value=1.8  Score=28.83  Aligned_cols=26  Identities=50%  Similarity=0.793  Sum_probs=21.6  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGI   26 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~   26 (41)
+                      |+.+++.+-.++..+.|++|..+.-.
+T Consensus        75 mkvlilllggillfliyslwlnkkyl  100 (165)
+T tr|R6Z948|R6Z9   75 MKVLILLLGGILLFLIYSLWLNKKYL  100 (165)
+Confidence            67788888889999999999987543
+
+
+No 109
+>tr|A0A2H0R633|A0A2H0R633_9BACT Uncharacterized protein (Fragment) OS=Candidatus Yanofskybacteria bacterium CG10_big_fil_rev_8_21_14_0_10_37_15 OX=1975097 GN=COV30_00920 PE=4 SV=1 
+Probab=84.98  E-value=2  Score=29.44  Aligned_cols=28  Identities=36%  Similarity=0.521  Sum_probs=21.2  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDY   29 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~   29 (41)
+                      +|+++..+.+++.-..++|||+.+..+.
+T Consensus        30 kwlillalfllivsfasfwfgkpsfsea   57 (207)
+T tr|A0A2H0R633|   30 KWLILLALFLLIVSFASFWFGKPSFSEA   57 (207)
+Confidence            5666666666777788999999988763
+
+
+No 110
+>tr|B9L7U4|B9L7U4_NAUPA Uncharacterized protein OS=Nautilia profundicola (strain ATCC BAA-1463 / DSM 18972 / AmH) OX=598659 GN=NAMH_0278 PE=4 SV=1
+Probab=84.79  E-value=2  Score=26.15  Aligned_cols=34  Identities=12%  Similarity=0.341  Sum_probs=26.9  Template_Neff=1.612
+
+Q P0A6S5            6 LLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         6 ~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      +++.++++.--|.|-||+.|..+..+|+++....
+T Consensus        21 vi~a~~~~~yi~~llfg~rs~srmldl~~~~k~l   54 (82)
+T tr|B9L7U4|B9L7   21 VIIAFLFAIYIYNLLFGSRSFSRMLDLQNEYKVL   54 (82)
+Confidence            3455566677899999999999999998877654
+
+
+No 111
+>tr|A0A0S7XW90|A0A0S7XW90_9DELT Cell division protein FtsB OS=Syntrophobacter sp. DG_60 OX=1703361 GN=AMJ45_03650 PE=3 SV=1 
+Probab=84.06  E-value=2.4  Score=25.96  Aligned_cols=31  Identities=26%  Similarity=0.554  Sum_probs=24.3  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      ++++++.+--|-.-||+||..+.-.+++|-+
+T Consensus         8 vfliliflasyviifgkngyldlcklkrqkd   38 (90)
+T tr|A0A0S7XW90|    8 VFLILIFLASYVIIFGKNGYLDLCKLKRQKD   38 (90)
+Confidence            4555666678999999999999888877643
+
+
+No 112
+>tr|A0A1F6N6N6|A0A1F6N6N6_9BACT Uncharacterized protein OS=Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_02_FULL_48_18 OX=1798681 GN=A3C10_00615 PE=4 SV=1 
+Probab=83.63  E-value=2.6  Score=26.37  Aligned_cols=32  Identities=25%  Similarity=0.448  Sum_probs=23.5  Template_Neff=1.000
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDD   35 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~   35 (41)
+                      ++-+.+++-..|.++=|.|+||-.|+.+--+|
+T Consensus         5 iigiivaitailfwspwmgegggedviqkvqq   36 (103)
+T tr|A0A1F6N6N6|    5 IIGIIVAITAILFWSPWMGEGGGEDVIQKVQQ   36 (103)
+Confidence            34456667778899999999998887654333
+
+
+No 113
+>tr|A0A2S6RPG3|A0A2S6RPG3_9PROT Cell division protein FtsB OS=Alphaproteobacteria bacterium MarineAlpha6_Bin5 OX=2013092 GN=ftsB PE=3 SV=1
+Probab=82.28  E-value=3.1  Score=25.76  Aligned_cols=36  Identities=19%  Similarity=0.477  Sum_probs=29.3  Template_Neff=1.407
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      +-+.+++...+.|-..|+.+|+..+..|++++++-+
+T Consensus         6 ig~f~~l~~vi~yl~~fsqnsi~t~~klkk~~~~~~   41 (91)
+T tr|A0A2S6RPG3|    6 IGIFVLLIIVIIYLMTFSQNSITTYFKLKKELNAKQ   41 (91)
+Confidence            345566667788999999999999999999988654
+
+
+No 114
+>tr|A0A1Y1QA49|A0A1Y1QA49_9GAMM Uncharacterized protein OS=Thiothrix lacustris OX=525917 GN=BWK73_46885 PE=3 SV=1 
+Probab=81.89  E-value=3.5  Score=27.17  Aligned_cols=24  Identities=29%  Similarity=0.717  Sum_probs=21.2  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKN   24 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~g   24 (41)
+                      |..+++.++.++.++|-+-|.|+.
+T Consensus        41 malitigligliaflqnpawlgdk   64 (145)
+T tr|A0A1Y1QA49|   41 MALITIGLIGLIAFLQNPAWLGDK   64 (145)
+Confidence            556788999999999999999985
+
+
+No 115
+>tr|A0A1F5AN32|A0A1F5AN32_9BACT Uncharacterized protein (Fragment) OS=Candidatus Aminicenantes bacterium RBG_13_64_14 OX=1797271 GN=A2Y70_02305 PE=4 SV=1 
+Probab=81.15  E-value=3.9  Score=23.96  Aligned_cols=37  Identities=27%  Similarity=0.428  Sum_probs=26.0  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ++++...+.+..+...--||+.|+.|.++-++.+++.
+T Consensus         5 ifilgiacfflilivtslfgkkgvmdlrrarqnlaal   41 (66)
+T tr|A0A1F5AN32|    5 IFILGIACFFLILIVTSLFGKKGVMDLRRARQNLAAL   41 (66)
+Confidence            3444445555556666679999999998888777654
+
+
+No 116
+>tr|M2YPI5|M2YPI5_DOTSN Uncharacterized protein OS=Dothistroma septosporum (strain NZE10 / CBS 128990) OX=675120 GN=DOTSEDRAFT_35775 PE=4 SV=1 
+Probab=80.49  E-value=4.3  Score=25.50  Aligned_cols=35  Identities=23%  Similarity=0.453  Sum_probs=28.8  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQA   41 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~~   41 (41)
+                      .|-+.-+-=||.=|-++.|+.++.-+.++|+.|++
+T Consensus        48 clsaatiqrqyadwrsetgvdevayidqqietqra   82 (102)
+T tr|M2YPI5|M2YP   48 CLSAATIQRQYADWRSETGVDEVAYIDQQIETQRA   82 (102)
+Confidence            34455556799999999999999999999998863
+
+
+No 117
+>tr|A0A1Z9VQ92|A0A1Z9VQ92_9RHIZ Uncharacterized protein OS=Rhizobiales bacterium TMED227 OX=1986852 GN=CBD87_04860 PE=4 SV=1
+Probab=80.29  E-value=4  Score=25.94  Aligned_cols=36  Identities=22%  Similarity=0.590  Sum_probs=30.8  Template_Neff=1.898
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      +.++|...+..+.|.-..|+.|......++.++...
+T Consensus        15 lp~~l~~fl~yisyhtfi~~sgl~kn~~lk~~l~~~   50 (103)
+T tr|A0A1Z9VQ92|   15 LPFLLVLFLLYISYHTFIGDSGLSKNTELKSQLNSL   50 (103)
+Confidence            455777888899999999999999999999887654
+
+
+No 118
+>tr|A0A0G0JFY9|A0A0G0JFY9_9BACT Uncharacterized protein OS=Candidatus Nomurabacteria bacterium GW2011_GWB1_37_5 OX=1618742 GN=US50_C0008G0010 PE=4 SV=1 
+Probab=80.23  E-value=4.4  Score=29.49  Aligned_cols=35  Identities=20%  Similarity=0.494  Sum_probs=29.7  Template_Neff=1.000
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      +++.|++++.+..+-.|.-.|++.+..++.+.+.+
+T Consensus       202 vilallvllglmfffvwlwrgsvaenqqlskdlna  236 (323)
+T tr|A0A0G0JFY9|  202 VILALLVLLGLMFFFVWLWRGSVAENQQLSKDLNA  236 (323)
+Confidence            56678888899999999999999999988877654
+
+
+No 119
+>tr|A0A1Z9CNI1|A0A1Z9CNI1_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium TMED112 OX=1986734 GN=CBC72_04475 PE=3 SV=1
+Probab=79.82  E-value=3.9  Score=25.77  Aligned_cols=35  Identities=20%  Similarity=0.503  Sum_probs=29.3  Template_Neff=2.875
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      +..+|+++++.+-|++.+|.-|..+...++.-++.
+T Consensus        12 ~~~~liii~~~l~~DIf~G~fSf~en~kle~li~~   46 (98)
+T tr|A0A1Z9CNI1|   12 AIILLIIIIASLLYDIFFGQFSFSENKKLENLINE   46 (98)
+Confidence            34578888999999999999999998888776654
+
+
+No 120
+>tr|A0A1V6BRX7|A0A1V6BRX7_9SPIR Septum formation initiator OS=Spirochaetes bacterium ADurb.Bin133 OX=1852909 GN=BWX91_01853 PE=4 SV=1
+Probab=78.80  E-value=5  Score=27.04  Aligned_cols=35  Identities=26%  Similarity=0.558  Sum_probs=29.2  Template_Neff=1.594
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      ++.++.+++-....|+.-.|+||+-+-.+.+++-+
+T Consensus         4 il~~~f~a~~~~i~yqiilg~ng~ie~~~~~keke   38 (155)
+T tr|A0A1V6BRX7|    4 ILFIIFIAICSFIFYQIILGQNGIIENYRIQKEKE   38 (155)
+Confidence            56678888888999999999999998887776644
+
+
+No 121
+>tr|A0A1Z8WU49|A0A1Z8WU49_9GAMM Cell division protein FtsB OS=Methylococcaceae bacterium TMED69 OX=1986766 GN=CBC29_05075 PE=3 SV=1 
+Probab=75.63  E-value=7.7  Score=24.46  Aligned_cols=34  Identities=29%  Similarity=0.498  Sum_probs=26.5  Template_Neff=1.000
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      ++.|-..+..+.|+..|.+.|..+...++++-++
+T Consensus         7 ifllslflfilvysyffsetgyiqltklkkeeae   40 (101)
+T tr|A0A1Z8WU49|    7 IFLLSLFLFILVYSYFFSETGYIQLTKLKKEEAE   40 (101)
+Confidence            4455666778899999999999988888776544
+
+
+No 122
+>tr|A0A1H0BRV8|A0A1H0BRV8_9DELT Cell division protein FtsB OS=Desulfonauticus submarinus OX=206665 GN=SAMN04488516_102270 PE=3 SV=1
+Probab=75.39  E-value=7.4  Score=24.27  Aligned_cols=37  Identities=24%  Similarity=0.354  Sum_probs=27.8  Template_Neff=1.573
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQ   39 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q   39 (41)
+                      ++++.++++=+.|-|++-|+++.+..+..++++....
+T Consensus         4 ~~i~l~~~in~~l~yq~~fse~ni~~y~~lk~~~~~l   40 (89)
+T tr|A0A1H0BRV8|    4 IFIFLSAFINITLIYQIIFSENNIFKYFILKDKMNQL   40 (89)
+Confidence            3444555566788999999999999988887765443
+
+
+No 123
+>tr|A0A1I6LEU6|A0A1I6LEU6_9EURY Uncharacterized protein OS=Halomicrobium zhouii OX=767519 GN=SAMN05216559_2547 PE=4 SV=1
+Probab=73.05  E-value=9.4  Score=23.27  Aligned_cols=30  Identities=17%  Similarity=0.431  Sum_probs=22.3  Template_Neff=1.553
+
+Q P0A6S5           11 ILVWLQYSLWFGKNGIHD--YTRVNDDVAAQQ   40 (41)
+Q Consensus        11 ll~~LQy~LW~G~gg~~~--~~~l~~~v~~q~   40 (41)
+                      +-+.|-.++|-|+.+-.+  ..+|++++++.+
+T Consensus        31 v~~~lv~~~~~g~~~~~~eriaelereveelr   62 (76)
+T tr|A0A1I6LEU6|   31 VVIVLVIRYWRGNSSSDDERIAELEREVEELR   62 (76)
+Confidence            345678899999988765  457888887654
+
+
+No 124
+>tr|A0A1G3L0X5|A0A1G3L0X5_9SPIR Uncharacterized protein OS=Spirochaetes bacterium GWB1_36_13 OX=1802174 GN=A2Y41_10755 PE=4 SV=1 
+Probab=72.73  E-value=10  Score=23.90  Aligned_cols=37  Identities=11%  Similarity=0.377  Sum_probs=28.4  Template_Neff=1.000
+
+Q P0A6S5            2 GKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAA   38 (41)
+Q Consensus         2 r~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~   38 (41)
+                      +++..+..++-+.|.++..|-..|.+......+|+..
+T Consensus         6 kiiavviavlavvlffkiyflssglpgkeaiseqiqt   42 (99)
+T tr|A0A1G3L0X5|    6 KIIAVVIAVLAVVLFFKIYFLSSGLPGKEAISEQIQT   42 (99)
+Confidence            3455566677778889999999999888888777754
+
+
+No 125
+>tr|A0A2D6ZPY4|A0A2D6ZPY4_9GAMM Cell division protein FtsB OS=Gammaproteobacteria bacterium OX=1913989 GN=CMQ76_05255 PE=3 SV=1
+Probab=68.70  E-value=12  Score=23.88  Aligned_cols=34  Identities=18%  Similarity=0.576  Sum_probs=27.4  Template_Neff=2.925
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVA   37 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~   37 (41)
+                      +.++|+.++...-|...+|..|..+..+++++..
+T Consensus        13 ~f~ll~~l~l~~i~~if~G~~S~s~i~k~~~e~~   46 (100)
+T tr|A0A2D6ZPY4|   13 FFVLLISLFLYYIYKIFFGEYSFSKIKKVKSEKI   46 (100)
+Confidence            4456777788889999999999998888877644
+
+
+No 126
+>tr|H9C0P9|H9C0P9_9CAUD Uncharacterized protein OS=Bdellovibrio phage phi1422 OX=1127515 GN=phi1422_0075 PE=4 SV=1 
+Probab=67.17  E-value=17  Score=24.92  Aligned_cols=29  Identities=17%  Similarity=0.433  Sum_probs=19.1  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILV-WLQYSLWFGKNGIHDY   29 (41)
+Q Consensus         1 mr~l~~~L~~ll~-~LQy~LW~G~gg~~~~   29 (41)
+                      ||-+.++.++++. +-|..+|..+|++...
+T Consensus         1 mksfaflfillfgflaqasfwipdgsvtnk   30 (170)
+T tr|H9C0P9|H9C0    1 MKSFAFLFILLFGFLAQASFWIPDGSVTNK   30 (170)
+Confidence            4555544444444 3489999999988653
+
+
+No 127
+>tr|X7XQG5|X7XQG5_MYCKA Fusaric acid resistance-like family protein OS=Mycobacterium kansasii 824 OX=1299328 GN=I547_7439 PE=4 SV=1
+Probab=56.37  E-value=36  Score=24.07  Aligned_cols=23  Identities=35%  Similarity=0.525  Sum_probs=17.9  Template_Neff=1.000
+
+Q P0A6S5            7 LLLAILVWLQYSLWFGKNGIHDY   29 (41)
+Q Consensus         7 ~L~~ll~~LQy~LW~G~gg~~~~   29 (41)
+                      +-.++-+.+-|-||-|.||++|-
+T Consensus       109 igaavavvfgyllwpgpggypdp  131 (202)
+T tr|X7XQG5|X7XQ  109 IGAAVAVVFGYLLWPGPGGYPDP  131 (202)
+Confidence            34455667889999999999874
+
+
+No 128
+>tr|A0A1F3DFZ4|A0A1F3DFZ4_9BACT Uncharacterized protein OS=Bacteroidetes bacterium GWA2_40_15 OX=1797319 GN=A2X03_06690 PE=4 SV=1 
+Probab=54.09  E-value=41  Score=23.67  Aligned_cols=40  Identities=30%  Similarity=0.351  Sum_probs=28.6  Template_Neff=1.000
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      |+-++++.+++.++-|+.-=-..++-.+..+.++.++.|+
+T Consensus        13 mkklllivlavvclaqftasgktnssdrnkryekkvarqe   52 (193)
+T tr|A0A1F3DFZ4|   13 MKKLLLIVLAVVCLAQFTASGKTNSSDRNKRYEKKVARQE   52 (193)
+Confidence            5666777777788888876555566666777777777765
+
+
+No 129
+>tr|J9HAD3|J9HAD3_9STAP Uncharacterized protein OS=Staphylococcus sp. OJ82 OX=1202667 GN=SOJ_26510 PE=4 SV=1
+Probab=52.60  E-value=42  Score=21.41  Aligned_cols=29  Identities=21%  Similarity=0.607  Sum_probs=23.7  Template_Neff=1.664
+
+Q P0A6S5            1 MGKLTLLLLAILVWLQYSLWFGKNGIHDY   29 (41)
+Q Consensus         1 mr~l~~~L~~ll~~LQy~LW~G~gg~~~~   29 (41)
+                      |-++..+++.+++..-+++|...|.+...
+T Consensus         1 m~~iitiiig~ivgv~~s~wlt~n~i~~~   29 (90)
+T tr|J9HAD3|J9HA    1 MDFIITIIIGVIVGVSFSIWLTNNKITNL   29 (90)
+Confidence            55666778889999999999999987653
+
+
+No 130
+>tr|A0A2D7AJ00|A0A2D7AJ00_9PROT Uncharacterized protein OS=Kiloniella sp. OX=1938587 GN=CMF26_03340 PE=4 SV=1 
+Probab=49.86  E-value=53  Score=22.34  Aligned_cols=36  Identities=17%  Similarity=0.409  Sum_probs=29.2  Template_Neff=1.000
+
+Q P0A6S5            5 TLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQ   40 (41)
+Q Consensus         5 ~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v~~q~   40 (41)
+                      ..+..+....+.+.+-.|+.|...+...+++++..+
+T Consensus        57 pavfaaaclyfifhlvtgergllaylairkeldtaq   92 (146)
+T tr|A0A2D7AJ00|   57 PAVFAAACLYFIFHLVTGERGLLAYLAIRKELDTAQ   92 (146)
+Confidence            345566677888999999999999999999887654
+
+
+No 131
+>tr|M3GRC2|M3GRC2_9LEPT Uncharacterized protein OS=Leptospira weilii serovar Topaz str. LT2116 OX=1088540 GN=LEP1GSC188_0034 PE=4 SV=1
+Probab=25.97  E-value=2.3e+02  Score=18.63  Aligned_cols=32  Identities=13%  Similarity=0.437  Sum_probs=24.2  Template_Neff=1.000
+
+Q P0A6S5            4 LTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDV   36 (41)
+Q Consensus         4 l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v   36 (41)
+                      +-+.|+.++..+|++.-+.+ -++|...+++|.
+T Consensus        11 iriflvflflsiqfrflfsd-qvpdsvslqnqy   42 (100)
+T tr|M3GRC2|M3GR   11 IRIFLVFLFLSIQFRFLFSD-QVPDSVSLQNQY   42 (100)
+Confidence            44567888889999999976 467777777664
+
+
+No 132
+>tr|M6ZNQ5|M6ZNQ5_LEPIR Uncharacterized protein OS=Leptospira interrogans serovar Pyrogenes str. 200701872 OX=1193029 GN=LEP1GSC124_4693 PE=4 SV=1
+Probab=23.54  E-value=2.8e+02  Score=18.52  Aligned_cols=33  Identities=15%  Similarity=0.414  Sum_probs=25.0  Template_Neff=1.000
+
+Q P0A6S5            3 KLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDV   36 (41)
+Q Consensus         3 ~l~~~L~~ll~~LQy~LW~G~gg~~~~~~l~~~v   36 (41)
+                      .+...|+.++...|++.-+.+ -++|...+++|.
+T Consensus        17 plvfflvflflsvqfrflfsd-qvpdsvslqnqy   49 (107)
+T tr|M6ZNQ5|M6ZN   17 PLVFFLVFLFLSVQFRFLFSD-QVPDSVSLQNQY   49 (107)
+Confidence            456677888889999999976 467777777664
+
+

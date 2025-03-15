@@ -1,0 +1,2506 @@
+Query         4o9p
+Match_columns 42
+No_of_seqs    593 out of 1686
+Neff          3.10913
+Searched_HMMs 238
+Date          Wed Apr 17 02:42:19 2024
+Command       hhblits -i /home/light/Downloads/Crystal_fasta_files/4o9pTMD_Seq_surr20.fasta -d /home/light/Downloads/UniproDB/uniclust30_2018_08_hhsuite/uniclust30_2018_08/uniclust30_2018_08 -oa3m /home/light/Downloads/Crystal_fasta_files/4o9pTMD_Seq_surr20.a3m 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 tr|A0A2E2RFU7|A0A2E2RFU7_9CHLR  99.8   9E-23 4.1E-28  126.9   0.0   42    1-42      3-44  (99)
+  2 tr|A0A2D5AV41|A0A2D5AV41_9BACT  99.7 1.5E-21 6.3E-27  124.9   0.0   40    3-42     17-56  (118)
+  3 tr|A0A2E8KS31|A0A2E8KS31_9GAMM  99.7 1.9E-21 7.7E-27  120.7   0.0   42    1-42      1-42  (92)
+  4 tr|A0A0Q9K1M7|A0A0Q9K1M7_9MICO  99.7 2.8E-21 1.2E-26  122.7   0.0   39    4-42      2-40  (110)
+  5 tr|Q1ARX9|Q1ARX9_RUBXD Pyridin  99.7 2.9E-21 1.2E-26  121.0   0.0   40    3-42      2-41  (101)
+  6 tr|H0E947|H0E947_9ACTN Putativ  99.7 2.8E-20   1E-25  120.8   0.0   42    1-42     18-59  (127)
+  7 tr|A0A1M6NBD2|A0A1M6NBD2_9BRAD  99.7 3.6E-20 1.3E-25  118.4   0.0   42    1-42      1-42  (112)
+  8 tr|A0A1F3MCY7|A0A1F3MCY7_9BACT  99.7 4.9E-20   2E-25  116.6   0.0   40    3-42      9-48  (106)
+  9 tr|A0A2E8YEM6|A0A2E8YEM6_9GAMM  99.7 5.6E-20   2E-25  115.1   0.0   40    3-42      2-41  (95)
+ 10 tr|A0A1A2SL48|A0A1A2SL48_MYCIT  99.6 1.7E-19 6.2E-25  117.5   0.0   42    1-42      1-42  (128)
+ 11 tr|A0A1J4Y9B1|A0A1J4Y9B1_9PROT  99.6 1.9E-19 7.1E-25  115.2   0.0   40    3-42     21-60  (112)
+ 12 tr|A0A1Q8BPY8|A0A1Q8BPY8_9CYAN  99.6 2.5E-19 8.2E-25  108.9   0.0   42    1-42      1-42  (76)
+ 13 tr|A0A2E6KLK5|A0A2E6KLK5_9RICK  99.6 2.8E-19 1.2E-24  118.1   0.0   40    3-42     56-95  (147)
+ 14 tr|A0A2E1S0U1|A0A2E1S0U1_9RHOB  99.6 3.8E-19 1.5E-24  117.0   0.0   39    4-42     45-83  (141)
+ 15 tr|A0A2W4STT0|A0A2W4STT0_9PROT  99.6 4.7E-19 1.7E-24  112.5   0.0   39    4-42      2-40  (105)
+ 16 tr|A0A2D6K4Q4|A0A2D6K4Q4_9PROT  99.6 5.1E-19   2E-24  113.2   0.0   38    5-42     23-60  (112)
+ 17 tr|U4VAX7|U4VAX7_9RHIZ NAD(P)   99.6 6.6E-19 2.5E-24  116.0   0.0   40    3-42     47-86  (140)
+ 18 tr|W0RC73|W0RC73_9BACT NAD(P)   99.6 9.5E-19 3.3E-24  111.8   0.0   39    4-42      2-40  (109)
+ 19 tr|A0A0P6WC32|A0A0P6WC32_9RHIZ  99.6 9.8E-19 3.8E-24  116.3   0.0   39    4-42     57-95  (152)
+ 20 tr|C6WP75|C6WP75_ACTMD NAD/NAD  99.6 1.5E-18 5.4E-24  112.7   0.0   42    1-42      1-42  (124)
+ 21 tr|A0A1G9CGS1|A0A1G9CGS1_9MICC  99.6 1.7E-18 6.5E-24  112.7   0.0   40    3-42      1-40  (127)
+ 22 tr|A0A0F9VCR0|A0A0F9VCR0_9ZZZZ  99.6   2E-18 7.2E-24  110.9   0.0   41    2-42      6-46  (113)
+ 23 tr|A3ZYM8|A3ZYM8_9PLAN Nicotin  99.6 2.5E-18 8.9E-24  116.1   0.0   38    5-42     82-119 (171)
+ 24 tr|A0A158EY24|A0A158EY24_9BURK  99.6 2.8E-18 1.1E-23  109.7   0.0   39    4-42      8-46  (110)
+ 25 tr|A0A2D9YDW4|A0A2D9YDW4_9PROT  99.6 2.9E-18 1.1E-23  111.5   0.0   40    3-42     34-73  (125)
+ 26 tr|M6ZFR8|M6ZFR8_9LEPT PF12769  99.6 3.8E-18 1.2E-23  110.2   0.0   40    3-42     26-65  (118)
+ 27 tr|A0A2D2Q774|A0A2D2Q774_XANCH  99.6 3.4E-18 1.2E-23  102.6   0.0   40    3-42      2-41  (69)
+ 28 tr|A0A1Y2K9J0|A0A1Y2K9J0_9PROT  99.5 8.5E-18 3.3E-23  124.1   0.0   40    3-42    324-363 (412)
+ 29 tr|A0A2E7USI6|A0A2E7USI6_9DELT  99.5 9.8E-18 3.9E-23  126.3   0.0   40    3-42    437-476 (528)
+ 30 tr|A0A1G3Z624|A0A1G3Z624_9BACT  99.5 1.5E-17 4.6E-23   99.2   0.0   40    3-42      1-40  (66)
+ 31 tr|A0A1G3AT25|A0A1G3AT25_9BACT  99.5 1.2E-17 4.7E-23  102.0   0.0   27   16-42      1-27  (79)
+ 32 tr|A0A0F4M0Q5|A0A0F4M0Q5_9BIFI  99.5 1.8E-17 6.4E-23  107.7   0.0   40    3-42      2-41  (122)
+ 33 tr|A0A2E8B2S8|A0A2E8B2S8_9PLAN  99.5 1.9E-17 6.5E-23  109.4   0.0   39    4-42     47-85  (140)
+ 34 tr|A0A1P8WIT2|A0A1P8WIT2_9PLAN  99.5   3E-17   1E-22  107.3   0.0   40    3-42     37-76  (128)
+ 35 tr|A0A1I7MWN6|A0A1I7MWN6_9RHIZ  99.5 3.4E-17 1.2E-22  107.2   0.0   39    4-42     31-69  (129)
+ 36 tr|A0A2X1R4J2|A0A2X1R4J2_9ENTR  99.5   3E-17 1.3E-22  123.7   0.0   40    3-42    445-484 (533)
+ 37 tr|A0A2E7RVC7|A0A2E7RVC7_9PLAN  99.5 7.4E-17 2.4E-22  106.1   0.0   40    3-42     45-84  (134)
+ 38 tr|A0A2D6HMS3|A0A2D6HMS3_9PROT  99.5 7.6E-17 2.9E-22  106.6   0.0   39    4-42     48-86  (140)
+ 39 tr|A0A1E3WA33|A0A1E3WA33_9RHIZ  99.5 9.5E-17 3.3E-22  106.0   0.0   39    4-42     39-77  (138)
+ 40 tr|A0A2T2SRG8|A0A2T2SRG8_9BACT  99.5 1.3E-16 4.4E-22  104.8   0.0   39    4-42     24-62  (132)
+ 41 tr|A0A2G4HZZ3|A0A2G4HZZ3_9FLAO  99.4 1.3E-16 4.8E-22  103.2   0.0   38    5-42     20-57  (117)
+ 42 tr|A0A2E7L3S2|A0A2E7L3S2_9PLAN  99.4 1.6E-16 5.5E-22  107.7   0.0   39    4-42     84-122 (173)
+ 43 tr|A0A2G2DSI9|A0A2G2DSI9_9DELT  99.4 1.5E-16 5.6E-22  120.0   0.0   40    3-42    426-465 (517)
+ 44 tr|A0A0E9L885|A0A0E9L885_9BURK  99.4 2.5E-16 7.8E-22   94.3   0.0   37    6-42      6-42  (67)
+ 45 tr|A0A0F5JU19|A0A0F5JU19_9BURK  99.4 2.1E-16 7.9E-22  103.2   0.0   41    2-42      6-46  (126)
+ 46 tr|A0A1Y6CFC1|A0A1Y6CFC1_9PROT  99.4 4.4E-16 1.6E-21  104.0   0.0   41    2-42     50-90  (150)
+ 47 tr|A0A2E0AVW1|A0A2E0AVW1_9PLAN  99.4 6.5E-16   2E-21  103.8   0.0   38    5-42     70-107 (161)
+ 48 tr|A0A1W9WCL4|A0A1W9WCL4_9CHLR  99.4 9.5E-16 2.9E-21   90.4   0.0   39    4-42      2-40  (60)
+ 49 tr|M4RJU0|M4RJU0_9ALTE NAD(P)   99.4 1.1E-15 3.6E-21   94.3   0.0   39    4-42      2-40  (82)
+ 50 tr|E8R4W5|E8R4W5_ISOPI Unchara  99.4 1.5E-15 4.5E-21   98.8   0.0   42    1-42      1-42  (121)
+ 51 tr|V4PGX1|V4PGX1_9CAUL Unchara  99.4 1.5E-15 5.1E-21   99.8   0.0   38    5-42      7-44  (130)
+ 52 tr|A0A2E8FCL6|A0A2E8FCL6_9PLAN  99.3 3.2E-15   1E-20   98.6   0.0   40    3-42     42-81  (134)
+ 53 tr|A0A2S8MAV1|A0A2S8MAV1_9MYCO  99.3 7.6E-15 2.6E-20  100.9   0.0   39    4-42    100-138 (188)
+ 54 tr|A0A258BB21|A0A258BB21_9CAUL  99.3 1.1E-14 3.6E-20   90.1   0.0   39    4-42      6-44  (82)
+ 55 tr|T1BVM0|T1BVM0_9ZZZZ Nicotin  99.3 1.3E-14 3.9E-20   91.3   0.0   42    1-42     11-52  (92)
+ 56 tr|E0NSC1|E0NSC1_9BACT Unchara  99.2 2.9E-14   1E-19   93.6   0.0   39    4-42     27-65  (126)
+ 57 tr|A0A257RUS5|A0A257RUS5_9ACTN  99.2 4.5E-14 1.4E-19   85.9   0.0   39    4-42      4-42  (72)
+ 58 tr|A0A2V8KM94|A0A2V8KM94_9BACT  99.2 4.6E-14 1.7E-19  108.5   0.0   42    1-42     17-58  (615)
+ 59 tr|A0A2E1V393|A0A2E1V393_9PROT  99.2 5.5E-14 1.8E-19   95.6   0.0   40    3-42     80-119 (169)
+ 60 tr|A0A1J0LYZ0|A0A1J0LYZ0_9BURK  99.2 5.6E-14 1.8E-19   92.8   0.0   38    5-42      7-44  (132)
+ 61 tr|A0A2J9DX77|A0A2J9DX77_9GAMM  99.2 5.7E-14 1.9E-19   92.5   0.0   39    4-42     20-58  (129)
+ 62 tr|A0A2P8D8R4|A0A2P8D8R4_9ACTN  99.2 6.4E-14   2E-19   93.5   0.0   42    1-42      1-42  (146)
+ 63 tr|W4MF89|W4MF89_9BACT Unchara  99.1 1.6E-13   5E-19   96.1   0.0   42    1-42      1-42  (224)
+ 64 tr|N0BF29|N0BF29_9RHIZ Transme  99.1 1.6E-13 5.3E-19   93.0   0.0   36    7-42     65-100 (163)
+ 65 tr|S7WW67|S7WW67_9BACT NAD(P)   99.1 1.9E-13   6E-19   92.4   0.0   35    8-42     14-48  (162)
+ 66 tr|A0A2D8VAE6|A0A2D8VAE6_9BACT  99.1   2E-13 6.1E-19   94.1   0.0   39    4-42    100-138 (191)
+ 67 tr|A0A1X7MH89|A0A1X7MH89_9GAMM  99.1   2E-13 7.3E-19  103.8   0.0   36    7-42    429-479 (516)
+ 68 tr|R4LTY5|R4LTY5_MYCTX NAD(P)   99.1 3.7E-13 1.1E-18   91.1   0.0   42    1-42      1-42  (162)
+ 69 tr|A0A1C6NXR3|A0A1C6NXR3_9ACTN  99.1 3.2E-13 1.2E-18  102.7   0.0   39    4-42    426-464 (514)
+ 70 tr|A0A0N0N4H9|A0A0N0N4H9_9ACTN  99.1 3.9E-13 1.2E-18   89.2   0.0   40    3-42      4-43  (136)
+ 71 tr|A0A1K2H5I6|A0A1K2H5I6_9BURK  99.1 4.4E-13 1.5E-18   88.1   0.0   39    4-42     31-69  (125)
+ 72 tr|A0A1V2IA96|A0A1V2IA96_9ACTN  99.1 5.7E-13 1.8E-18   88.9   0.0   41    1-41      1-41  (141)
+ 73 tr|A0A0C1WV29|A0A0C1WV29_9ACTN  99.0 7.1E-13 2.4E-18   88.2   0.0   40    3-42     48-87  (137)
+ 74 tr|A0A1G5QQG1|A0A1G5QQG1_9MICC  99.0 8.7E-13 2.7E-18   88.5   0.0   39    4-42      2-40  (149)
+ 75 tr|A0A0G1DTI7|A0A0G1DTI7_9BACT  99.0   9E-13 2.8E-18   92.3   0.0   42    1-42      1-42  (218)
+ 76 tr|E2LVZ2|E2LVZ2_MONPE Unchara  99.0 1.1E-12 4.2E-18   95.6   0.0   39    4-42    169-207 (313)
+ 77 tr|A0A1I7D517|A0A1I7D517_9MICC  99.0 2.1E-12 6.5E-18   87.3   0.0   39    4-42      2-40  (157)
+ 78 tr|A8F084|A8F084_RICCK NAD(P)   99.0 2.3E-12   7E-18   81.6   0.0   38    5-42     44-81  (93)
+ 79 tr|A0A0S6TJL6|A0A0S6TJL6_9PROT  99.0 2.4E-12 7.6E-18   97.4   0.0   40    3-42    411-450 (512)
+ 80 tr|A0A094PRW3|A0A094PRW3_9ZZZZ  98.9 3.2E-12   1E-17   86.1   0.0   36    7-42    115-150 (151)
+ 81 tr|B0F474|B0F474_9EUKA Pyridin  98.9 3.2E-12 1.1E-17  103.1   0.0   41    2-42   1046-1086(1151)
+ 82 tr|A0A2H5XTE3|A0A2H5XTE3_9BACT  98.9 4.4E-12 1.4E-17   84.9   0.0   37    6-42     50-86  (144)
+ 83 tr|A0A2V9XH67|A0A2V9XH67_9BACT  98.9 5.1E-12 1.6E-17   96.9   0.0   42    1-42      1-42  (598)
+ 84 tr|A0A2E4GJS5|A0A2E4GJS5_9GAMM  98.9 4.2E-12 1.7E-17   97.6   0.0   39    4-42      9-47  (564)
+ 85 tr|T0YVF7|T0YVF7_9ZZZZ Pyridin  98.9 5.8E-12 1.8E-17   88.1   0.0   40    3-42    114-153 (210)
+ 86 tr|X6P244|X6P244_RETFI Unchara  98.9 4.3E-12 1.9E-17  102.0   0.0   40    3-42    457-496 (1046)
+ 87 tr|A0A258EJ52|A0A258EJ52_9RHOB  98.9 6.6E-12 2.1E-17   90.1   0.0   40    3-42    179-218 (268)
+ 88 tr|A0A0T9MM39|A0A0T9MM39_MYCTX  98.9 8.6E-12 3.1E-17   91.1   0.0   39    4-42    222-260 (310)
+ 89 tr|A0A2V9IAM1|A0A2V9IAM1_9BACT  98.9   1E-11 3.2E-17   83.3   0.0   39    3-41     50-88  (145)
+ 90 tr|A0A2V9YCI7|A0A2V9YCI7_9BACT  98.9 1.1E-11 3.3E-17   93.5   0.0   42    1-42      1-42  (469)
+ 91 tr|A0A2P6KYJ7|A0A2P6KYJ7_NEPCL  98.9 1.2E-11 3.7E-17   84.9   0.0   36    7-42     73-108 (177)
+ 92 tr|A0A2V8IHD6|A0A2V8IHD6_9BACT  98.8 1.5E-11 4.9E-17   81.5   0.0   40    3-42     34-73  (128)
+ 93 tr|A0A2C6KA95|A0A2C6KA95_9APIC  98.8 1.4E-11 5.1E-17   99.8   0.0   38    5-42   1067-1104(1183)
+ 94 tr|D8LUY9|D8LUY9_BLAHO Unchara  98.8 1.5E-11 5.5E-17   99.0   0.0   39    4-42    957-995 (1046)
+ 95 tr|A0A087EDX0|A0A087EDX0_9BIFI  98.8   2E-11 6.5E-17   92.5   0.0   40    3-42    380-419 (485)
+ 96 tr|U6MJ04|U6MJ04_EIMMA Transhy  98.8 1.8E-11 6.9E-17   99.1   0.0   41    2-42   1016-1056(1106)
+ 97 tr|A0A0G4HAS9|A0A0G4HAS9_9ALVE  98.8   2E-11 7.2E-17   99.1   0.0   40    3-42   1111-1150(1205)
+ 98 tr|A0A2I9SEU6|A0A2I9SEU6_XANVA  98.8 3.3E-11   1E-16   74.7   0.0   40    3-42     15-54  (78)
+ 99 tr|A0A1C4P599|A0A1C4P599_9ACTN  98.8 3.5E-11 1.1E-16   77.4   0.0   39    4-42     14-52  (102)
+100 tr|A0A0R2V6J6|A0A0R2V6J6_9PROT  98.7 9.2E-11 3.1E-16   73.9   0.0   23   20-42      1-23  (86)
+101 tr|M2S4D0|M2S4D0_ENTHI Nicotin  98.7 1.5E-10 4.6E-16   91.3   0.0   42    1-42    728-769 (820)
+102 tr|A0A0A1U2E2|A0A0A1U2E2_ENTIV  98.6 1.5E-10 4.8E-16   93.3   0.0   42    1-42    994-1035(1092)
+103 tr|A0A1R2C185|A0A1R2C185_9CILI  98.6 1.6E-10 6.2E-16   93.5   0.0   40    3-42    964-1003(1055)
+104 tr|A0A081XMS7|A0A081XMS7_STRTO  98.6   2E-10 6.3E-16   71.9   0.0   31   12-42      2-32  (82)
+105 tr|W4UCC1|W4UCC1_CUTAC Transhy  98.6 2.1E-10 6.5E-16   81.7   0.0   41    2-42    149-189 (239)
+106 tr|A0A1I7ZZV8|A0A1I7ZZV8_9BILA  98.6 2.8E-10 8.6E-16   86.6   0.0   37    6-42    315-351 (490)
+107 tr|C5KBF8|C5KBF8_PERM5 Unchara  98.6 2.9E-10 1.1E-15   92.8   0.0   40    3-42   1071-1110(1182)
+108 tr|L1K2Z3|L1K2Z3_GUITH Unchara  98.6 3.3E-10 1.4E-15   91.7   0.0   39    4-42    441-479 (1019)
+109 tr|H2ZIS3|H2ZIS3_CIOSA Unchara  98.5 8.9E-10 3.4E-15   89.5   0.0   39    4-42    440-478 (1036)
+110 tr|A0A0L0G5M5|A0A0L0G5M5_9EUKA  98.4 2.7E-09 8.3E-15   76.8   0.0   36    7-42    167-202 (253)
+111 tr|A0A178AV63|A0A178AV63_9PLEO  98.3 3.2E-09 1.1E-14   86.9   0.0   38    5-42    554-591 (1137)
+112 tr|A0A2P6KGA3|A0A2P6KGA3_NEPCL  98.3 6.5E-09 2.4E-14   83.1   0.0   38    5-42    191-228 (788)
+113 tr|K5X481|K5X481_AGABU Unchara  98.2   1E-08 3.6E-14   83.6   0.0   38    5-42    487-524 (1067)
+114 tr|A0A178ZVQ2|A0A178ZVQ2_9EURO  98.1 1.9E-08 6.5E-14   83.1   0.0   38    5-42    696-733 (1282)
+115 tr|A0A0N4YEP6|A0A0N4YEP6_NIPBR  98.1 1.8E-08 6.7E-14   79.6   0.0   39    4-42    453-491 (641)
+116 tr|A0A2G8L3Z2|A0A2G8L3Z2_STIJA  98.1 2.5E-08 8.8E-14   73.5   0.0   34    9-42      2-35  (295)
+117 tr|A0A0P4X5T4|A0A0P4X5T4_9CRUS  98.1   4E-08 1.2E-13   67.5   0.0   34    9-42     92-125 (156)
+118 tr|A0A183DE73|A0A183DE73_9BILA  98.1 4.2E-08 1.3E-13   65.9   0.0   38    5-42     11-48  (130)
+119 tr|A0CWD3|A0CWD3_PARTE Unchara  98.0 4.8E-08 1.6E-13   79.8   0.0   40    3-42    460-499 (1051)
+120 tr|A0A0G4EN35|A0A0G4EN35_VITBC  98.0 6.2E-08 1.9E-13   71.6   0.0   35    8-42    154-188 (310)
+121 tr|A0A0G4EN35|A0A0G4EN35_VITBC  98.0 6.2E-08 1.9E-13   71.6   0.0   35    8-42    225-259 (310)
+122 tr|K1QU53|K1QU53_CRAGI NAD(P)   98.0   7E-08 2.5E-13   80.0   0.0   38    5-42    678-715 (1269)
+123 tr|A0A0G4L0Q4|A0A0G4L0Q4_9PEZI  98.0 9.2E-08   3E-13   75.8   0.0   38    5-42    291-328 (664)
+124 tr|A0A0P7BL59|A0A0P7BL59_9HYPO  97.9   1E-07 3.3E-13   79.2   0.0   37    6-42    773-809 (1352)
+125 tr|K0TLJ9|K0TLJ9_THAOC Unchara  97.9 1.4E-07 4.5E-13   75.0   0.0   37    6-42    122-158 (685)
+126 tr|E9QDE7|E9QDE7_DANRE Nicotin  97.8 2.5E-07 9.3E-13   74.9   0.0   38    5-42    482-519 (802)
+127 tr|H0EC75|H0EC75_GLAL7 Putativ  97.8 3.1E-07 9.9E-13   73.8   0.0   36    7-42    199-234 (783)
+128 tr|A0A2J7ZT01|A0A2J7ZT01_9CHLO  97.7 4.9E-07 1.5E-12   64.5   0.0   38    5-42    149-186 (208)
+129 tr|A0A0R3WSY5|A0A0R3WSY5_HYDTA  97.7   6E-07 1.9E-12   66.7   0.0   38    5-42     62-99  (308)
+130 tr|A0A0N4UGB8|A0A0N4UGB8_DRAME  97.6 8.4E-07 3.2E-12   70.6   0.0   36    7-42     29-64  (624)
+131 tr|E1Z5C8|E1Z5C8_CHLVA Unchara  97.6   1E-06 3.3E-12   71.4   0.0   39    4-42    530-568 (807)
+132 tr|A0A0M0K3Y1|A0A0M0K3Y1_9EUKA  97.6 1.2E-06 4.3E-12   73.4   0.0   37    6-42    710-746 (1297)
+133 tr|A0A1V8TDG8|A0A1V8TDG8_9PEZI  97.6 1.4E-06 4.3E-12   75.2   0.0   37    6-42   2250-2286(2820)
+134 tr|A0A0G4G369|A0A0G4G369_VITBC  97.6 1.4E-06 4.4E-12   73.5   0.0   35    8-42   1640-1674(1725)
+135 tr|A0A0L1HIX3|A0A0L1HIX3_9PLEO  97.5 1.6E-06   5E-12   74.0   0.0   36    7-42   1041-1076(2198)
+136 tr|A0A1B8BZW7|A0A1B8BZW7_9PEZI  97.5 1.8E-06 5.4E-12   72.8   0.0   37    6-42   1060-1096(1645)
+137 tr|V5GYP7|V5GYP7_IXORI Putativ  97.5   2E-06 6.1E-12   66.3   0.0   33   10-42      3-35  (446)
+138 tr|A0A2S5R9H9|A0A2S5R9H9_9PROT  97.4 3.6E-06 1.2E-11   57.5   0.0   35    8-42      3-37  (134)
+139 tr|A0A0C2CHY6|A0A0C2CHY6_9BILA  97.4 4.2E-06 1.3E-11   67.4   0.0   37    6-42    251-287 (760)
+140 tr|L8WU26|L8WU26_THACA Asparta  97.4 4.4E-06 1.4E-11   70.3   0.0   38    5-42    532-569 (1515)
+141 tr|A0A0P5M5B8|A0A0P5M5B8_9CRUS  97.4   5E-06 1.6E-11   61.7   0.0   34    9-42     94-127 (286)
+142 tr|A0A0P5VEM6|A0A0P5VEM6_9CRUS  97.3 5.3E-06 1.6E-11   60.7   0.0   36    7-42    195-230 (248)
+143 tr|H3FHD9|H3FHD9_PRIPA Unchara  97.3 5.7E-06 1.8E-11   69.2   0.0   37    6-42    294-330 (1327)
+144 tr|B6AGQ7|B6AGQ7_CRYMR NAD tra  97.3 5.1E-06 1.8E-11   69.1   0.0   37    6-42    989-1025(1074)
+145 tr|A0A1Q9CDQ7|A0A1Q9CDQ7_SYMMI  97.3 6.8E-06 2.1E-11   69.0   0.0   36    7-42    959-994 (1429)
+146 tr|A0A1Q3MUB7|A0A1Q3MUB7_9PROT  97.3 8.7E-06 2.7E-11   53.6   0.0   36    7-42     18-53  (101)
+147 tr|A0A0P6FUD1|A0A0P6FUD1_9CRUS  97.2 9.5E-06   3E-11   63.0   0.0   34    9-42    262-295 (455)
+148 tr|A0A2P6TXK7|A0A2P6TXK7_CHLSO  97.2 1.2E-05 3.7E-11   67.6   0.0   36    7-42    807-842 (1403)
+149 tr|R7YGR6|R7YGR6_CONA1 Unchara  97.1 1.7E-05 5.2E-11   66.6   0.0   37    6-42    726-762 (1312)
+150 tr|A0A2P4T4A6|A0A2P4T4A6_BAMTH  97.0 2.7E-05 8.8E-11   62.7   0.0   33   10-42    217-249 (645)
+151 tr|A0A1V6TBN3|A0A1V6TBN3_9EURO  97.0 2.9E-05 9.3E-11   66.2   0.0   36    7-42   1024-1059(1603)
+152 tr|A0A1Q9EJ53|A0A1Q9EJ53_SYMMI  96.9 5.1E-05 1.6E-10   64.5   0.0   39    4-42    868-906 (1505)
+153 tr|A0A1Q9EXD2|A0A1Q9EXD2_SYMMI  96.9 5.8E-05 1.8E-10   62.6   0.0   27   16-42    853-879 (1009)
+154 tr|G9KDK4|G9KDK4_MUSPF Nicotin  96.8 9.2E-05   3E-10   58.3   0.0   36    7-42    133-172 (464)
+155 tr|A0A0P4X0L9|A0A0P4X0L9_9CRUS  96.7 9.8E-05 3.2E-10   51.8   0.0   25   18-42     17-41  (155)
+156 tr|A0A1J1J5S9|A0A1J1J5S9_9DIPT  96.7 0.00011 3.4E-10   63.1   0.0   36    7-42    480-515 (1695)
+157 tr|A0A2M9P536|A0A2M9P536_9RHOB  96.5 0.00032 9.8E-10   46.2   0.0   24    3-26     68-91  (92)
+158 tr|A0A194PJ99|A0A194PJ99_PAPXU  96.2  0.0007 2.2E-09   59.1   0.0   35    8-42    465-499 (1902)
+159 tr|A0A1V5IG65|A0A1V5IG65_9ACTN  96.0  0.0016 4.9E-09   43.0   0.0   14   29-42      2-15  (90)
+160 tr|A0A1Q9CNN6|A0A1Q9CNN6_SYMMI  95.9  0.0018 5.6E-09   57.0   0.0   36    7-42   1226-1261(2052)
+161 tr|A0A0R3TWP4|A0A0R3TWP4_HYMNN  95.3  0.0061 2.1E-08   49.2   0.0   40    3-42     89-128 (483)
+162 tr|A0A2T2T6L9|A0A2T2T6L9_9BACT  93.9   0.048 1.5E-07   37.1   0.0   26    5-30     27-52  (100)
+163 tr|A0A1G4AJS0|A0A1G4AJS0_9GAMM  92.6    0.15 4.6E-07   32.4   0.0   22    6-27     12-33  (60)
+164 tr|A0A2X2XN99|A0A2X2XN99_CITKO  89.3    0.66 2.1E-06   34.2   0.0   21    9-29     51-71  (157)
+165 tr|A0A177CRU5|A0A177CRU5_9PLEO  88.3    0.94 2.9E-06   33.7   0.0   16   22-37     35-50  (170)
+166 tr|W7TWW3|W7TWW3_9STRA Unchara  87.9       1 3.2E-06   35.3   0.0   26   10-35     14-39  (262)
+167 tr|A0A2X4TE06|A0A2X4TE06_SALCE  87.8     1.1 3.3E-06   33.6   0.0   21    9-29    130-150 (175)
+168 tr|A0A1V6F9M4|A0A1V6F9M4_9BACT  87.5     1.1 3.6E-06   34.8   0.0   23   15-37    136-158 (239)
+169 tr|A0A1J8QN62|A0A1J8QN62_9HOMO  86.7     1.4 4.3E-06   39.1   0.0   20   21-40    494-513 (989)
+170 tr|G4D754|G4D754_9FIRM Unchara  84.9     2.1 6.4E-06   26.1   0.0   23    4-26      8-30  (41)
+171 tr|A0A1M6LSV9|A0A1M6LSV9_9CLOT  84.8     2.1 6.5E-06   25.9   0.0   24    1-24      1-24  (40)
+172 tr|A0A165ETM3|A0A165ETM3_9BASI  84.6     2.2 6.8E-06   32.2   0.0   20   19-38    123-142 (176)
+173 tr|X6CK34|X6CK34_9RHIZ Unchara  83.8     2.6   8E-06   29.2   0.0   20    4-23     49-68  (92)
+174 tr|I7ML24|I7ML24_TETTS NAD(P)   82.9       3 9.2E-06   38.0   0.0   34    3-36   1126-1159(1229)
+175 tr|A0A0S2JFP5|A0A0S2JFP5_9GAMM  82.2     3.3   1E-05   27.8   0.0   23    4-26      2-24  (74)
+176 tr|A0A1G8JTE4|A0A1G8JTE4_9RHOB  82.1     3.4   1E-05   28.9   0.0   24    6-29     58-81  (97)
+177 tr|I3U7Z7|I3U7Z7_ADVKW Polar a  80.8     4.1 1.3E-05   30.4   0.0   30   11-41     83-112 (156)
+178 tr|X0ZHG2|X0ZHG2_9ZZZZ Unchara  79.6     4.8 1.5E-05   24.9   0.0   30    1-30      1-30  (44)
+179 tr|H3F2H6|H3F2H6_PRIPA Unchara  77.4     6.3   2E-05   29.8   0.0   26    8-33     25-50  (165)
+180 tr|G0QPE3|G0QPE3_ICHMG Nad tra  77.2     6.5   2E-05   29.8   0.0   32    4-35     69-100 (169)
+181 tr|R2NNW7|R2NNW7_ENTFC Unchara  76.3       7 2.2E-05   27.3   0.0   22    3-24      1-22  (92)
+182 tr|H5SNM1|H5SNM1_9BACT Unchara  75.3       8 2.5E-05   25.6   0.0   24    3-26     37-60  (63)
+183 tr|G3W178|G3W178_SARHA Transme  74.6     6.8 2.7E-05   32.3   0.0   32    7-38     73-104 (350)
+184 tr|A0A1F7GV60|A0A1F7GV60_9BACT  74.0       9 2.8E-05   28.3   0.0   28    6-34     46-73  (133)
+185 tr|A0A0A2VYP7|A0A0A2VYP7_BEABA  72.7      10 3.2E-05   35.3   0.0   21    9-29   1115-1135(1332)
+186 tr|A0A1G2HV77|A0A1G2HV77_9BACT  70.4      13 3.9E-05   26.7   0.0   23    7-29      5-27  (104)
+187 tr|A0A2M7VHK8|A0A2M7VHK8_9BACT  70.4      13 3.9E-05   28.8   0.0   37    5-41     32-69  (184)
+188 tr|G6ELM3|G6ELM3_STRTR Murein   67.5      16   5E-05   24.7   0.0   35    5-39      8-42  (69)
+189 tr|L0GWS4|L0GWS4_9GAMM Unchara  62.6      23 7.2E-05   30.8   0.0   30    5-34     47-76  (508)
+190 tr|A0A0R1THL9|A0A0R1THL9_9LACO  60.8      26 8.2E-05   29.1   0.0   32    8-39     25-56  (319)
+191 tr|A0A2S2N5C6|A0A2S2N5C6_9ZZZZ  57.4      33  0.0001   27.8   0.0   26    6-33    127-152 (247)
+192 tr|A0A106QCG2|A0A106QCG2_9BURK  41.3      89 0.00028   24.2   0.0   30    4-33     25-54  (153)
+
+No 1
+>tr|A0A2E2RFU7|A0A2E2RFU7_9CHLR Pyridine nucleotide transhydrogenase OS=Chloroflexi bacterium OX=2026724 GN=CL754_02110 PE=4 SV=1
+Probab=99.78  E-value=9e-23  Score=126.89  Aligned_cols=42  Identities=52%  Similarity=0.903  Sum_probs=39.4  Template_Neff=3.500
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.++++..+++|++|.|+|||+|+|||+.|||||||++||||
+T Consensus         3 ~~~~~~~~l~vFvla~fvG~evIskVP~~LHTPLMSgtNAIS   44 (99)
+T tr|A0A2E2RFU7|    3 MMMDLIAALTVFVLAIFVGFEVISKVPPTLHTPLMSGTNAIS   44 (99)
+Confidence            346788999999999999999999999999999999999997
+
+
+No 2
+>tr|A0A2D5AV41|A0A2D5AV41_9BACT NAD(P) transhydrogenase subunit alpha OS=Planctomycetes bacterium OX=2026780 GN=CMJ89_06790 PE=4 SV=1
+Probab=99.73  E-value=1.5e-21  Score=124.91  Aligned_cols=40  Identities=58%  Similarity=0.918  Sum_probs=37.7  Template_Neff=3.050
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..++||+|++|+|+|+|+||||+|||||||++||||
+T Consensus        17 ~~li~~l~vflLa~flGfElItKVPPTLHTPLMSGaNAIS   56 (118)
+T tr|A0A2D5AV41|   17 SFLIEALWVFLLAIFLGFELITKVPPTLHTPLMSGANAIS   56 (118)
+Confidence            4567889999999999999999999999999999999997
+
+
+No 3
+>tr|A0A2E8KS31|A0A2E8KS31_9GAMM NAD(P) transhydrogenase subunit alpha OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD59_00575 PE=4 SV=1
+Probab=99.73  E-value=1.9e-21  Score=120.68  Aligned_cols=42  Identities=52%  Similarity=0.895  Sum_probs=39.0  Template_Neff=2.600
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.+..+..+++|++|.|+|||+|+|||+.||||||||+||||
+T Consensus         1 ~~~~~~~l~~ilvlaifLG~ELIsKVPstLHTPLMSGsNAIS   42 (92)
+T tr|A0A2E8KS31|    1 MMMEIILLLFVLVLSIFLGFELISKVPSTLHTPLMSGANAIS   42 (92)
+Confidence            356677899999999999999999999999999999999998
+
+
+No 4
+>tr|A0A0Q9K1M7|A0A0Q9K1M7_9MICO NAD+ kinase OS=Agromyces sp. Soil535 OX=1736390 GN=ASG80_00665 PE=4 SV=1
+Probab=99.72  E-value=2.8e-21  Score=122.74  Aligned_cols=39  Identities=56%  Similarity=0.989  Sum_probs=37.2  Template_Neff=2.800
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +.+..++||+||.|+|||||||||++|||||||++||||
+T Consensus         2 ~~~~~ltifVLa~fVGfEViSKV~stLHTPLMSGaNAIH   40 (110)
+T tr|A0A0Q9K1M7|    2 ELLANLTIFVLAVFVGFEVISKVPSTLHTPLMSGANAIH   40 (110)
+Confidence            567889999999999999999999999999999999997
+
+
+No 5
+>tr|Q1ARX9|Q1ARX9_RUBXD Pyridine transhydrogenase subunit (Alpha)2 OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) OX=266117 GN=Rxyl_2939 PE
+Probab=99.72  E-value=2.9e-21  Score=121.01  Aligned_cols=40  Identities=65%  Similarity=1.022  Sum_probs=37.7  Template_Neff=3.158
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +..+..++||+||.|+|||+|||||..|||||||++||||
+T Consensus         2 ~~~~~~laIfvlAaF~G~evIsrVP~~LHTPLMSgtNaIH   41 (101)
+T tr|Q1ARX9|Q1AR    2 MVLLVNLAIFVLAAFLGFEVISRVPNILHTPLMSGTNAIH   41 (101)
+Confidence            4567889999999999999999999999999999999997
+
+
+No 6
+>tr|H0E947|H0E947_9ACTN Putative pyridine nucleotide transhydrogenase alpha 2 subunit OS=Patulibacter medicamentivorans OX=1097667 GN=PAI11_33620 PE=4 
+Probab=99.68  E-value=2.8e-20  Score=120.83  Aligned_cols=42  Identities=50%  Similarity=0.847  Sum_probs=40.4  Template_Neff=2.200
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+++++..+.||+||.|+||+||||||.+||||||||+||||
+T Consensus        18 m~~~Ll~nlailVLs~fVGF~VISKVPnTLHTPLMSGtNAIH   59 (127)
+T tr|H0E947|H0E9   18 MYTELLANLAILVLSGFVGFAVISKVPNTLHTPLMSGTNAIH   59 (127)
+Confidence            678889999999999999999999999999999999999997
+
+
+No 7
+>tr|A0A1M6NBD2|A0A1M6NBD2_9BRAD NAD(P) transhydrogenase subunit alpha OS=Bradyrhizobium lablabi OX=722472 GN=SAMN05444159_1936 PE=4 SV=1
+Probab=99.68  E-value=3.6e-20  Score=118.44  Aligned_cols=42  Identities=48%  Similarity=0.796  Sum_probs=40.5  Template_Neff=2.200
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.+.+..+++|+||.|+||+||+||||.|||||||.+||||
+T Consensus         1 m~~~~~~~lyVF~LA~FvG~~vI~rV~pLLHTPLMs~TNAIS   42 (112)
+T tr|A0A1M6NBD2|    1 MSSDLIIYLYVFILAAFVGFQVIRRVSPLLHTPLMSLTNAIS   42 (112)
+Confidence            678889999999999999999999999999999999999997
+
+
+No 8
+>tr|A0A1F3MCY7|A0A1F3MCY7_9BACT Pyridine nucleotide transhydrogenase OS=Bacteroidetes bacterium GWF2_41_31 OX=1797348 GN=A2W85_00625 PE=4 SV=1
+Probab=99.67  E-value=4.9e-20  Score=116.59  Aligned_cols=40  Identities=58%  Similarity=0.982  Sum_probs=37.5  Template_Neff=2.900
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+.+..+++|+||+|+|+|||+|||+.|||||||++||||
+T Consensus         9 ~~~~~~i~i~iL~~flGieVIs~VP~vLHTPLMSGaNAI~   48 (106)
+T tr|A0A1F3MCY7|    9 QDNLEMIYIFILSIFLGIEVISRVPSVLHTPLMSGANAIH   48 (106)
+Confidence            4567789999999999999999999999999999999997
+
+
+No 9
+>tr|A0A2E8YEM6|A0A2E8YEM6_9GAMM Pyridine nucleotide transhydrogenase OS=Thiotrichales bacterium OX=2026796 GN=CMO26_12380 PE=4 SV=1
+Probab=99.67  E-value=5.6e-20  Score=115.09  Aligned_cols=40  Identities=48%  Similarity=0.670  Sum_probs=37.7  Template_Neff=2.100
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++.+..+++|+||||+||.|||+|.|.|||||||.+||||
+T Consensus         2 ~~~~~~l~vFvLAcFvGY~ViWgVTPaLHTPLmsvTNAIS   41 (95)
+T tr|A0A2E8YEM6|    2 SPTLVALYVFVLACFVGYYVVWGVTPALHTPLMSVTNAIS   41 (95)
+Confidence            4567899999999999999999999999999999999997
+
+
+No 10
+>tr|A0A1A2SL48|A0A1A2SL48_MYCIT NAD(P) transhydrogenase subunit alpha OS=Mycobacterium intracellulare OX=1767 GN=A5690_19555 PE=4 SV=1
+Probab=99.64  E-value=1.7e-19  Score=117.46  Aligned_cols=42  Identities=50%  Similarity=0.829  Sum_probs=40.6  Template_Neff=2.100
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+++++..+.|++||.|+||+||||||.+||||||||+||||
+T Consensus         1 my~~ll~NlAIlVLsgfVGFaViSKVPnTLhTPLMSGtNAIH   42 (128)
+T tr|A0A1A2SL48|    1 MYDELLANLAILVLSGFVGFAVISKVPNTLHTPLMSGTNAIH   42 (128)
+Confidence            778899999999999999999999999999999999999997
+
+
+No 11
+>tr|A0A1J4Y9B1|A0A1J4Y9B1_9PROT NAD(P) transhydrogenase subunit alpha OS=Zetaproteobacteria bacterium CG1_02_49_23 OX=1805426 GN=AUJ56_05980 PE=4 SV=1
+Probab=99.64  E-value=1.9e-19  Score=115.22  Aligned_cols=40  Identities=45%  Similarity=0.616  Sum_probs=37.8  Template_Neff=2.200
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..+++|+||||+||+|+|+|.|+|||||||.+||||
+T Consensus        21 dpfv~~~tvFvLA~fVGYyVVW~VTPALHtPLMsVTNAIS   60 (112)
+T tr|A0A1J4Y9B1|   21 DPFIFNLTVFVLACFVGYYVVWNVTPALHTPLMSVTNAIS   60 (112)
+Confidence            4567889999999999999999999999999999999997
+
+
+No 12
+>tr|A0A1Q8BPY8|A0A1Q8BPY8_9CYAN Pyridine nucleotide transhydrogenase (Fragment) OS=Cyanobacteria bacterium 13_1_20CM_4_61_6 OX=1805100 GN=AUG75_00500 PE=4 SV=1
+Probab=99.64  E-value=2.5e-19  Score=108.90  Aligned_cols=42  Identities=50%  Similarity=0.876  Sum_probs=40.3  Template_Neff=1.447
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+..++.-+++|+||+|+||+||+|||+.||||||||+||||
+T Consensus         1 m~~~l~t~~t~fvla~fvg~~vi~k~p~~lhtplmsgtnai~   42 (76)
+T tr|A0A1Q8BPY8|    1 MSNELITSVTYFVLAIFVGYYVISKIPPILHTPLMSGTNAIH   42 (76)
+Confidence            678889999999999999999999999999999999999997
+
+
+No 13
+>tr|A0A2E6KLK5|A0A2E6KLK5_9RICK Uncharacterized protein OS=Rickettsiales bacterium OX=2026788 GN=CMP22_04585 PE=4 SV=1
+Probab=99.63  E-value=2.8e-19  Score=118.10  Aligned_cols=40  Identities=43%  Similarity=0.649  Sum_probs=37.7  Template_Neff=2.800
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..++||+||||+||+|+|||+|.||+|||+.|||||
+T Consensus        56 ~~f~~~lTVFvLAcFVGYYVVW~VTPALHSPLMaVTNAIS   95 (147)
+T tr|A0A2E6KLK5|   56 SPFVFGLTVFVLACFVGYYVVWRVTPALHSPLMAVTNAIS   95 (147)
+Confidence            3567899999999999999999999999999999999997
+
+
+No 14
+>tr|A0A2E1S0U1|A0A2E1S0U1_9RHOB NAD(P) transhydrogenase subunit alpha OS=Rhodobacteraceae bacterium OX=1904441 GN=CML57_10710 PE=4 SV=1
+Probab=99.62  E-value=3.8e-19  Score=116.98  Aligned_cols=39  Identities=49%  Similarity=0.651  Sum_probs=36.6  Template_Neff=2.721
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +..+.+.||++++|+||+|+|+|.|.|||||||.+||||
+T Consensus        45 P~vfr~AIFvlAiFVGYYVVWsVTPALHTPLMsVTNAIS   83 (141)
+T tr|A0A2E1S0U1|   45 PFVFRLAIFVLAIFVGYYVVWSVTPALHTPLMSVTNAIS   83 (141)
+Confidence            456788999999999999999999999999999999997
+
+
+No 15
+>tr|A0A2W4STT0|A0A2W4STT0_9PROT Pyridine nucleotide transhydrogenase OS=Alphaproteobacteria bacterium OX=1913988 GN=DCF31_05980 PE=4 SV=1
+Probab=99.62  E-value=4.7e-19  Score=112.53  Aligned_cols=39  Identities=46%  Similarity=0.660  Sum_probs=37.1  Template_Neff=2.100
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++..+.||+||||+||+|+|+|.|+||||||+.+||||
+T Consensus         2 pfv~~lsIFvLAiFVGYyVVWsVTPALHTPLMaVTNAIS   40 (105)
+T tr|A0A2W4STT0|    2 PFIFILSIFVLACFVGYYVVWSVTPALHTPLMAVTNAIS   40 (105)
+Confidence            567789999999999999999999999999999999997
+
+
+No 16
+>tr|A0A2D6K4Q4|A0A2D6K4Q4_9PROT NAD(P) transhydrogenase subunit alpha OS=Micavibrio sp. OX=2024841 GN=CMH26_09730 PE=4 SV=1
+Probab=99.61  E-value=5.1e-19  Score=113.23  Aligned_cols=38  Identities=45%  Similarity=0.760  Sum_probs=36.2  Template_Neff=2.357
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++..+++|+||||+||+|+|||.|+||+|||+.+||||
+T Consensus        23 ~~tglTvFvLACfVGYyVVWrVTPALHSPLM~vTNAIS   60 (112)
+T tr|A0A2D6K4Q4|   23 FITGLTVFVLACFVGYYVVWRVTPALHSPLMGVTNAIS   60 (112)
+Confidence            46789999999999999999999999999999999997
+
+
+No 17
+>tr|U4VAX7|U4VAX7_9RHIZ NAD(P) transhydrogenase subunit alpha OS=Ochrobactrum intermedium 229E OX=1337887 GN=Q644_17895 PE=4 SV=1
+Probab=99.61  E-value=6.6e-19  Score=115.96  Aligned_cols=40  Identities=45%  Similarity=0.588  Sum_probs=37.6  Template_Neff=2.400
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++++.+.||+||+|+||+|+|+|+|.|||||||.+||||
+T Consensus        47 dPfvf~laIFvLAiFVGYYVVWsVTPALHTPLMsVTNAIS   86 (140)
+T tr|U4VAX7|U4VA   47 DPFVFRLAIFVLAIFVGYYVVWSVTPALHTPLMAVTNAIS   86 (140)
+Confidence            3567889999999999999999999999999999999997
+
+
+No 18
+>tr|W0RC73|W0RC73_9BACT NAD(P) transhydrogenase, alpha subunit, C-terminal OS=Gemmatirosa kalamazoonesis OX=861299 GN=J421_0515 PE=4 SV=1
+Probab=99.60  E-value=9.5e-19  Score=111.80  Aligned_cols=39  Identities=62%  Similarity=1.071  Sum_probs=36.8  Template_Neff=1.790
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+..+++|+||.|+||+||+||||.|||||||.+||||
+T Consensus         2 ~~i~~lyvf~la~f~g~~vi~rvppllhtplmsatnais   40 (109)
+T tr|W0RC73|W0RC    2 ALIAALYVFVLAAFLGYQVISRVPPLLHTPLMSATNAIS   40 (109)
+Confidence            356789999999999999999999999999999999997
+
+
+No 19
+>tr|A0A0P6WC32|A0A0P6WC32_9RHIZ NAD synthetase OS=Prosthecomicrobium hirschii OX=665126 GN=ABB55_08185 PE=4 SV=1
+Probab=99.60  E-value=9.8e-19  Score=116.29  Aligned_cols=39  Identities=49%  Similarity=0.651  Sum_probs=36.8  Template_Neff=2.472
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++.+-+.||+|++|+||+|+|+|.|.|||||||.+||||
+T Consensus        57 pfVfrlaIFVLAIFVGYYVVWSVTPALHTPLMSVTNAIS   95 (152)
+T tr|A0A0P6WC32|   57 PFVFRLAIFVLAIFVGYYVVWSVTPALHTPLMSVTNAIS   95 (152)
+Confidence            456789999999999999999999999999999999997
+
+
+No 20
+>tr|C6WP75|C6WP75_ACTMD NAD/NADP transhydrogenase alpha subunit-like protein OS=Actinosynnema mirum (strain ATCC 29888 / DSM 43827 / NBRC 14064 / IMRU 
+Probab=99.59  E-value=1.5e-18  Score=112.72  Aligned_cols=42  Identities=50%  Similarity=0.822  Sum_probs=40.3  Template_Neff=1.900
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.+++..+.|++||.|+||.||||||.+|||||||++||||
+T Consensus         1 m~~~LlaNlAIlVLagfVGFaVISKVPnTLHTPLMSGTNAIH   42 (124)
+T tr|C6WP75|C6WP    1 MYDELLANLAILVLAGFVGFAVISKVPNTLHTPLMSGTNAIH   42 (124)
+Confidence            678889999999999999999999999999999999999996
+
+
+No 21
+>tr|A0A1G9CGS1|A0A1G9CGS1_9MICC NAD(P) transhydrogenase subunit alpha OS=Arthrobacter sp. ok362 OX=1761745 GN=SAMN04487913_101453 PE=4 SV=1
+Probab=99.58  E-value=1.7e-18  Score=112.70  Aligned_cols=40  Identities=53%  Similarity=1.003  Sum_probs=37.3  Template_Neff=2.356
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+....+++|+||.|+||||++|||+.|||||||++||||
+T Consensus         1 m~~v~~Ltv~VLavfvGfEVvsKV~s~LHTPLMSGANAih   40 (127)
+T tr|A0A1G9CGS1|    1 MGMVNNLTVFVLAVFVGFEVVSKVPSTLHTPLMSGANAIH   40 (127)
+Confidence            3567789999999999999999999999999999999997
+
+
+No 22
+>tr|A0A0F9VCR0|A0A0F9VCR0_9ZZZZ Uncharacterized protein OS=marine sediment metagenome OX=412755 GN=LCGC14_0156710 PE=4 SV=1
+Probab=99.58  E-value=2e-18  Score=110.85  Aligned_cols=41  Identities=73%  Similarity=1.182  Sum_probs=38.4  Template_Neff=2.000
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++.+.+++||.||.|.|||||+|||..||||||||+|.||
+T Consensus         6 ~~~g~~alYIfmLAaftGyevIsrVPvILHTPLMSGSNFiH   46 (113)
+T tr|A0A0F9VCR0|    6 MIDGFVALYIFMLAAFTGYEIISRVPVILHTPLMSGSNFIH   46 (113)
+Confidence            45678899999999999999999999999999999999886
+
+
+No 23
+>tr|A3ZYM8|A3ZYM8_9PLAN Nicotinamide nucleotide transhydrogenase, subunit alpha OS=Blastopirellula marina DSM 3645 OX=314230 GN=DSM3645_07181 PE=4 SV=1
+Probab=99.57  E-value=2.5e-18  Score=116.13  Aligned_cols=38  Identities=61%  Similarity=0.983  Sum_probs=36.0  Template_Neff=1.909
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++..++||+||+|+|||+|.||||+||||||||+||||
+T Consensus        82 lvas~tifvlavfvgfeiitkvpptlhtplmsgsnais  119 (171)
+T tr|A3ZYM8|A3ZY   82 LVASLTIFVLAVFVGFEIITKVPPTLHTPLMSGSNAIS  119 (171)
+Confidence            45678999999999999999999999999999999997
+
+
+No 24
+>tr|A0A158EY24|A0A158EY24_9BURK NAD(P) transhydrogenase OS=Caballeronia humi OX=326474 GN=AWB65_00350 PE=4 SV=1
+Probab=99.57  E-value=2.8e-18  Score=109.73  Aligned_cols=39  Identities=41%  Similarity=0.603  Sum_probs=36.7  Template_Neff=2.300
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+..++||+||+++||.|+|+|+|.|||||||.+||||
+T Consensus         8 ~~~~nliIFVLAiyVGYhVVW~VTPaLHTPLMaVTNAIS   46 (110)
+T tr|A0A158EY24|    8 HTVINLIIFVLAIYVGYHVVWNVTPALHTPLMAVTNAIS   46 (110)
+Confidence            346789999999999999999999999999999999998
+
+
+No 25
+>tr|A0A2D9YDW4|A0A2D9YDW4_9PROT NAD(P) transhydrogenase subunit alpha OS=Rhodospirillaceae bacterium OX=1898112 GN=CMM19_11675 PE=4 SV=1
+Probab=99.57  E-value=2.9e-18  Score=111.45  Aligned_cols=40  Identities=45%  Similarity=0.610  Sum_probs=37.9  Template_Neff=2.300
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...++.++||+||||+||+|+|||.|+||||||+.+||||
+T Consensus        34 ~p~IFaiTiFvLa~FVGYyVVwrvtPALhtpLm~vTnaiS   73 (125)
+T tr|A0A2D9YDW4|   34 DPLIFAITIFVLASFVGYYVVWKVTPALHTPLMSITNAIS   73 (125)
+Confidence            4568899999999999999999999999999999999997
+
+
+No 26
+>tr|M6ZFR8|M6ZFR8_9LEPT PF12769 domain protein OS=Leptospira santarosai str. 200702252 OX=1049977 GN=LEP1GSC120_0477 PE=4 SV=1
+Probab=99.57  E-value=3.8e-18  Score=110.19  Aligned_cols=40  Identities=58%  Similarity=0.923  Sum_probs=37.5  Template_Neff=1.300
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +..+..+++|+||.|+|||||.||||.||||||||+||||
+T Consensus        26 e~~i~~l~if~lavf~gfevit~ipp~lhtplmsg~nais   65 (118)
+T tr|M6ZFR8|M6ZF   26 EQFVGYLTIFLLAVFVGFEVITRIPPLLHTPLMSGSNAIS   65 (118)
+Confidence            3467889999999999999999999999999999999997
+
+
+No 27
+>tr|A0A2D2Q774|A0A2D2Q774_XANCH Pyridine nucleotide transhydrogenase subunit alpha OS=Xanthomonas campestris pv. phaseoli OX=317013 GN=XAP6984_420030 PE=4 SV=1
+Probab=99.57  E-value=3.4e-18  Score=102.58  Aligned_cols=40  Identities=63%  Similarity=0.981  Sum_probs=37.8  Template_Neff=2.034
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+.+..+++|+||.|+||.||+|||..||||||||+|||+
+T Consensus         2 ~d~~~~l~if~laa~~g~~viskvp~~lhtplmsg~n~ih   41 (69)
+T tr|A0A2D2Q774|    2 SDLFVNLYIFVLAAFAGHVVISKVPVTLHTPLMSGSNAIH   41 (69)
+Confidence            4678899999999999999999999999999999999985
+
+
+No 28
+>tr|A0A1Y2K9J0|A0A1Y2K9J0_9PROT Putative NAD(P) transhydrogenase subunit alpha OS=Magnetofaba australis IT-1 OX=1434232 GN=pntA PE=4 SV=1
+Probab=99.54  E-value=8.5e-18  Score=124.07  Aligned_cols=40  Identities=48%  Similarity=0.721  Sum_probs=38.0  Template_Neff=2.447
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++.++++|+||||+||+|||+|.+.|||||||.+||||
+T Consensus       324 a~Fl~HFTVFVLAcfvGyqViWnVt~aLHTPLMSVTNAIS  363 (412)
+T tr|A0A1Y2K9J0|  324 ADFLSHFTVFVLACFVGYQVIWNVTHALHTPLMSVTNAIS  363 (412)
+Confidence            4678899999999999999999999999999999999997
+
+
+No 29
+>tr|A0A2E7USI6|A0A2E7USI6_9DELT NAD(P) transhydrogenase subunit alpha OS=Deltaproteobacteria bacterium OX=2026735 GN=CL927_08815 PE=3 SV=1
+Probab=99.53  E-value=9.8e-18  Score=126.31  Aligned_cols=40  Identities=40%  Similarity=0.658  Sum_probs=37.9  Template_Neff=2.700
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++.++++|+||||+||+|||+|.+.|||||||.+||||
+T Consensus       437 ~~Fl~HfTVFvLACfVGwqVVWnVtpALHTPLMSVTNAIS  476 (528)
+T tr|A0A2E7USI6|  437 PEFLAHFTVFVLACFVGWQVVWNVSPALHTPLMSVTNAIS  476 (528)
+Confidence            4577899999999999999999999999999999999998
+
+
+No 30
+>tr|A0A1G3Z624|A0A1G3Z624_9BACT NAD(P) transhydrogenase subunit alpha (Fragment) OS=Verrucomicrobia bacterium GWC2_42_7 OX=1802430 GN=A2007_01005 PE=4 SV=1 
+Probab=99.53  E-value=1.5e-17  Score=99.19  Aligned_cols=40  Identities=60%  Similarity=0.982  Sum_probs=37.4  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.+..+++|.+|.|+|||+|+|||+.|||||||++||||
+T Consensus         1 mniilllfifmlaaflgfeliskvpsqlhtplmsgsnais   40 (66)
+T tr|A0A1G3Z624|    1 MNIILLLFIFMLAAFLGFELISKVPSQLHTPLMSGSNAIS   40 (66)
+Confidence            3567789999999999999999999999999999999997
+
+
+No 31
+>tr|A0A1G3AT25|A0A1G3AT25_9BACT NAD(P) transhydrogenase subunit alpha OS=Planctomycetes bacterium RBG_16_64_12 OX=1801971 GN=A2V98_03080 PE=4 SV=1
+Probab=99.53  E-value=1.2e-17  Score=102.02  Aligned_cols=27  Identities=74%  Similarity=1.134  Sum_probs=25.9  Template_Neff=2.600
+
+Q 4o9p             16 AFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        16 ~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .|+|||+|+||||.|||||||++||||
+T Consensus         1 ~f~GfelI~kVP~~LHTPLMSGsNAIS   27 (79)
+T tr|A0A1G3AT25|    1 IFLGFELITKVPPTLHTPLMSGSNAIS   27 (79)
+Confidence            489999999999999999999999997
+
+
+No 32
+>tr|A0A0F4M0Q5|A0A0F4M0Q5_9BIFI NAD/NADP transhydrogenase alpha subunit-like protein OS=Bifidobacterium asteroides OX=1684 GN=JF71_11380 PE=4 SV=1
+Probab=99.52  E-value=1.8e-17  Score=107.67  Aligned_cols=40  Identities=58%  Similarity=0.935  Sum_probs=37.8  Template_Neff=2.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++..+++|+||.++|+|||+|||.+||||||||+|+||
+T Consensus         2 ~~l~~~l~lFvLalliG~eVI~KVPatLHTPlMSGaNsIH   41 (122)
+T tr|A0A0F4M0Q5|    2 SDGFVALYIFMLALIAGHEVISKVPATLHTPLMSGANFIH   41 (122)
+Confidence            4677899999999999999999999999999999999996
+
+
+No 33
+>tr|A0A2E8B2S8|A0A2E8B2S8_9PLAN Uncharacterized protein OS=Planctomycetaceae bacterium OX=2026779 GN=CMJ62_16145 PE=4 SV=1
+Probab=99.52  E-value=1.9e-17  Score=109.42  Aligned_cols=39  Identities=56%  Similarity=0.961  Sum_probs=36.6  Template_Neff=1.664
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++..++||+||+|+|||+|.||||+|||||||++||||
+T Consensus        47 alvasltifilaifigfeiitkvpptlhtplms~snais   85 (140)
+T tr|A0A2E8B2S8|   47 ALVASLTIFILAIFIGFEIITKVPPTLHTPLMSGSNAIS   85 (140)
+Confidence            356779999999999999999999999999999999997
+
+
+No 34
+>tr|A0A1P8WIT2|A0A1P8WIT2_9PLAN NAD(P) transhydrogenase subunit alpha OS=Fuerstia marisgermanicae OX=1891926 GN=pntA PE=4 SV=1
+Probab=99.50  E-value=3e-17  Score=107.30  Aligned_cols=40  Identities=55%  Similarity=0.890  Sum_probs=37.5  Template_Neff=1.736
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..+++|+||.|+|+|+|.|||+.||||||||+||||
+T Consensus        37 s~~i~lltvf~la~~vg~eiitkvp~~lhtpl~sgsnais   76 (128)
+T tr|A0A1P8WIT2|   37 SHFIRLLTVFLLAMFVGFEIITKVPPTLHTPLMSGSNAIS   76 (128)
+Confidence            3467889999999999999999999999999999999997
+
+
+No 35
+>tr|A0A1I7MWN6|A0A1I7MWN6_9RHIZ NAD(P) transhydrogenase subunit alpha OS=Hyphomicrobium facile OX=51670 GN=SAMN04488557_0591 PE=4 SV=1
+Probab=99.50  E-value=3.4e-17  Score=107.16  Aligned_cols=39  Identities=49%  Similarity=0.651  Sum_probs=36.8  Template_Neff=1.900
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++++.+.||++|+|+||+|+|.|.|.|||||||.+||||
+T Consensus        31 p~vf~l~iFvlAiFVGYyVVWsVTPALHTPLMsVTNAIS   69 (129)
+T tr|A0A1I7MWN6|   31 PFVFRLAIFVLAIFVGYYVVWSVTPALHTPLMSVTNAIS   69 (129)
+Confidence            456788999999999999999999999999999999997
+
+
+No 36
+>tr|A0A2X1R4J2|A0A2X1R4J2_9ENTR NAD(P) transhydrogenase subunit alpha OS=Leclercia adecarboxylata OX=83655 GN=pntA PE=4 SV=1
+Probab=99.49  E-value=3e-17  Score=123.75  Aligned_cols=40  Identities=45%  Similarity=0.682  Sum_probs=38.0  Template_Neff=3.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++.++++|+||||+||+|||+|.+.|||||||.|||||
+T Consensus       445 ~~Fl~H~tVFvLacfVGy~VIwnVt~aLHTPLMSVTNAIS  484 (533)
+T tr|A0A2X1R4J2|  445 ASFLSHFTVFVLACFVGYYVVWNVSHALHTPLMSVTNAIS  484 (533)
+Confidence            4577899999999999999999999999999999999998
+
+
+No 37
+>tr|A0A2E7RVC7|A0A2E7RVC7_9PLAN Uncharacterized protein OS=Planctomycetaceae bacterium OX=2026779 GN=CMJ69_05630 PE=4 SV=1
+Probab=99.47  E-value=7.4e-17  Score=106.06  Aligned_cols=40  Identities=58%  Similarity=0.868  Sum_probs=37.3  Template_Neff=1.320
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...+..++||+|++|+|||+|.||||+||||||||+||||
+T Consensus        45 ~~~ias~tifvl~ifvgfe~itkvpptlhtplmsgsnais   84 (134)
+T tr|A0A2E7RVC7|   45 QTTIASLTIFVLAIFVGFEIITKVPPTLHTPLMSGSNAIS   84 (134)
+Confidence            4567789999999999999999999999999999999997
+
+
+No 38
+>tr|A0A2D6HMS3|A0A2D6HMS3_9PROT NAD(P) transhydrogenase subunit alpha part 2 OS=Micavibrio sp. OX=2024841 GN=CMH25_03800 PE=4 SV=1
+Probab=99.47  E-value=7.6e-17  Score=106.55  Aligned_cols=39  Identities=44%  Similarity=0.703  Sum_probs=37.1  Template_Neff=2.277
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++..+++|+||||+||+|+|+|.|+||.|||..+||||
+T Consensus        48 ~fi~gltvfVLAcFVGyyVVW~VTPALHSPLMavTNAiS   86 (140)
+T tr|A0A2D6HMS3|   48 FFITGLTVFVLACFVGYYVVWRVTPALHSPLMAVTNAIS   86 (140)
+Confidence            467889999999999999999999999999999999997
+
+
+No 39
+>tr|A0A1E3WA33|A0A1E3WA33_9RHIZ NAD/NADP transhydrogenase subunit alpha OS=Methyloceanibacter marginalis OX=1774971 GN=AUC71_14095 PE=4 SV=1
+Probab=99.46  E-value=9.5e-17  Score=106.01  Aligned_cols=39  Identities=38%  Similarity=0.514  Sum_probs=36.9  Template_Neff=1.757
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++..+.||+|++|+||+|+|.|.|.|||||||.+||||
+T Consensus        39 ~fi~~~sifvla~fvgyyvvwsvtpalhtplmsvtnais   77 (138)
+T tr|A0A1E3WA33|   39 STVFLAAIFALACFVGYYVVWSVTPALHTPLMAVTNAIS   77 (138)
+Confidence            567788999999999999999999999999999999997
+
+
+No 40
+>tr|A0A2T2SRG8|A0A2T2SRG8_9BACT Pyridine nucleotide transhydrogenase OS=Bacteroidetes bacterium QH_9_67_14 OX=1919102 GN=BRD38_01890 PE=4 SV=1
+Probab=99.45  E-value=1.3e-16  Score=104.81  Aligned_cols=39  Identities=51%  Similarity=0.841  Sum_probs=36.2  Template_Neff=1.584
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+..+++|+|+.|+|+|+|+|||.+||||||||+||||
+T Consensus        24 t~~~n~ivfvl~af~g~ei~skvpqtlhtplmsg~nais   62 (132)
+T tr|A0A2T2SRG8|   24 TAVQNVIVFVLSAFLGNEILSKVPQTLHTPLMSGANAIS   62 (132)
+Confidence            345678999999999999999999999999999999997
+
+
+No 41
+>tr|A0A2G4HZZ3|A0A2G4HZZ3_9FLAO Pyridine nucleotide transhydrogenase OS=Flavobacteriales bacterium OX=2021391 GN=CK532_06340 PE=4 SV=1
+Probab=99.45  E-value=1.3e-16  Score=103.18  Aligned_cols=38  Identities=55%  Similarity=0.920  Sum_probs=35.4  Template_Neff=2.136
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....+++++|++|+|.|||++||+.||||||||+||||
+T Consensus        20 n~~~iy~vIL~iflGvEvIs~VPsVLHTPLMSGaNAIh   57 (117)
+T tr|A0A2G4HZZ3|   20 NQQMIYIVILMIFLGVEVISHVPSVLHTPLMSGANAIH   57 (117)
+Confidence            34578999999999999999999999999999999997
+
+
+No 42
+>tr|A0A2E7L3S2|A0A2E7L3S2_9PLAN Uncharacterized protein OS=Planctomycetaceae bacterium OX=2026779 GN=CMJ70_05815 PE=4 SV=1
+Probab=99.44  E-value=1.6e-16  Score=107.73  Aligned_cols=39  Identities=56%  Similarity=0.934  Sum_probs=36.6  Template_Neff=1.543
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -++..+.||+||+|+|||||+|||+.||||||||+||||
+T Consensus        84 llia~l~i~vlav~vg~eviskvp~mlh~plmsgsnais  122 (173)
+T tr|A0A2E7L3S2|   84 LLIASLAIFVLAVFVGFEVISKVPPMLHTPLMSGSNAIS  122 (173)
+Confidence            356788999999999999999999999999999999997
+
+
+No 43
+>tr|A0A2G2DSI9|A0A2G2DSI9_9DELT NAD(P) transhydrogenase subunit alpha OS=Desulfotalea sp. OX=2030813 GN=COA36_08755 PE=3 SV=1
+Probab=99.44  E-value=1.5e-16  Score=120.01  Aligned_cols=40  Identities=43%  Similarity=0.676  Sum_probs=37.9  Template_Neff=2.300
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++.++++|+||||+||+|||+|.+.|||||||.+||||
+T Consensus       426 ~sFm~Hf~VFvLacFVG~~VIWnVs~sLHTPLMsVTNAIS  465 (517)
+T tr|A0A2G2DSI9|  426 ASFMQHFTVFVLACFVGFQVIWNVSHSLHTPLMSVTNAIS  465 (517)
+Confidence            4577899999999999999999999999999999999997
+
+
+No 44
+>tr|A0A0E9L885|A0A0E9L885_9BURK NAD(P) transhydrogenase subunit alpha OS=Alicycliphilus sp. B1 OX=1603291 GN=pntAb2 PE=4 SV=1 
+Probab=99.43  E-value=2.5e-16  Score=94.31  Aligned_cols=37  Identities=43%  Similarity=0.637  Sum_probs=34.8  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -.-+++|+||||+||.|+|+|.|+|||||||.+||||
+T Consensus         6 swdftvfvlacfigymvvwnvtpalhtplmsvtnais   42 (67)
+T tr|A0A0E9L885|    6 SWDFTVFVLACFIGYMVVWNVTPALHTPLMSVTNAIS   42 (67)
+Confidence            4567899999999999999999999999999999997
+
+
+No 45
+>tr|A0A0F5JU19|A0A0F5JU19_9BURK NADP transhydrogenase subunit alpha OS=Robbsia andropogonis OX=28092 GN=WM40_24935 PE=4 SV=1
+Probab=99.43  E-value=2.1e-16  Score=103.17  Aligned_cols=41  Identities=63%  Similarity=1.074  Sum_probs=38.3  Template_Neff=2.350
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++.+..++||+||.|.||.+|.|||..|||||||++|.++
+T Consensus         6 si~gfvalYIFmLAaf~GwviIgrVPaILHTPLMSGSNFVH   46 (126)
+T tr|A0A0F5JU19|    6 SISGFVALYIFMLAAFAGWVIIGRVPAILHTPLMSGSNFVH   46 (126)
+Confidence            56678899999999999999999999999999999999875
+
+
+No 46
+>tr|A0A1Y6CFC1|A0A1Y6CFC1_9PROT NAD(P) transhydrogenase subunit alpha OS=Tistlia consotensis USBA 355 OX=560819 GN=SAMN05428998_12357 PE=4 SV=1
+Probab=99.40  E-value=4.4e-16  Score=103.98  Aligned_cols=41  Identities=39%  Similarity=0.608  Sum_probs=38.5  Template_Neff=2.056
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...++..+++|+||+|+||.|+|||.|.||.|||..+||||
+T Consensus        50 ~~~~i~GLTVfvLAvFVGYhVVWrVTPALHSPLM~vTNAiS   90 (150)
+T tr|A0A1Y6CFC1|   50 ISPLIIGLTVFVLAVFVGYHVVWRVTPALHSPLMAVTNAIS   90 (150)
+Confidence            35678899999999999999999999999999999999997
+
+
+No 47
+>tr|A0A2E0AVW1|A0A2E0AVW1_9PLAN Uncharacterized protein OS=Blastopirellula sp. OX=2024826 GN=CL681_11920 PE=4 SV=1 
+Probab=99.39  E-value=6.5e-16  Score=103.83  Aligned_cols=38  Identities=61%  Similarity=0.952  Sum_probs=35.8  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |-..+.||+|++|+|||||.||||.|||||||++||||
+T Consensus        70 waalltifvlaifvgfevitkvpptlhtplmsgsnais  107 (161)
+T tr|A0A2E0AVW1|   70 WAALLTIFVLAIFVGFEVITKVPPTLHTPLMSGSNAIS  107 (161)
+Confidence            45678999999999999999999999999999999997
+
+
+No 48
+>tr|A0A1W9WCL4|A0A1W9WCL4_9CHLR Uncharacterized protein OS=Anaerolineaceae bacterium 4572_78 OX=1972460 GN=B6242_08495 PE=4 SV=1 
+Probab=99.38  E-value=9.5e-16  Score=90.41  Aligned_cols=39  Identities=54%  Similarity=0.827  Sum_probs=35.9  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..++..+++|+|||+|.|||.+||||||||+||||
+T Consensus         2 tpiflafilalsiflgfeliakvpatlhtplmsgsnais   40 (60)
+T tr|A0A1W9WCL4|    2 TPIFLAFILALSIFLGFELIAKVPATLHTPLMSGSNAIS   40 (60)
+Confidence            456777888999999999999999999999999999997
+
+
+No 49
+>tr|M4RJU0|M4RJU0_9ALTE NAD(P) transhydrogenase subunit alpha OS=Paraglaciecola psychrophila 170 OX=1129794 GN=C427_0743 PE=4 SV=1 
+Probab=99.37  E-value=1.1e-15  Score=94.26  Aligned_cols=39  Identities=54%  Similarity=0.900  Sum_probs=36.1  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +....++|.+|+.|+|||+|.|||.+|||||||++||||
+T Consensus         2 davyllfilllsmfvgyeliqkvpatlhtplmsganais   40 (82)
+T tr|M4RJU0|M4RJ    2 DAVYLLFILLLSMFVGYELIQKVPATLHTPLMSGANAIS   40 (82)
+Confidence            455678899999999999999999999999999999997
+
+
+No 50
+>tr|E8R4W5|E8R4W5_ISOPI Uncharacterized protein OS=Isosphaera pallida (strain ATCC 43644 / DSM 9630 / IS1B) OX=575540 GN=Isop_1123 PE=4 SV=1 
+Probab=99.36  E-value=1.5e-15  Score=98.77  Aligned_cols=42  Identities=52%  Similarity=0.824  Sum_probs=38.9  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |..++....++|+|+.|+|||+|-||||+|||||||++||||
+T Consensus         1 mgadlmvfvtvfvlalfvgfelivkvpptlhtplmsgsnais   42 (121)
+T tr|E8R4W5|E8R4    1 MGADLMVFVTVFVLALFVGFELIVKVPPTLHTPLMSGSNAIS   42 (121)
+Confidence            455777888999999999999999999999999999999997
+
+
+No 51
+>tr|V4PGX1|V4PGX1_9CAUL Uncharacterized protein OS=Asticcacaulis sp. AC466 OX=1282362 GN=AEAC466_09490 PE=4 SV=1
+Probab=99.36  E-value=1.5e-15  Score=99.80  Aligned_cols=38  Identities=45%  Similarity=0.592  Sum_probs=35.9  Template_Neff=1.556
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++-+.||+|++|+||+|+|.|.|.||||||+.+||||
+T Consensus         7 t~frlaifvlaifvgyyvvwsvtpalhtplmavtnais   44 (130)
+T tr|V4PGX1|V4PG    7 TVFRLAIFVLAIFVGYYVVWSVTPALHTPLMAVTNAIS   44 (130)
+Confidence            46778999999999999999999999999999999997
+
+
+No 52
+>tr|A0A2E8FCL6|A0A2E8FCL6_9PLAN Uncharacterized protein OS=Planctomycetaceae bacterium OX=2026779 GN=CMJ65_00860 PE=4 SV=1
+Probab=99.33  E-value=3.2e-15  Score=98.63  Aligned_cols=40  Identities=63%  Similarity=0.956  Sum_probs=37.9  Template_Neff=1.276
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++..++||+||.|+|.++|.||||.|||||||++||||
+T Consensus        42 ~~ll~llyifvlasflghqlitrvppllhtplmsgtnais   81 (134)
+T tr|A0A2E8FCL6|   42 PDLLILLYIFVLASFLGHQLITRVPPLLHTPLMSGTNAIS   81 (134)
+Confidence            4678899999999999999999999999999999999997
+
+
+No 53
+>tr|A0A2S8MAV1|A0A2S8MAV1_9MYCO NAD(P)(+) transhydrogenase (Re/Si-specific) subunit alpha (Fragment) OS=Mycobacterium sp. ITM-2016-00317 OX=2099694 GN=C6A87_87
+Probab=99.28  E-value=7.6e-15  Score=100.90  Aligned_cols=39  Identities=44%  Similarity=0.647  Sum_probs=36.9  Template_Neff=1.698
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...+++|+|||++||+|||+|...|||||||.+||||
+T Consensus       100 a~~~h~tvf~la~~vgy~vi~nv~~alhtplmsvtnais  138 (188)
+T tr|A0A2S8MAV1|  100 AFMTHFTVFVLACVVGYYVIWNVHHALHTPLMSVTNAIS  138 (188)
+Confidence            466789999999999999999999999999999999997
+
+
+No 54
+>tr|A0A258BB21|A0A258BB21_9CAUL NAD(P) transhydrogenase subunit alpha (Fragment) OS=Asticcacaulis sp. 32-58-5 OX=1970317 GN=B7Z26_06810 PE=4 SV=1
+Probab=99.27  E-value=1.1e-14  Score=90.12  Aligned_cols=39  Identities=46%  Similarity=0.628  Sum_probs=36.3  Template_Neff=1.244
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...+.+.||+|++|+||+|+|.|.|.||||||..+||||
+T Consensus         6 p~vfy~aifvla~fvgyyvvwsvtpalhtplmavtnais   44 (82)
+T tr|A0A258BB21|    6 PFVFYLAIFVLAIFVGYYVVWSVTPALHTPLMAVTNAIS   44 (82)
+Confidence            346778999999999999999999999999999999997
+
+
+No 55
+>tr|T1BVM0|T1BVM0_9ZZZZ Nicotinamide nucleotide transhydrogenase, subunit alpha OS=mine drainage metagenome OX=410659 GN=B1A_05361 PE=4 SV=1 
+Probab=99.27  E-value=1.3e-14  Score=91.26  Aligned_cols=42  Identities=52%  Similarity=0.782  Sum_probs=38.9  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.++-..+++|.|+.|+||||+.+|.|.|||||||.+||||
+T Consensus        11 mspslesnlfvfalaaflgyevvrrvspqlhtplmsltnais   52 (92)
+T tr|T1BVM0|T1BV   11 MSPSLESNLFVFALAAFLGYEVVRRVSPQLHTPLMSLTNAIS   52 (92)
+Confidence            566677789999999999999999999999999999999997
+
+
+No 56
+>tr|E0NSC1|E0NSC1_9BACT Uncharacterized protein OS=Prevotella marshii DSM 16973 = JCM 13450 OX=862515 GN=HMPREF0658_1072 PE=4 SV=1
+Probab=99.22  E-value=2.9e-14  Score=93.63  Aligned_cols=39  Identities=41%  Similarity=0.738  Sum_probs=36.7  Template_Neff=1.867
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++.++.+|+.+..+||.+|++||+.||||||||+||.|
+T Consensus        27 ~PliL~lvFvv~ti~GYfiIk~vPsLLHTPLMSGMNALS   65 (126)
+T tr|E0NSC1|E0NS   27 HPLILVLVFIISTILGYFIIKNVPSLLHTPLMSGMNALS   65 (126)
+Confidence            467788999999999999999999999999999999986
+
+
+No 57
+>tr|A0A257RUS5|A0A257RUS5_9ACTN Uncharacterized protein OS=Actinobacteria bacterium 21-64-8 OX=1970488 GN=B7X07_05605 PE=4 SV=1 
+Probab=99.20  E-value=4.5e-14  Score=85.87  Aligned_cols=39  Identities=54%  Similarity=0.849  Sum_probs=35.3  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -++...++.+|++|+|.|+|.|||+.||||||||+|||+
+T Consensus         4 vllqyatvlvlsifvgieiiakvpsilhtplmsgsnaih   42 (72)
+T tr|A0A257RUS5|    4 VLLQYATVLVLSIFVGIEIIAKVPSILHTPLMSGSNAIH   42 (72)
+Confidence            345567889999999999999999999999999999986
+
+
+No 58
+>tr|A0A2V8KM94|A0A2V8KM94_9BACT NAD synthetase OS=Acidobacteria bacterium OX=1978231 GN=DMG15_07910 PE=4 SV=1
+Probab=99.19  E-value=4.6e-14  Score=108.50  Aligned_cols=42  Identities=55%  Similarity=0.928  Sum_probs=38.1  Template_Neff=1.964
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |..++-..++||+|+.|+||.+|+||||.|||||||++||+|
+T Consensus        17 m~~~~eiglyiFiLagfLGYh~I~rVPpLLHTPLMSatNA~s   58 (615)
+T tr|A0A2V8KM94|   17 MTTELEIGLYIFILAGFLGYHLISRVPPLLHTPLMSATNAMS   58 (615)
+Confidence            344556789999999999999999999999999999999986
+
+
+No 59
+>tr|A0A2E1V393|A0A2E1V393_9PROT Uncharacterized protein OS=Geminicoccus sp. OX=2024832 GN=CME01_05670 PE=4 SV=1
+Probab=99.19  E-value=5.5e-14  Score=95.64  Aligned_cols=40  Identities=40%  Similarity=0.684  Sum_probs=37.4  Template_Neff=1.459
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..+.+|+||||+||+|||+|...||||||..+||||
+T Consensus        80 ~~fl~hf~vfvlac~vg~~viwnvshalhtplmavtnais  119 (169)
+T tr|A0A2E1V393|   80 ASFLQHFVVFVLACFVGFQVIWNVSHALHTPLMAVTNAIS  119 (169)
+Confidence            3567789999999999999999999999999999999997
+
+
+No 60
+>tr|A0A1J0LYZ0|A0A1J0LYZ0_9BURK NAD(P)(+) transhydrogenase OS=Pandoraea vervacti OX=656178 GN=UC34_04615 PE=4 SV=1
+Probab=99.19  E-value=5.6e-14  Score=92.81  Aligned_cols=38  Identities=42%  Similarity=0.627  Sum_probs=35.9  Template_Neff=1.400
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+..++||+|++.+||.|+|.|.|.||||||..+||||
+T Consensus         7 tvinliifvlaiyvgyhvvw~vtpalhtplmavtnais   44 (132)
+T tr|A0A1J0LYZ0|    7 TVINLIIFVLAIYVGYHVVWTVTPALHTPLMAVTNAIS   44 (132)
+Confidence            35678999999999999999999999999999999997
+
+
+No 61
+>tr|A0A2J9DX77|A0A2J9DX77_9GAMM NAD(P) transhydrogenase subunit alpha OS=Psychrobacter sp. FDAARGOS_221 OX=1975705 GN=A6J60_004040 PE=4 SV=1
+Probab=99.19  E-value=5.7e-14  Score=92.54  Aligned_cols=39  Identities=38%  Similarity=0.634  Sum_probs=35.8  Template_Neff=1.518
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...+.||+|++|+||+|+|.|.|.||||||..+||.|
+T Consensus        20 pfvaiftifvlaifvgyyvvwgvtpalhtplmavtnals   58 (129)
+T tr|A0A2J9DX77|   20 PFVAIFTVFVLAIFVGYYVVWGVTPALHTPLMAVTNALS   58 (129)
+Confidence            345678899999999999999999999999999999986
+
+
+No 62
+>tr|A0A2P8D8R4|A0A2P8D8R4_9ACTN Pyridine nucleotide transhydrogenase-like protein OS=Murinocardiopsis flavida OX=645275 GN=CLV63_11623 PE=4 SV=1 
+Probab=99.18  E-value=6.4e-14  Score=93.50  Aligned_cols=42  Identities=45%  Similarity=0.840  Sum_probs=40.0  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.+++.-+.+|+|+.++|||||+|||..|||||||.+||++
+T Consensus         1 msqelltdltvfvlsllvgfeviskvpatlhtplmsaanavh   42 (146)
+T tr|A0A2P8D8R4|    1 MSQELLTDLTVFVLSLLVGFEVISKVPATLHTPLMSAANAVH   42 (146)
+Confidence            678899999999999999999999999999999999999975
+
+
+No 63
+>tr|W4MF89|W4MF89_9BACT Uncharacterized protein OS=Candidatus Entotheonella gemina OX=1429439 GN=ETSY2_01955 PE=4 SV=1 
+Probab=99.13  E-value=1.6e-13  Score=96.11  Aligned_cols=42  Identities=52%  Similarity=0.869  Sum_probs=38.6  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.+.++-...+|+|+.|+|||||.||||+|+|||||++||||
+T Consensus         1 mmegllggvlifilaafvgfevitkvpptlytplmsgtnais   42 (224)
+T tr|W4MF89|W4MF    1 MMEGLLGGVLIFILAAFVGFEVITKVPPTLYTPLMSGTNAIS   42 (224)
+Confidence            455667788999999999999999999999999999999997
+
+
+No 64
+>tr|N0BF29|N0BF29_9RHIZ Transmembrane NAD(P) transhydrogenase subunit alpha part 2 OS=Hyphomicrobium denitrificans 1NES1 OX=670307 GN=HYPDE_36748 PE=4 
+Probab=99.13  E-value=1.6e-13  Score=92.99  Aligned_cols=36  Identities=42%  Similarity=0.682  Sum_probs=33.9  Template_Neff=1.335
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .-+.+|++|+|+||+|+|.|.|.|||||||.+||||
+T Consensus        65 yefmvfviavfvgyyvvwsvtpalhtplmsvtnais  100 (163)
+T tr|N0BF29|N0BF   65 YEFMVFVIAVFVGYYVVWSVTPALHTPLMSVTNAIS  100 (163)
+Confidence            456799999999999999999999999999999997
+
+
+No 65
+>tr|S7WW67|S7WW67_9BACT NAD(P) transhydrogenase alpha subunit OS=Cyclobacterium qasimii M12-11B OX=641524 GN=ADICYQ_2723 PE=4 SV=1
+Probab=99.12  E-value=1.9e-13  Score=92.42  Aligned_cols=35  Identities=60%  Similarity=1.096  Sum_probs=33.4  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -++||+||+|+|.|||+|||..|||||||++||+|
+T Consensus        14 elyifilaifvgveviskvptvlhtplmsgsnals   48 (162)
+T tr|S7WW67|S7WW   14 ELYIFILAIFVGVEVISKVPTVLHTPLMSGSNALS   48 (162)
+Confidence            47899999999999999999999999999999986
+
+
+No 66
+>tr|A0A2D8VAE6|A0A2D8VAE6_9BACT Uncharacterized protein OS=Opitutae bacterium OX=2026771 GN=CMI21_00180 PE=4 SV=1 
+Probab=99.12  E-value=2e-13  Score=94.12  Aligned_cols=39  Identities=46%  Similarity=0.721  Sum_probs=36.4  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++-.+++|+|+||+||.|+|+|.|.|||||||.+||||
+T Consensus       100 efldqltvfvlscfvgymvvwnvtpslhtplmsvtnais  138 (191)
+T tr|A0A2D8VAE6|  100 EFLDQLTVFVLSCFVGYMVVWNVTPSLHTPLMSVTNAIS  138 (191)
+Confidence            456678999999999999999999999999999999997
+
+
+No 67
+>tr|A0A1X7MH89|A0A1X7MH89_9GAMM NAD(P) transhydrogenase subunit alpha OS=methanotrophic bacterial endosymbiont of Bathymodiolus sp. OX=280772 GN=BMETH_339_0 PE
+Probab=99.11  E-value=2e-13  Score=103.82  Aligned_cols=36  Identities=47%  Similarity=0.745  Sum_probs=34.5  Template_Neff=2.190
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRV---------------PVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~V---------------p~~LHTPLMS~tNAIs   42 (42)
+                      ..+++|+|+||+||+|||+|               .+.|||||||.+||||
+T Consensus       429 ~hftvfvlaCFvg~qviWnv~~~~~~~~~~~~~~~t~~lHtplmsvtnaiS  479 (516)
+T tr|A0A1X7MH89|  429 AHFTVFVLACFVGYQVIWNVGYLECLGLLTYAFNETPSLHTPLMSVTNAIS  479 (516)
+Confidence            46899999999999999999               9999999999999997
+
+
+No 68
+>tr|R4LTY5|R4LTY5_MYCTX NAD(P) transhydrogenase subunit alpha OS=Mycobacterium tuberculosis str. Haarlem/NITR202 OX=1304279 GN=I917_01175 PE=4 SV=1
+Probab=99.09  E-value=3.7e-13  Score=91.12  Aligned_cols=42  Identities=48%  Similarity=0.833  Sum_probs=38.6  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |..+++..+.|.+|+.|+||.||+|||.+|||||||++|||+
+T Consensus         1 mynellenlailvlsgfvgfaviskvpntlhtplmsgtnaih   42 (162)
+T tr|R4LTY5|R4LT    1 MYNSLLENIAILVLSGFVGFAVISKVPNTLHTPLMSGTNAIH   42 (162)
+Confidence            455677889999999999999999999999999999999986
+
+
+No 69
+>tr|A0A1C6NXR3|A0A1C6NXR3_9ACTN NAD(P) transhydrogenase subunit alpha OS=Streptomyces sp. WMMB 322 OX=1286821 GN=H180DRAFT_02983 PE=4 SV=1
+Probab=99.08  E-value=3.2e-13  Score=102.71  Aligned_cols=39  Identities=38%  Similarity=0.571  Sum_probs=36.8  Template_Neff=2.400
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+..++++|+||+++||+||++|.+.|||||||.+||||
+T Consensus       426 ~~~~h~tVf~LAvVvGfYVI~~V~HaLHTPLMSvTNAIS  464 (514)
+T tr|A0A1C6NXR3|  426 ALQGHFTVFALAIVIGYYVIGNVHHALHTPLMSVTNAIS  464 (514)
+Confidence            456789999999999999999999999999999999998
+
+
+No 70
+>tr|A0A0N0N4H9|A0A0N0N4H9_9ACTN NAD(P) transhydrogenase, alpha subunit, C-terminal OS=Actinobacteria bacterium OK074 OX=1592327 GN=OK074_1493 PE=4 SV=1
+Probab=99.08  E-value=3.9e-13  Score=89.21  Aligned_cols=40  Identities=50%  Similarity=0.921  Sum_probs=37.0  Template_Neff=1.131
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++..+++|+|+.++|.|||+|||.+|||||||++|..+
+T Consensus         4 ldlltaitvfvlsvlvgieviskvpatlhtplmsgsnsvh   43 (136)
+T tr|A0A0N0N4H9|    4 LDLLTAITVFVLSVLVGIEVISKVPATLHTPLMSGSNSVH   43 (136)
+Confidence            4678899999999999999999999999999999999764
+
+
+No 71
+>tr|A0A1K2H5I6|A0A1K2H5I6_9BURK NAD(P) transhydrogenase subunit alpha OS=Chitinimonas taiwanensis DSM 18899 OX=1121279 GN=SAMN02745887_00318 PE=4 SV=1
+Probab=99.07  E-value=4.4e-13  Score=88.12  Aligned_cols=39  Identities=41%  Similarity=0.695  Sum_probs=35.8  Template_Neff=1.365
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...++||+||+|+||.|+|.|.|.||||||..+||.|
+T Consensus        31 pfva~ftifvlai~igy~vvwsvtpalhtplmavtna~s   69 (125)
+T tr|A0A1K2H5I6|   31 PFVATFTIFVLAIFIGYHVVWSVTPALHTPLMAVTNALS   69 (125)
+Confidence            345678999999999999999999999999999999986
+
+
+No 72
+>tr|A0A1V2IA96|A0A1V2IA96_9ACTN Uncharacterized protein OS=Frankia asymbiotica OX=1834516 GN=BL253_15895 PE=4 SV=1
+Probab=99.06  E-value=5.7e-13  Score=88.87  Aligned_cols=41  Identities=49%  Similarity=0.880  Sum_probs=37.5  Template_Neff=1.149
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFI   41 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAI   41 (42)
+                      |+...-..+++|+|+.|+|||||.+|||..||||||.+||+
+T Consensus         1 ms~aiesglyvfllasfvgfevirrvpplfhtplmsltnav   41 (141)
+T tr|A0A1V2IA96|    1 MSTAIESGLYVFLLASFVGFEVIRRVPPLFHTPLMSLTNAV   41 (141)
+Confidence            45566678999999999999999999999999999999985
+
+
+No 73
+>tr|A0A0C1WV29|A0A0C1WV29_9ACTN Uncharacterized protein OS=Streptomyces sp. AcH 505 OX=352211 GN=HY68_30270 PE=4 SV=1
+Probab=99.04  E-value=7.1e-13  Score=88.24  Aligned_cols=40  Identities=40%  Similarity=0.556  Sum_probs=37.4  Template_Neff=1.537
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++-.+.+|+|++.+||+||.+|-..|||||||.+||||
+T Consensus        48 ~~~lg~f~vf~laivig~yvig~vhhalhtplmsvtnais   87 (137)
+T tr|A0A0C1WV29|   48 EQLLGHFTVFVLAIVIGYYVIGNVHHALHTPLMSVTNAIS   87 (137)
+Confidence            4567788999999999999999999999999999999997
+
+
+No 74
+>tr|A0A1G5QQG1|A0A1G5QQG1_9MICC NAD(P) transhydrogenase subunit alpha OS=Arthrobacter sp. UNCCL28 OX=1502752 GN=SAMN02799638_03752 PE=4 SV=1
+Probab=99.03  E-value=8.7e-13  Score=88.52  Aligned_cols=39  Identities=51%  Similarity=0.780  Sum_probs=36.1  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...+++|-+|+.|+||||++||.++|||||||++|||+
+T Consensus         2 dgmslltitvlavfvgfevvskvsstlhtplmsganaih   40 (149)
+T tr|A0A1G5QQG1|    2 DGISLLTITVLAVFVGFEVVSKVSSTLHTPLMSGANAIH   40 (149)
+Confidence            456678899999999999999999999999999999986
+
+
+No 75
+>tr|A0A0G1DTI7|A0A0G1DTI7_9BACT Nicotinamide nucleotide transhydrogenase, subunit alpha2 OS=Parcubacteria group bacterium GW2011_GWA2_43_17 OX=1618827 GN=UV78_C0072G0014 PE=4 SV=1 
+Probab=99.03  E-value=9e-13  Score=92.27  Aligned_cols=42  Identities=57%  Similarity=0.933  Sum_probs=38.4  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.++-..+++|+|+.|+||.+|.+|||.|||||||.+|||.
+T Consensus         1 mtaeleiglyifilagflgyhiitrvppllhtplmsatnaia   42 (218)
+T tr|A0A0G1DTI7|    1 MTAELEIGLYIFILAGFLGYHIITRVPPLLHTPLMSATNAIA   42 (218)
+Confidence            456677889999999999999999999999999999999973
+
+
+No 76
+>tr|E2LVZ2|E2LVZ2_MONPE Uncharacterized protein OS=Moniliophthora perniciosa (strain FA553 / isolate CP02) OX=554373 GN=MPER_11391 PE=4 SV=1
+Probab=99.01  E-value=1.1e-12  Score=95.57  Aligned_cols=39  Identities=36%  Similarity=0.531  Sum_probs=36.5  Template_Neff=2.217
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...++.|.||+++||+++|+|.|+||+||||.+||||
+T Consensus       169 ~f~~~~ttf~LagiVgy~~vw~vtpalhsplmsVTNAIS  207 (313)
+T tr|E2LVZ2|E2LV  169 AFTTMFTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS  207 (313)
+Confidence            456778999999999999999999999999999999997
+
+
+No 77
+>tr|A0A1I7D517|A0A1I7D517_9MICC NAD(P) transhydrogenase subunit alpha OS=Arthrobacter sp. ov118 OX=1761747 GN=SAMN04487915_109174 PE=4 SV=1 
+Probab=98.98  E-value=2.1e-12  Score=87.30  Aligned_cols=39  Identities=49%  Similarity=0.831  Sum_probs=36.2  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....++++.+|++|+||||++||.+.|||||||++|||+
+T Consensus         2 gpvtlltvvvlavfvgfevvskvtsklhtplmsganaih   40 (157)
+T tr|A0A1I7D517|    2 GPVTLLTVVVLAVFVGFEVVSKVTSKLHTPLMSGANAIH   40 (157)
+Confidence            456788999999999999999999999999999999986
+
+
+No 78
+>tr|A8F084|A8F084_RICCK NAD(P) transhydrogenase subunit alpha OS=Rickettsia canadensis (strain McKiel) OX=293613 GN=A1E_05515 PE=4 SV=1 
+Probab=98.97  E-value=2.3e-12  Score=81.60  Aligned_cols=38  Identities=45%  Similarity=0.617  Sum_probs=35.9  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +.+.+++|+|+.|+||+|+|||.|.|||-|||-.||||
+T Consensus        44 lvfaitifvlasfvgyyvvwkvtpalhttlmsinnais   81 (93)
+T tr|A8F084|A8F0   44 LVFAITIFVLASFVGYYVVWKVTPALHTTLMSINNAIS   81 (93)
+Confidence            45788999999999999999999999999999999997
+
+
+No 79
+>tr|A0A0S6TJL6|A0A0S6TJL6_9PROT NAD(P) transhydrogenase subunit alpha OS=Gluconobacter frateurii NBRC 103465 OX=1307834 GN=GFGA_1c0954 PE=3 SV=1
+Probab=98.97  E-value=2.4e-12  Score=97.43  Aligned_cols=40  Identities=73%  Similarity=1.221  Sum_probs=37.5  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.++..++||.|+.|.|||||++||+.|||||||++|..+
+T Consensus       411 mtfiialyifmlaaftgyevisrvpsilhtplmsgsnfvh  450 (512)
+T tr|A0A0S6TJL6|  411 MTFIIALYIFMLAAFTGYEVISRVPSILHTPLMSGSNFVH  450 (512)
+Confidence            5788999999999999999999999999999999999764
+
+
+No 80
+>tr|A0A094PRW3|A0A094PRW3_9ZZZZ Uncharacterized protein (Fragment) OS=freshwater metagenome OX=449393 GN=GM50_19840 PE=4 SV=1 
+Probab=98.95  E-value=3.2e-12  Score=86.05  Aligned_cols=36  Identities=53%  Similarity=0.976  Sum_probs=33.8  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....+|-|++|+||||++||.++|||||||++|||+
+T Consensus       115 tavviftlsifvgfevvskvsstlhtplmsganaih  150 (151)
+T tr|A0A094PRW3|  115 TAVVIFTLSIFVGFEVVSKVSSTLHTPLMSGANAIH  150 (151)
+Confidence            456899999999999999999999999999999996
+
+
+No 81
+>tr|B0F474|B0F474_9EUKA Pyridine nucleotide transhydrogenase beta-subunit OS=Paratrimastix pyriformis OX=342808 PE=2 SV=2
+Probab=98.94  E-value=3.2e-12  Score=103.09  Aligned_cols=41  Identities=46%  Similarity=0.605  Sum_probs=37.8  Template_Neff=1.854
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...++.++.+|++|+|+||.|||+|.|.|||||||.+||||
+T Consensus      1046 ~~~~~~~~~~fv~ai~igy~viwnv~~alhtplmsvtnais 1086 (1151)
+T tr|B0F474|B0F4 1046 PEMFVTAFMSFVLAIFIGYMVIWNVTPALHTPLMSVTNAIS 1086 (1151)
+Confidence            34567788999999999999999999999999999999997
+
+
+No 82
+>tr|A0A2H5XTE3|A0A2H5XTE3_9BACT NAD(P) transhydrogenase subunit alpha OS=bacterium HR20 OX=2035415 GN=pntA_1 PE=4 SV=1 
+Probab=98.93  E-value=4.4e-12  Score=84.94  Aligned_cols=37  Identities=49%  Similarity=0.952  Sum_probs=34.4  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...++.+|+.++|.|+|+|||+.||||||||+|||+
+T Consensus        50 ielvyvlilsvivgieviskvpsvlhtplmsganaih   86 (144)
+T tr|A0A2H5XTE3|   50 IELVYVLILSVIVGIEVISKVPSVLHTPLMSGANAIH   86 (144)
+Confidence            4567889999999999999999999999999999986
+
+
+No 83
+>tr|A0A2V9XH67|A0A2V9XH67_9BACT NAD synthetase OS=Acidobacteria bacterium OX=1978231 GN=DMG74_06065 PE=4 SV=1
+Probab=98.92  E-value=5.1e-12  Score=96.92  Aligned_cols=42  Identities=57%  Similarity=0.930  Sum_probs=39.1  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.++-..+++|+++.|+||.||.||||.|||||||.+||||
+T Consensus         1 mtteleiglyifilagflgyhvitrvppllhtplmsatnais   42 (598)
+T tr|A0A2V9XH67|    1 MTTELEIGLYIFILAGFLGYHVITRVPPLLHTPLMSATNAIS   42 (598)
+Confidence            456677889999999999999999999999999999999997
+
+
+No 84
+>tr|A0A2E4GJS5|A0A2E4GJS5_9GAMM NAD synthetase OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD67_09235 PE=4 SV=1
+Probab=98.91  E-value=4.2e-12  Score=97.62  Aligned_cols=39  Identities=41%  Similarity=0.614  Sum_probs=36.9  Template_Neff=2.500
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++..+++|.|++|+||.|+|.|.|.|||||||.+||||
+T Consensus         9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   47 (564)
+T tr|A0A2E4GJS5|    9 PFIINFIVFTLAIFVGYFVVWAVTPALHTPLMSVTNAIS   47 (564)
+Confidence            467789999999999999999999999999999999997
+
+
+No 85
+>tr|T0YVF7|T0YVF7_9ZZZZ Pyridine nucleotide transhydrogenase subunit alpha OS=mine drainage metagenome OX=410659 GN=B2A_11924 PE=4 SV=1
+Probab=98.91  E-value=5.8e-12  Score=88.06  Aligned_cols=40  Identities=70%  Similarity=1.190  Sum_probs=37.4  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++.+..+++|.|+.|.|||+|.+||-.|||||||++|.|+
+T Consensus       114 mdgflvlyvfmlaaftgyeiiarvpvilhtplmsgsnfih  153 (210)
+T tr|T0YVF7|T0YV  114 MDGFLVLYVFMLAAFTGYEIIARVPVILHTPLMSGSNFIH  153 (210)
+Confidence            5667889999999999999999999999999999999885
+
+
+No 86
+>tr|X6P244|X6P244_RETFI Uncharacterized protein OS=Reticulomyxa filosa OX=46433 GN=RFI_04497 PE=4 SV=1
+Probab=98.90  E-value=4.3e-12  Score=101.97  Aligned_cols=40  Identities=40%  Similarity=0.568  Sum_probs=37.2  Template_Neff=3.353
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+...++.|-||.++||+++|.|+|.||+||||.+||||
+T Consensus       457 ~~~~s~~ttF~LAgl~GYq~VWgV~PALHSPLMsVTNAIS  496 (1046)
+T tr|X6P244|X6P2  457 PEFMSMLTTFALAGLAGYQVVWGVAPALHSPLMSVTNAIS  496 (1046)
+Confidence            3456788999999999999999999999999999999998
+
+
+No 87
+>tr|A0A258EJ52|A0A258EJ52_9RHOB NAD(P) transhydrogenase subunit alpha (Fragment) OS=Rhodobacterales bacterium 32-66-9 OX=1970559 GN=B7Z04_07660 PE=4 SV=1
+Probab=98.90  E-value=6.6e-12  Score=90.15  Aligned_cols=40  Identities=43%  Similarity=0.692  Sum_probs=37.1  Template_Neff=1.235
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++..+++|+|+||+||+|||+|...||||||..+||||
+T Consensus       179 asf~~~fivfvla~f~gf~viwnv~hslhtplma~tnais  218 (268)
+T tr|A0A258EJ52|  179 ASFMSHFIVFVLACFIGFQVIWNVSHSLHTPLMAITNAIS  218 (268)
+Confidence            3566788999999999999999999999999999999997
+
+
+No 88
+>tr|A0A0T9MM39|A0A0T9MM39_MYCTX NAD(P) transhydrogenase, alpha subunit OS=Mycobacterium tuberculosis OX=1773 GN=pntA PE=4 SV=1
+Probab=98.87  E-value=8.6e-12  Score=91.09  Aligned_cols=39  Identities=38%  Similarity=0.577  Sum_probs=36.7  Template_Neff=2.013
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...+++|.|+..+||+||.+|...|||||||.+||||
+T Consensus       222 ~l~~~~Tvf~La~vIG~yVig~VhHALHtPLMsvTNAIS  260 (310)
+T tr|A0A0T9MM39|  222 ALQAHFTVFALAIVIGYYVIGNVHHALHTPLMSVTNAIS  260 (310)
+Confidence            456789999999999999999999999999999999997
+
+
+No 89
+>tr|A0A2V9IAM1|A0A2V9IAM1_9BACT Uncharacterized protein OS=Acidobacteria bacterium OX=1978231 GN=DMG25_11870 PE=4 SV=1
+Probab=98.87  E-value=1e-11  Score=83.31  Aligned_cols=39  Identities=46%  Similarity=0.845  Sum_probs=36.7  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFI   41 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAI   41 (42)
+                      .+++..+++|+|+.|+|||||.+|...|||||||.+||+
+T Consensus        50 qqlitnlyvfvlagfvgfevirrvsrllhtplmsltnal   88 (145)
+T tr|A0A2V9IAM1|   50 QQLITNLYVFILAGFVGFEVIRRVSRLLHTPLMSLTNAL   88 (145)
+Confidence            467889999999999999999999999999999999986
+
+
+No 90
+>tr|A0A2V9YCI7|A0A2V9YCI7_9BACT Uncharacterized protein (Fragment) OS=Acidobacteria bacterium OX=1978231 GN=DMG72_10660 PE=4 SV=1 
+Probab=98.86  E-value=1.1e-11  Score=93.49  Aligned_cols=42  Identities=55%  Similarity=0.928  Sum_probs=39.0  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+.++-..+++|+++.|+||.||.|+||.|||||||.+||||
+T Consensus         1 mtteleiglyifilagflgyhvitrippllhtplmsatnais   42 (469)
+T tr|A0A2V9YCI7|    1 MTTELEIGLYIFILAGFLGYHVITRIPPLLHTPLMSATNAIS   42 (469)
+Confidence            456677889999999999999999999999999999999997
+
+
+No 91
+>tr|A0A2P6KYJ7|A0A2P6KYJ7_NEPCL PntAB OS=Nephila clavipes OX=6915 GN=NCL1_23604 PE=4 SV=1
+Probab=98.85  E-value=1.2e-11  Score=84.95  Aligned_cols=36  Identities=42%  Similarity=0.681  Sum_probs=33.8  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+++|+|++|+||+++|.|.|.||||||..+||+|
+T Consensus        73 etitifvlaifvgyyvvwgvtpalhtplmavtnals  108 (177)
+T tr|A0A2P6KYJ7|   73 ETITIFVLAIFVGYYVVWGVTPALHTPLMAVTNALS  108 (177)
+Confidence            457899999999999999999999999999999986
+
+
+No 92
+>tr|A0A2V8IHD6|A0A2V8IHD6_9BACT Pyridine nucleotide transhydrogenase OS=Acidobacteria bacterium OX=1978231 GN=DMG19_14185 PE=4 SV=1
+Probab=98.83  E-value=1.5e-11  Score=81.48  Aligned_cols=40  Identities=45%  Similarity=0.791  Sum_probs=37.7  Template_Neff=1.369
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++..+++|+||.|+|.-||+||...|||||||.+||||
+T Consensus        34 ~d~~~~~fvf~latfig~gvi~rvsrllhtplmsltnais   73 (128)
+T tr|A0A2V8IHD6|   34 ADFIQTLFVFMLATFIGLGVISRVSRLLHTPLMSLTNAIS   73 (128)
+Confidence            3677889999999999999999999999999999999997
+
+
+No 93
+>tr|A0A2C6KA95|A0A2C6KA95_9APIC Nad transhydrogenase subunit beta OS=Cystoisospora suis OX=483139 GN=CSUI_004727 PE=4 SV=1
+Probab=98.83  E-value=1.4e-11  Score=99.77  Aligned_cols=38  Identities=50%  Similarity=0.754  Sum_probs=35.6  Template_Neff=1.890
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-..+++|+||||+||.+||+|-|+|||||||.+||||
+T Consensus      1067 fppllf~f~lacfvgyllvwnvapalhtplmsvtnais 1104 (1183)
+T tr|A0A2C6KA95| 1067 FPPLLFIFFLACFVGYLLVWNVAPALHTPLMSVTNAIS 1104 (1183)
+Confidence            44578999999999999999999999999999999997
+
+
+No 94
+>tr|D8LUY9|D8LUY9_BLAHO Uncharacterized protein OS=Blastocystis hominis OX=12968 GN=GSBLH_T00000079001 PE=4 SV=1
+Probab=98.83  E-value=1.5e-11  Score=98.95  Aligned_cols=39  Identities=44%  Similarity=0.619  Sum_probs=36.4  Template_Neff=2.012
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...+.+|+|||.+||..||+|.+.|||||||.+||||
+T Consensus       957 ~f~~qlmvf~lacv~gy~~iwnv~~alhtplmsvtnais  995 (1046)
+T tr|D8LUY9|D8LU  957 TFTEQLMVFALACVVGYNSIWNVTPALHTPLMSVTNAIS  995 (1046)
+Confidence            456678899999999999999999999999999999997
+
+
+No 95
+>tr|A0A087EDX0|A0A087EDX0_9BIFI NAD(P) transhydrogenase subunit alpha part 1 OS=Bifidobacterium tsurumiense OX=356829 GN=BITS_1112 PE=4 SV=1
+Probab=98.81  E-value=2e-11  Score=92.49  Aligned_cols=40  Identities=48%  Similarity=0.780  Sum_probs=37.5  Template_Neff=1.200
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +++...+++|+|+.++|.|||.|||.+|||||||+.|.||
+T Consensus       380 ~~lvvaitlfvlalligvevigkvpatlhtplmsgansih  419 (485)
+T tr|A0A087EDX0|  380 PTLVVSITLFVLALLIGIEVIGKVPATLHTPLMSGANSIH  419 (485)
+Confidence            4567889999999999999999999999999999999986
+
+
+No 96
+>tr|U6MJ04|U6MJ04_EIMMA Transhydrogenase, putative OS=Eimeria maxima OX=5804 GN=EMWEY_00011310 PE=4 SV=1
+Probab=98.81  E-value=1.8e-11  Score=99.12  Aligned_cols=41  Identities=34%  Similarity=0.494  Sum_probs=37.5  Template_Neff=2.500
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...+-.++.|+||.++||+.+|.|.|.|||||||.+||+|
+T Consensus      1016 s~~~l~~lflF~ls~iVGYycVW~V~paLHTPLMSVTNALS 1056 (1106)
+T tr|U6MJ04|U6MJ 1016 SQSDLHHLFLFTLSIIVGYYCVWSVTPSLHTPLMSVTNALS 1056 (1106)
+Confidence            34556788999999999999999999999999999999987
+
+
+No 97
+>tr|A0A0G4HAS9|A0A0G4HAS9_9ALVE Uncharacterized protein OS=Chromera velia CCMP2878 OX=1169474 GN=Cvel_6129 PE=4 SV=1
+Probab=98.80  E-value=2e-11  Score=99.08  Aligned_cols=40  Identities=38%  Similarity=0.529  Sum_probs=36.5  Template_Neff=1.898
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....-.+.+|+||+++||.+||+|.|.|||||||.+||+|
+T Consensus      1111 ~~~~~~ll~fvla~~igy~~vw~v~pslhtplmsvtnals 1150 (1205)
+T tr|A0A0G4HAS9| 1111 SETLNQLLVFVLAVIIGYYCVWNVSPSLHTPLMSVTNALS 1150 (1205)
+Confidence            3445678899999999999999999999999999999997
+
+
+No 98
+>tr|A0A2I9SEU6|A0A2I9SEU6_XANVA Pyridine nucleotide transhydrogenase OS=Xanthomonas vasicola pv. vasculorum OX=325776 GN=C7V42_05005 PE=4 SV=1
+Probab=98.78  E-value=3.3e-11  Score=74.70  Aligned_cols=40  Identities=68%  Similarity=0.987  Sum_probs=37.0  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+.+.++++|.||.-.|-.+|++||-.|||||||++|.|+
+T Consensus        15 sdgfvalyifmlaasaghviisrvpvilhtplmsgsnfih   54 (78)
+T tr|A0A2I9SEU6|   15 SDGFVALYIFMLAASAGHVIISRVPVILHTPLMSGSNFIH   54 (78)
+Confidence            3567789999999999999999999999999999999885
+
+
+No 99
+>tr|A0A1C4P599|A0A1C4P599_9ACTN NAD(P) transhydrogenase subunit alpha OS=Streptomyces sp. DvalAA-14 OX=1839759 GN=GA0115240_13712 PE=4 SV=1 
+Probab=98.77  E-value=3.5e-11  Score=77.41  Aligned_cols=39  Identities=38%  Similarity=0.580  Sum_probs=35.6  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++...+++|-|+..+||+||.||-..|||||||.+||||
+T Consensus        14 qlaenftvftlavvigyyvigkvhhalhtplmsvtnais   52 (102)
+T tr|A0A1C4P599|   14 QLAENFTVFTLAVVIGYYVIGKVHHALHTPLMSVTNAIS   52 (102)
+Confidence            344568899999999999999999999999999999997
+
+
+No 100
+>tr|A0A0R2V6J6|A0A0R2V6J6_9PROT Pyridine nucleotide transhydrogenase (Fragment) OS=Methylophilales bacterium BACL14 MAG-120920-bin58 OX=1655631 GN=ABS29_02570 
+Probab=98.69  E-value=9.2e-11  Score=73.93  Aligned_cols=23  Identities=48%  Similarity=0.644  Sum_probs=22.2  Template_Neff=1.657
+
+Q 4o9p             20 YELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        20 ~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.|+|+|.|+|||||||.+||||
+T Consensus         1 y~vvw~vtpalhtplmsvtnais   23 (86)
+T tr|A0A0R2V6J6|    1 YHVVWSVTPALHTPLMSVTNAIS   23 (86)
+Confidence            78999999999999999999997
+
+
+No 101
+>tr|M2S4D0|M2S4D0_ENTHI Nicotinamide nucleotide transhydrogenase, putative (Fragment) OS=Entamoeba histolytica KU27 OX=885311 GN=EHI5A_063320 PE=4 SV=1 
+Probab=98.65  E-value=1.5e-10  Score=91.29  Aligned_cols=42  Identities=45%  Similarity=0.570  Sum_probs=37.6  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+..+...+.-|+|++++||+|||+|.+.|||||||.+||||
+T Consensus       728 mpemfvtafmsfvlaiivgyyviwnvtsalhtplmsvtnais  769 (820)
+T tr|M2S4D0|M2S4  728 MPEMFVTAFMSFVLAIIVGYYVIWNVTSALHTPLMSVTNAIS  769 (820)
+Confidence            445566777889999999999999999999999999999997
+
+
+No 102
+>tr|A0A0A1U2E2|A0A0A1U2E2_ENTIV NADP transhydrogenase subunit alpha, putative OS=Entamoeba invadens IP1 OX=370355 GN=EIN_224470 PE=4 SV=1
+Probab=98.65  E-value=1.5e-10  Score=93.28  Aligned_cols=42  Identities=45%  Similarity=0.570  Sum_probs=37.6  Template_Neff=1.285
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |+..+..++.-|+||+.+||+|||+|.++|||||||.+||||
+T Consensus       994 mp~mfvta~msfvlaiivgyyviwnvtsalhtplmsvtnais 1035 (1092)
+T tr|A0A0A1U2E2|  994 MPEMFVTAFMSFVLAIIVGYYVIWNVTSALHTPLMSVTNAIS 1035 (1092)
+Confidence            445566777889999999999999999999999999999997
+
+
+No 103
+>tr|A0A1R2C185|A0A1R2C185_9CILI Uncharacterized protein OS=Stentor coeruleus OX=5963 GN=SteCoe_16431 PE=4 SV=1
+Probab=98.63  E-value=1.6e-10  Score=93.53  Aligned_cols=40  Identities=40%  Similarity=0.629  Sum_probs=37.0  Template_Neff=2.286
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++...+.+|++|.|+||.+||+|.|+|||||||.+||||
+T Consensus       964 ~~fm~~~~~fvms~~iGy~~iwNvtp~LhTPlmsvtnai~ 1003 (1055)
+T tr|A0A1R2C185|  964 GEFMGNILVFVMSVFIGYYCIWNVTPALHTPLMSVTNALS 1003 (1055)
+Confidence            3566788999999999999999999999999999999986
+
+
+No 104
+>tr|A0A081XMS7|A0A081XMS7_STRTO Uncharacterized protein OS=Streptomyces toyocaensis OX=55952 GN=BU52_22655 PE=4 SV=1 
+Probab=98.63  E-value=2e-10  Score=71.86  Aligned_cols=31  Identities=48%  Similarity=0.689  Sum_probs=30.0  Template_Neff=1.000
+
+Q 4o9p             12 FVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        12 fvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      |.||..+||+||.||-.+|||||||..||||
+T Consensus         2 falavvigyyvigkvhhalhtplmsvinais   32 (82)
+T tr|A0A081XMS7|    2 FALAVVIGYYVIGKVHHALHTPLMSVINAIS   32 (82)
+Confidence            7899999999999999999999999999997
+
+
+No 105
+>tr|W4UCC1|W4UCC1_CUTAC Transhydrogenase OS=Cutibacterium acnes JCM 18920 OX=1302244 GN=JCM18920_112 PE=4 SV=1
+Probab=98.62  E-value=2.1e-10  Score=81.71  Aligned_cols=41  Identities=34%  Similarity=0.511  Sum_probs=37.1  Template_Neff=1.000
+
+Q 4o9p              2 EFGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         2 ~~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .|++...+.-|.++..+||+|+|+|...|||||||.+||||
+T Consensus       149 pmefvalfgtfaiavvvgyyvvwnvthalhtplmsvtnais  189 (239)
+T tr|W4UCC1|W4UC  149 PMEFVALFGTFAIAVVVGYYVVWNVTHALHTPLMSVTNAIS  189 (239)
+Confidence            35666777889999999999999999999999999999997
+
+
+No 106
+>tr|A0A1I7ZZV8|A0A1I7ZZV8_9BILA Uncharacterized protein OS=Steinernema glaseri OX=37863 PE=4 SV=1 
+Probab=98.60  E-value=2.8e-10  Score=86.56  Aligned_cols=37  Identities=43%  Similarity=0.667  Sum_probs=35.2  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...++||+|++++||.|+|+|.|.||||||..+||||
+T Consensus       315 vynliifvlaiyvgyhvvwnvtpalhtplmavtnais  351 (490)
+T tr|A0A1I7ZZV8|  315 VYNLIIFVLAIYVGYHVVWNVTPALHTPLMAVTNAIS  351 (490)
+Confidence            4678999999999999999999999999999999997
+
+
+No 107
+>tr|C5KBF8|C5KBF8_PERM5 Uncharacterized protein OS=Perkinsus marinus (strain ATCC 50983 / TXsc) OX=423536 GN=Pmar_PMAR005427 PE=4 SV=1
+Probab=98.58  E-value=2.9e-10  Score=92.83  Aligned_cols=40  Identities=45%  Similarity=0.590  Sum_probs=37.4  Template_Neff=2.137
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++++..+.-|+||+++||.+||+|.|.|||||||.+||||
+T Consensus      1071 ~~~~t~~~~fvla~~ig~~~v~~v~palhtplmsvtnais 1110 (1182)
+T tr|C5KBF8|C5KB 1071 VNFVTYLMDFVLALIIGYFLVWSVTPALHTPLMSVTNAIS 1110 (1182)
+Confidence            4567788899999999999999999999999999999997
+
+
+No 108
+>tr|L1K2Z3|L1K2Z3_GUITH Uncharacterized protein OS=Guillardia theta CCMP2712 OX=905079 GN=GUITHDRAFT_156799 PE=4 SV=1
+Probab=98.55  E-value=3.3e-10  Score=91.69  Aligned_cols=39  Identities=41%  Similarity=0.630  Sum_probs=36.1  Template_Neff=3.035
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+-.++..|.|||++||+++|.|.+.||.||||.+||||
+T Consensus       441 ~~s~m~ttF~La~iiG~~~V~GVtpALHSPLMsVTNAIS  479 (1019)
+T tr|L1K2Z3|L1K2  441 AFSSMLTTFALACIIGYQVVWGVTPALHSPLMSVTNAIS  479 (1019)
+Confidence            345678899999999999999999999999999999998
+
+
+No 109
+>tr|H2ZIS3|H2ZIS3_CIOSA Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+Probab=98.47  E-value=8.9e-10  Score=89.46  Aligned_cols=39  Identities=36%  Similarity=0.518  Sum_probs=36.3  Template_Neff=2.400
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+...++-|-||.++||..+|.|.|+||+||||.+||||
+T Consensus       440 aF~~m~tTFgLAgIvGYhtVWGVtPALHSPLMSVTNAIS  478 (1036)
+T tr|H2ZIS3|H2ZI  440 AFTQMVTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS  478 (1036)
+Confidence            455678899999999999999999999999999999998
+
+
+No 110
+>tr|A0A0L0G5M5|A0A0L0G5M5_9EUKA Uncharacterized protein OS=Sphaeroforma arctica JP610 OX=667725 GN=SARC_04195 PE=4 SV=1 
+Probab=98.38  E-value=2.7e-09  Score=76.82  Aligned_cols=36  Identities=50%  Similarity=0.649  Sum_probs=33.6  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .-..||+|||-+||.++|.|-|.|||||||.+||||
+T Consensus       167 armlifvlacglgymlvwdvhpslhtplmsvtnais  202 (253)
+T tr|A0A0L0G5M5|  167 ARMLIFVLACGLGYMLVWDVHPSLHTPLMSVTNAIS  202 (253)
+Confidence            345799999999999999999999999999999997
+
+
+No 111
+>tr|A0A178AV63|A0A178AV63_9PLEO PNTB-domain-containing protein OS=Stagonospora sp. SRC1lsM3a OX=765868 GN=IQ06DRAFT_293154 PE=4 SV=1
+Probab=98.34  E-value=3.2e-09  Score=86.88  Aligned_cols=38  Identities=39%  Similarity=0.651  Sum_probs=35.1  Template_Neff=2.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +....+-|.||.++||.++|.|.|+||+||||.+||||
+T Consensus       554 FM~n~fTf~LAgLiGYRvVWGV~PALHSPLMSVTNAIS  591 (1137)
+T tr|A0A178AV63|  554 FMSNAFTFGLAGLIGYRVVWGVAPALHSPLMSVTNAIS  591 (1137)
+Confidence            34567889999999999999999999999999999997
+
+
+No 112
+>tr|A0A2P6KGA3|A0A2P6KGA3_NEPCL NAD(P) transhydrogenase OS=Nephila clavipes OX=6915 GN=NCL1_41208 PE=4 SV=1
+Probab=98.26  E-value=6.5e-09  Score=83.14  Aligned_cols=38  Identities=37%  Similarity=0.519  Sum_probs=35.5  Template_Neff=2.215
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-..++.|.|+..+||..+|.|.|.||.||||.+||||
+T Consensus       191 Ft~m~ttf~L~~ivGYhtVwGVtpaLHSPLMsVTNAIS  228 (788)
+T tr|A0A2P6KGA3|  191 FTTMTTTFGLSGIVGYHTVWGVTPALHSPLMSVTNAIS  228 (788)
+Confidence            45678899999999999999999999999999999997
+
+
+No 113
+>tr|K5X481|K5X481_AGABU Uncharacterized protein OS=Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) OX=597362 GN=AGABI1D
+Probab=98.22  E-value=1e-08  Score=83.59  Aligned_cols=38  Identities=39%  Similarity=0.670  Sum_probs=35.1  Template_Neff=1.700
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...++-|-||.++||.|+|.|.|.||.||||.+||||
+T Consensus       487 FM~n~fTFgLAgLvGYRvVWgVaPALHSPLMSVTNAIS  524 (1067)
+T tr|K5X481|K5X4  487 FMSNFFTFGLAGLVGYRVVWGVAPALHSPLMSVTNAIS  524 (1067)
+Confidence            34567889999999999999999999999999999997
+
+
+No 114
+>tr|A0A178ZVQ2|A0A178ZVQ2_9EURO NAD(P)(+) transhydrogenase (AB-specific), alpha subunit OS=Fonsecaea erecta OX=1367422 GN=AYL99_03014 PE=4 SV=1
+Probab=98.15  E-value=1.9e-08  Score=83.14  Aligned_cols=38  Identities=37%  Similarity=0.576  Sum_probs=35.1  Template_Neff=1.700
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +....+.|-||.++||.++|.|.|+||+||||.+||||
+T Consensus       696 fM~n~ftf~LAgLiGYr~VWGV~PALHSPLMSVTNAIS  733 (1282)
+T tr|A0A178ZVQ2|  696 FMGNAFTFGLAGLIGYRSVWGVIPALHSPLMSVTNAIS  733 (1282)
+Confidence            34567889999999999999999999999999999997
+
+
+No 115
+>tr|A0A0N4YEP6|A0A0N4YEP6_NIPBR Uncharacterized protein OS=Nippostrongylus brasiliensis OX=27835 PE=4 SV=1
+Probab=98.14  E-value=1.8e-08  Score=79.56  Aligned_cols=39  Identities=36%  Similarity=0.541  Sum_probs=36.0  Template_Neff=2.238
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+..+++-|.|+.++||.-+|.|.|.||.||||.+||||
+T Consensus       453 aF~~m~tTfgLagiVGyhtVWgv~palhsplmsvtnais  491 (641)
+T tr|A0A0N4YEP6|  453 AFMQMFTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS  491 (641)
+Confidence            345678899999999999999999999999999999997
+
+
+No 116
+>tr|A0A2G8L3Z2|A0A2G8L3Z2_STIJA NAD(P) transhydrogenase OS=Stichopus japonicus OX=307972 GN=BSL78_08171 PE=4 SV=1
+Probab=98.11  E-value=2.5e-08  Score=73.50  Aligned_cols=34  Identities=41%  Similarity=0.581  Sum_probs=32.2  Template_Neff=1.788
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ++-|-||..+||.-+|.|.|.||.||||.+||||
+T Consensus         2 ~t~f~la~i~gy~tvwgv~palhsplmsvtnais   35 (295)
+T tr|A0A2G8L3Z2|    2 LTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS   35 (295)
+Confidence            5678999999999999999999999999999997
+
+
+No 117
+>tr|A0A0P4X5T4|A0A0P4X5T4_9CRUS Uncharacterized protein (Fragment) OS=Daphnia magna OX=35525 PE=4 SV=1 
+Probab=98.07  E-value=4e-08  Score=67.46  Aligned_cols=34  Identities=35%  Similarity=0.464  Sum_probs=31.2  Template_Neff=1.000
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -+-.-|.|++||.-+|.|.|+||.||||.+||||
+T Consensus        92 tttlglgcivgyhtvwgvtpalhsplmsvtnais  125 (156)
+T tr|A0A0P4X5T4|   92 TTTLGLGCIVGYHTVWGVTPALHSPLMSVTNAIS  125 (156)
+Confidence            3456789999999999999999999999999997
+
+
+No 118
+>tr|A0A183DE73|A0A183DE73_9BILA Uncharacterized protein OS=Gongylonema pulchrum OX=637853 PE=4 SV=1 
+Probab=98.06  E-value=4.2e-08  Score=65.91  Aligned_cols=38  Identities=39%  Similarity=0.544  Sum_probs=35.2  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-..++-|-|+.++||.-+|.|-|.||.||||.+||||
+T Consensus        11 fsqmlttfglagivgyhtvwevvpalhsplmsvtnais   48 (130)
+T tr|A0A183DE73|   11 FSQMLTTFGLAGIVGYHTVWEVVPALHSPLMSVTNAIS   48 (130)
+Confidence            44578889999999999999999999999999999997
+
+
+No 119
+>tr|A0CWD3|A0CWD3_PARTE Uncharacterized protein OS=Paramecium tetraurelia OX=5888 GN=GSPATT00001302001 PE=4 SV=1
+Probab=98.03  E-value=4.8e-08  Score=79.83  Aligned_cols=40  Identities=35%  Similarity=0.512  Sum_probs=36.6  Template_Neff=1.542
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +.+.-++.-|.||.++||+++|.|.|+||.||||.+||||
+T Consensus       460 ~~f~~m~~tf~lagivgy~~vwgvtpalhsplmsvtnais  499 (1051)
+T tr|A0CWD3|A0CW  460 MEFTQMVNTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS  499 (1051)
+Confidence            3456678899999999999999999999999999999997
+
+
+No 120
+>tr|A0A0G4EN35|A0A0G4EN35_VITBC Uncharacterized protein (Fragment) OS=Vitrella brassicaformis (strain CCMP3155) OX=1169540 GN=Vbra_12461 PE=4 SV=1 
+Probab=98.01  E-value=6.2e-08  Score=71.62  Aligned_cols=35  Identities=37%  Similarity=0.520  Sum_probs=32.0  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...-|-|++++||.-+|.|.|.|||||||.+||||
+T Consensus       154 hmlsftlaiivgffcvwsvtpalhtplmsvtnais  188 (310)
+T tr|A0A0G4EN35|  154 HMLSFTLAIIVGFFCVWSVTPALHTPLMSVTNAIS  188 (310)
+Confidence            34568899999999999999999999999999997
+
+
+No 121
+>tr|A0A0G4EN35|A0A0G4EN35_VITBC Uncharacterized protein (Fragment) OS=Vitrella brassicaformis (strain CCMP3155) OX=1169540 GN=Vbra_12461 PE=4 SV=1 
+Probab=98.01  E-value=6.2e-08  Score=71.62  Aligned_cols=35  Identities=37%  Similarity=0.520  Sum_probs=32.0  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...-|-|++++||.-+|.|.|.|||||||.+||||
+T Consensus       225 hmlsftlaiivgffcvwsvtpalhtplmsvtnais  259 (310)
+T tr|A0A0G4EN35|  225 HMLSFTLAIIVGFFCVWSVTPALHTPLMSVTNAIS  259 (310)
+Confidence            34568899999999999999999999999999997
+
+
+No 122
+>tr|K1QU53|K1QU53_CRAGI NAD(P) transhydrogenase, mitochondrial OS=Crassostrea gigas OX=29159 GN=CGI_10012611 PE=4 SV=1
+Probab=97.98  E-value=7e-08  Score=80.04  Aligned_cols=38  Identities=37%  Similarity=0.555  Sum_probs=35.4  Template_Neff=1.800
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-.+.+.|-||.++||..+|.|.|+||.||||.+||||
+T Consensus       678 FttM~TtF~LsGIVGYhTVWGVtPALHSPLMSVTNAiS  715 (1269)
+T tr|K1QU53|K1QU  678 FTTMMTTFGLSGIVGYHTVWGVTPALHSPLMSVTNAIS  715 (1269)
+Confidence            44578899999999999999999999999999999997
+
+
+No 123
+>tr|A0A0G4L0Q4|A0A0G4L0Q4_9PEZI Uncharacterized protein OS=Verticillium longisporum OX=100787 GN=BN1723_010699 PE=4 SV=1
+Probab=97.95  E-value=9.2e-08  Score=75.76  Aligned_cols=38  Identities=39%  Similarity=0.697  Sum_probs=35.3  Template_Neff=1.398
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...++-|-+|.++||.++|.|.|.||.||||.+||||
+T Consensus       291 f~s~l~tf~~a~~igy~~vwgv~palhsplmsvtnais  328 (664)
+T tr|A0A0G4L0Q4|  291 FMSMLFTFSMASIIGYHVVWGVTPALHSPLMSVTNAIS  328 (664)
+Confidence            34578889999999999999999999999999999997
+
+
+No 124
+>tr|A0A0P7BL59|A0A0P7BL59_9HYPO NAD(P) transhydrogenase, mitochondrial OS=Neonectria ditissima OX=78410 GN=AK830_g5781 PE=4 SV=1
+Probab=97.94  E-value=1e-07  Score=79.21  Aligned_cols=37  Identities=38%  Similarity=0.642  Sum_probs=33.9  Template_Neff=1.431
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....+-|.|+.++||.|+|.|-|.||.||||.+||||
+T Consensus       773 m~naftfalasligyrvvwgv~palhsplmsvtnais  809 (1352)
+T tr|A0A0P7BL59|  773 MSNAFTFALASLIGYRVVWGVAPALHSPLMSVTNAIS  809 (1352)
+Confidence            3456779999999999999999999999999999997
+
+
+No 125
+>tr|K0TLJ9|K0TLJ9_THAOC Uncharacterized protein OS=Thalassiosira oceanica OX=159749 GN=THAOC_02906 PE=4 SV=1
+Probab=97.90  E-value=1.4e-07  Score=75.02  Aligned_cols=37  Identities=38%  Similarity=0.557  Sum_probs=34.4  Template_Neff=1.404
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -.++.-|.|++++||+++|.|.|.||.|||+.+||||
+T Consensus       122 t~~~~t~~l~~~~gy~~vwgv~palhsplm~vtnais  158 (685)
+T tr|K0TLJ9|K0TL  122 TSMLATFALAGLAGYQVVWGVAPALHSPLMAVTNAIS  158 (685)
+Confidence            4567789999999999999999999999999999997
+
+
+No 126
+>tr|E9QDE7|E9QDE7_DANRE Nicotinamide nucleotide transhydrogenase 2 (Fragment) OS=Danio rerio OX=7955 GN=nnt2 PE=1 SV=1
+Probab=97.80  E-value=2.5e-07  Score=74.86  Aligned_cols=38  Identities=39%  Similarity=0.548  Sum_probs=35.0  Template_Neff=2.291
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-.+++-|.||.++||.-+|.|.|.||.||||.+||||
+T Consensus       482 fs~M~TtfgLagiVgyhtvWgvTPaLhspLmsvtnais  519 (802)
+T tr|E9QDE7|E9QD  482 FSQMLTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS  519 (802)
+Confidence            34567889999999999999999999999999999997
+
+
+No 127
+>tr|H0EC75|H0EC75_GLAL7 Putative NAD(P) transhydrogenase, mitochondrial OS=Glarea lozoyensis (strain ATCC 74030 / MF5533) OX=1104152 GN=M7I_0008 PE=4 S
+Probab=97.79  E-value=3.1e-07  Score=73.82  Aligned_cols=36  Identities=39%  Similarity=0.633  Sum_probs=33.3  Template_Neff=1.289
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...+-|.|+.++||.++|.|.|.||.||||.+||||
+T Consensus       199 ~n~~tfala~ligyr~vwgv~palhsplmsvtnais  234 (783)
+T tr|H0EC75|H0EC  199 SNAFTFALAGLIGYRTVWGVTPALHSPLMSVTNAIS  234 (783)
+Confidence            345679999999999999999999999999999997
+
+
+No 128
+>tr|A0A2J7ZT01|A0A2J7ZT01_9CHLO NAD(P) transhydrogenase, mitochondrial (Fragment) OS=Tetrabaena socialis OX=47790 GN=TSOC_010551 PE=4 SV=1 
+Probab=97.73  E-value=4.9e-07  Score=64.51  Aligned_cols=38  Identities=39%  Similarity=0.535  Sum_probs=34.8  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-.+++-|-|+.+.||+-+|.|.|.||.||||.+||+|
+T Consensus       149 fssmltkfglasicgyqtvwgvspalhsplmsvtnavs  186 (208)
+T tr|A0A2J7ZT01|  149 FSSMLTKFGLASICGYQTVWGVSPALHSPLMSVTNAVS  186 (208)
+Confidence            44567889999999999999999999999999999986
+
+
+No 129
+>tr|A0A0R3WSY5|A0A0R3WSY5_HYDTA Uncharacterized protein OS=Hydatigena taeniaeformis OX=6205 PE=4 SV=1 
+Probab=97.70  E-value=6e-07  Score=66.71  Aligned_cols=38  Identities=39%  Similarity=0.608  Sum_probs=34.6  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...+.-|-++.++||.-+|.|.|.||.||||.+||||
+T Consensus        62 fmqtlstftlagivgyhtvwgvtpalhsplmsvtnais   99 (308)
+T tr|A0A0R3WSY5|   62 FMQTLSTFTLAGIVGYHTVWGVTPALHSPLMSVTNAIS   99 (308)
+Confidence            44556789999999999999999999999999999997
+
+
+No 130
+>tr|A0A0N4UGB8|A0A0N4UGB8_DRAME Uncharacterized protein OS=Dracunculus medinensis OX=318479 PE=4 SV=1
+Probab=97.62  E-value=8.4e-07  Score=70.62  Aligned_cols=36  Identities=36%  Similarity=0.495  Sum_probs=33.6  Template_Neff=2.323
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++-|-|+.++||.-+|.|.|.||.||||.+||||
+T Consensus        29 ~~~ttf~la~i~gyhtvwgv~palhsplmsvtnais   64 (624)
+T tr|A0A0N4UGB8|   29 QMTTTFGLAGIVGYHTVWGVTPALHSPLMSVTNAIS   64 (624)
+Confidence            457789999999999999999999999999999997
+
+
+No 131
+>tr|E1Z5C8|E1Z5C8_CHLVA Uncharacterized protein OS=Chlorella variabilis OX=554065 GN=CHLNCDRAFT_138139 PE=4 SV=1
+Probab=97.61  E-value=1e-06  Score=71.37  Aligned_cols=39  Identities=38%  Similarity=0.520  Sum_probs=35.6  Template_Neff=1.450
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+-.+++-|-|+.+.||+-+|.|.|.||.||||.+||||
+T Consensus       530 afssm~tkfglasicgyq~vwgvtpalhsplmsvtna~s  568 (807)
+T tr|E1Z5C8|E1Z5  530 AFSSMMTKFGLASICGYQTVWGVTPALHSPLMSVTNAIS  568 (807)
+Confidence            344577889999999999999999999999999999997
+
+
+No 132
+>tr|A0A0M0K3Y1|A0A0M0K3Y1_9EUKA NAD mitochondrial OS=Chrysochromulina sp. CCMP291 OX=1460289 GN=Ctob_012645 PE=4 SV=1
+Probab=97.57  E-value=1.2e-06  Score=73.43  Aligned_cols=37  Identities=38%  Similarity=0.506  Sum_probs=34.6  Template_Neff=1.863
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -.++.-|.|+.++||+++|.|.+.||.|||+.+||||
+T Consensus       710 t~ml~tfals~~~gyq~v~gv~hslhsplm~vtnavs  746 (1297)
+T tr|A0A0M0K3Y1|  710 SGMLTTFALSGICGYQSVWGVAHSLHSPLMSVTNAIS  746 (1297)
+Confidence            4567889999999999999999999999999999997
+
+
+No 133
+>tr|A0A1V8TDG8|A0A1V8TDG8_9PEZI Uncharacterized protein OS=Rachicladosporium antarcticum OX=1507870 GN=B0A48_04824 PE=4 SV=1
+Probab=97.57  E-value=1.4e-06  Score=75.19  Aligned_cols=37  Identities=38%  Similarity=0.652  Sum_probs=34.1  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .-.++-|-|+.++||.|+|.|.|.||.||||.+||||
+T Consensus      2250 mgnfftfslaaligyrvvwgvqpalhsplmsvtnais 2286 (2820)
+T tr|A0A1V8TDG8| 2250 MGNFFTFSLAALIGYRVVWGVQPALHSPLMSVTNAIS 2286 (2820)
+Confidence            3457789999999999999999999999999999997
+
+
+No 134
+>tr|A0A0G4G369|A0A0G4G369_VITBC Uncharacterized protein OS=Vitrella brassicaformis (strain CCMP3155) OX=1169540 GN=Vbra_16751 PE=4 SV=1 
+Probab=97.57  E-value=1.4e-06  Score=73.46  Aligned_cols=35  Identities=37%  Similarity=0.520  Sum_probs=32.1  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...-|-|++++||..+|.|.|.|||||||.+||||
+T Consensus      1640 hmlsftlaiivgffcvwsvtpalhtplmsvtnais 1674 (1725)
+T tr|A0A0G4G369| 1640 HMLSFTLAIIVGFFCVWSVTPALHTPLMSVTNAIS 1674 (1725)
+Confidence            34568899999999999999999999999999997
+
+
+No 135
+>tr|A0A0L1HIX3|A0A0L1HIX3_9PLEO Nad mitochondrial OS=Stemphylium lycopersici OX=183478 GN=TW65_86960 PE=4 SV=1 
+Probab=97.55  E-value=1.6e-06  Score=74.04  Aligned_cols=36  Identities=39%  Similarity=0.669  Sum_probs=33.4  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ...+-|.|+.++||.|+|.|.|.||.||||.+||||
+T Consensus      1041 snaftfalasligyrvvwgvapalhsplmsvtnais 1076 (2198)
+T tr|A0A0L1HIX3| 1041 SNAFTFALASLIGYRVVWGVAPALHSPLMSVTNAIS 1076 (2198)
+Confidence            445779999999999999999999999999999997
+
+
+No 136
+>tr|A0A1B8BZW7|A0A1B8BZW7_9PEZI Uncharacterized protein OS=Pseudogymnoascus sp. WSF 3629 OX=1622147 GN=VE00_09814 PE=4 SV=1
+Probab=97.53  E-value=1.8e-06  Score=72.76  Aligned_cols=37  Identities=38%  Similarity=0.657  Sum_probs=34.2  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .-.++-|-|+.++||.|+|.|.|.||.||||.+||||
+T Consensus      1060 mgnlftfslagligyrvvwgvapalhsplmsvtnais 1096 (1645)
+T tr|A0A1B8BZW7| 1060 MGNLFTFSLAGLIGYRVVWGVAPALHSPLMSVTNAIS 1096 (1645)
+Confidence            3457789999999999999999999999999999997
+
+
+No 137
+>tr|V5GYP7|V5GYP7_IXORI Putative conserved plasma membrane protein OS=Ixodes ricinus OX=34613 PE=2 SV=1 
+Probab=97.51  E-value=2e-06  Score=66.34  Aligned_cols=33  Identities=39%  Similarity=0.604  Sum_probs=31.6  Template_Neff=1.000
+
+Q 4o9p             10 YIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        10 ~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +||-|+.++||.-+|.|.|.||.||||.+||+|
+T Consensus         3 tifglsgivgyhtvwgvtpalhsplmsvtnavs   35 (446)
+T tr|V5GYP7|V5GY    3 TIFGLSGIVGYHTVWGVTPALHSPLMSVTNAVS   35 (446)
+Confidence            689999999999999999999999999999986
+
+
+No 138
+>tr|A0A2S5R9H9|A0A2S5R9H9_9PROT NAD(P) transhydrogenase subunit alpha OS=Holospora curviuscula OX=1082868 GN=HCUR_00492 PE=4 SV=1
+Probab=97.39  E-value=3.6e-06  Score=57.46  Aligned_cols=35  Identities=43%  Similarity=0.656  Sum_probs=32.0  Template_Neff=1.674
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+.+|...+.+||+-+-|||+..|.||||.+|..|
+T Consensus         3 f~li~m~gi~lgyytvcrvpsifhaplmsltngvs   37 (134)
+T tr|A0A2S5R9H9|    3 FLLILMIGIALGYYTVCRVPSIFHAPLMSLTNGVS   37 (134)
+Confidence            35688899999999999999999999999999875
+
+
+No 139
+>tr|A0A0C2CHY6|A0A0C2CHY6_9BILA NAD(P) transhydrogenase subunit beta domain protein OS=Ancylostoma duodenale OX=51022 GN=ANCDUO_13824 PE=4 SV=1 
+Probab=97.38  E-value=4.2e-06  Score=67.38  Aligned_cols=37  Identities=35%  Similarity=0.488  Sum_probs=33.8  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -..-+-|.++-++||.-+|.|.|.||.||||.+||||
+T Consensus       251 aamtttfalagivgyhtvwgvtpalhsplmsvtnais  287 (760)
+T tr|A0A0C2CHY6|  251 AAMTTTFALAGIVGYHTVWGVTPALHSPLMSVTNAIS  287 (760)
+Confidence            3455679999999999999999999999999999997
+
+
+No 140
+>tr|L8WU26|L8WU26_THACA Aspartate aminotransferase OS=Thanatephorus cucumeris (strain AG1-IA) OX=983506 GN=AG1IA_06120 PE=4 SV=1
+Probab=97.38  E-value=4.4e-06  Score=70.27  Aligned_cols=38  Identities=42%  Similarity=0.675  Sum_probs=35.5  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +...++-|-|+.++||.-+|.|.|.||.||||.+||||
+T Consensus       532 fmsnfytfglagligyravwgvtpalhsplmsvtnais  569 (1515)
+T tr|L8WU26|L8WU  532 FMSNFYTFGLAGLIGYRAVWGVTPALHSPLMSVTNAIS  569 (1515)
+Confidence            45678899999999999999999999999999999997
+
+
+No 141
+>tr|A0A0P5M5B8|A0A0P5M5B8_9CRUS NAD(P) transhydrogenase, mitochondrial-like protein OS=Daphnia magna OX=35525 PE=4 SV=1 
+Probab=97.35  E-value=5e-06  Score=61.69  Aligned_cols=34  Identities=35%  Similarity=0.425  Sum_probs=31.1  Template_Neff=1.000
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -+-+-|.|++||.-+|.|.|+||-||||.+||||
+T Consensus        94 ttslglgcivgyhtvwgvtpalhlplmsvtnais  127 (286)
+T tr|A0A0P5M5B8|   94 TTSLGLGCIVGYHTVWGVTPALHLPLMSVTNAIS  127 (286)
+Confidence            3456789999999999999999999999999997
+
+
+No 142
+>tr|A0A0P5VEM6|A0A0P5VEM6_9CRUS NAD(P) transhydrogenase, mitochondrial-like protein OS=Daphnia magna OX=35525 PE=4 SV=1 
+Probab=97.35  E-value=5.3e-06  Score=60.71  Aligned_cols=36  Identities=31%  Similarity=0.419  Sum_probs=32.3  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..-+-+-|.|++||.-+|.|.|.||.||||.+.|||
+T Consensus       195 tmtttlglgcivgyhtvwgvtpalhsplmsvtsais  230 (248)
+T tr|A0A0P5VEM6|  195 TMTTTLGLGCIVGYHTVWGVTPALHSPLMSVTSAIS  230 (248)
+Confidence            344567789999999999999999999999999997
+
+
+No 143
+>tr|H3FHD9|H3FHD9_PRIPA Uncharacterized protein OS=Pristionchus pacificus OX=54126 GN=WBGene00111240 PE=4 SV=1
+Probab=97.33  E-value=5.7e-06  Score=69.15  Aligned_cols=37  Identities=35%  Similarity=0.525  Sum_probs=34.1  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+.+-|.|+.++||.-+|.|.|.||.||||.+||||
+T Consensus       294 aqmmttfalsgivgyhtvwgvtpalhsplmsvtnais  330 (1327)
+T tr|H3FHD9|H3FH  294 AQMMTTFALSGIVGYHTVWGVTPALHSPLMSVTNAIS  330 (1327)
+Confidence            3456789999999999999999999999999999997
+
+
+No 144
+>tr|B6AGQ7|B6AGQ7_CRYMR NAD transhydrogenase, beta subunit family protein OS=Cryptosporidium muris (strain RN66) OX=441375 GN=CMU_035710 PE=4 SV=1
+Probab=97.33  E-value=5.1e-06  Score=69.15  Aligned_cols=37  Identities=32%  Similarity=0.489  Sum_probs=34.3  Template_Neff=1.784
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +..++.|.++.++||+-+|.|.|+|||||||.+||.|
+T Consensus       989 lq~~~~~a~s~ivgyy~~~~~~~alh~pl~svtnals 1025 (1074)
+T tr|B6AGQ7|B6AG  989 LQQFTLLALSLIVGYYSVWSVTPALHTPLMSVTNALS 1025 (1074)
+Confidence            4567889999999999999999999999999999976
+
+
+No 145
+>tr|A0A1Q9CDQ7|A0A1Q9CDQ7_SYMMI NAD(P) transhydrogenase, mitochondrial OS=Symbiodinium microadriaticum OX=2951 GN=NNT PE=4 SV=1 
+Probab=97.30  E-value=6.8e-06  Score=69.01  Aligned_cols=36  Identities=44%  Similarity=0.569  Sum_probs=33.8  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++-|+|+.-.||+-+|.|...|||||||.+||||
+T Consensus       959 sllttfllagaagyqavwgvahalhtplmsvtnais  994 (1429)
+T tr|A0A1Q9CDQ7|  959 SLLTTFLLAGAAGYQAVWGVAHALHTPLMSVTNAIS  994 (1429)
+Confidence            457889999999999999999999999999999997
+
+
+No 146
+>tr|A0A1Q3MUB7|A0A1Q3MUB7_9PROT Uncharacterized protein OS=Alphaproteobacteria bacterium 40-19 OX=1895705 GN=BGO07_02000 PE=4 SV=1 
+Probab=97.26  E-value=8.7e-06  Score=53.61  Aligned_cols=36  Identities=42%  Similarity=0.644  Sum_probs=33.1  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..+.+.+++..+||+-+-|-|..||.||||.+|..|
+T Consensus        18 tllmvlvlslvlgyyavfrtpaplhaplmsltngvs   53 (101)
+T tr|A0A1Q3MUB7|   18 TLLMVLVLSLVLGYYAVFRTPAPLHAPLMSLTNGVS   53 (101)
+Confidence            467788999999999999999999999999999865
+
+
+No 147
+>tr|A0A0P6FUD1|A0A0P6FUD1_9CRUS Putative NAD(P) transhydrogenase, mitochondrial OS=Daphnia magna OX=35525 PE=4 SV=1
+Probab=97.24  E-value=9.5e-06  Score=62.96  Aligned_cols=34  Identities=35%  Similarity=0.464  Sum_probs=31.2  Template_Neff=1.000
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      -+-+-|.|++||.-+|...|.||.||||.+||||
+T Consensus       262 tttlglgcivgyhtvwgatpalhsplmsvtnais  295 (455)
+T tr|A0A0P6FUD1|  262 TTTLGLGCIVGYHTVWGVTPALHSPLMSVTNAIS  295 (455)
+Confidence            3456789999999999999999999999999997
+
+
+No 148
+>tr|A0A2P6TXK7|A0A2P6TXK7_CHLSO NAD(P) mitochondrial isoform B OS=Chlorella sorokiniana OX=3076 GN=C2E21_2317 PE=4 SV=1
+Probab=97.20  E-value=1.2e-05  Score=67.61  Aligned_cols=36  Identities=39%  Similarity=0.525  Sum_probs=33.2  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+.+-|-|+.+.||+-+|.|.|.||.||||.+||||
+T Consensus       807 smmtkfglasicgyqtvwgvtpalhsplmsvtnais  842 (1403)
+T tr|A0A2P6TXK7|  807 SMMTKFGLASICGYQTVWGVTPALHSPLMSVTNAIS  842 (1403)
+Confidence            355678999999999999999999999999999997
+
+
+No 149
+>tr|R7YGR6|R7YGR6_CONA1 Uncharacterized protein OS=Coniosporium apollinis (strain CBS 100218) OX=1168221 GN=W97_00289 PE=4 SV=1 
+Probab=97.13  E-value=1.7e-05  Score=66.58  Aligned_cols=37  Identities=38%  Similarity=0.581  Sum_probs=33.7  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .....-|-|+.++||.-+|.|.|.||.||||.+||||
+T Consensus       726 msnvltftlaglvgyravwgvapalhsplmsvtnais  762 (1312)
+T tr|R7YGR6|R7YG  726 MSNVLTFTLAGLVGYRAVWGVAPALHSPLMSVTNAIS  762 (1312)
+Confidence            3456678999999999999999999999999999997
+
+
+No 150
+>tr|A0A2P4T4A6|A0A2P4T4A6_BAMTH Uncharacterized protein (Fragment) OS=Bambusicola thoracicus OX=9083 GN=CIB84_005052 PE=4 SV=1
+Probab=97.03  E-value=2.7e-05  Score=62.71  Aligned_cols=33  Identities=36%  Similarity=0.610  Sum_probs=30.4  Template_Neff=1.393
+
+Q 4o9p             10 YIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        10 ~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++-.+..+||.-+|+|.|.||.||||.+||||
+T Consensus       217 svyt~~g~~~~~~~w~~~palhsplmsvtnais  249 (645)
+T tr|A0A2P4T4A6|  217 SVYTLAGIVGYHTVWGVTPALHSPLMSVTNAIS  249 (645)
+Confidence            456688899999999999999999999999997
+
+
+No 151
+>tr|A0A1V6TBN3|A0A1V6TBN3_9EURO Uncharacterized protein OS=Penicillium steckii OX=303698 GN=PENSTE_c008G10341 PE=4 SV=1
+Probab=97.01  E-value=2.9e-05  Score=66.16  Aligned_cols=36  Identities=36%  Similarity=0.566  Sum_probs=32.9  Template_Neff=1.136
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ....-|-|+.++||.-+|.|.|.||.||||.+||||
+T Consensus      1024 ~nmmtfgl~glvgyravwgvapalhsplmsvtnais 1059 (1603)
+T tr|A0A1V6TBN3| 1024 GNMMTFGLAGLVGYRAVWGVAPALHSPLMSVTNAIS 1059 (1603)
+Confidence            345678999999999999999999999999999997
+
+
+No 152
+>tr|A0A1Q9EJ53|A0A1Q9EJ53_SYMMI Peptidylprolyl isomerase OS=Symbiodinium microadriaticum OX=2951 GN=pntA PE=4 SV=1 
+Probab=96.90  E-value=5.1e-05  Score=64.48  Aligned_cols=39  Identities=41%  Similarity=0.571  Sum_probs=36.0  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .++..+--|-|+.-.||+-+|.|...||||||..+||||
+T Consensus       868 gfiamlntfglagaagyqavwgvthalhtplmavtnais  906 (1505)
+T tr|A0A1Q9EJ53|  868 GFIAMLNTFGLAGAAGYQAVWGVTHALHTPLMAVTNAIS  906 (1505)
+Confidence            456778889999999999999999999999999999997
+
+
+No 153
+>tr|A0A1Q9EXD2|A0A1Q9EXD2_SYMMI NAD(P) transhydrogenase subunit alpha OS=Symbiodinium microadriaticum OX=2951 GN=pntA PE=4 SV=1
+Probab=96.88  E-value=5.8e-05  Score=62.63  Aligned_cols=27  Identities=44%  Similarity=0.562  Sum_probs=25.1  Template_Neff=1.000
+
+Q 4o9p             16 AFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        16 ~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .-.||+-+|.|...|||||||.+||||
+T Consensus       853 gaagyqavwgvahalhtplmsvtnais  879 (1009)
+T tr|A0A1Q9EXD2|  853 GAAGYQAVWGVAHALHTPLMSVTNAIS  879 (1009)
+Confidence            356999999999999999999999997
+
+
+No 154
+>tr|G9KDK4|G9KDK4_MUSPF Nicotinamide nucleotide transhydrogenase (Fragment) OS=Mustela putorius furo OX=9669 PE=2 SV=1
+Probab=96.76  E-value=9.2e-05  Score=58.31  Aligned_cols=36  Identities=36%  Similarity=0.524  Sum_probs=33.0  Template_Neff=1.446
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTP----LMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTP----LMS~tNAIs   42 (42)
+                      ...+-|-|+-++||.-+|.|||.||.|    |||.+||||
+T Consensus       133 qmvttfgl~~i~~~~~~~~~~palhsplmavlmsvtnais  172 (464)
+T tr|G9KDK4|G9KD  133 QMVTTFGLAGIVGYHTVWGVTPALHSPLMAVLMSVTNAIS  172 (464)
+Confidence            356778999999999999999999999    999999997
+
+
+No 155
+>tr|A0A0P4X0L9|A0A0P4X0L9_9CRUS Uncharacterized protein OS=Daphnia magna OX=35525 PE=4 SV=1
+Probab=96.74  E-value=9.8e-05  Score=51.85  Aligned_cols=25  Identities=44%  Similarity=0.485  Sum_probs=22.6  Template_Neff=1.302
+
+Q 4o9p             18 LGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus        18 vG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-|.-+|.|.|.||.||||.+||||
+T Consensus        17 l~~~~~~gvtp~lhsplmsvtnais   41 (155)
+T tr|A0A0P4X0L9|   17 LQYHPCWGVTPSLHSPLMSVTNAIS   41 (155)
+Confidence            4567789999999999999999997
+
+
+No 156
+>tr|A0A1J1J5S9|A0A1J1J5S9_9DIPT CLUMA_CG020705, isoform A OS=Clunio marinus OX=568069 GN=CLUMA_CG020705 PE=3 SV=1 
+Probab=96.73  E-value=0.00011  Score=63.08  Aligned_cols=36  Identities=33%  Similarity=0.582  Sum_probs=32.7  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+..-|.|+.++||.-+|.|.|+||.||||-+||+|
+T Consensus       480 ammstfalsgivgyhtvwgvtpalhsplmsctnals  515 (1695)
+T tr|A0A1J1J5S9|  480 AMMSTFALSGIVGYHTVWGVTPALHSPLMSCTNALS  515 (1695)
+Confidence            345678999999999999999999999999999986
+
+
+No 157
+>tr|A0A2M9P536|A0A2M9P536_9RHOB NAD(P)(+) transhydrogenase (Re/Si-specific) subunit alpha (Fragment) OS=Amaricoccus sp. HAR-UPW-R2A-40 OX=1985299 GN=CNY89_27820 PE=4 SV=1 
+Probab=96.46  E-value=0.00032  Score=46.17  Aligned_cols=24  Identities=33%  Similarity=0.724  Sum_probs=21.2  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRV   26 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~V   26 (42)
+                      .++...+++|+|+||+||.|||+|
+T Consensus        68 asfmahfivfvlscfvgfhviwnv   91 (92)
+T tr|A0A2M9P536|   68 ASFMAHFIVFVLSCFVGFHVIWNV   91 (92)
+Confidence            356678899999999999999997
+
+
+No 158
+>tr|A0A194PJ99|A0A194PJ99_PAPXU NAD(P) transhydrogenase, mitochondrial OS=Papilio xuthus OX=66420 GN=RR46_10662 PE=4 SV=1
+Probab=96.23  E-value=0.0007  Score=59.07  Aligned_cols=35  Identities=31%  Similarity=0.466  Sum_probs=31.3  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      +-+-..|+..+||.-+|.|-|.||.||||.+||+|
+T Consensus       465 mtttlalagvvgyhtvwgvvpalhsplmsvtnavs  499 (1902)
+T tr|A0A194PJ99|  465 MTTTLALSGVVGYHTVWGVVPALHSPLMSVTNAVS  499 (1902)
+Confidence            34456789999999999999999999999999986
+
+
+No 159
+>tr|A0A1V5IG65|A0A1V5IG65_9ACTN NAD(P) transhydrogenase subunit alpha OS=Actinobacteria bacterium ADurb.BinA094 OX=1852790 GN=pntA_2 PE=4 SV=1 
+Probab=95.96  E-value=0.0016  Score=43.01  Aligned_cols=14  Identities=100%  Similarity=1.526  Sum_probs=12.7  Template_Neff=1.000
+
+Q 4o9p             29 ILHTPLMSGSNFIH   42 (42)
+Q Consensus        29 ~LHTPLMS~tNAIs   42 (42)
+                      .|||||||++|.|+
+T Consensus         2 ilhtplmsgsnfih   15 (90)
+T tr|A0A1V5IG65|    2 ILHTPLMSGSNFIH   15 (90)
+Confidence            58999999999885
+
+
+No 160
+>tr|A0A1Q9CNN6|A0A1Q9CNN6_SYMMI NAD(P) transhydrogenase, mitochondrial OS=Symbiodinium microadriaticum OX=2951 GN=NNT PE=3 SV=1 
+Probab=95.90  E-value=0.0018  Score=57.03  Aligned_cols=36  Identities=33%  Similarity=0.383  Sum_probs=32.5  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      .+++-+-|+.+-|-+|+..|-|.||.||||.+||||
+T Consensus      1226 tmlttlglaliggaqvvygvvpalhsplmsvtnais 1261 (2052)
+T tr|A0A1Q9CNN6| 1226 TMLTTLGLALIGGAQVVYGVVPALHSPLMSVTNAIS 1261 (2052)
+Confidence            456677788899999999999999999999999997
+
+
+No 161
+>tr|A0A0R3TWP4|A0A0R3TWP4_HYMNN Uncharacterized protein OS=Hymenolepis nana OX=102285 PE=4 SV=1
+Probab=95.34  E-value=0.0061  Score=49.18  Aligned_cols=40  Identities=13%  Similarity=0.043  Sum_probs=35.7  Template_Neff=1.565
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMSGSNFIH   42 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAIs   42 (42)
+                      ..++..+.-|-||.++||.-+|.+.+.+|.|+||.+|+|+
+T Consensus        89 p~~~~m~~~~gla~~vgy~t~~~~~~~~~~~~~~~~~~~~  128 (483)
+T tr|A0A0R3TWP4|   89 PELIAMMHSVGLAVLVGYNTFWASHGDSPEAVASEHNRLE  128 (483)
+Confidence            3456667779999999999999999999999999999986
+
+
+No 162
+>tr|A0A2T2T6L9|A0A2T2T6L9_9BACT Uncharacterized protein OS=Bacteroidetes bacterium QH_8_67_23 OX=1919100 GN=BRD37_06340 PE=4 SV=1 
+Probab=93.94  E-value=0.048  Score=37.13  Aligned_cols=26  Identities=42%  Similarity=0.773  Sum_probs=22.8  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVIL   30 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~L   30 (42)
+                      .....++|+|+.|+|-|+.+|||..|
+T Consensus        27 avqnvivfvlsaflgneilskvptwl   52 (100)
+T tr|A0A2T2T6L9|   27 AVQNVIVFVLSAFLGNEILSKVPTWL   52 (100)
+Confidence            34567899999999999999999876
+
+
+No 163
+>tr|A0A1G4AJS0|A0A1G4AJS0_9GAMM Uncharacterized protein OS=Xanthomonadales bacterium RIFOXYA1_FULL_68_6 OX=1802655 GN=A2213_00185 PE=4 SV=1 
+Probab=92.57  E-value=0.15  Score=32.41  Aligned_cols=22  Identities=36%  Similarity=0.505  Sum_probs=17.2  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVP   27 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp   27 (42)
+                      +....|-..+||.|||||.+|-
+T Consensus        12 lllvaitfaacfagyevirrvg   33 (60)
+T tr|A0A1G4AJS0|   12 LLLVAITFAACFAGYEVIRRVG   33 (60)
+Confidence            3445566679999999999984
+
+
+No 164
+>tr|A0A2X2XN99|A0A2X2XN99_CITKO Glucosyltransferase MdoH OS=Citrobacter koseri OX=545 GN=mdoH_2 PE=4 SV=1
+Probab=89.35  E-value=0.66  Score=34.17  Aligned_cols=21  Identities=38%  Similarity=0.716  Sum_probs=18.6  Template_Neff=1.115
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVI   29 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~   29 (42)
+                      =++|+.+.|+|+||+|+-|+.
+T Consensus        51 htvfvvsaflgwevvwnspqr   71 (157)
+T tr|A0A2X2XN99|   51 HTVFVVSAFLGWEVVWNSPQR   71 (157)
+Confidence            368999999999999998864
+
+
+No 165
+>tr|A0A177CRU5|A0A177CRU5_9PLEO Uncharacterized protein OS=Paraphaeosphaeria sporulosa OX=1460663 GN=CC84DRAFT_1161232 PE=4 SV=1 
+Probab=88.25  E-value=0.94  Score=33.74  Aligned_cols=16  Identities=56%  Similarity=0.710  Sum_probs=14.4  Template_Neff=1.000
+
+Q 4o9p             22 LITRVPVILHTPLMSG   37 (42)
+Q Consensus        22 vI~~Vp~~LHTPLMS~   37 (42)
+                      -|+.|||.-||||||.
+T Consensus        35 histvppqqhtplmsp   50 (170)
+T tr|A0A177CRU5|   35 HISTVPPQQHTPLMSP   50 (170)
+Confidence            4789999999999985
+
+
+No 166
+>tr|W7TWW3|W7TWW3_9STRA Uncharacterized protein OS=Nannochloropsis gaditana OX=72520 GN=Naga_100008g126 PE=4 SV=1
+Probab=87.87  E-value=1  Score=35.25  Aligned_cols=26  Identities=46%  Similarity=0.581  Sum_probs=23.4  Template_Neff=1.000
+
+Q 4o9p             10 YIFVLTAFLGYELITRVPVILHTPLM   35 (42)
+Q Consensus        10 ~ifvLa~fvG~~vI~~Vp~~LHTPLM   35 (42)
+                      -|.+|+.++|-.--|+-||.|||||-
+T Consensus        14 kivvlstllgstnawrspprlhtpla   39 (262)
+T tr|W7TWW3|W7TW   14 KIVVLSTLLGSTNAWRSPPRLHTPLA   39 (262)
+Confidence            36788999999999999999999984
+
+
+No 167
+>tr|A0A2X4TE06|A0A2X4TE06_SALCE Glucosyltransferase MdoH OS=Salmonella enterica subsp. arizonae OX=59203 GN=mdoH_2 PE=4 SV=1 
+Probab=87.82  E-value=1.1  Score=33.62  Aligned_cols=21  Identities=38%  Similarity=0.716  Sum_probs=18.4  Template_Neff=1.000
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVI   29 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~   29 (42)
+                      -++|+.+.|+|+||+|+-|..
+T Consensus       130 htvfvvsaflgwevvwnspqr  150 (175)
+T tr|A0A2X4TE06|  130 HTVFVVSAFLGWEVVWNSPQR  150 (175)
+Confidence            368999999999999998864
+
+
+No 168
+>tr|A0A1V6F9M4|A0A1V6F9M4_9BACT Uncharacterized protein OS=Tenericutes bacterium ADurb.Bin087 OX=1852918 GN=BWX74_00686 PE=4 SV=1
+Probab=87.48  E-value=1.1  Score=34.78  Aligned_cols=23  Identities=35%  Similarity=0.792  Sum_probs=20.7  Template_Neff=1.138
+
+Q 4o9p             15 TAFLGYELITRVPVILHTPLMSG   37 (42)
+Q Consensus        15 a~fvG~~vI~~Vp~~LHTPLMS~   37 (42)
+                      +-|.|..+|+.-||.||||..|.
+T Consensus       136 ~~ffgmsiisdwppllh~pffsa  158 (239)
+T tr|A0A1V6F9M4|  136 NTFFGMSIISDWPPLLHKPFFSA  158 (239)
+Confidence            46889999999999999999875
+
+
+No 169
+>tr|A0A1J8QN62|A0A1J8QN62_9HOMO Uncharacterized protein OS=Rhizopogon vesiculosus OX=180088 GN=AZE42_00760 PE=4 SV=1 
+Probab=86.74  E-value=1.4  Score=39.14  Aligned_cols=20  Identities=40%  Similarity=0.672  Sum_probs=17.3  Template_Neff=1.000
+
+Q 4o9p             21 ELITRVPVILHTPLMSGSNF   40 (42)
+Q Consensus        21 ~vI~~Vp~~LHTPLMS~tNA   40 (42)
+                      .|++..|.+.||||||..|.
+T Consensus       494 vvvssaphtfhtplmssnns  513 (989)
+T tr|A0A1J8QN62|  494 VVVSSAPHTFHTPLMSSNNS  513 (989)
+Confidence            46889999999999998773
+
+
+No 170
+>tr|G4D754|G4D754_9FIRM Uncharacterized protein OS=Peptoniphilus indolicus ATCC 29427 OX=997350 GN=HMPREF9129_2234 PE=4 SV=1 
+Probab=84.95  E-value=2.1  Score=26.05  Aligned_cols=23  Identities=17%  Similarity=0.571  Sum_probs=18.4  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRV   26 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~V   26 (42)
+                      +++..+.+.+|++|+||.|.+-.
+T Consensus         8 sliepiiililsifvgfvvlsia   30 (41)
+T tr|G4D754|G4D7    8 SLIEPIIILILSIFVGFVVLSIA   30 (41)
+Confidence            34567889999999999988743
+
+
+No 171
+>tr|A0A1M6LSV9|A0A1M6LSV9_9CLOT Uncharacterized protein OS=Hathewaya proteolytica DSM 3090 OX=1121331 GN=SAMN02745248_00805 PE=4 SV=1 
+Probab=84.82  E-value=2.1  Score=25.90  Aligned_cols=24  Identities=42%  Similarity=0.570  Sum_probs=20.0  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELIT   24 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~   24 (42)
+                      |+...+..-.+|+-|+|+||.+..
+T Consensus         1 msntmiiasmifvgavflgynlfa   24 (40)
+T tr|A0A1M6LSV9|    1 MSNTMIIASMIFVGAVFLGYNLFA   24 (40)
+Confidence            566677888899999999998754
+
+
+No 172
+>tr|A0A165ETM3|A0A165ETM3_9BASI Uncharacterized protein OS=Calocera cornea HHB12733 OX=1353952 GN=CALCODRAFT_353068 PE=4 SV=1 
+Probab=84.62  E-value=2.2  Score=32.17  Aligned_cols=20  Identities=50%  Similarity=0.884  Sum_probs=17.7  Template_Neff=1.000
+
+Q 4o9p             19 GYELITRVPVILHTPLMSGS   38 (42)
+Q Consensus        19 G~~vI~~Vp~~LHTPLMS~t   38 (42)
+                      -|-+|++||.+||+|-+||.
+T Consensus       123 rwplisrvpgtlhnptisga  142 (176)
+T tr|A0A165ETM3|  123 RWPLISRVPGTLHNPTISGA  142 (176)
+Confidence            36789999999999999875
+
+
+No 173
+>tr|X6CK34|X6CK34_9RHIZ Uncharacterized protein OS=Mesorhizobium sp. LNHC232B00 OX=1287243 GN=X742_22755 PE=4 SV=1 
+Probab=83.75  E-value=2.6  Score=29.21  Aligned_cols=20  Identities=40%  Similarity=0.667  Sum_probs=16.0  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELI   23 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI   23 (42)
+                      .+.+-+.||+|++|+||..=
+T Consensus        49 pfvfrfaifvlaifvgy~fp   68 (92)
+T tr|X6CK34|X6CK   49 PFVFRFAIFVLAIFVGYXFP   68 (92)
+Confidence            34567889999999999753
+
+
+No 174
+>tr|I7ML24|I7ML24_TETTS NAD(P) transhydrogenase subunit beta OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00314860 PE=4 SV=2
+Probab=82.89  E-value=3  Score=38.01  Aligned_cols=34  Identities=32%  Similarity=0.468  Sum_probs=30.5  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRVPVILHTPLMS   36 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS   36 (42)
+                      .++++.+.+|+||.|+|=.||..|.|-|.-||.-
+T Consensus      1126 sefifqlglfilalfvgdtvikqvdpglngplll 1159 (1229)
+T tr|I7ML24|I7ML 1126 SEFIFQLGLFILALFVGDTVIKQVDPGLNGPLLL 1159 (1229)
+Confidence            4567888999999999999999999999999863
+
+
+No 175
+>tr|A0A0S2JFP5|A0A0S2JFP5_9GAMM Uncharacterized protein OS=Colwellia sp. MT41 OX=58049 GN=CMT41_08025 PE=4 SV=1 
+Probab=82.21  E-value=3.3  Score=27.82  Aligned_cols=23  Identities=30%  Similarity=0.634  Sum_probs=19.3  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRV   26 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~V   26 (42)
+                      +.+.-+.+|+|++.+|.|||.-|
+T Consensus         2 dvfikilifilsiiigvevialv   24 (74)
+T tr|A0A0S2JFP5|    2 DVFIKILIFILSIIIGVEVIALV   24 (74)
+Confidence            45567889999999999999765
+
+
+No 176
+>tr|A0A1G8JTE4|A0A1G8JTE4_9RHOB Uncharacterized protein OS=Pseudoruegeria lutimaris OX=571298 GN=SAMN04488026_100256 PE=4 SV=1 
+Probab=82.11  E-value=3.4  Score=28.92  Aligned_cols=24  Identities=29%  Similarity=0.444  Sum_probs=20.6  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVI   29 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~   29 (42)
+                      ...+++|-|+.|+||.+-+.-||.
+T Consensus        58 vwiltvfwlalfvgyfiasttppn   81 (97)
+T tr|A0A1G8JTE4|   58 VWILTVFWLALFVGYFIASTTPPN   81 (97)
+Confidence            456889999999999999988873
+
+
+No 177
+>tr|I3U7Z7|I3U7Z7_ADVKW Polar amino acid ABC transporter inner membrane subunit OS=Advenella kashmirensis (strain DSM 17095 / LMG 22695 / WT001) OX=1036672 GN=TKWG_02515 PE=3 SV=1 
+Probab=80.82  E-value=4.1  Score=30.45  Aligned_cols=30  Identities=27%  Similarity=0.603  Sum_probs=24.2  Template_Neff=1.000
+
+Q 4o9p             11 IFVLTAFLGYELITRVPVILHTPLMSGSNFI   41 (42)
+Q Consensus        11 ifvLa~fvG~~vI~~Vp~~LHTPLMS~tNAI   41 (42)
+                      +.+-+..+|.+|+..- |.|||=.|||.|..
+T Consensus        83 lliysgviglqvvrdt-pllhtffmsgyncl  112 (156)
+T tr|I3U7Z7|I3U7   83 LLIYSGVIGLQVVRDT-PLLHTFFMSGYNCL  112 (156)
+Confidence            4456788999998764 68999999999864
+
+
+No 178
+>tr|X0ZHG2|X0ZHG2_9ZZZZ Uncharacterized protein OS=marine sediment metagenome OX=412755 GN=S01H4_18298 PE=4 SV=1 
+Probab=79.63  E-value=4.8  Score=24.94  Aligned_cols=30  Identities=17%  Similarity=0.366  Sum_probs=24.8  Template_Neff=1.000
+
+Q 4o9p              1 MEFGFWSALYIFVLTAFLGYELITRVPVIL   30 (42)
+Q Consensus         1 m~~~~~~~l~ifvLa~fvG~~vI~~Vp~~L   30 (42)
+                      |+-.+++..+|..+.|++|..|...|-..|
+T Consensus         1 mswtliflafilmigclvgvvvlrdvltyl   30 (44)
+T tr|X0ZHG2|X0ZH    1 MSWTLIFLAFILMIGCLVGVVVLRDVLTYL   30 (44)
+Confidence            566778888899999999999988876544
+
+
+No 179
+>tr|H3F2H6|H3F2H6_PRIPA Uncharacterized protein OS=Pristionchus pacificus OX=54126 PE=4 SV=1 
+Probab=77.41  E-value=6.3  Score=29.78  Aligned_cols=26  Identities=42%  Similarity=0.779  Sum_probs=22.7  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTP   33 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTP   33 (42)
+                      ..-+|+|..++||....+||---||-
+T Consensus        25 harvfiltlivgyrmftrvpieehts   50 (165)
+T tr|H3F2H6|H3F2   25 HARVFILTLIVGYRMFTRVPIEEHTS   50 (165)
+Confidence            34689999999999999999888874
+
+
+No 180
+>tr|G0QPE3|G0QPE3_ICHMG Nad transhydrogenase beta subunit family protein, putative OS=Ichthyophthirius multifiliis (strain G5) OX=857967 GN=IMG5_067080 PE=4 SV=1 
+Probab=77.15  E-value=6.5  Score=29.81  Aligned_cols=32  Identities=31%  Similarity=0.541  Sum_probs=28.3  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTPLM   35 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLM   35 (42)
+                      .++..+.+|+||..+|-.+|..|..-|.|.|.
+T Consensus        69 rfitqlsvfilalyvgqtiinqvhrglytall  100 (169)
+T tr|G0QPE3|G0QP   69 RFITQLSVFILALYVGQTIINQVHRGLYTALL  100 (169)
+Confidence            35667889999999999999999999999875
+
+
+No 181
+>tr|R2NNW7|R2NNW7_ENTFC Uncharacterized protein OS=Enterococcus faecium EnGen0191 OX=1157486 GN=SSI_01736 PE=4 SV=1
+Probab=76.29  E-value=7  Score=27.34  Aligned_cols=22  Identities=27%  Similarity=0.644  Sum_probs=18.0  Template_Neff=1.130
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELIT   24 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~   24 (42)
+                      |+++.++..++|...+||||+.
+T Consensus         1 melflmf~cyvlgavvgyevvk   22 (92)
+T tr|R2NNW7|R2NN    1 MELFLMFICYVLGAVVGYEVVK   22 (92)
+Confidence            3456777888999999999985
+
+
+No 182
+>tr|H5SNM1|H5SNM1_9BACT Uncharacterized protein OS=uncultured Acetothermia bacterium OX=236499 GN=HGMM_F52D02C36 PE=4 SV=1
+Probab=75.26  E-value=8  Score=25.56  Aligned_cols=24  Identities=33%  Similarity=0.614  Sum_probs=19.3  Template_Neff=1.000
+
+Q 4o9p              3 FGFWSALYIFVLTAFLGYELITRV   26 (42)
+Q Consensus         3 ~~~~~~l~ifvLa~fvG~~vI~~V   26 (42)
+                      |-++..+..|++..++|||-|.|-
+T Consensus        37 mvfllllvafviggwvgyewirks   60 (63)
+T tr|H5SNM1|H5SN   37 MVFLLLLVAFVIGGWVGYEWIRKS   60 (63)
+Confidence            345667788999999999999874
+
+
+No 183
+>tr|G3W178|G3W178_SARHA Transmembrane protein 206 OS=Sarcophilus harrisii OX=9305 GN=TMEM206 PE=4 SV=1
+Probab=74.58  E-value=6.8  Score=32.33  Aligned_cols=32  Identities=31%  Similarity=0.443  Sum_probs=27.4  Template_Neff=2.500
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVILHTPLMSGS   38 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~t   38 (42)
+                      +.+.+-..|+|+.|+-|+..-.-|..|.||.+
+T Consensus        73 IYLlL~aVAvFLaYQTIsDF~eKL~hPVMSVs  104 (350)
+T tr|G3W178|G3W1   73 IYLLLMAVAVFLVYQTISDFREKLKHPVMSVS  104 (350)
+Confidence            34455568999999999999999999999975
+
+
+No 184
+>tr|A0A1F7GV60|A0A1F7GV60_9BACT Uncharacterized protein OS=Candidatus Roizmanbacteria bacterium RIFCSPHIGHO2_02_FULL_37_24 OX=1802037 GN=A3C24_00550 PE=4 SV=1 
+Probab=74.05  E-value=9  Score=28.26  Aligned_cols=28  Identities=29%  Similarity=0.500  Sum_probs=21.4  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTPL   34 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTPL   34 (42)
+                      +..+..|++|+++|.++++. ..+|.||-
+T Consensus        46 ililvffviavligvylvsq-rqtlqtpa   73 (133)
+T tr|A0A1F7GV60|   46 ILILVFFVIAVLIGVYLVSQ-RQTLQTPA   73 (133)
+Confidence            45567789999999999876 45677773
+
+
+No 185
+>tr|A0A0A2VYP7|A0A0A2VYP7_BEABA Glucans biosynthesis glucosyltransferase H OS=Beauveria bassiana D1-5 OX=1245745 GN=BBAD15_g2784 PE=3 SV=1
+Probab=72.70  E-value=10  Score=35.31  Aligned_cols=21  Identities=38%  Similarity=0.716  Sum_probs=18.6  Template_Neff=1.000
+
+Q 4o9p              9 LYIFVLTAFLGYELITRVPVI   29 (42)
+Q Consensus         9 l~ifvLa~fvG~~vI~~Vp~~   29 (42)
+                      -++|+.+.|+|+||+|+-|..
+T Consensus      1115 htvfvvsaflgwevvwnspqr 1135 (1332)
+T tr|A0A0A2VYP7| 1115 HTVFVVSAFLGWEVVWNSPQR 1135 (1332)
+Confidence            368999999999999998864
+
+
+No 186
+>tr|A0A1G2HV77|A0A1G2HV77_9BACT Uncharacterized protein OS=Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_41_41 OX=1802203 GN=A2822_04585 PE=4 SV=1 
+Probab=70.42  E-value=13  Score=26.67  Aligned_cols=23  Identities=26%  Similarity=0.511  Sum_probs=17.4  Template_Neff=1.000
+
+Q 4o9p              7 SALYIFVLTAFLGYELITRVPVI   29 (42)
+Q Consensus         7 ~~l~ifvLa~fvG~~vI~~Vp~~   29 (42)
+                      +.+.+..|.+|+||.||.+..|.
+T Consensus         5 fllgviflvvfvgyfvikkmtpv   27 (104)
+T tr|A0A1G2HV77|    5 FLLGVIFLVVFVGYFVIKKMTPV   27 (104)
+Confidence            34555667889999999998664
+
+
+No 187
+>tr|A0A2M7VHK8|A0A2M7VHK8_9BACT Uncharacterized protein (Fragment) OS=Candidatus Levybacteria bacterium CG_4_10_14_0_2_um_filter_35_8 OX=1974624 GN=COX78_00260 PE=4 SV=1 
+Probab=70.37  E-value=13  Score=28.76  Aligned_cols=37  Identities=38%  Similarity=0.529  Sum_probs=29.2  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPL-MSGSNFI   41 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPL-MS~tNAI   41 (42)
+                      +...+.+|++..|+-|+-...||--|||-= --|.||.
+T Consensus        32 lflfflifilgaflrfyrlgevpvglhtdevylgynaf   69 (184)
+T tr|A0A2M7VHK8|   32 LFLFFLIFILGAFLRFYRLGEVPVGLHTDEVYLGYNAF   69 (184)
+Confidence            455678999999999999999999999953 3345553
+
+
+No 188
+>tr|G6ELM3|G6ELM3_STRTR Murein hydrolase export regulator OS=Streptococcus thermophilus CNCM I-1630 OX=1042404 GN=STHE1630_00010 PE=4 SV=1 
+Probab=67.49  E-value=16  Score=24.65  Aligned_cols=35  Identities=34%  Similarity=0.397  Sum_probs=29.9  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPLMSGSN   39 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tN   39 (42)
+                      .++.+++-++|.-+|..+-.+-|..|-|||...+-
+T Consensus         8 plfgltlsvlaytlglslyrrfpnplttpllvsta   42 (69)
+T tr|G6ELM3|G6EL    8 PLFGLTLSVLAYTLGLSLYRRFPNPLTTPLLVSTA   42 (69)
+Confidence            45677888899999999999999999999986553
+
+
+No 189
+>tr|L0GWS4|L0GWS4_9GAMM Uncharacterized protein OS=Thioflavicoccus mobilis 8321 OX=765912 GN=Thimo_0998 PE=4 SV=1 
+Probab=62.64  E-value=23  Score=30.75  Aligned_cols=30  Identities=33%  Similarity=0.697  Sum_probs=24.9  Template_Neff=1.000
+
+Q 4o9p              5 FWSALYIFVLTAFLGYELITRVPVILHTPL   34 (42)
+Q Consensus         5 ~~~~l~ifvLa~fvG~~vI~~Vp~~LHTPL   34 (42)
+                      ++..+.+=+.+..+||.++.+-||.|-||.
+T Consensus        47 fivpislgvasawigfslvrrfppllltpi   76 (508)
+T tr|L0GWS4|L0GW   47 FIVPISLGVASAWIGFSLVRRFPPLLLTPI   76 (508)
+Confidence            455556667889999999999999999974
+
+
+No 190
+>tr|A0A0R1THL9|A0A0R1THL9_9LACO Signal transduction histidine kinase OS=Lactobacillus paracollinoides DSM 15502 = JCM 11969 OX=1423785 GN=FC17_GL000989 PE=4 SV
+Probab=60.84  E-value=26  Score=29.06  Aligned_cols=32  Identities=22%  Similarity=0.461  Sum_probs=27.7  Template_Neff=1.000
+
+Q 4o9p              8 ALYIFVLTAFLGYELITRVPVILHTPLMSGSN   39 (42)
+Q Consensus         8 ~l~ifvLa~fvG~~vI~~Vp~~LHTPLMS~tN   39 (42)
+                      .+++++|+..+|..+|+.....|..||-..+.
+T Consensus        25 viiililslvigvwiisqlskrlnqpltaltd   56 (319)
+T tr|A0A0R1THL9|   25 VIIILILSLVIGVWIISQLSKRLNQPLTALTD   56 (319)
+Confidence            45678899999999999999999999976553
+
+
+No 191
+>tr|A0A2S2N5C6|A0A2S2N5C6_9ZZZZ Transmembrane protein 145 (Fragment) OS=bird metagenome OX=1833763 PE=4 SV=1 
+Probab=57.45  E-value=33  Score=27.76  Aligned_cols=26  Identities=35%  Similarity=0.645  Sum_probs=20.5  Template_Neff=1.000
+
+Q 4o9p              6 WSALYIFVLTAFLGYELITRVPVILHTP   33 (42)
+Q Consensus         6 ~~~l~ifvLa~fvG~~vI~~Vp~~LHTP   33 (42)
+                      +..+.||+++|..||++-.  ...|||.
+T Consensus       127 lifilifllscycgyqlkg--rqllhtt  152 (247)
+T tr|A0A2S2N5C6|  127 LIFILIFLLSCYCGYQLKG--RQLLHTT  152 (247)
+Confidence            4567789999999999854  4678875
+
+
+No 192
+>tr|A0A106QCG2|A0A106QCG2_9BURK Uncharacterized protein OS=Burkholderia ubonensis OX=101571 GN=WL29_20445 PE=4 SV=1 
+Probab=41.28  E-value=89  Score=24.20  Aligned_cols=30  Identities=23%  Similarity=0.547  Sum_probs=27.0  Template_Neff=1.000
+
+Q 4o9p              4 GFWSALYIFVLTAFLGYELITRVPVILHTP   33 (42)
+Q Consensus         4 ~~~~~l~ifvLa~fvG~~vI~~Vp~~LHTP   33 (42)
+                      +.+...++.-|+|.+.|.-..+||.-.-||
+T Consensus        25 npwywvtvlclacvvafdrfhrvpawvatp   54 (153)
+T tr|A0A106QCG2|   25 NPWYWVTVLCLACVVAFDRFHRVPAWVATP   54 (153)
+Confidence            456778899999999999999999999998
+
+

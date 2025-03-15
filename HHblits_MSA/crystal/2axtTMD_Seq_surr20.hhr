@@ -1,0 +1,1817 @@
+Query         2axt
+Match_columns 36
+No_of_seqs    160 out of 215
+Neff          2.86936
+Searched_HMMs 201
+Date          Wed Apr 17 02:43:55 2024
+Command       hhblits -i /home/light/Downloads/Crystal_fasta_files/2axtTMD_Seq_surr20.fasta -d /home/light/Downloads/UniproDB/uniclust30_2018_08_hhsuite/uniclust30_2018_08/uniclust30_2018_08 -oa3m /home/light/Downloads/Crystal_fasta_files/2axtTMD_Seq_surr20.a3m 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 sp|P12168|PSBM_MARPO Photosyst  99.8   5E-22 1.9E-27  103.5   0.0   34    1-34      1-34  (34)
+  2 tr|A3YUT5|A3YUT5_9SYNE Photosy  99.7 4.1E-20 1.5E-25   97.1   0.0   35    1-35      1-35  (35)
+  3 sp|B0CFM0|PSBM_ACAM1 Photosyst  99.6 1.8E-19 6.5E-25   94.3   0.0   34    1-34      1-34  (34)
+  4 tr|A0A220IMJ5|A0A220IMJ5_9POAL  99.6 1.5E-18 6.2E-24   90.5   0.0   34    1-34      1-34  (34)
+  5 tr|A0A291I1R5|A0A291I1R5_PHODC  99.6 2.3E-18 7.9E-24  101.2   0.0   33    1-33     38-70  (70)
+  6 tr|A0A097PB05|A0A097PB05_CYAPA  99.6   5E-18 1.7E-23   90.4   0.0   35    1-35      1-35  (37)
+  7 tr|G3XHI2|G3XHI2_SCIVE Photosy  99.5 2.9E-17 9.5E-23   88.0   0.0   34    1-34      1-34  (38)
+  8 tr|G8J4U1|G8J4U1_9SPER Photosy  99.5 6.3E-17 2.1E-22   87.5   0.0   36    1-36      1-36  (40)
+  9 tr|G8XPF0|G8XPF0_9CHLO Photosy  99.5 8.9E-17 2.8E-22   88.9   0.0   35    1-35     11-45  (46)
+ 10 tr|B0YPL6|B0YPL6_ANEMR Photosy  99.4 1.4E-16 4.7E-22   83.8   0.0   34    1-34      1-34  (34)
+ 11 tr|A0A2H5MZR3|A0A2H5MZR3_CITUN  99.4 2.1E-16 6.8E-22   89.5   0.0   34    1-34     20-53  (53)
+ 12 tr|A0A2K1IQV1|A0A2K1IQV1_PHYPA  99.4 2.8E-16 8.8E-22   84.6   0.0   30    1-30      1-30  (39)
+ 13 tr|A0A1C9JB97|A0A1C9JB97_9CHLO  99.4 7.8E-16 2.7E-21   82.2   0.0   35    1-35      1-35  (37)
+ 14 tr|L7NLP1|L7NLP1_MAGLI Photosy  99.3   2E-15 6.2E-21   79.6   0.0   34    1-34      1-34  (34)
+ 15 tr|F4Y3T9|F4Y3T9_9CYAN Photosy  99.3 4.3E-15 1.3E-20   84.5   0.0   35    1-35     18-52  (54)
+ 16 tr|A0A1Z9PC32|A0A1Z9PC32_9PROC  99.3 4.5E-15 1.5E-20   78.3   0.0   33    1-33      1-33  (34)
+ 17 tr|L8LWG0|L8LWG0_9CYAN Photosy  99.3 7.8E-15 2.4E-20   85.0   0.0   36    1-36     26-61  (61)
+ 18 tr|A0A1U7AFU5|A0A1U7AFU5_9SPER  99.3 1.5E-14 4.9E-20   89.6   0.0   34    1-34     64-97  (97)
+ 19 tr|K4CU86|K4CU86_SOLLC Unchara  99.2 1.9E-14 5.9E-20   83.7   0.0   34    1-34     29-62  (62)
+ 20 tr|K9SGP7|K9SGP7_9CYAN Photosy  99.2 2.1E-14 6.9E-20   78.0   0.0   35    1-35      4-38  (40)
+ 21 tr|A0A097KNU2|A0A097KNU2_9CHLO  99.2 6.9E-14 2.1E-19   84.0   0.0   33    1-33     44-76  (77)
+ 22 tr|Q49CA7|Q49CA7_CUSSA PsbM OS  99.1 1.2E-13 3.8E-19   72.7   0.0   33    1-33      1-33  (33)
+ 23 tr|Q3YLU7|Q3YLU7_9ERIC Photosy  99.1 1.7E-13 5.4E-19   72.5   0.0   34    1-34      1-34  (34)
+ 24 tr|A4QMK8|A4QMK8_PINKO Photosy  99.1 3.3E-13   1E-18   78.9   0.0   36    1-36     27-62  (63)
+ 25 tr|A0A0K1ZXU8|A0A0K1ZXU8_9ASTR  99.0   8E-13 2.5E-18   65.3   0.0   23    1-23      1-23  (23)
+ 26 tr|G7LJ30|G7LJ30_MEDTR Photosy  99.0 1.5E-12 4.6E-18   74.1   0.0   33    1-33      1-33  (52)
+ 27 tr|C1IGW1|C1IGW1_9ASTR Photosy  99.0 1.6E-12 5.1E-18   65.8   0.0   26    9-34      1-26  (26)
+ 28 tr|X2FAI9|X2FAI9_LAGSI Photosy  99.0 1.7E-12 5.4E-18   63.7   0.0   22    1-22      1-22  (22)
+ 29 tr|H2BC07|H2BC07_9CARY Photosy  99.0 1.8E-12 5.5E-18   65.2   0.0   25    1-25      1-25  (25)
+ 30 tr|A0A218LLP2|A0A218LLP2_HETPI  99.0   2E-12 6.2E-18   68.6   0.0   29    1-29      1-29  (34)
+ 31 tr|Q3YLU1|Q3YLU1_9ERIC Photosy  99.0 2.4E-12 7.5E-18   68.3   0.0   34    1-34      1-34  (34)
+ 32 tr|A0A1I9LK63|A0A1I9LK63_CAURA  99.0   3E-12 9.4E-18   68.0   0.0   34    1-34      1-34  (34)
+ 33 tr|A0A0X9R2V0|A0A0X9R2V0_9ASPA  98.9 5.9E-12 1.8E-17   75.7   0.0   35    1-35      1-35  (75)
+ 34 tr|A0A1C9JBQ7|A0A1C9JBQ7_9CHLO  98.8 1.3E-11   4E-17   71.0   0.0   35    1-35      1-35  (55)
+ 35 tr|A4S5B8|A4S5B8_OSTLU Putativ  98.8 1.2E-11 4.1E-17   81.0   0.0   35    2-36     72-106 (142)
+ 36 tr|M4I7I9|M4I7I9_CISDE PSII M-  98.8 1.3E-11 4.1E-17   64.6   0.0   24    1-24      1-24  (31)
+ 37 tr|A0A220IK64|A0A220IK64_9POAL  98.8 2.5E-11 7.6E-17   59.2   0.0   21    1-21      1-21  (21)
+ 38 tr|A0A0F6MVH5|A0A0F6MVH5_9ASTR  98.7 4.7E-11 1.5E-16   59.3   0.0   23   12-34      1-23  (23)
+ 39 tr|C9DDF4|C9DDF4_9POAL PsbM (F  98.7 1.1E-10 3.5E-16   56.5   0.0   20    1-20      1-20  (20)
+ 40 tr|A0A0B5HG23|A0A0B5HG23_9SPER  98.7 1.1E-10 3.6E-16   59.7   0.0   27    8-34      1-27  (27)
+ 41 tr|A0A220II08|A0A220II08_AGRCR  98.6 2.1E-10 6.6E-16   55.0   0.0   19    1-19      1-19  (19)
+ 42 tr|A0A287EBG2|A0A287EBG2_HORVV  98.6 2.3E-10   7E-16   60.1   0.0   24    1-24      6-29  (31)
+ 43 tr|A0A1Y0DFZ4|A0A1Y0DFZ4_9SPER  98.6 3.5E-10 1.1E-15   59.4   0.0   29    1-29      1-29  (31)
+ 44 tr|A0A0A1ZK15|A0A0A1ZK15_PROMR  98.5 5.8E-10 1.9E-15   63.6   0.0   36    1-36      1-36  (50)
+ 45 tr|C9DDD3|C9DDD3_9POAL PsbM (F  98.5 6.9E-10 2.1E-15   52.8   0.0   18    1-18      1-18  (18)
+ 46 tr|D3XKP3|D3XKP3_9GENT Photosy  98.5 7.2E-10 2.2E-15   55.7   0.0   24   11-34      1-24  (24)
+ 47 tr|E0XGV5|E0XGV5_9POAL PsbM (F  98.5 1.1E-09 3.3E-15   53.7   0.0   21   14-34      1-21  (21)
+ 48 tr|A0A0E3M0E5|A0A0E3M0E5_JUNCM  98.4 1.3E-09 4.2E-15   57.4   0.0   29    6-34      1-29  (31)
+ 49 tr|A0A220IL10|A0A220IL10_TRITU  98.3   4E-09 1.2E-14   51.8   0.0   21   14-34      1-21  (21)
+ 50 tr|Q45Z04|Q45Z04_9ERIC PsbM OS  98.3 4.2E-09 1.3E-14   56.5   0.0   34    1-34      1-34  (34)
+ 51 tr|A0A0D3M6L2|A0A0D3M6L2_9ASPA  98.3 8.5E-09 2.6E-14   56.7   0.0   24    1-24      1-24  (39)
+ 52 tr|A0A059SL71|A0A059SL71_9EUKA  98.2 8.9E-09 2.8E-14   52.7   0.0   24   12-35      2-25  (26)
+ 53 tr|C1EIF8|C1EIF8_MICCC Unchara  98.2 9.5E-09 2.9E-14   74.0   0.0   34    2-35    250-283 (320)
+ 54 tr|Q27I37|Q27I37_RHUCR PsbM (F  98.2 1.1E-08 3.5E-14   49.8   0.0   20   15-34      1-20  (20)
+ 55 tr|A0A218KA84|A0A218KA84_9ASTR  98.1 2.4E-08 7.6E-14   48.2   0.0   19   16-34      1-19  (19)
+ 56 tr|G7IW80|G7IW80_MEDTR Photosy  98.1 2.5E-08 7.7E-14   58.2   0.0   33    1-33     23-55  (56)
+ 57 tr|C9DDF5|C9DDF5_9POAL PsbM (F  98.1 2.5E-08 7.7E-14   47.1   0.0   17    1-17      1-17  (17)
+ 58 tr|A0A0B5H6R5|A0A0B5H6R5_9SPER  98.1 3.1E-08 9.5E-14   48.8   0.0   21   14-34      1-21  (21)
+ 59 tr|D2XDG5|D2XDG5_9POAL Photosy  98.1 3.5E-08 1.1E-13   47.7   0.0   19   16-34      1-19  (19)
+ 60 tr|A0A218LDE1|A0A218LDE1_AEGTA  98.1   4E-08 1.2E-13   52.9   0.0   34    1-34      1-34  (34)
+ 61 tr|A0A1Z3MJU6|A0A1Z3MJU6_9POAL  98.1 4.3E-08 1.3E-13   47.9   0.0   20   15-34      1-20  (20)
+ 62 tr|A0A2I0IB99|A0A2I0IB99_PUNGR  98.0 5.6E-08 1.7E-13   63.5   0.0   31    1-31      1-31  (125)
+ 63 tr|H2E9G6|H2E9G6_9ASTR Photosy  98.0 7.5E-08 2.3E-13   46.6   0.0   19   16-34      1-19  (19)
+ 64 tr|A0A218LDG2|A0A218LDG2_AEGTA  98.0 8.1E-08 2.5E-13   44.9   0.0   16    1-16      1-16  (16)
+ 65 tr|L1IFP3|L1IFP3_GUITH Unchara  97.9 8.8E-08 3.3E-13   61.9   0.0   35    1-35     72-106 (115)
+ 66 tr|C1IGT4|C1IGT4_9ASTR Photosy  97.9 1.2E-07 3.6E-13   45.5   0.0   18   17-34      1-18  (18)
+ 67 tr|Q45YT1|Q45YT1_9ERIC PsbM OS  97.9 1.5E-07 4.8E-13   50.7   0.0   34    1-34      1-34  (34)
+ 68 tr|A0A218LXJ9|A0A218LXJ9_TRITI  97.9 1.8E-07 5.6E-13   45.4   0.0   19   16-34      1-19  (19)
+ 69 tr|A0A218LCZ0|A0A218LCZ0_AEGTA  97.9 1.8E-07 5.7E-13   43.2   0.0   15    1-15      1-15  (15)
+ 70 tr|A0A061QVR0|A0A061QVR0_9CHLO  97.9   2E-07 6.1E-13   62.4   0.0   34    2-35     79-112 (149)
+ 71 tr|E0XGN5|E0XGN5_9POAL PsbM (F  97.8 3.5E-07 1.1E-12   44.8   0.0   20   15-34      1-20  (20)
+ 72 tr|A0A2S1GJH1|A0A2S1GJH1_9GENT  97.7 4.2E-07 1.3E-12   44.1   0.0   19   16-34      1-19  (19)
+ 73 tr|Q27I01|Q27I01_9ROSI PsbM OS  97.7   5E-07 1.6E-12   48.6   0.0   24   11-34     10-33  (33)
+ 74 tr|A0A0F6MVR3|A0A0F6MVR3_9ASTR  97.7 5.2E-07 1.6E-12   44.7   0.0   21   14-34      1-21  (21)
+ 75 tr|A0A218LWW6|A0A218LWW6_TRIMO  97.7 6.9E-07 2.1E-12   40.8   0.0   14    1-14      1-14  (14)
+ 76 tr|A9XEI4|A9XEI4_9ROSI PsbM (F  97.6 9.5E-07   3E-12   42.0   0.0   17   18-34      1-17  (17)
+ 77 tr|A0A2S1GJI3|A0A2S1GJI3_9GENT  97.6 1.1E-06 3.3E-12   42.4   0.0   18   17-34      1-18  (18)
+ 78 tr|A0A220IJY0|A0A220IJY0_9POAL  97.5 2.2E-06 6.9E-12   46.5   0.0   34    1-34      1-34  (34)
+ 79 tr|A0A218KA78|A0A218KA78_9ASTR  97.5 2.4E-06 7.6E-12   41.6   0.0   19   16-34      1-19  (19)
+ 80 tr|A0A0F6MVD3|A0A0F6MVD3_9ASTR  97.4 3.1E-06 9.7E-12   41.7   0.0   20   15-34      1-20  (20)
+ 81 tr|A0A2S1GJA9|A0A2S1GJA9_9GENT  97.4   4E-06 1.3E-11   40.0   0.0   17   18-34      1-17  (17)
+ 82 tr|A0A0A6ZF76|A0A0A6ZF76_9ERIC  97.3 6.2E-06 1.9E-11   37.3   0.0   13    1-13      1-13  (13)
+ 83 tr|C7B2E1|C7B2E1_SELML Photosy  97.3 7.5E-06 2.3E-11   45.6   0.0   32    2-33      3-34  (39)
+ 84 tr|A0A0F6MVG1|A0A0F6MVG1_9ASTR  97.3 8.6E-06 2.7E-11   39.8   0.0   19   16-34      1-19  (19)
+ 85 tr|A0A2T7C8H0|A0A2T7C8H0_9POAL  97.1 1.7E-05 5.1E-11   47.8   0.0   21    1-21     31-51  (62)
+ 86 tr|C1IGW2|C1IGW2_9ASTR Photosy  97.1 1.8E-05 5.7E-11   37.4   0.0   16   19-34      1-16  (16)
+ 87 tr|A0A220IKD6|A0A220IKD6_9POAL  97.0 3.1E-05 9.5E-11   42.3   0.0   20    1-20      1-20  (34)
+ 88 tr|Q45YT3|Q45YT3_9ERIC PsbM (F  97.0 3.1E-05 9.5E-11   34.6   0.0   12    1-12      1-12  (12)
+ 89 tr|C9DD70|C9DD70_9POAL PsbM (F  97.0 3.1E-05 9.8E-11   36.7   0.0   16   19-34      1-16  (16)
+ 90 tr|A0A0F6MVK1|A0A0F6MVK1_9ASTR  97.0 3.5E-05 1.1E-10   38.6   0.0   21   14-34      1-21  (21)
+ 91 tr|D4NY60|D4NY60_GALSU Chlorop  97.0 3.8E-05 1.2E-10   50.0   0.0   35    1-35     69-103 (106)
+ 92 tr|F2VF66|F2VF66_9CARY PsbM (F  96.9   5E-05 1.6E-10   35.6   0.0   15   20-34      1-15  (15)
+ 93 tr|R1G5I8|R1G5I8_EMIHU Unchara  96.8 6.7E-05 2.2E-10   49.5   0.0   33    2-34     63-95  (116)
+ 94 tr|C9WSH2|C9WSH2_9POAL Photosy  96.8 7.3E-05 2.3E-10   34.5   0.0   14   21-34      1-14  (14)
+ 95 tr|A0A220IJJ9|A0A220IJJ9_PSAJU  96.8 7.4E-05 2.3E-10   32.8   0.0   11    1-11      1-11  (11)
+ 96 tr|M1V7K1|M1V7K1_CYAM1 Photosy  96.7 0.00011 3.6E-10   50.0   0.0   34    1-34     98-131 (150)
+ 97 tr|A0A0U2WSF7|A0A0U2WSF7_SORAU  96.7 0.00014 4.2E-10   34.2   0.0   15   20-34      1-15  (15)
+ 98 tr|C9WSG2|C9WSG2_9POAL Photosy  96.6 0.00016 5.2E-10   33.5   0.0   14   21-34      1-14  (14)
+ 99 tr|A0A2S1GJK9|A0A2S1GJK9_9GENT  96.6 0.00018 5.5E-10   34.3   0.0   16   19-34      1-16  (16)
+100 tr|A0A0D5BEE9|A0A0D5BEE9_ABEGR  96.5 0.00024 7.4E-10   30.6   0.0   10    1-10      1-10  (10)
+101 tr|C9DD92|C9DD92_9POAL PsbM (F  96.5 0.00024 7.6E-10   32.9   0.0   14   21-34      1-14  (14)
+102 tr|A0A1Z5KHV3|A0A1Z5KHV3_FISSO  96.5 0.00026 8.9E-10   46.1   0.0   34    2-35     61-94  (102)
+103 tr|D9I8K5|D9I8K5_DINAC Plastid  96.5 0.00031 9.7E-10   42.5   0.0   34    1-34     18-51  (61)
+104 tr|A0A2S1GJM6|A0A2S1GJM6_9GENT  96.5 0.00032 9.8E-10   34.3   0.0   17   18-34      2-18  (18)
+105 tr|A0A2S1GJL5|A0A2S1GJL5_9GENT  96.4 0.00041 1.3E-09   34.3   0.0   17   18-34      3-19  (19)
+106 tr|X2EYJ2|X2EYJ2_LAGSI Photosy  96.3  0.0005 1.6E-09   30.9   0.0   12   10-21      1-12  (12)
+107 tr|A0A2S1GJC4|A0A2S1GJC4_9GENT  96.3  0.0006 1.9E-09   32.2   0.0   15   20-34      1-15  (15)
+108 tr|A0A2S1GJE5|A0A2S1GJE5_GALOD  96.0  0.0015 4.6E-09   32.4   0.0   16   19-34      4-19  (19)
+109 tr|A0A0D5BVB1|A0A0D5BVB1_9GENT  96.0  0.0015 4.8E-09   30.4   0.0   14   21-34      1-14  (14)
+110 tr|C1IGS2|C1IGS2_9ASTR Photosy  95.8  0.0024 7.8E-09   29.3   0.0   13   22-34      1-13  (13)
+111 tr|F2VFH1|F2VFH1_9CARY PsbM (F  95.7  0.0032   1E-08   29.9   0.0   14   21-34      2-15  (15)
+112 tr|A9XEI2|A9XEI2_9ROSI PsbM OS  95.6  0.0043 1.3E-08   34.3   0.0   20   15-34     14-33  (33)
+113 tr|A9XEH6|A9XEH6_9ROSI PsbM OS  95.5  0.0044 1.4E-08   34.3   0.0   19   16-34     15-33  (33)
+114 tr|E0XGD8|E0XGD8_9POAL PsbM (F  95.4  0.0062 1.9E-08   28.5   0.0   13   21-33      1-13  (14)
+115 tr|E0XGR3|E0XGR3_9POAL PsbM (F  95.3  0.0067 2.1E-08   28.5   0.0   14   21-34      1-14  (14)
+116 tr|C9WSH0|C9WSH0_9POAL Photosy  95.0   0.012 3.7E-08   27.7   0.0   14   21-34      1-14  (14)
+117 tr|C1IGU6|C1IGU6_9ASTR Photosy  94.7   0.018 5.7E-08   26.2   0.0   12   23-34      1-12  (12)
+118 tr|A0A0G4EAE0|A0A0G4EAE0_VITBC  93.9    0.05 1.6E-07   37.2   0.0   34    2-35     81-114 (122)
+119 tr|Q7NCI2|Q7NCI2_GLOVI Photosy  93.0    0.11 3.4E-07   28.6   0.0   26    6-31      3-28  (29)
+120 tr|A0A1Y5IE74|A0A1Y5IE74_OSTTA  91.3     0.3 9.3E-07   34.1   0.0   24    3-27    101-124 (131)
+121 tr|W4RHC8|W4RHC8_9BACI Unchara  89.5    0.65   2E-06   29.6   0.0   29    8-36     12-40  (66)
+122 tr|A0A2M7WCE5|A0A2M7WCE5_9PROT  89.4    0.66 2.1E-06   30.2   0.0   31    2-32     36-66  (76)
+123 tr|D7G2H7|D7G2H7_ECTSI Unchara  88.4    0.91 2.8E-06   31.8   0.0   32    4-35     87-118 (127)
+124 tr|Q894K3|Q894K3_CLOTE Unchara  86.7     1.4 4.3E-06   30.7   0.0   32    1-32     30-61  (117)
+125 tr|A0A287HAK4|A0A287HAK4_HORVV  86.5     1.5 4.6E-06   32.0   0.0   22    1-22    128-149 (166)
+126 tr|A0A0X9L6T9|A0A0X9L6T9_9VIRU  84.3     2.3 7.1E-06   29.1   0.0   28    1-28      1-28  (101)
+127 sp|Q10268|MAC1_SCHPO Membrane-  83.8     2.5 7.8E-06   36.1   0.0   27    1-28      1-27  (756)
+128 tr|A0A2Y9RKM9|A0A2Y9RKM9_TRIMA  83.0     2.9 9.1E-06   31.6   0.0   33    1-33    110-143 (218)
+129 tr|A0A2B8TTK7|A0A2B8TTK7_9BACI  82.1     3.3   1E-05   34.1   0.0   26    8-33     17-42  (481)
+130 tr|W1WJ32|W1WJ32_9ZZZZ Unchara  82.1     3.4   1E-05   28.9   0.0   23   12-34     53-75  (115)
+131 tr|A0A2H0VTK6|A0A2H0VTK6_9BACT  81.7     3.6 1.1E-05   30.1   0.0   28    6-33    106-133 (160)
+132 tr|A0A061NYM2|A0A061NYM2_9BACL  81.3     3.8 1.2E-05   26.5   0.0   21    7-27      3-23  (66)
+133 tr|A0A2I0K312|A0A2I0K312_PUNGR  81.3     3.8 1.2E-05   28.3   0.0   18    1-18     70-87  (105)
+134 tr|A0A0L0HE85|A0A0L0HE85_SPIPN  80.0     4.5 1.4E-05   32.5   0.0   22    5-26     50-71  (362)
+135 tr|A0A076W1X9|A0A076W1X9_BACMY  78.4     5.6 1.7E-05   23.6   0.0   25    7-31      8-32  (38)
+136 tr|A0A2V9AQE0|A0A2V9AQE0_9BACT  75.5     7.8 2.4E-05   31.9   0.0   26    5-30     21-46  (430)
+137 tr|W7UGZ8|W7UGZ8_RUMFL Unchara  74.3     8.8 2.7E-05   27.3   0.0   26    6-31     83-108 (121)
+138 tr|A0A2A4WSC7|A0A2A4WSC7_9GAMM  68.1      15 4.8E-05   28.3   0.0   28    3-30    119-146 (213)
+139 tr|E3H3T6|E3H3T6_ROTDC Unchara  56.1      32 0.00011   25.2   0.0   30    4-33     11-40  (133)
+
+No 1
+>sp|P12168|PSBM_MARPO Photosystem II reaction center protein M OS=Marchantia polymorpha OX=3197 GN=psbM PE=3 SV=1
+Probab=99.75  E-value=5e-22  Score=103.52  Aligned_cols=34  Identities=65%  Similarity=0.996  Sum_probs=33.0  Template_Neff=2.200
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||++||||++|||+|||+||+|+|+||+||++
+T Consensus         1 MEVNiLafiAtaLfIliPTaFLlIlyVkt~sq~~   34 (34)
+T sp|P12168|PSBM    1 MEVNILAFIATALFILVPTAFLLIIYVKTVSQND   34 (34)
+Confidence            9999999999999999999999999999999974
+
+
+No 2
+>tr|A3YUT5|A3YUT5_9SYNE Photosystem II reaction center protein M OS=Synechococcus sp. WH 5701 OX=69042 GN=psbM PE=3 SV=1
+Probab=99.67  E-value=4.1e-20  Score=97.11  Aligned_cols=35  Identities=66%  Similarity=1.070  Sum_probs=33.6  Template_Neff=1.900
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||.+||+|++||+++|++||+|||+||+|++++
+T Consensus         1 MevNdLGfvAsiLfVlVP~vFLliLyiqT~s~~~~   35 (35)
+T tr|A3YUT5|A3YU    1 MEVNDLGFVASILFVLVPAVFLIILYIQTASREGG   35 (35)
+Confidence            99999999999999999999999999999999864
+
+
+No 3
+>sp|B0CFM0|PSBM_ACAM1 Photosystem II reaction center protein M OS=Acaryochloris marina (strain MBIC 11017) OX=329726 GN=psbM PE=3 SV=1
+Probab=99.64  E-value=1.8e-19  Score=94.31  Aligned_cols=34  Identities=71%  Similarity=1.097  Sum_probs=32.8  Template_Neff=1.824
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||.+||||++||++||++||+|||+||+||++
+T Consensus         1 m~vn~lg~iat~lfv~vp~vfliily~qtasr~~   34 (34)
+T sp|B0CFM0|PSBM    1 MQVNDLGFIATILFVFVPTVFLIILYVQTASRES   34 (34)
+Confidence            9999999999999999999999999999999874
+
+
+No 4
+>tr|A0A220IMJ5|A0A220IMJ5_9POAL Photosystem II protein M OS=Aegilops juvenalis OX=130457 GN=psbM PE=4 SV=1
+Probab=99.58  E-value=1.5e-18  Score=90.46  Aligned_cols=34  Identities=62%  Similarity=0.928  Sum_probs=32.9  Template_Neff=2.635
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|+|++|||++|++...|+|++|.||++
+T Consensus         1 mevnilafvatalfilvpt~~~~iiyvktisqn~   34 (34)
+T tr|A0A220IMJ5|    1 MEVNILAFIATALFILVPTAXLLIIYVKTVSQND   34 (34)
+Confidence            8999999999999999999999999999999974
+
+
+No 5
+>tr|A0A291I1R5|A0A291I1R5_PHODC Photosystem II reaction center protein M OS=Phoenix dactylifera OX=42345 GN=psbM PE=3 SV=1
+Probab=99.58  E-value=2.3e-18  Score=101.21  Aligned_cols=33  Identities=67%  Similarity=1.021  Sum_probs=32.3  Template_Neff=1.558
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||||+++|||++|||++||+||+|+|+||.||+
+T Consensus        38 mevnilafiatalfilvptaflliiyvktvsqn   70 (70)
+T tr|A0A291I1R5|   38 MEVNILAFIATALFILVPTAFLLIIYVKTVSQN   70 (70)
+Confidence            899999999999999999999999999999986
+
+
+No 6
+>tr|A0A097PB05|A0A097PB05_CYAPA Photosystem II reaction center protein M OS=Cyanophora paradoxa OX=2762 GN=psbM PE=3 SV=1
+Probab=99.56  E-value=5e-18  Score=90.41  Aligned_cols=35  Identities=60%  Similarity=1.003  Sum_probs=33.1  Template_Neff=1.582
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||++|+||++|||.||+.||+|+|+||++.++.
+T Consensus         1 me~n~lgliatalfi~iptsfllilyi~t~~~~~~   35 (37)
+T tr|A0A097PB05|    1 MEVNILGLIATALFIVIPTSFLLILYVKTVAAKQQ   35 (37)
+Confidence            89999999999999999999999999999987654
+
+
+No 7
+>tr|G3XHI2|G3XHI2_SCIVE Photosystem II reaction center protein M OS=Sciadopitys verticillata OX=28979 GN=psbM PE=3 SV=1
+Probab=99.50  E-value=2.9e-17  Score=88.01  Aligned_cols=34  Identities=53%  Similarity=0.872  Sum_probs=33.0  Template_Neff=1.438
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|+|+.||+.+|++||+|+|+||.|+++
+T Consensus         1 mevnilafia~~lfi~v~tafl~iiyvktis~s~   34 (38)
+T tr|G3XHI2|G3XH    1 MEVNILAFIAIVLFISVPTAFLLIIYVKTVSESN   34 (38)
+Confidence            9999999999999999999999999999999875
+
+
+No 8
+>tr|G8J4U1|G8J4U1_9SPER Photosystem II reaction center protein M OS=Pinus culminicola OX=71629 GN=psbM PE=3 SV=1
+Probab=99.48  E-value=6.3e-17  Score=87.46  Aligned_cols=36  Identities=50%  Similarity=0.799  Sum_probs=34.4  Template_Neff=1.500
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      ||||.+||+|.++|+.|||+||+|.|+||+|.+++|
+T Consensus         1 MEVN~l~fiAV~lfl~ipTaFllIpYvKTaS~ss~s   36 (40)
+T tr|G8J4U1|G8J4    1 MEVNTLAFIAVLLFLAIPTAFLLIPYVKTASASSGS   36 (40)
+Confidence            999999999999999999999999999999988765
+
+
+No 9
+>tr|G8XPF0|G8XPF0_9CHLO Photosystem II reaction center protein M OS=Trebouxia aggregata OX=160068 GN=psbM PE=3 SV=1 
+Probab=99.47  E-value=8.9e-17  Score=88.87  Aligned_cols=35  Identities=66%  Similarity=1.061  Sum_probs=33.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||++|+||++|||.+|+.||+|+|++|+||++.
+T Consensus        11 mevnilgliatalfiiiptsfllilyvktasqned   45 (46)
+T tr|G8XPF0|G8XP   11 MEVNILGLIATALFIIIPTSFLLILYVKTASQNED   45 (46)
+Confidence            89999999999999999999999999999999864
+
+
+No 10
+>tr|B0YPL6|B0YPL6_ANEMR Photosystem II protein M OS=Aneura mirabilis OX=280810 GN=psbM PE=4 SV=1
+Probab=99.45  E-value=1.4e-16  Score=83.83  Aligned_cols=34  Identities=53%  Similarity=0.789  Sum_probs=32.7  Template_Neff=1.385
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+.+|+|++|||+||+++|+|+|++|+.|++
+T Consensus         1 mevn~~afvatal~i~ipta~l~il~vrta~qsn   34 (34)
+T tr|B0YPL6|B0YP    1 MEVNISAFIATALFISIPTASLLILYVRTAGQSN   34 (34)
+Confidence            9999999999999999999999999999999874
+
+
+No 11
+>tr|A0A2H5MZR3|A0A2H5MZR3_CITUN Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_286780 PE=3 SV=1
+Probab=99.44  E-value=2.1e-16  Score=89.48  Aligned_cols=34  Identities=68%  Similarity=0.994  Sum_probs=32.9  Template_Neff=1.459
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||++||+++|++|++|+|++|.||++
+T Consensus        20 mevni~~fi~~~lfvlv~~~f~liiyvktv~qsd   53 (53)
+T tr|A0A2H5MZR3|   20 MEVNILAFIATALFVLVPTAFLLIIYVKTVSQSD   53 (53)
+Confidence            8999999999999999999999999999999974
+
+
+No 12
+>tr|A0A2K1IQV1|A0A2K1IQV1_PHYPA Uncharacterized protein (Fragment) OS=Physcomitrella patens subsp. patens OX=3218 GN=PHYPA_025773 PE=3 SV=1 
+Probab=99.43  E-value=2.8e-16  Score=84.64  Aligned_cols=30  Identities=70%  Similarity=1.105  Sum_probs=29.3  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTE   30 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~   30 (36)
+                      ||||+++|||++||+++|++||+|+|+||+
+T Consensus         1 mevnilafiatalfiliptafllilyvqta   30 (39)
+T tr|A0A2K1IQV1|    1 MEVNILAFIATALFILIPTAFLLILYVQTA   30 (39)
+Confidence            899999999999999999999999999996
+
+
+No 13
+>tr|A0A1C9JB97|A0A1C9JB97_9CHLO Photosystem II reaction center protein M OS=Halimeda discoidea OX=118222 GN=psbM PE=3 SV=1
+Probab=99.38  E-value=7.8e-16  Score=82.24  Aligned_cols=35  Identities=57%  Similarity=0.874  Sum_probs=33.6  Template_Neff=1.676
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||++||.|+++|+++|++||+||++||+||+.+
+T Consensus         1 mqvni~g~~a~a~fi~~~tsfllilfvktesq~~~   35 (37)
+T tr|A0A1C9JB97|    1 MQVNILGLSAVAFFILFSTSFLLILFVKTESQQSQ   35 (37)
+Confidence            89999999999999999999999999999999864
+
+
+No 14
+>tr|L7NLP1|L7NLP1_MAGLI Photosystem II M protein OS=Magnolia liliiflora OX=3403 GN=psbM PE=4 SV=1
+Probab=99.35  E-value=2e-15  Score=79.60  Aligned_cols=34  Identities=65%  Similarity=0.996  Sum_probs=32.5  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||...++|||++|||++|++||+|+|++|.||++
+T Consensus         1 me~~~lafiatalfilvptaflliiyvktvsqnd   34 (34)
+T tr|L7NLP1|L7NL    1 MEVNILAFIATALFILVPTAFLLIIYVKTVSQND   34 (34)
+Confidence            8899999999999999999999999999999974
+
+
+No 15
+>tr|F4Y3T9|F4Y3T9_9CYAN Photosystem II reaction center protein M OS=Moorea producens 3L OX=489825 GN=psbM PE=3 SV=1 
+Probab=99.32  E-value=4.3e-15  Score=84.52  Aligned_cols=35  Identities=63%  Similarity=1.058  Sum_probs=33.5  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      |+||.+||+|++||+++|.+||+|+|+||+|++.+
+T Consensus        18 mqvndlgfvasilfvlvpavfllilyiqtasregs   52 (54)
+T tr|F4Y3T9|F4Y3   18 MQVNDLGFVASILFVLVPAVFLLILYIQTASREGS   52 (54)
+Confidence            89999999999999999999999999999999764
+
+
+No 16
+>tr|A0A1Z9PC32|A0A1Z9PC32_9PROC Photosystem II reaction center protein M OS=Prochlorococcus sp. TMED223 OX=1986612 GN=psbM PE=3 SV=1
+Probab=99.31  E-value=4.5e-15  Score=78.35  Aligned_cols=33  Identities=58%  Similarity=0.901  Sum_probs=31.6  Template_Neff=1.382
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      |+||.+||+|++||+++|++||+++|+||.+.+
+T Consensus         1 m~vn~~gf~atllfv~vp~~fl~~lyiqt~~n~   33 (34)
+T tr|A0A1Z9PC32|    1 MPVNNFGFLATLLFVAVPMLFLIGLYIQTNSNK   33 (34)
+Confidence            899999999999999999999999999998865
+
+
+No 17
+>tr|L8LWG0|L8LWG0_9CYAN Photosystem II reaction center protein M OS=Xenococcus sp. PCC 7305 OX=102125 GN=psbM PE=3 SV=1 
+Probab=99.29  E-value=7.8e-15  Score=85.03  Aligned_cols=36  Identities=61%  Similarity=1.001  Sum_probs=33.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      ||+|.+||+|++|||++|++||+|+|+||..-+..|
+T Consensus        26 mevndlgfvatilfilvptvfllilyiqtnkvggns   61 (61)
+T tr|L8LWG0|L8LW   26 MEVNDLGFVATILFILVPTVFLLILYIQTNKVGGNS   61 (61)
+Confidence            899999999999999999999999999998876654
+
+
+No 18
+>tr|A0A1U7AFU5|A0A1U7AFU5_9SPER Photosystem II reaction center protein M OS=Cycas debaoensis OX=470941 GN=psbM PE=3 SV=1
+Probab=99.25  E-value=1.5e-14  Score=89.59  Aligned_cols=34  Identities=50%  Similarity=0.824  Sum_probs=32.7  Template_Neff=1.305
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||++||+++||+|++|+|++|.||++
+T Consensus        64 ~evnilafia~~lfi~vptaf~liiyvktvs~s~   97 (97)
+T tr|A0A1U7AFU5|   64 TEVNILAFIAIVLFISVPTAFLLIIYVKTVSESN   97 (97)
+Confidence            8999999999999999999999999999999874
+
+
+No 19
+>tr|K4CU86|K4CU86_SOLLC Uncharacterized protein OS=Solanum lycopersicum OX=4081 PE=3 SV=1 
+Probab=99.25  E-value=1.9e-14  Score=83.68  Aligned_cols=34  Identities=59%  Similarity=0.880  Sum_probs=32.9  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||++-||-+|++||+|+|++|.||++
+T Consensus        29 mevnilafiataqfipvptaflliiyvktvsqnd   62 (62)
+T tr|K4CU86|K4CU   29 MEVNILAFIATAQFIPVPTAFLLIIYVKTVSQND   62 (62)
+Confidence            8999999999999999999999999999999974
+
+
+No 20
+>tr|K9SGP7|K9SGP7_9CYAN Photosystem II reaction center protein M OS=Pseudanabaena sp. PCC 7367 OX=82654 GN=psbM PE=3 SV=1
+Probab=99.24  E-value=2.1e-14  Score=78.00  Aligned_cols=35  Identities=54%  Similarity=0.964  Sum_probs=33.5  Template_Neff=1.349
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||+|.+|++++++.+++|++||+|+|+||+|+++.
+T Consensus         4 mei~~~gli~ta~~v~iptafllilyiqtasr~e~   38 (40)
+T tr|K9SGP7|K9SG    4 MEINFIGLIGTAMVVFIPTAFLLILYIQTASRQEE   38 (40)
+Confidence            89999999999999999999999999999999764
+
+
+No 21
+>tr|A0A097KNU2|A0A097KNU2_9CHLO Photosystem II reaction center protein M OS=Choricystis parasitica OX=41300 GN=psbM PE=3 SV=1 
+Probab=99.18  E-value=6.9e-14  Score=84.02  Aligned_cols=33  Identities=64%  Similarity=1.096  Sum_probs=32.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||||++|+.|++|||.+|++||+|+|++|+.|+
+T Consensus        44 mevnilglmatalfiiiptafllilyvktagqe   76 (77)
+T tr|A0A097KNU2|   44 MEVNILGLMATALFIIIPTAFLLILYVKTAGQE   76 (77)
+Confidence            899999999999999999999999999999886
+
+
+No 22
+>tr|Q49CA7|Q49CA7_CUSSA PsbM OS=Cuscuta sandwichiana OX=197374 GN=psbM PE=4 SV=1
+Probab=99.15  E-value=1.2e-13  Score=72.72  Aligned_cols=33  Identities=58%  Similarity=0.841  Sum_probs=31.8  Template_Neff=1.152
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||||+++|-|++|.|+.|++.|+|+|+++.+++
+T Consensus         1 mevnilafsatallilfptalllilyvk~~~~~   33 (33)
+T tr|Q49CA7|Q49C    1 MEVNILAFSATALLILFPTALLLILYVKTVSQN   33 (33)
+Confidence            899999999999999999999999999999874
+
+
+No 23
+>tr|Q3YLU7|Q3YLU7_9ERIC Photosystem II reaction center protein M OS=Symplocos mollifolia OX=251590 GN=psbM PE=3 SV=1 
+Probab=99.13  E-value=1.7e-13  Score=72.51  Aligned_cols=34  Identities=53%  Similarity=0.865  Sum_probs=30.8  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |......|||++|||++|++||+|+|++|.||++
+T Consensus         1 m~~~~~~fiatalfilvptaflliiyvktvsqnd   34 (34)
+T tr|Q3YLU7|Q3YL    1 MXXXXXXFIATALFILVPTAFLLIIYVKTVSQND   34 (34)
+Confidence            5566778999999999999999999999999974
+
+
+No 24
+>tr|A4QMK8|A4QMK8_PINKO Photosystem II reaction center protein M OS=Pinus koraiensis OX=88728 GN=psbM PE=3 SV=1
+Probab=99.09  E-value=3.3e-13  Score=78.87  Aligned_cols=36  Identities=50%  Similarity=0.850  Sum_probs=34.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      ||||.+||||.++|..+|++||+|.|++|+|.+++|
+T Consensus        27 mevnnlgfiavlmflaiptafllipyvktasassgs   62 (63)
+T tr|A4QMK8|A4QM   27 MEVNNLGFIAVLMFLAIPTAFLLIPYVKTASASSGS   62 (63)
+Confidence            899999999999999999999999999999998876
+
+
+No 25
+>tr|A0A0K1ZXU8|A0A0K1ZXU8_9ASTR Photosystem II protein M (Fragment) OS=Scaevola phlebopetala OX=197981 GN=psbM PE=4 SV=1
+Probab=99.04  E-value=8e-13  Score=65.34  Aligned_cols=23  Identities=70%  Similarity=1.093  Sum_probs=22.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLI   23 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLl   23 (36)
+                      ||||+++|||++|||++|++||+
+T Consensus         1 mevnilafiatalfilvptafll   23 (23)
+T tr|A0A0K1ZXU8|    1 MEVNILAFIATALFILVPTAFLL   23 (23)
+Confidence            89999999999999999999985
+
+
+No 26
+>tr|G7LJ30|G7LJ30_MEDTR Photosystem II reaction center protein PsbM OS=Medicago truncatula OX=3880 GN=11405668 PE=3 SV=1 
+Probab=99.00  E-value=1.5e-12  Score=74.06  Aligned_cols=33  Identities=61%  Similarity=0.876  Sum_probs=31.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||.|+++|||++|||++|+-||+|-|++|+|-+
+T Consensus         1 meanilafiatalfilvptdfllityvktasvg   33 (52)
+T tr|G7LJ30|G7LJ    1 MEANILAFIATALFILVPTDFLLITYVKTASVG   33 (52)
+Confidence            899999999999999999999999999999854
+
+
+No 27
+>tr|C1IGW1|C1IGW1_9ASTR Photosystem II protein M (Fragment) OS=Staehelina uniflosculosa OX=313548 GN=psbM PE=4 SV=1
+Probab=98.99  E-value=1.6e-12  Score=65.75  Aligned_cols=26  Identities=65%  Similarity=1.050  Sum_probs=24.5  Template_Neff=1.000
+
+Q 2axt              9 IATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         9 iAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||++|||++|++||+|+|++|.||++
+T Consensus         1 iatalfilvptaflliiyvktvsqnd   26 (26)
+T tr|C1IGW1|C1IG    1 IATALFILVPTAFLLIIYVKTVSQND   26 (26)
+Confidence            68999999999999999999999974
+
+
+No 28
+>tr|X2FAI9|X2FAI9_LAGSI Photosystem II protein M (Fragment) OS=Lagenaria siceraria OX=3668 GN=psbM PE=4 SV=1 
+Probab=98.99  E-value=1.7e-12  Score=63.67  Aligned_cols=22  Identities=73%  Similarity=1.100  Sum_probs=21.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFL   22 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FL   22 (36)
+                      ||||+++|||++|||++|++||
+T Consensus         1 mevnilafiatalfilvptafl   22 (22)
+T tr|X2FAI9|X2FA    1 MEVNILAFIATALFILVPTAFL   22 (22)
+Confidence            8999999999999999999996
+
+
+No 29
+>tr|H2BC07|H2BC07_9CARY Photosystem II protein M (Fragment) OS=Weingartia kargliana OX=1038493 GN=psbM PE=4 SV=1 
+Probab=98.99  E-value=1.8e-12  Score=65.17  Aligned_cols=25  Identities=64%  Similarity=1.064  Sum_probs=24.0  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIIL   25 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIl   25 (36)
+                      ||||+++||.++||+++|++||+|+
+T Consensus         1 mevnilafi~talfilvptafllii   25 (25)
+T tr|H2BC07|H2BC    1 MEVNILAFIXTALFILVPTAFLLII   25 (25)
+Confidence            8999999999999999999999985
+
+
+No 30
+>tr|A0A218LLP2|A0A218LLP2_HETPI Photosystem II protein M OS=Heteranthelium piliferum OX=37679 GN=psbM PE=4 SV=1 
+Probab=98.98  E-value=2e-12  Score=68.62  Aligned_cols=29  Identities=59%  Similarity=0.913  Sum_probs=26.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQT   29 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT   29 (36)
+                      ||||+++|||++|||++|++||+|.....
+T Consensus         1 mevnilafiatalfilvptaflli~~~~~   29 (34)
+T tr|A0A218LLP2|    1 MEVNILAFIATALFILVPTAFLLIXXXXX   29 (34)
+Confidence            89999999999999999999999976543
+
+
+No 31
+>tr|Q3YLU1|Q3YLU1_9ERIC Photosystem II reaction center protein M OS=Symplocos migoi OX=251589 GN=psbM PE=3 SV=1 
+Probab=98.97  E-value=2.4e-12  Score=68.32  Aligned_cols=34  Identities=53%  Similarity=0.845  Sum_probs=29.9  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |.......||++|||++|++||+|+|++|.||++
+T Consensus         1 m~~~~~~~iatalfilvptaflliiyvktvsqnd   34 (34)
+T tr|Q3YLU1|Q3YL    1 MXXXXXXXIATALFILVPTAFLLIIYVKTVSQND   34 (34)
+Confidence            4455667899999999999999999999999974
+
+
+No 32
+>tr|A0A1I9LK63|A0A1I9LK63_CAURA Photosystem II reaction center protein M OS=Caulerpa racemosa OX=76317 GN=psbM PE=3 SV=1
+Probab=98.95  E-value=3e-12  Score=67.97  Aligned_cols=34  Identities=62%  Similarity=0.921  Sum_probs=32.5  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||.|++|+||..||.++...||+|+|++|+||.+
+T Consensus         1 meinilgliavllflfvtssfllilyvktasqps   34 (34)
+T tr|A0A1I9LK63|    1 MEINILGLIAVLLFLFVTSSFLLILYVKTASQPS   34 (34)
+Confidence            8999999999999999999999999999999853
+
+
+No 33
+>tr|A0A0X9R2V0|A0A0X9R2V0_9ASPA Photosystem II reaction center protein M OS=Goodyera schlechtendaliana OX=164262 GN=psbM PE=3 SV=1
+Probab=98.91  E-value=5.9e-12  Score=75.73  Aligned_cols=35  Identities=60%  Similarity=0.834  Sum_probs=33.6  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||+++|+|++|||++|++||+-+-++|.||++.
+T Consensus         1 mevnilaflatalfilvptafllridvktvsqnke   35 (75)
+T tr|A0A0X9R2V0|    1 MEVNILAFIATALFILVPTAFLLRIDVKTVSQNKE   35 (75)
+Confidence            89999999999999999999999999999999864
+
+
+No 34
+>tr|A0A1C9JBQ7|A0A1C9JBQ7_9CHLO Photosystem II reaction center protein M OS=Caulerpa cliftonii OX=1004391 GN=psbM PE=3 SV=1 
+Probab=98.85  E-value=1.3e-11  Score=71.03  Aligned_cols=35  Identities=63%  Similarity=0.920  Sum_probs=33.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||||.+|+||.+||.++...||+|+|++|+||+..
+T Consensus         1 mevnvlgliaillflfvsscfllilyvktasqntp   35 (55)
+T tr|A0A1C9JBQ7|    1 MEVNVLGLIAILLFLFVSSCFLLILYVKTASQNTP   35 (55)
+Confidence            89999999999999999999999999999999853
+
+
+No 35
+>tr|A4S5B8|A4S5B8_OSTLU Putative psbM, PSII-M, photosystem II polypeptide, typically encoded in the chloroplast genome OS=Ostreococcus lucimarinus (str
+Probab=98.85  E-value=1.2e-11  Score=81.05  Aligned_cols=35  Identities=57%  Similarity=0.953  Sum_probs=32.3  Template_Neff=1.789
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      +||++|.||++|||.||+.||+|||++..|+++-|
+T Consensus        72 ~vnilgviatalfiiiptsfliilyvks~segnvs  106 (142)
+T tr|A4S5B8|A4S5   72 NVNILGVIATALFIIIPTSFLIILYVKSASEGNVS  106 (142)
+Confidence            68999999999999999999999999999987643
+
+
+No 36
+>tr|M4I7I9|M4I7I9_CISDE PSII M-protein OS=Cistanche deserticola OX=161395 GN=psbM PE=4 SV=1
+Probab=98.85  E-value=1.3e-11  Score=64.65  Aligned_cols=24  Identities=63%  Similarity=0.944  Sum_probs=22.5  Template_Neff=1.194
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLII   24 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlI   24 (36)
+                      ||||+++||+++|||++|++|+++
+T Consensus         1 mevnilafi~talfilvpt~f~~~   24 (31)
+T tr|M4I7I9|M4I7    1 MEVNILAFIDTALFILVPTAFTYI   24 (31)
+Confidence            899999999999999999999843
+
+
+No 37
+>tr|A0A220IK64|A0A220IK64_9POAL Photosystem II protein M (Fragment) OS=Elymus stipifolius OX=120406 GN=psbM PE=4 SV=1
+Probab=98.80  E-value=2.5e-11  Score=59.24  Aligned_cols=21  Identities=71%  Similarity=1.072  Sum_probs=20.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVF   21 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~F   21 (36)
+                      ||||+++|||++|||++|+.|
+T Consensus         1 mevnilafiatalfilvptsf   21 (21)
+T tr|A0A220IK64|    1 MEVNILAFIATALFILVPTSF   21 (21)
+Confidence            899999999999999999986
+
+
+No 38
+>tr|A0A0F6MVH5|A0A0F6MVH5_9ASTR Photosystem II protein M (Fragment) OS=Ozothamnus antennaria OX=1284891 GN=psbM PE=4 SV=1
+Probab=98.75  E-value=4.7e-11  Score=59.31  Aligned_cols=23  Identities=65%  Similarity=1.142  Sum_probs=21.5  Template_Neff=1.000
+
+Q 2axt             12 ALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        12 ~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      +|||++|++||+|+|++|+||++
+T Consensus         1 alfilvptaflliiyvktesqnn   23 (23)
+T tr|A0A0F6MVH5|    1 ALFILVPTAFLLIIYVKTESQNN   23 (23)
+Confidence            58999999999999999999974
+
+
+No 39
+>tr|C9DDF4|C9DDF4_9POAL PsbM (Fragment) OS=Chionochloa teretifolia OX=500224 GN=psbM PE=4 SV=1
+Probab=98.68  E-value=1.1e-10  Score=56.47  Aligned_cols=20  Identities=65%  Similarity=1.022  Sum_probs=19.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSV   20 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~   20 (36)
+                      ||||+++|||++|||++|++
+T Consensus         1 mevnilafiatalfilipta   20 (20)
+T tr|C9DDF4|C9DD    1 MEVNILAFIATALFILIPTA   20 (20)
+Confidence            89999999999999999985
+
+
+No 40
+>tr|A0A0B5HG23|A0A0B5HG23_9SPER Photosystem II M protein (Fragment) OS=Araucaria nemorosa OX=60864 GN=psbM PE=4 SV=1
+Probab=98.67  E-value=1.1e-10  Score=59.71  Aligned_cols=27  Identities=59%  Similarity=0.942  Sum_probs=25.0  Template_Neff=1.000
+
+Q 2axt              8 LIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         8 fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      +||.+|||.+|++||+|+|++|-||++
+T Consensus         1 liavalfisvptaflliiyvktisqsn   27 (27)
+T tr|A0A0B5HG23|    1 LIAVALFISVPTAFLLIIYVKTISQSN   27 (27)
+Confidence            479999999999999999999999874
+
+
+No 41
+>tr|A0A220II08|A0A220II08_AGRCR Photosystem II protein M (Fragment) OS=Agropyron cristatum OX=4593 GN=psbM PE=4 SV=1 
+Probab=98.62  E-value=2.1e-10  Score=55.02  Aligned_cols=19  Identities=68%  Similarity=1.074  Sum_probs=18.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPS   19 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt   19 (36)
+                      ||||+++|||++|||++|+
+T Consensus         1 mevnilafiatalfilipt   19 (19)
+T tr|A0A220II08|    1 MEVNILAFIATALFILIPT   19 (19)
+Confidence            8999999999999999996
+
+
+No 42
+>tr|A0A287EBG2|A0A287EBG2_HORVV Uncharacterized protein OS=Hordeum vulgare subsp. vulgare OX=112509 PE=4 SV=1 
+Probab=98.62  E-value=2.3e-10  Score=60.13  Aligned_cols=24  Identities=58%  Similarity=1.011  Sum_probs=22.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLII   24 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlI   24 (36)
+                      ||||+++|||++|||++|+.|-+.
+T Consensus         6 mevnilafiatalfiliptsfyll   29 (31)
+T tr|A0A287EBG2|    6 MEVNILAFIATALFILIPTSFYLL   29 (31)
+Confidence            899999999999999999999764
+
+
+No 43
+>tr|A0A1Y0DFZ4|A0A1Y0DFZ4_9SPER PsbM (Fragment) OS=Tsuga ulleungensis OX=1986463 GN=psbM PE=4 SV=1
+Probab=98.57  E-value=3.5e-10  Score=59.44  Aligned_cols=29  Identities=52%  Similarity=0.872  Sum_probs=27.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQT   29 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT   29 (36)
+                      ||||.+||+|..||+..|++||.|.|.+.
+T Consensus         1 mevnnlgfvaivlfvgfptaflfipyakk   29 (31)
+T tr|A0A1Y0DFZ4|    1 MEVNNLGFVAIVLFVGFPTAFLFIPYAKK   29 (31)
+Confidence            89999999999999999999999999874
+
+
+No 44
+>tr|A0A0A1ZK15|A0A0A1ZK15_PROMR Photosystem II reaction center protein M OS=Prochlorococcus marinus str. GP2 OX=59925 GN=psbM PE=3 SV=1
+Probab=98.52  E-value=5.8e-10  Score=63.56  Aligned_cols=36  Identities=47%  Similarity=0.805  Sum_probs=33.7  Template_Neff=1.330
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      |||...||+|++||+.||++||+-||+.|.+.+++|
+T Consensus         1 mett~fgf~~sllfvgvptifligl~ist~dgekss   36 (50)
+T tr|A0A0A1ZK15|    1 METTNFGFVASLLFVGVPTIFLIGLFISTQDGEKSS   36 (50)
+Confidence            899999999999999999999999999999887654
+
+
+No 45
+>tr|C9DDD3|C9DDD3_9POAL PsbM (Fragment) OS=Chionochloa antarctica OX=500209 GN=psbM PE=4 SV=1 
+Probab=98.51  E-value=6.9e-10  Score=52.76  Aligned_cols=18  Identities=72%  Similarity=1.106  Sum_probs=17.5  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVP   18 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvP   18 (36)
+                      ||||+++|||++|||++|
+T Consensus         1 mevnilafiatalfilip   18 (18)
+T tr|C9DDD3|C9DD    1 MEVNILAFIATALFILIP   18 (18)
+Confidence            899999999999999998
+
+
+No 46
+>tr|D3XKP3|D3XKP3_9GENT Photosystem II protein M (Fragment) OS=Asperula arvensis OX=715639 GN=psbM PE=4 SV=1
+Probab=98.51  E-value=7.2e-10  Score=55.69  Aligned_cols=24  Identities=54%  Similarity=1.018  Sum_probs=21.6  Template_Neff=1.000
+
+Q 2axt             11 TALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        11 t~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      +.|||++|++||+|+|++|.|+++
+T Consensus         1 tvlfilvptaflliiyvktvsekn   24 (24)
+T tr|D3XKP3|D3XK    1 TVLFILVPTAFLLIIYVKTVSEKN   24 (24)
+Confidence            479999999999999999999763
+
+
+No 47
+>tr|E0XGV5|E0XGV5_9POAL PsbM (Fragment) OS=Eleocharis albibracteata var. nubigena OX=863305 GN=psbM PE=4 SV=1
+Probab=98.47  E-value=1.1e-09  Score=53.73  Aligned_cols=21  Identities=57%  Similarity=1.058  Sum_probs=19.6  Template_Neff=1.000
+
+Q 2axt             14 FVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        14 filvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||++|++||+|+|++|.||++
+T Consensus         1 filvptaflliiyvktvsqnd   21 (21)
+T tr|E0XGV5|E0XG    1 FILVPTAFLLIIYVKTVSQND   21 (21)
+Confidence            789999999999999999974
+
+
+No 48
+>tr|A0A0E3M0E5|A0A0E3M0E5_JUNCM Photosystem II protein (Fragment) OS=Juniperus communis OX=58039 GN=psbM PE=4 SV=1
+Probab=98.45  E-value=1.3e-09  Score=57.42  Aligned_cols=29  Identities=48%  Similarity=0.876  Sum_probs=27.3  Template_Neff=1.200
+
+Q 2axt              6 LGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         6 l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|||.+||+.+|++||+++|.||..|++
+T Consensus         1 ~afiaillfi~vpt~fliviyaqtkpqs~   29 (31)
+T tr|A0A0E3M0E5|    1 LAFIAILLFIAVPTAFLIVIYAQTKPQSE   29 (31)
+Confidence            58999999999999999999999998875
+
+
+No 49
+>tr|A0A220IL10|A0A220IL10_TRITU Photosystem II protein M (Fragment) OS=Triticum turgidum OX=4571 GN=psbM PE=4 SV=1 
+Probab=98.33  E-value=4e-09  Score=51.81  Aligned_cols=21  Identities=57%  Similarity=1.045  Sum_probs=19.6  Template_Neff=1.000
+
+Q 2axt             14 FVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        14 filvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||++|+.||+|+|++|.||++
+T Consensus         1 filvptsflliiyvktvsqnn   21 (21)
+T tr|A0A220IL10|    1 FILVPTSFLLIIYVKTVSQNN   21 (21)
+Confidence            789999999999999999974
+
+
+No 50
+>tr|Q45Z04|Q45Z04_9ERIC PsbM OS=Ternstroemia impressa OX=168118 GN=psbM PE=4 SV=1 
+Probab=98.33  E-value=4.2e-09  Score=56.48  Aligned_cols=34  Identities=41%  Similarity=0.663  Sum_probs=31.6  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||............+|++||+|+|++|.||++
+T Consensus         1 mevn~~~~~~~~~~~~vptaflliiyvktvsqnd   34 (34)
+T tr|Q45Z04|Q45Z    1 MEVNXXXXXXXXXXXXVPTAFLLIIYVKTVSQND   34 (34)
+Confidence            8999998888888999999999999999999974
+
+
+No 51
+>tr|A0A0D3M6L2|A0A0D3M6L2_9ASPA Photosystem II protein M OS=Paphiopedilum niveum OX=53104 GN=psbM PE=4 SV=1 
+Probab=98.25  E-value=8.5e-09  Score=56.66  Aligned_cols=24  Identities=63%  Similarity=0.904  Sum_probs=22.8  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLII   24 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlI   24 (36)
+                      ||||+++|||++|||+-|+.||+-
+T Consensus         1 mevnilafiatalfilgptpflls   24 (39)
+T tr|A0A0D3M6L2|    1 MEVNILAFIATALFILGPTPFLLS   24 (39)
+Confidence            899999999999999999999874
+
+
+No 52
+>tr|A0A059SL71|A0A059SL71_9EUKA Photosystem II protein M OS=Lotharella oceanica OX=641309 GN=psbM PE=4 SV=1 
+Probab=98.25  E-value=8.9e-09  Score=52.70  Aligned_cols=24  Identities=50%  Similarity=1.023  Sum_probs=21.6  Template_Neff=1.000
+
+Q 2axt             12 ALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus        12 ~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      +|||++|+.||+|+|++|+.+++.
+T Consensus         2 alfiliptsfllilyvktaaeesp   25 (26)
+T tr|A0A059SL71|    2 ALFILIPTSFLLILYVKTAAEESP   25 (26)
+Confidence            689999999999999999987653
+
+
+No 53
+>tr|C1EIF8|C1EIF8_MICCC Uncharacterized protein OS=Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) OX=296587 GN=MICPUN_64561 PE=3 SV=1 
+Probab=98.24  E-value=9.5e-09  Score=74.02  Aligned_cols=34  Identities=56%  Similarity=0.942  Sum_probs=31.4  Template_Neff=1.000
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      .||++|.||++|||.||+.||+|||++.+|+++-
+T Consensus       250 gvnilgviatalfiiiptsfliilyvksasegnv  283 (320)
+T tr|C1EIF8|C1EI  250 GVNILGVIATALFIIIPTSFLIILYVKSASEGNV  283 (320)
+Confidence            3799999999999999999999999999988764
+
+
+No 54
+>tr|Q27I37|Q27I37_RHUCR PsbM (Fragment) OS=Rhus coriaria OX=298661 GN=psbM PE=4 SV=1
+Probab=98.22  E-value=1.1e-08  Score=49.81  Aligned_cols=20  Identities=55%  Similarity=0.994  Sum_probs=18.4  Template_Neff=1.000
+
+Q 2axt             15 VLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        15 ilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |++|++||+|+|++|.||++
+T Consensus         1 ilvptaflliiyvktvsqnd   20 (20)
+T tr|Q27I37|Q27I    1 ILVPTAFLLIIYVKTVSQND   20 (20)
+Confidence            58999999999999999974
+
+
+No 55
+>tr|A0A218KA84|A0A218KA84_9ASTR PsbM (Fragment) OS=Xerochrysum milliganii OX=1436922 GN=psbM PE=4 SV=1
+Probab=98.13  E-value=2.4e-08  Score=48.22  Aligned_cols=19  Identities=63%  Similarity=1.093  Sum_probs=17.5  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|++||+|+|++|+||++
+T Consensus         1 lvptaflliiyvktesqnn   19 (19)
+T tr|A0A218KA84|    1 LVPTAFLLIIYVKTESQNN   19 (19)
+Confidence            5899999999999999974
+
+
+No 56
+>tr|G7IW80|G7IW80_MEDTR Photosystem II reaction center protein PsbM OS=Medicago truncatula OX=3880 GN=11416213 PE=4 SV=1 
+Probab=98.13  E-value=2.5e-08  Score=58.21  Aligned_cols=33  Identities=52%  Similarity=0.786  Sum_probs=31.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||||+..||..+||+++...||+|+|++|..-+
+T Consensus        23 mevnivtfitialfilvtapfliiiyvktvnls   55 (56)
+T tr|G7IW80|G7IW   23 MEVNIVTFITIALFILVTAPFLIIIYVKTVNLS   55 (56)
+Confidence            899999999999999999999999999998654
+
+
+No 57
+>tr|C9DDF5|C9DDF5_9POAL PsbM (Fragment) OS=Chionochloa vireta OX=500225 GN=psbM PE=4 SV=1
+Probab=98.13  E-value=2.5e-08  Score=47.14  Aligned_cols=17  Identities=71%  Similarity=1.022  Sum_probs=16.0  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLV   17 (36)
+Q Consensus         1 MeVN~l~fiAt~Lfilv   17 (36)
+                      ||||+++|||++|||++
+T Consensus         1 mevnilafiatalfili   17 (17)
+T tr|C9DDF5|C9DD    1 MEVNILAFIATALFILI   17 (17)
+Confidence            89999999999999975
+
+
+No 58
+>tr|A0A0B5H6R5|A0A0B5H6R5_9SPER Photosystem II M protein (Fragment) OS=Araucaria columnaris OX=60858 GN=psbM PE=4 SV=1 
+Probab=98.10  E-value=3.1e-08  Score=48.83  Aligned_cols=21  Identities=52%  Similarity=0.945  Sum_probs=19.3  Template_Neff=1.000
+
+Q 2axt             14 FVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        14 filvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||.+|++||+|+|++|-||++
+T Consensus         1 fisvptaflliiyvktisqsn   21 (21)
+T tr|A0A0B5H6R5|    1 FISVPTAFLLIIYVKTISQSN   21 (21)
+Confidence            688999999999999999874
+
+
+No 59
+>tr|D2XDG5|D2XDG5_9POAL Photosystem II M protein (Fragment) OS=Carex extensa OX=241207 GN=psbM PE=4 SV=1
+Probab=98.08  E-value=3.5e-08  Score=47.69  Aligned_cols=19  Identities=58%  Similarity=0.962  Sum_probs=17.4  Template_Neff=1.105
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|++||+|+|++|.||++
+T Consensus         1 l~ptaflliiyvktvsq~d   19 (19)
+T tr|D2XDG5|D2XD    1 LVPTAFLLIIYVKTVSQGD   19 (19)
+Confidence            5899999999999999974
+
+
+No 60
+>tr|A0A218LDE1|A0A218LDE1_AEGTA Photosystem II protein M OS=Aegilops tauschii OX=37682 GN=psbM PE=4 SV=1 
+Probab=98.07  E-value=4e-08  Score=52.89  Aligned_cols=34  Identities=44%  Similarity=0.528  Sum_probs=31.6  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||++||............++|.||++
+T Consensus         1 mevnilafiatalf~~~~~~~~~~~~vktvsqnn   34 (34)
+T tr|A0A218LDE1|    1 MEVNILAFIATALFXXXXXXXXXXXXVKTVSQNN   34 (34)
+Confidence            8999999999999999998888899999999874
+
+
+No 61
+>tr|A0A1Z3MJU6|A0A1Z3MJU6_9POAL Photosystem II protein M (Fragment) OS=Aegilops neglecta OX=130460 GN=psbM PE=4 SV=1 
+Probab=98.06  E-value=4.3e-08  Score=47.89  Aligned_cols=20  Identities=55%  Similarity=0.981  Sum_probs=18.4  Template_Neff=1.000
+
+Q 2axt             15 VLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        15 ilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |++|+.||+|+|++|.||++
+T Consensus         1 ilvptsflliiyvktvsqnn   20 (20)
+T tr|A0A1Z3MJU6|    1 ILVPTSFLLIIYVKTVSQNN   20 (20)
+Confidence            58999999999999999974
+
+
+No 62
+>tr|A0A2I0IB99|A0A2I0IB99_PUNGR Uncharacterized protein OS=Punica granatum OX=22663 GN=CRG98_038333 PE=4 SV=1 
+Probab=98.02  E-value=5.6e-08  Score=63.50  Aligned_cols=31  Identities=52%  Similarity=0.804  Sum_probs=28.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTES   31 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s   31 (36)
+                      ||-|+++|||++-||++|++||+|+|-.-..
+T Consensus         1 megnilafiatahfilvptaflliiyrygkn   31 (125)
+T tr|A0A2I0IB99|    1 MEGNILAFIATAHFILVPTAFLLIIYRYGKN   31 (125)
+Confidence            8999999999999999999999999976443
+
+
+No 63
+>tr|H2E9G6|H2E9G6_9ASTR Photosystem II protein M (Fragment) OS=Acicarpha tribuloides OX=49581 GN=psbM PE=4 SV=1 
+Probab=97.99  E-value=7.5e-08  Score=46.60  Aligned_cols=19  Identities=63%  Similarity=1.102  Sum_probs=17.2  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|++||+|+|++|+||++
+T Consensus         1 lvptaflliiyvktesqkd   19 (19)
+T tr|H2E9G6|H2E9    1 LVPTAFLLIIYVKTESQKD   19 (19)
+Confidence            5899999999999999863
+
+
+No 64
+>tr|A0A218LDG2|A0A218LDG2_AEGTA Photosystem II protein M (Fragment) OS=Aegilops tauschii OX=37682 GN=psbM PE=4 SV=1
+Probab=97.98  E-value=8.1e-08  Score=44.95  Aligned_cols=16  Identities=75%  Similarity=1.022  Sum_probs=15.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVL   16 (36)
+Q Consensus         1 MeVN~l~fiAt~Lfil   16 (36)
+                      ||||+++|||++|||+
+T Consensus         1 mevnilafiatalfil   16 (16)
+T tr|A0A218LDG2|    1 MEVNILAFIATALFIL   16 (16)
+Confidence            8999999999999985
+
+
+No 65
+>tr|L1IFP3|L1IFP3_GUITH Uncharacterized protein OS=Guillardia theta CCMP2712 OX=905079 GN=GUITHDRAFT_155667 PE=4 SV=1
+Probab=97.94  E-value=8.8e-08  Score=61.91  Aligned_cols=35  Identities=40%  Similarity=0.603  Sum_probs=33.0  Template_Neff=2.171
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      |+|.+-+|+|++|..+||.+||++||+|.+||+.+
+T Consensus        72 m~Vsf~AyLAv~LGt~IPv~fLi~LYIQsesrka~  106 (115)
+T tr|L1IFP3|L1IF   72 MAVSFPAYLAVFLGTFIPVVFLITLYIQSESRKAG  106 (115)
+Confidence            78899999999999999999999999999999865
+
+
+No 66
+>tr|C1IGT4|C1IGT4_9ASTR Photosystem II protein M (Fragment) OS=Carlina acanthifolia subsp. utzka OX=538470 GN=psbM PE=4 SV=1 
+Probab=97.93  E-value=1.2e-07  Score=45.50  Aligned_cols=18  Identities=56%  Similarity=0.973  Sum_probs=16.6  Template_Neff=1.000
+
+Q 2axt             17 VPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        17 vPt~FLlIlYvqT~s~~~   34 (36)
+                      +|++||+|+|++|.||++
+T Consensus         1 vptaflliiyvktvsqnd   18 (18)
+T tr|C1IGT4|C1IG    1 VPTAFLLIIYVKTVSQND   18 (18)
+Confidence            699999999999999974
+
+
+No 67
+>tr|Q45YT1|Q45YT1_9ERIC PsbM OS=Symplocos sp. McPherson 15943 OX=335942 GN=psbM PE=4 SV=1 
+Probab=97.89  E-value=1.5e-07  Score=50.75  Aligned_cols=34  Identities=41%  Similarity=0.494  Sum_probs=31.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||++.............|++|.||++
+T Consensus         1 mevnilafiata~~~~~~~~~~~~~yvktvsqnd   34 (34)
+T tr|Q45YT1|Q45Y    1 MEVNILAFIATAXXXXXXXXXXXXXYVKTVSQND   34 (34)
+Confidence            8999999999999998888889999999999974
+
+
+No 68
+>tr|A0A218LXJ9|A0A218LXJ9_TRITI Photosystem II protein M (Fragment) OS=Triticum timopheevii OX=4570 GN=psbM PE=4 SV=1 
+Probab=97.87  E-value=1.8e-07  Score=45.37  Aligned_cols=19  Identities=58%  Similarity=0.978  Sum_probs=17.5  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|+.||+|+|++|.||++
+T Consensus         1 lvptsflliiyvktvsqnn   19 (19)
+T tr|A0A218LXJ9|    1 LVPTSFLLIIYVKTVSQNN   19 (19)
+Confidence            5899999999999999974
+
+
+No 69
+>tr|A0A218LCZ0|A0A218LCZ0_AEGTA Photosystem II protein M (Fragment) OS=Aegilops tauschii OX=37682 GN=psbM PE=4 SV=1 
+Probab=97.87  E-value=1.8e-07  Score=43.23  Aligned_cols=15  Identities=73%  Similarity=1.001  Sum_probs=14.3  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFV   15 (36)
+Q Consensus         1 MeVN~l~fiAt~Lfi   15 (36)
+                      ||||+++|||++|||
+T Consensus         1 mevnilafiatalfi   15 (15)
+T tr|A0A218LCZ0|    1 MEVNILAFIATALFI   15 (15)
+Confidence            899999999999986
+
+
+No 70
+>tr|A0A061QVR0|A0A061QVR0_9CHLO Photosystem II PsbM protein OS=Tetraselmis sp. GSL018 OX=582737 GN=PSBM PE=3 SV=1 
+Probab=97.86  E-value=2e-07  Score=62.42  Aligned_cols=34  Identities=47%  Similarity=0.893  Sum_probs=31.8  Template_Neff=1.000
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      |||.+|.+|.+|||+.|+.||+.+|++..|+++-
+T Consensus        79 evnvlgvvacalfillptsflltlyiksssegnv  112 (149)
+T tr|A0A061QVR0|   79 EVNVLGVVACALFILLPTSFLLTLYIKSSSEGNV  112 (149)
+Confidence            7999999999999999999999999999887653
+
+
+No 71
+>tr|E0XGN5|E0XGN5_9POAL PsbM (Fragment) OS=Eleocharis occulta OX=863345 GN=psbM PE=4 SV=1 
+Probab=97.77  E-value=3.5e-07  Score=44.83  Aligned_cols=20  Identities=50%  Similarity=0.883  Sum_probs=18.4  Template_Neff=1.000
+
+Q 2axt             15 VLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        15 ilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |++|++||+|+|-+|.||++
+T Consensus         1 ilvptaflliiygktvsqnd   20 (20)
+T tr|E0XGN5|E0XG    1 ILVPTAFLLIIYGKTVSQND   20 (20)
+Confidence            58999999999999999974
+
+
+No 72
+>tr|A0A2S1GJH1|A0A2S1GJH1_9GENT Photosystem II protein M (Fragment) OS=Galium baldensiforme OX=2163367 GN=psbM PE=4 SV=1
+Probab=97.75  E-value=4.2e-07  Score=44.14  Aligned_cols=19  Identities=53%  Similarity=0.994  Sum_probs=16.9  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|++||+|+|++|.|+++
+T Consensus         1 lvptaflliiyvktvsekn   19 (19)
+T tr|A0A2S1GJH1|    1 LVPTAFLLIIYVKTVSEKN   19 (19)
+Confidence            5899999999999999753
+
+
+No 73
+>tr|Q27I01|Q27I01_9ROSI PsbM OS=Actinocheita filicina OX=263455 GN=psbM PE=4 SV=1
+Probab=97.72  E-value=5e-07  Score=48.63  Aligned_cols=24  Identities=46%  Similarity=0.805  Sum_probs=20.8  Template_Neff=1.000
+
+Q 2axt             11 TALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        11 t~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ....|++|++||+|+|++|.||++
+T Consensus        10 ~~~~ilvptaflliiyvktvsqgd   33 (33)
+T tr|Q27I01|Q27I   10 XXXXILVPTAFLLIIYVKTVSQGD   33 (33)
+Confidence            345789999999999999999864
+
+
+No 74
+>tr|A0A0F6MVR3|A0A0F6MVR3_9ASTR Photosystem II protein M (Fragment) OS=Cassinia laevis OX=1284871 GN=psbM PE=4 SV=1 
+Probab=97.72  E-value=5.2e-07  Score=44.70  Aligned_cols=21  Identities=57%  Similarity=1.015  Sum_probs=19.4  Template_Neff=1.000
+
+Q 2axt             14 FVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        14 filvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||++-++||+|+|++|+||++
+T Consensus         1 filvrtaflliiyvktesqnn   21 (21)
+T tr|A0A0F6MVR3|    1 FILVRTAFLLIIYVKTESQNN   21 (21)
+Confidence            688999999999999999974
+
+
+No 75
+>tr|A0A218LWW6|A0A218LWW6_TRIMO Photosystem II protein M (Fragment) OS=Triticum monococcum OX=4568 GN=psbM PE=4 SV=1
+Probab=97.68  E-value=6.9e-07  Score=40.85  Aligned_cols=14  Identities=79%  Similarity=0.999  Sum_probs=13.4  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALF   14 (36)
+Q Consensus         1 MeVN~l~fiAt~Lf   14 (36)
+                      ||||+++|||++||
+T Consensus         1 mevnilafiatalf   14 (14)
+T tr|A0A218LWW6|    1 MEVNILAFIATALF   14 (14)
+Confidence            89999999999987
+
+
+No 76
+>tr|A9XEI4|A9XEI4_9ROSI PsbM (Fragment) OS=Pistacia terebinthus OX=434238 GN=psbM PE=4 SV=1 
+Probab=97.63  E-value=9.5e-07  Score=42.04  Aligned_cols=17  Identities=53%  Similarity=0.931  Sum_probs=15.6  Template_Neff=1.000
+
+Q 2axt             18 PSVFLIILYVQTESQQK   34 (36)
+Q Consensus        18 Pt~FLlIlYvqT~s~~~   34 (36)
+                      |++||+|+|++|.||++
+T Consensus         1 ptaflliiyvktvsqgd   17 (17)
+T tr|A9XEI4|A9XE    1 PTAFLLIIYVKTVSQGD   17 (17)
+Confidence            89999999999999864
+
+
+No 77
+>tr|A0A2S1GJI3|A0A2S1GJI3_9GENT Photosystem II protein M (Fragment) OS=Galium sichuanense OX=2163399 GN=psbM PE=4 SV=1
+Probab=97.61  E-value=1.1e-06  Score=42.35  Aligned_cols=18  Identities=50%  Similarity=0.975  Sum_probs=16.1  Template_Neff=1.000
+
+Q 2axt             17 VPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        17 vPt~FLlIlYvqT~s~~~   34 (36)
+                      +|++||+|+|++|.|+++
+T Consensus         1 vptaflliiyvktvsekn   18 (18)
+T tr|A0A2S1GJI3|    1 VPTAFLLIIYVKTVSEKN   18 (18)
+Confidence            699999999999999753
+
+
+No 78
+>tr|A0A220IJY0|A0A220IJY0_9POAL Photosystem II protein M OS=Elymus stipifolius OX=120406 GN=psbM PE=4 SV=1 
+Probab=97.49  E-value=2.2e-06  Score=46.50  Aligned_cols=34  Identities=35%  Similarity=0.449  Sum_probs=31.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||||+++|||...............|++|.||++
+T Consensus         1 mevnilafia~~~~~~~~~~~~~~~yvktvsqnn   34 (34)
+T tr|A0A220IJY0|    1 MEVNILAFIAXXXXXXXXXXXXXXXYVKTVSQNN   34 (34)
+Confidence            8999999999998888888888899999999974
+
+
+No 79
+>tr|A0A218KA78|A0A218KA78_9ASTR PsbM (Fragment) OS=Coronidium oxylepis OX=1436909 GN=psbM PE=4 SV=1 
+Probab=97.48  E-value=2.4e-06  Score=41.62  Aligned_cols=19  Identities=63%  Similarity=0.992  Sum_probs=17.5  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++|++||+|-|++|+||++
+T Consensus         1 lvptafllinyvktesqnn   19 (19)
+T tr|A0A218KA78|    1 LVPTAFLLINYVKTESQNN   19 (19)
+Confidence            5899999999999999974
+
+
+No 80
+>tr|A0A0F6MVD3|A0A0F6MVD3_9ASTR Photosystem II protein M (Fragment) OS=Ozothamnus argophyllus OX=1284855 GN=psbM PE=4 SV=1 
+Probab=97.44  E-value=3.1e-06  Score=41.68  Aligned_cols=20  Identities=55%  Similarity=0.946  Sum_probs=17.8  Template_Neff=1.000
+
+Q 2axt             15 VLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        15 ilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |++-++||+|+|++|+||++
+T Consensus         1 ilvhtaflliiyvktesqnn   20 (20)
+T tr|A0A0F6MVD3|    1 ILVHTAFLLIIYVKTESQNN   20 (20)
+Confidence            46789999999999999974
+
+
+No 81
+>tr|A0A2S1GJA9|A0A2S1GJA9_9GENT Photosystem II protein M (Fragment) OS=Galium paradoxum subsp. paradoxum OX=2163395 GN=psbM PE=4 SV=1
+Probab=97.39  E-value=4e-06  Score=40.01  Aligned_cols=17  Identities=47%  Similarity=0.966  Sum_probs=15.3  Template_Neff=1.000
+
+Q 2axt             18 PSVFLIILYVQTESQQK   34 (36)
+Q Consensus        18 Pt~FLlIlYvqT~s~~~   34 (36)
+                      |++||+|+|++|.|+++
+T Consensus         1 ptaflliiyvktvsekn   17 (17)
+T tr|A0A2S1GJA9|    1 PTAFLLIIYVKTVSEKN   17 (17)
+Confidence            89999999999999753
+
+
+No 82
+>tr|A0A0A6ZF76|A0A0A6ZF76_9ERIC PsbM (Fragment) OS=Symplocos minima OX=1340879 GN=psbM PE=4 SV=1
+Probab=97.32  E-value=6.2e-06  Score=37.29  Aligned_cols=13  Identities=77%  Similarity=0.897  Sum_probs=12.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATAL   13 (36)
+Q Consensus         1 MeVN~l~fiAt~L   13 (36)
+                      ||||+++|||++|
+T Consensus         1 mevnilafiatal   13 (13)
+T tr|A0A0A6ZF76|    1 MEVNILAFIATAL   13 (13)
+Confidence            8999999999986
+
+
+No 83
+>tr|C7B2E1|C7B2E1_SELML Photosystem II protein M OS=Selaginella moellendorffii OX=88036 GN=psbM PE=4 SV=1
+Probab=97.28  E-value=7.5e-06  Score=45.63  Aligned_cols=32  Identities=38%  Similarity=0.409  Sum_probs=30.2  Template_Neff=1.000
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      |||+-+|||++|.|-+|++--+|..++|+.+-
+T Consensus         3 evnipafiatallipiptassiiphvktagri   34 (39)
+T tr|C7B2E1|C7B2    3 EVNIPAFIATAPLIPIPTASSIIPHVKTAGRI   34 (39)
+Confidence            79999999999999999999999999998764
+
+
+No 84
+>tr|A0A0F6MVG1|A0A0F6MVG1_9ASTR Photosystem II protein M (Fragment) OS=Ozothamnus ramosus OX=389211 GN=psbM PE=4 SV=1 
+Probab=97.26  E-value=8.6e-06  Score=39.83  Aligned_cols=19  Identities=58%  Similarity=0.941  Sum_probs=16.5  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ++-++||+|+|++|+||++
+T Consensus         1 lvhtaflliiyvktesqnn   19 (19)
+T tr|A0A0F6MVG1|    1 LVHTAFLLIIYVKTESQNN   19 (19)
+Confidence            3568999999999999974
+
+
+No 85
+>tr|A0A2T7C8H0|A0A2T7C8H0_9POAL Uncharacterized protein OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G345900 PE=4 SV=1 
+Probab=97.13  E-value=1.7e-05  Score=47.77  Aligned_cols=21  Identities=67%  Similarity=0.846  Sum_probs=18.6  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVF   21 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~F   21 (36)
+                      ||||+++|||++|||++-..|
+T Consensus        31 mevnilafiatalfilvllpf   51 (62)
+T tr|A0A2T7C8H0|   31 MEVNILAFIATALFILVLLPF   51 (62)
+Confidence            899999999999999876554
+
+
+No 86
+>tr|C1IGW2|C1IGW2_9ASTR Photosystem II protein M (Fragment) OS=Staehelina uniflosculosa OX=313548 GN=psbM PE=4 SV=1
+Probab=97.11  E-value=1.8e-05  Score=37.43  Aligned_cols=16  Identities=50%  Similarity=0.866  Sum_probs=14.3  Template_Neff=1.000
+
+Q 2axt             19 SVFLIILYVQTESQQK   34 (36)
+Q Consensus        19 t~FLlIlYvqT~s~~~   34 (36)
+                      ++||+|+|++|.||++
+T Consensus         1 taflliiyvktvsqnd   16 (16)
+T tr|C1IGW2|C1IG    1 TAFLLIIYVKTVSQND   16 (16)
+Confidence            5899999999999974
+
+
+No 87
+>tr|A0A220IKD6|A0A220IKD6_9POAL Photosystem II protein M OS=Thinopyrum distichum OX=379302 GN=psbM PE=4 SV=1 
+Probab=97.01  E-value=3.1e-05  Score=42.35  Aligned_cols=20  Identities=55%  Similarity=0.699  Sum_probs=17.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSV   20 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~   20 (36)
+                      ||||+++|||++||......
+T Consensus         1 mevnilafiatalf~~~~~~   20 (34)
+T tr|A0A220IKD6|    1 MEVNILAFIATALFXXXXXX   20 (34)
+Confidence            89999999999999865543
+
+
+No 88
+>tr|Q45YT3|Q45YT3_9ERIC PsbM (Fragment) OS=Symplocos sp. Kelly et al. 1309 OX=335941 GN=psbM PE=4 SV=1 
+Probab=97.01  E-value=3.1e-05  Score=34.57  Aligned_cols=12  Identities=75%  Similarity=0.861  Sum_probs=11.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATA   12 (36)
+Q Consensus         1 MeVN~l~fiAt~   12 (36)
+                      ||||+++|||++
+T Consensus         1 mevnilafiata   12 (12)
+T tr|Q45YT3|Q45Y    1 MEVNILAFIATA   12 (12)
+Confidence            899999999985
+
+
+No 89
+>tr|C9DD70|C9DD70_9POAL PsbM (Fragment) OS=Chionochloa australis OX=500210 GN=psbM PE=4 SV=1
+Probab=97.01  E-value=3.1e-05  Score=36.68  Aligned_cols=16  Identities=50%  Similarity=0.889  Sum_probs=14.1  Template_Neff=1.000
+
+Q 2axt             19 SVFLIILYVQTESQQK   34 (36)
+Q Consensus        19 t~FLlIlYvqT~s~~~   34 (36)
+                      ++||+|+|++|+||+.
+T Consensus         1 taflliiyvktasqkg   16 (16)
+T tr|C9DD70|C9DD    1 TAFLLIIYVKTASQKG   16 (16)
+Confidence            5899999999999863
+
+
+No 90
+>tr|A0A0F6MVK1|A0A0F6MVK1_9ASTR Photosystem II protein M (Fragment) OS=Cassinia cunninghamii OX=1285791 GN=psbM PE=4 SV=1 
+Probab=96.98  E-value=3.5e-05  Score=38.57  Aligned_cols=21  Identities=48%  Similarity=0.879  Sum_probs=17.8  Template_Neff=1.000
+
+Q 2axt             14 FVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        14 filvPt~FLlIlYvqT~s~~~   34 (36)
+                      ||+--++||+|+|++|+||++
+T Consensus         1 fifsytaflliiyvktesqnn   21 (21)
+T tr|A0A0F6MVK1|    1 FIFSYTAFLLIIYVKTESQNN   21 (21)
+Confidence            455668999999999999974
+
+
+No 91
+>tr|D4NY60|D4NY60_GALSU Chloroplast photosystem II M OS=Galdieria sulphuraria OX=130081 GN=psbM PE=4 SV=1 
+Probab=96.97  E-value=3.8e-05  Score=49.99  Aligned_cols=35  Identities=46%  Similarity=0.690  Sum_probs=30.1  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      |-|.--|++|.+|.++.|.+||+|+|+|.+.++.+
+T Consensus        69 mvvqeggylavllgvlfpvafliilyiqsearnag  103 (106)
+T tr|D4NY60|D4NY   69 MVVQEGGYLAVLLGVLFPVAFLIILYIQSEARNAG  103 (106)
+Confidence            33455689999999999999999999999988764
+
+
+No 92
+>tr|F2VF66|F2VF66_9CARY PsbM (Fragment) OS=Schiedea globosa OX=270405 GN=psbM PE=4 SV=1
+Probab=96.91  E-value=5e-05  Score=35.56  Aligned_cols=15  Identities=53%  Similarity=0.897  Sum_probs=13.5  Template_Neff=1.000
+
+Q 2axt             20 VFLIILYVQTESQQK   34 (36)
+Q Consensus        20 ~FLlIlYvqT~s~~~   34 (36)
+                      +||+|+|++|.||++
+T Consensus         1 aflliiyvktvsqnn   15 (15)
+T tr|F2VF66|F2VF    1 AFLLIIYVKTVSQNN   15 (15)
+Confidence            589999999999974
+
+
+No 93
+>tr|R1G5I8|R1G5I8_EMIHU Uncharacterized protein OS=Emiliania huxleyi OX=2903 GN=EMIHUDRAFT_318066 PE=4 SV=1
+Probab=96.83  E-value=6.7e-05  Score=49.53  Aligned_cols=33  Identities=36%  Similarity=0.624  Sum_probs=30.4  Template_Neff=1.441
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      +|.+-+|+|++|..+||.+||+.+|+|.+.|+.
+T Consensus        63 dvsfgaflavilglfipvvflvtlyiqseaqgt   95 (116)
+T tr|R1G5I8|R1G5   63 DVSFGAFLAVILGLFIPVVFLVTLYIQSEAQGT   95 (116)
+Confidence            677889999999999999999999999998865
+
+
+No 94
+>tr|C9WSH2|C9WSH2_9POAL Photosystem II M protein (Fragment) OS=Eleocharis sp. 'Guyana' OX=679968 GN=psbM PE=4 SV=1
+Probab=96.82  E-value=7.3e-05  Score=34.54  Aligned_cols=14  Identities=57%  Similarity=0.997  Sum_probs=12.7  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||+|+|++|+||++
+T Consensus         1 flliiyvktasqnd   14 (14)
+T tr|C9WSH2|C9WS    1 FLLIIYVKTASQND   14 (14)
+Confidence            79999999999974
+
+
+No 95
+>tr|A0A220IJJ9|A0A220IJJ9_PSAJU Photosystem II protein M (Fragment) OS=Psathyrostachys juncea OX=4586 GN=psbM PE=4 SV=1
+Probab=96.82  E-value=7.4e-05  Score=32.79  Aligned_cols=11  Identities=73%  Similarity=0.866  Sum_probs=10.2  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIAT   11 (36)
+Q Consensus         1 MeVN~l~fiAt   11 (36)
+                      ||||+++|||+
+T Consensus         1 mevnilafiat   11 (11)
+T tr|A0A220IJJ9|    1 MEVNILAFIAT   11 (11)
+Confidence            89999999985
+
+
+No 96
+>tr|M1V7K1|M1V7K1_CYAM1 Photosystem II protein M OS=Cyanidioschyzon merolae (strain 10D) OX=280699 GN=CYME_CMT182C PE=4 SV=1 
+Probab=96.72  E-value=0.00011  Score=50.05  Aligned_cols=34  Identities=41%  Similarity=0.619  Sum_probs=29.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |.|.+-+++|..|..+||.+||+|+|+|.+.++.
+T Consensus        98 mtvqfgaylavflgtlipvafliilyiqsetrka  131 (150)
+T tr|M1V7K1|M1V7   98 MTVQFGAYLAVFLGTLIPVAFLIILYIQSETRKA  131 (150)
+Confidence            5677788999999999999999999999877653
+
+
+No 97
+>tr|A0A0U2WSF7|A0A0U2WSF7_SORAU PsbM (Fragment) OS=Sorbus aucuparia OX=36599 GN=psbM PE=4 SV=1 
+Probab=96.68  E-value=0.00014  Score=34.19  Aligned_cols=15  Identities=53%  Similarity=0.853  Sum_probs=13.2  Template_Neff=1.000
+
+Q 2axt             20 VFLIILYVQTESQQK   34 (36)
+Q Consensus        20 ~FLlIlYvqT~s~~~   34 (36)
+                      +||+|+|++|.||++
+T Consensus         1 aflliiyvktvsqgd   15 (15)
+T tr|A0A0U2WSF7|    1 AFLLIIYVKTVSQGD   15 (15)
+Confidence            589999999999863
+
+
+No 98
+>tr|C9WSG2|C9WSG2_9POAL Photosystem II M protein (Fragment) OS=Eleocharis quadrangulata OX=529437 GN=psbM PE=4 SV=1
+Probab=96.63  E-value=0.00016  Score=33.46  Aligned_cols=14  Identities=57%  Similarity=0.952  Sum_probs=12.7  Template_Neff=1.200
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||+|+|++|.||++
+T Consensus         1 flliiyvktvsqnd   14 (14)
+T tr|C9WSG2|C9WS    1 FLLIIYVKTVSQND   14 (14)
+Confidence            78999999999974
+
+
+No 99
+>tr|A0A2S1GJK9|A0A2S1GJK9_9GENT Photosystem II protein M (Fragment) OS=Galium karataviense OX=2163387 GN=psbM PE=4 SV=1
+Probab=96.61  E-value=0.00018  Score=34.28  Aligned_cols=16  Identities=44%  Similarity=0.868  Sum_probs=13.8  Template_Neff=1.000
+
+Q 2axt             19 SVFLIILYVQTESQQK   34 (36)
+Q Consensus        19 t~FLlIlYvqT~s~~~   34 (36)
+                      ++||+|+|++|.|+++
+T Consensus         1 taflliiyvktvsekn   16 (16)
+T tr|A0A2S1GJK9|    1 TAFLLIIYVKTVSEKN   16 (16)
+Confidence            5899999999999753
+
+
+No 100
+>tr|A0A0D5BEE9|A0A0D5BEE9_ABEGR PsbM (Fragment) OS=Abelia grandiflora OX=105883 GN=psbM PE=4 SV=1
+Probab=96.53  E-value=0.00024  Score=30.64  Aligned_cols=10  Identities=70%  Similarity=0.870  Sum_probs=9.3  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIA   10 (36)
+Q Consensus         1 MeVN~l~fiA   10 (36)
+                      ||||+++|||
+T Consensus         1 mevnilafia   10 (10)
+T tr|A0A0D5BEE9|    1 MEVNILAFIA   10 (10)
+Confidence            8999999986
+
+
+No 101
+>tr|C9DD92|C9DD92_9POAL PsbM (Fragment) OS=Chionochloa flavescens subsp. lupeola OX=661377 GN=psbM PE=4 SV=1 
+Probab=96.53  E-value=0.00024  Score=32.92  Aligned_cols=14  Identities=57%  Similarity=0.978  Sum_probs=12.4  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||+|+|++|+||+.
+T Consensus         1 flliiyvktasqkg   14 (14)
+T tr|C9DD92|C9DD    1 FLLIIYVKTASQKG   14 (14)
+Confidence            79999999999863
+
+
+No 102
+>tr|A0A1Z5KHV3|A0A1Z5KHV3_FISSO Uncharacterized protein OS=Fistulifera solaris OX=1519565 GN=FisN_6Hh123 PE=4 SV=1
+Probab=96.48  E-value=0.00026  Score=46.15  Aligned_cols=34  Identities=44%  Similarity=0.601  Sum_probs=30.9  Template_Neff=1.618
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||..-+++|++|..+.|..||+=||+||+|++.+
+T Consensus        61 evqfgaylav~lgt~lp~lflinl~iqtesrkag   94 (102)
+T tr|A0A1Z5KHV3|   61 EVQFGAYLAVALGTLLPCLFLINLFIQTESRKAG   94 (102)
+Confidence            6677789999999999999999999999999765
+
+
+No 103
+>tr|D9I8K5|D9I8K5_DINAC Plastid photosystem II subunit M OS=Dinophysis acuminata OX=47934 GN=psbM PE=2 SV=1 
+Probab=96.46  E-value=0.00031  Score=42.54  Aligned_cols=34  Identities=38%  Similarity=0.707  Sum_probs=30.8  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      |.|.--||+|++...++|.+||..+|+|.+.++.
+T Consensus        18 mavssagflatlfgtfvpvvflvtlfiqsearka   51 (61)
+T tr|D9I8K5|D9I8   18 MAVSSAGFLATLFGTFVPVVFLVTLFIQSEARKA   51 (61)
+Confidence            6788889999999999999999999999987654
+
+
+No 104
+>tr|A0A2S1GJM6|A0A2S1GJM6_9GENT Photosystem II protein M (Fragment) OS=Galium linearifolium OX=2163388 GN=psbM PE=4 SV=1
+Probab=96.46  E-value=0.00032  Score=34.29  Aligned_cols=17  Identities=41%  Similarity=0.825  Sum_probs=14.5  Template_Neff=1.000
+
+Q 2axt             18 PSVFLIILYVQTESQQK   34 (36)
+Q Consensus        18 Pt~FLlIlYvqT~s~~~   34 (36)
+                      .++||+|+|++|.|+++
+T Consensus         2 staflliiyvktvsekn   18 (18)
+T tr|A0A2S1GJM6|    2 STAFLLIIYVKTVSEKN   18 (18)
+Confidence            47899999999998753
+
+
+No 105
+>tr|A0A2S1GJL5|A0A2S1GJL5_9GENT Photosystem II protein M (Fragment) OS=Galium bungei var. hispidum OX=2163374 GN=psbM PE=4 SV=1
+Probab=96.39  E-value=0.00041  Score=34.29  Aligned_cols=17  Identities=41%  Similarity=0.825  Sum_probs=14.6  Template_Neff=1.000
+
+Q 2axt             18 PSVFLIILYVQTESQQK   34 (36)
+Q Consensus        18 Pt~FLlIlYvqT~s~~~   34 (36)
+                      .++||+|+|++|.|+++
+T Consensus         3 staflliiyvktvsekn   19 (19)
+T tr|A0A2S1GJL5|    3 STAFLLIIYVKTVSEKN   19 (19)
+Confidence            47899999999998753
+
+
+No 106
+>tr|X2EYJ2|X2EYJ2_LAGSI Photosystem II protein M (Fragment) OS=Lagenaria siceraria OX=3668 GN=psbM PE=4 SV=1 
+Probab=96.33  E-value=0.0005  Score=30.92  Aligned_cols=12  Identities=75%  Similarity=1.248  Sum_probs=10.9  Template_Neff=1.000
+
+Q 2axt             10 ATALFVLVPSVF   21 (36)
+Q Consensus        10 At~LfilvPt~F   21 (36)
+                      |++|||++|++|
+T Consensus         1 atalfilvptaf   12 (12)
+T tr|X2EYJ2|X2EY    1 ATALFILVPTAF   12 (12)
+Confidence            689999999987
+
+
+No 107
+>tr|A0A2S1GJC4|A0A2S1GJC4_9GENT Photosystem II protein M (Fragment) OS=Galium echinocarpum OX=1650705 GN=psbM PE=4 SV=1
+Probab=96.28  E-value=0.0006  Score=32.16  Aligned_cols=15  Identities=47%  Similarity=0.893  Sum_probs=12.9  Template_Neff=1.000
+
+Q 2axt             20 VFLIILYVQTESQQK   34 (36)
+Q Consensus        20 ~FLlIlYvqT~s~~~   34 (36)
+                      +||+|+|++|.|+.+
+T Consensus         1 aflliiyvktvsekn   15 (15)
+T tr|A0A2S1GJC4|    1 AFLLIIYVKTVSEKN   15 (15)
+Confidence            589999999998753
+
+
+No 108
+>tr|A0A2S1GJE5|A0A2S1GJE5_GALOD Photosystem II protein M (Fragment) OS=Galium odoratum OX=35899 GN=psbM PE=4 SV=1 
+Probab=95.98  E-value=0.0015  Score=32.45  Aligned_cols=16  Identities=44%  Similarity=0.860  Sum_probs=13.8  Template_Neff=1.000
+
+Q 2axt             19 SVFLIILYVQTESQQK   34 (36)
+Q Consensus        19 t~FLlIlYvqT~s~~~   34 (36)
+                      .+||+|+|++|.|+++
+T Consensus         4 aaflliiyvktvsekn   19 (19)
+T tr|A0A2S1GJE5|    4 AAFLLIIYVKTVSEKN   19 (19)
+Confidence            5799999999998753
+
+
+No 109
+>tr|A0A0D5BVB1|A0A0D5BVB1_9GENT Photosystem II protein M (Fragment) OS=Galium pusillum OX=1256260 GN=psbM PE=4 SV=1
+Probab=95.96  E-value=0.0015  Score=30.43  Aligned_cols=14  Identities=50%  Similarity=0.954  Sum_probs=12.1  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||+|+|++|.|+.+
+T Consensus         1 flliiyvktvsekn   14 (14)
+T tr|A0A0D5BVB1|    1 FLLIIYVKTVSEKN   14 (14)
+Confidence            79999999998753
+
+
+No 110
+>tr|C1IGS2|C1IGS2_9ASTR Photosystem II protein M (Fragment) OS=Carlina nebrodensis OX=538494 GN=psbM PE=4 SV=1
+Probab=95.78  E-value=0.0024  Score=29.34  Aligned_cols=13  Identities=54%  Similarity=0.846  Sum_probs=11.3  Template_Neff=1.205
+
+Q 2axt             22 LIILYVQTESQQK   34 (36)
+Q Consensus        22 LlIlYvqT~s~~~   34 (36)
+                      |+|+|++|.||++
+T Consensus         1 ~liiyvktvsqn~   13 (13)
+T tr|C1IGS2|C1IG    1 LLIIYVKTVSQND   13 (13)
+Confidence            5789999999974
+
+
+No 111
+>tr|F2VFH1|F2VFH1_9CARY PsbM (Fragment) OS=Schiedea perlmanii OX=270423 GN=psbM PE=4 SV=1
+Probab=95.67  E-value=0.0032  Score=29.86  Aligned_cols=14  Identities=50%  Similarity=0.726  Sum_probs=12.2  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      -|+|+|++|.||++
+T Consensus         2 slliiyvktvsqnn   15 (15)
+T tr|F2VFH1|F2VF    2 SLLIIYVKTVSQNN   15 (15)
+Confidence            47899999999974
+
+
+No 112
+>tr|A9XEI2|A9XEI2_9ROSI PsbM OS=Pistacia x saportae OX=434233 GN=psbM PE=4 SV=1 
+Probab=95.55  E-value=0.0043  Score=34.32  Aligned_cols=20  Identities=40%  Similarity=0.640  Sum_probs=16.4  Template_Neff=1.000
+
+Q 2axt             15 VLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        15 ilvPt~FLlIlYvqT~s~~~   34 (36)
+                      .....+||+|+|++|.||++
+T Consensus        14 ~~~~~aflliiyvktvsqgd   33 (33)
+T tr|A9XEI2|A9XE   14 XXXXXAFLLIIYVKTVSQGD   33 (33)
+Confidence            34567899999999999864
+
+
+No 113
+>tr|A9XEH6|A9XEH6_9ROSI PsbM OS=Pistacia terebinthus subsp. palaestina OX=434239 GN=psbM PE=4 SV=1
+Probab=95.54  E-value=0.0044  Score=34.28  Aligned_cols=19  Identities=42%  Similarity=0.673  Sum_probs=15.9  Template_Neff=1.000
+
+Q 2axt             16 LVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        16 lvPt~FLlIlYvqT~s~~~   34 (36)
+                      ....+||+|+|++|.||++
+T Consensus        15 ~~~~aflliiyvktvsqgd   33 (33)
+T tr|A9XEH6|A9XE   15 XXXXAFLLIIYVKTVSQGD   33 (33)
+Confidence            3457899999999999864
+
+
+No 114
+>tr|E0XGD8|E0XGD8_9POAL PsbM (Fragment) OS=Eleocharis confervoides OX=110312 GN=psbM PE=4 SV=1 
+Probab=95.37  E-value=0.0062  Score=28.54  Aligned_cols=13  Identities=54%  Similarity=0.971  Sum_probs=11.6  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQ   33 (36)
+Q Consensus        21 FLlIlYvqT~s~~   33 (36)
+                      ||+|+|++|..|+
+T Consensus         1 flliiyvktvrqk   13 (14)
+T tr|E0XGD8|E0XG    1 FLLIIYVKTVRQK   13 (14)
+Confidence            7999999999875
+
+
+No 115
+>tr|E0XGR3|E0XGR3_9POAL PsbM (Fragment) OS=Eleocharis schaffneri OX=863353 GN=psbM PE=4 SV=1 
+Probab=95.34  E-value=0.0067  Score=28.45  Aligned_cols=14  Identities=50%  Similarity=0.793  Sum_probs=12.6  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||+|+|-+|.||++
+T Consensus         1 flliiygktvsqnd   14 (14)
+T tr|E0XGR3|E0XG    1 FLLIIYGKTVSQND   14 (14)
+Confidence            78999999999974
+
+
+No 116
+>tr|C9WSH0|C9WSH0_9POAL Photosystem II M protein (Fragment) OS=Eleocharis mutata OX=110293 GN=psbM PE=4 SV=1 
+Probab=95.01  E-value=0.012  Score=27.66  Aligned_cols=14  Identities=57%  Similarity=0.804  Sum_probs=12.2  Template_Neff=1.000
+
+Q 2axt             21 FLIILYVQTESQQK   34 (36)
+Q Consensus        21 FLlIlYvqT~s~~~   34 (36)
+                      ||-|.|++|.||++
+T Consensus         1 flpifyvktvsqnd   14 (14)
+T tr|C9WSH0|C9WS    1 FLPIFYVKTVSQND   14 (14)
+Confidence            67899999999974
+
+
+No 117
+>tr|C1IGU6|C1IGU6_9ASTR Photosystem II protein M (Fragment) OS=Atractylis humilis OX=41484 GN=psbM PE=4 SV=1
+Probab=94.73  E-value=0.018  Score=26.20  Aligned_cols=12  Identities=50%  Similarity=0.805  Sum_probs=10.3  Template_Neff=1.000
+
+Q 2axt             23 IILYVQTESQQK   34 (36)
+Q Consensus        23 lIlYvqT~s~~~   34 (36)
+                      +|+|++|.||++
+T Consensus         1 liiyvktvsqnd   12 (12)
+T tr|C1IGU6|C1IG    1 LIIYVKTVSQND   12 (12)
+Confidence            589999999974
+
+
+No 118
+>tr|A0A0G4EAE0|A0A0G4EAE0_VITBC Uncharacterized protein OS=Vitrella brassicaformis (strain CCMP3155) OX=1169540 GN=Vbra_3546 PE=4 SV=1 
+Probab=93.90  E-value=0.05  Score=37.18  Aligned_cols=34  Identities=38%  Similarity=0.677  Sum_probs=29.8  Template_Neff=1.000
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      ||.--||-|++|..+.|..||.+.|.|.+.+++.
+T Consensus        81 evteggfyatilgtllpilflvvvyaqsearksa  114 (122)
+T tr|A0A0G4EAE0|   81 EVTEGGFYATILGTLLPILFLVVVYAQSEARKSA  114 (122)
+Confidence            5666799999999999999999999999887653
+
+
+No 119
+>tr|Q7NCI2|Q7NCI2_GLOVI Photosystem II reaction center M protein OS=Gloeobacter violaceus (strain PCC 7421) OX=251221 GN=psbM PE=4 SV=1
+Probab=93.03  E-value=0.11  Score=28.55  Aligned_cols=26  Identities=54%  Similarity=0.792  Sum_probs=23.0  Template_Neff=1.103
+
+Q 2axt              6 LGLIATALFVLVPSVFLIILYVQTES   31 (36)
+Q Consensus         6 l~fiAt~LfilvPt~FLlIlYvqT~s   31 (36)
+                      .+++|.+|.+++-..||+|.++|++.
+T Consensus         3 iallaiallvlvccgfl~ivwvqse~   28 (29)
+T tr|Q7NCI2|Q7NC    3 IALLAIALLVLVCCGFLIIVWVQSEN   28 (29)
+Confidence            46789999999999999999998764
+
+
+No 120
+>tr|A0A1Y5IE74|A0A1Y5IE74_OSTTA Uncharacterized protein OS=Ostreococcus tauri OX=70448 GN=BE221DRAFT_20039 PE=4 SV=1
+Probab=91.34  E-value=0.3  Score=34.10  Aligned_cols=24  Identities=58%  Similarity=0.894  Sum_probs=19.4  Template_Neff=1.000
+
+Q 2axt              3 VNQLGLIATALFVLVPSVFLIILYV   27 (36)
+Q Consensus         3 VN~l~fiAt~LfilvPt~FLlIlYv   27 (36)
+                      -|++.++| +||+++|.+.|+.-|.
+T Consensus       101 fnilslva-alfvlvpvallifayt  124 (131)
+T tr|A0A1Y5IE74|  101 FNILSLVA-ALFVLVPVALLIFAYT  124 (131)
+Confidence            37788776 6899999999887774
+
+
+No 121
+>tr|W4RHC8|W4RHC8_9BACI Uncharacterized protein OS=Bacillus boroniphilus JCM 21738 OX=1294265 GN=JCM21738_498 PE=4 SV=1 
+Probab=89.45  E-value=0.65  Score=29.60  Aligned_cols=29  Identities=38%  Similarity=0.718  Sum_probs=24.3  Template_Neff=1.000
+
+Q 2axt              8 LIATALFVLVPSVFLIILYVQTESQQKSS   36 (36)
+Q Consensus         8 fiAt~LfilvPt~FLlIlYvqT~s~~~~s   36 (36)
+                      ||-.+|.|++|....+-+|.+-..|++.|
+T Consensus        12 fifvaliilvpvmlfiylymkddkqkqhs   40 (66)
+T tr|W4RHC8|W4RH   12 FIFVALIILVPVMLFIYLYMKDDKQKQHS   40 (66)
+Confidence            67788999999999999999988876543
+
+
+No 122
+>tr|A0A2M7WCE5|A0A2M7WCE5_9PROT Uncharacterized protein OS=Alphaproteobacteria bacterium CG_4_10_14_0_2_um_filter_63_37 OX=1973896 GN=COX57_05170 PE=4 SV=1 
+Probab=89.39  E-value=0.66  Score=30.20  Aligned_cols=31  Identities=32%  Similarity=0.507  Sum_probs=26.4  Template_Neff=1.000
+
+Q 2axt              2 EVNQLGLIATALFVLVPSVFLIILYVQTESQ   32 (36)
+Q Consensus         2 eVN~l~fiAt~LfilvPt~FLlIlYvqT~s~   32 (36)
+                      +|-..+|||--|.|++|.+.|.|+-.+.-..
+T Consensus        36 dvpwmafiafglvilipvvllailswknlnk   66 (76)
+T tr|A0A2M7WCE5|   36 DVPWMAFIAFGLVILIPVVLLAILSWKNLNK   66 (76)
+Confidence            4667899999999999999999998876544
+
+
+No 123
+>tr|D7G2H7|D7G2H7_ECTSI Uncharacterized protein OS=Ectocarpus siliculosus OX=2880 GN=Esi_0476_0011 PE=4 SV=1 
+Probab=88.37  E-value=0.91  Score=31.83  Aligned_cols=32  Identities=34%  Similarity=0.559  Sum_probs=25.8  Template_Neff=1.000
+
+Q 2axt              4 NQLGLIATALFVLVPSVFLIILYVQTESQQKS   35 (36)
+Q Consensus         4 N~l~fiAt~LfilvPt~FLlIlYvqT~s~~~~   35 (36)
+                      |-.+-+|.....+||..||+.+|..|+..+++
+T Consensus        87 ngtatlaivvgmfipcsflitlyfgteqkkkg  118 (127)
+T tr|D7G2H7|D7G2   87 NGTATLAIVVGMFIPCSFLITLYFGTEQKKKG  118 (127)
+Confidence            44556778888999999999999999876543
+
+
+No 124
+>tr|Q894K3|Q894K3_CLOTE Uncharacterized protein OS=Clostridium tetani (strain Massachusetts / E88) OX=212717 GN=CTC_01538 PE=4 SV=1
+Probab=86.73  E-value=1.4  Score=30.67  Aligned_cols=32  Identities=31%  Similarity=0.671  Sum_probs=27.3  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQTESQ   32 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvqT~s~   32 (36)
+                      ||.|+.-||.---|+++|....+-+..+-..|
+T Consensus        30 meinimefiteqafilvpalyvlglmlkqtkq   61 (117)
+T tr|Q894K3|Q894   30 MEINIMEFITEQAFILVPTLYILGLMLKQTKQ   61 (117)
+Confidence            89999999999999999999888777665443
+
+
+No 125
+>tr|A0A287HAK4|A0A287HAK4_HORVV Predicted protein OS=Hordeum vulgare subsp. vulgare OX=112509 PE=4 SV=1 
+Probab=86.46  E-value=1.5  Score=31.96  Aligned_cols=22  Identities=50%  Similarity=0.871  Sum_probs=19.8  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFL   22 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FL   22 (36)
+                      |||.+.|.+|++-|+.||...|
+T Consensus       128 mevgifgmlatacfvtipalil  149 (166)
+T tr|A0A287HAK4|  128 MEVGIFGMLATACFVTIPALIL  149 (166)
+Confidence            8999999999999999998543
+
+
+No 126
+>tr|A0A0X9L6T9|A0A0X9L6T9_9VIRU SDA1 OS=White spot syndrome virus OX=342409 PE=4 SV=1
+Probab=84.35  E-value=2.3  Score=29.14  Aligned_cols=28  Identities=36%  Similarity=0.613  Sum_probs=21.7  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQ   28 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvq   28 (36)
+                      ||+..++|||.-|...+-.+...|-|..
+T Consensus         1 metttlafiamgllfvvlmvyifiqyts   28 (101)
+T tr|A0A0X9L6T9|    1 METTTLAFIAMGLLFVVLMVYIFIQYTS   28 (101)
+Confidence            8999999999988777666666666643
+
+
+No 127
+>sp|Q10268|MAC1_SCHPO Membrane-anchored protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mac1 PE=1 SV=1 
+Probab=83.84  E-value=2.5  Score=36.07  Aligned_cols=27  Identities=44%  Similarity=0.678  Sum_probs=21.6  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVPSVFLIILYVQ   28 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvPt~FLlIlYvq   28 (36)
+                      |--|.++|+|. ||++||++.|+|--+.
+T Consensus         1 mirntlaflai-lflliptalliigsvs   27 (756)
+T sp|Q10268|MAC1    1 MIRNTLAFLAI-LFLLIPTALLIIGSVS   27 (756)
+Confidence            44688999984 7899999999886554
+
+
+No 128
+>tr|A0A2Y9RKM9|A0A2Y9RKM9_TRIMA T-cell surface glycoprotein CD3 epsilon chain isoform X1 OS=Trichechus manatus latirostris OX=127582 GN=LOC101359660 PE=4 SV=1 
+Probab=82.98  E-value=2.9  Score=31.63  Aligned_cols=33  Identities=24%  Similarity=0.466  Sum_probs=26.0  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALF-VLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         1 MeVN~l~fiAt~Lf-ilvPt~FLlIlYvqT~s~~   33 (36)
+                      ||||.++.+|.++. |.|..-.|++.|.+...+.
+T Consensus       110 mevnllavvaivigdicitlglllvvyywsknrk  143 (218)
+T tr|A0A2Y9RKM9|  110 MEVNLLAVVAIVIGDICITLGLLLVVYYWSKNRK  143 (218)
+Confidence            89999999998765 5566777888888776554
+
+
+No 129
+>tr|A0A2B8TTK7|A0A2B8TTK7_9BACI Uncharacterized protein OS=Bacillus sp. AFS055030 OX=2033507 GN=CN925_01805 PE=4 SV=1 
+Probab=82.14  E-value=3.3  Score=34.06  Aligned_cols=26  Identities=31%  Similarity=0.750  Sum_probs=21.9  Template_Neff=1.000
+
+Q 2axt              8 LIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         8 fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      +.-.++|..+|.+||+.++.+|.|..
+T Consensus        17 wflilmffmippaflillwlktrskk   42 (481)
+T tr|A0A2B8TTK7|   17 WFLILMFFMIPPAFLILLWLKTRSKK   42 (481)
+Confidence            44567889999999999999998864
+
+
+No 130
+>tr|W1WJ32|W1WJ32_9ZZZZ Uncharacterized protein OS=human gut metagenome OX=408170 GN=Q604_UNBC18655G0002 PE=4 SV=1 
+Probab=82.08  E-value=3.4  Score=28.93  Aligned_cols=23  Identities=43%  Similarity=0.755  Sum_probs=19.4  Template_Neff=1.000
+
+Q 2axt             12 ALFVLVPSVFLIILYVQTESQQK   34 (36)
+Q Consensus        12 ~LfilvPt~FLlIlYvqT~s~~~   34 (36)
+                      +||-..|.+||.|+|-..++.+.
+T Consensus        53 ilfavfpaaflyilyclsesgss   75 (115)
+T tr|W1WJ32|W1WJ   53 ILFAVFPAAFLYILYCLSESGSS   75 (115)
+Confidence            57888999999999998877654
+
+
+No 131
+>tr|A0A2H0VTK6|A0A2H0VTK6_9BACT Uncharacterized protein OS=Chlamydiae bacterium CG10_big_fil_rev_8_21_14_0_10_42_34 OX=1973936 GN=COT85_05410 PE=4 SV=1 
+Probab=81.74  E-value=3.6  Score=30.10  Aligned_cols=28  Identities=39%  Similarity=0.783  Sum_probs=25.3  Template_Neff=1.000
+
+Q 2axt              6 LGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         6 l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      .++||+-..-+.|-+.|++.|.+|+|++
+T Consensus       106 valiatgilkllpgivllvvyaktasrq  133 (160)
+T tr|A0A2H0VTK6|  106 VALIATGILKLLPGIVLLVVYAKTASRQ  133 (160)
+Confidence            4788888899999999999999999975
+
+
+No 132
+>tr|A0A061NYM2|A0A061NYM2_9BACL Uncharacterized protein OS=Geomicrobium sp. JCM 19038 OX=1460635 GN=JCM19038_2987 PE=4 SV=1
+Probab=81.33  E-value=3.8  Score=26.50  Aligned_cols=21  Identities=29%  Similarity=0.804  Sum_probs=17.8  Template_Neff=1.000
+
+Q 2axt              7 GLIATALFVLVPSVFLIILYV   27 (36)
+Q Consensus         7 ~fiAt~LfilvPt~FLlIlYv   27 (36)
+                      -|+...||+++|++-.-.+|.
+T Consensus         3 rfltvllfiliptiampllym   23 (66)
+T tr|A0A061NYM2|    3 RFLTVLLFILIPTIAMPLLYM   23 (66)
+Confidence            377889999999998888875
+
+
+No 133
+>tr|A0A2I0K312|A0A2I0K312_PUNGR Uncharacterized protein OS=Punica granatum OX=22663 GN=CRG98_017469 PE=4 SV=1 
+Probab=81.27  E-value=3.8  Score=28.35  Aligned_cols=18  Identities=39%  Similarity=0.523  Sum_probs=15.5  Template_Neff=1.000
+
+Q 2axt              1 MEVNQLGLIATALFVLVP   18 (36)
+Q Consensus         1 MeVN~l~fiAt~LfilvP   18 (36)
+                      |+-|.+||.|+.|.|++=
+T Consensus        70 mddndlgffatflgifif   87 (105)
+T tr|A0A2I0K312|   70 MDDNDLGFFATFLGIFIF   87 (105)
+Confidence            788999999999988763
+
+
+No 134
+>tr|A0A0L0HE85|A0A0L0HE85_SPIPN Uncharacterized protein OS=Spizellomyces punctatus DAOM BR117 OX=645134 GN=SPPG_05658 PE=4 SV=1 
+Probab=80.04  E-value=4.5  Score=32.49  Aligned_cols=22  Identities=55%  Similarity=0.880  Sum_probs=19.6  Template_Neff=1.000
+
+Q 2axt              5 QLGLIATALFVLVPSVFLIILY   26 (36)
+Q Consensus         5 ~l~fiAt~LfilvPt~FLlIlY   26 (36)
+                      -+|+||.+|.++.|.+||.|.-
+T Consensus        50 clgliavllivllpviflvivp   71 (362)
+T tr|A0A0L0HE85|   50 CLGLIAVLLIVLLPVIFLVIVP   71 (362)
+Confidence            4789999999999999998864
+
+
+No 135
+>tr|A0A076W1X9|A0A076W1X9_BACMY Putative membrane protein OS=Bacillus mycoides OX=1405 GN=DJ92_870 PE=4 SV=1 
+Probab=78.43  E-value=5.6  Score=23.56  Aligned_cols=25  Identities=28%  Similarity=0.404  Sum_probs=21.7  Template_Neff=1.000
+
+Q 2axt              7 GLIATALFVLVPSVFLIILYVQTES   31 (36)
+Q Consensus         7 ~fiAt~LfilvPt~FLlIlYvqT~s   31 (36)
+                      -||..+..|++-++.|+.+|....|
+T Consensus         8 ifigvligiligtallitlyfvsvs   32 (38)
+T tr|A0A076W1X9|    8 IFIGVLIGILIGTALLITLYFVSVS   32 (38)
+Confidence            4788899999999999999987765
+
+
+No 136
+>tr|A0A2V9AQE0|A0A2V9AQE0_9BACT Uncharacterized protein OS=Acidobacteria bacterium OX=1978231 GN=DMG38_21730 PE=4 SV=1 
+Probab=75.46  E-value=7.8  Score=31.87  Aligned_cols=26  Identities=50%  Similarity=0.772  Sum_probs=22.1  Template_Neff=1.000
+
+Q 2axt              5 QLGLIATALFVLVPSVFLIILYVQTE   30 (36)
+Q Consensus         5 ~l~fiAt~LfilvPt~FLlIlYvqT~   30 (36)
+                      ..|-+|.+||+++|+.||---|+...
+T Consensus        21 lfgtvalalfvlvptsflsrsyvaaq   46 (430)
+T tr|A0A2V9AQE0|   21 LFGTVALALFVLVPTSFLSRSYVAAQ   46 (430)
+Confidence            35778999999999999999998543
+
+
+No 137
+>tr|W7UGZ8|W7UGZ8_RUMFL Uncharacterized protein OS=Ruminococcus flavefaciens 007c OX=1341157 GN=RF007C_16435 PE=4 SV=1 
+Probab=74.26  E-value=8.8  Score=27.30  Aligned_cols=26  Identities=46%  Similarity=0.759  Sum_probs=20.7  Template_Neff=1.000
+
+Q 2axt              6 LGLIATALFVLVPSVFLIILYVQTES   31 (36)
+Q Consensus         6 l~fiAt~LfilvPt~FLlIlYvqT~s   31 (36)
+                      .|++-.+||+++|.+-|+++-+-.+|
+T Consensus        83 igllmialfilipivglivliicias  108 (121)
+T tr|W7UGZ8|W7UG   83 IGLLMIALFILIPIVGLIVLIICIAS  108 (121)
+Confidence            36778899999999988887765554
+
+
+No 138
+>tr|A0A2A4WSC7|A0A2A4WSC7_9GAMM Uncharacterized protein OS=Gammaproteobacteria bacterium OX=1913989 GN=COB38_01415 PE=4 SV=1
+Probab=68.07  E-value=15  Score=28.30  Aligned_cols=28  Identities=43%  Similarity=0.679  Sum_probs=24.7  Template_Neff=1.205
+
+Q 2axt              3 VNQLGLIATALFVLVPSVFLIILYVQTE   30 (36)
+Q Consensus         3 VN~l~fiAt~LfilvPt~FLlIlYvqT~   30 (36)
+                      .|-.|=||-.||..+|.-|+-|-|.|.-
+T Consensus       119 anafggiaq~lflivpft~~aiayyq~f  146 (213)
+T tr|A0A2A4WSC7|  119 ANAFGGIAQVLFLIVPFTFIAIAYYQSF  146 (213)
+Confidence            3777889999999999999999999863
+
+
+No 139
+>tr|E3H3T6|E3H3T6_ROTDC Uncharacterized protein OS=Rothia dentocariosa (strain ATCC 17931 / CDC X599 / XDIA) OX=762948 GN=HMPREF0733_11021 PE=4 SV=1
+Probab=56.05  E-value=32  Score=25.17  Aligned_cols=30  Identities=27%  Similarity=0.546  Sum_probs=21.4  Template_Neff=1.893
+
+Q 2axt              4 NQLGLIATALFVLVPSVFLIILYVQTESQQ   33 (36)
+Q Consensus         4 N~l~fiAt~LfilvPt~FLlIlYvqT~s~~   33 (36)
+                      |+.+.+.+.|++.+|...|..+|....+.+
+T Consensus        11 ~~k~~~~t~l~~~~~~~~~~~~~~i~~dds   40 (133)
+T tr|E3H3T6|E3H3   11 RIKGMLVTCLIIVVAFVLLFLLYFISRDDS   40 (133)
+Confidence            567788899999998886666665544443
+
+

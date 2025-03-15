@@ -1,0 +1,1921 @@
+Query         2j58
+Match_columns 45
+No_of_seqs    665 out of 893
+Neff          4.44786
+Searched_HMMs 178
+Date          Wed Apr 17 02:41:06 2024
+Command       hhblits -i /home/light/Downloads/Crystal_fasta_files/2j58TMD_Seq_surr20.fasta -d /home/light/Downloads/UniproDB/uniclust30_2018_08_hhsuite/uniclust30_2018_08/uniclust30_2018_08 -oa3m /home/light/Downloads/Crystal_fasta_files/2j58TMD_Seq_surr20.a3m 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 tr|X0NLW1|X0NLW1_PHOLE Putativ  99.3 7.2E-15 3.4E-20  105.9   0.0   44    1-44    333-376 (376)
+  2 tr|A0A2S4K5T7|A0A2S4K5T7_9GAMM  99.1 1.5E-13 6.1E-19  100.4   0.0   44    1-44    354-397 (398)
+  3 tr|A0A127FBE3|A0A127FBE3_9GAMM  99.0 9.3E-13 4.5E-18   95.0   0.0   37    1-37    330-366 (368)
+  4 tr|A0A2X5JG09|A0A2X5JG09_ECOLX  98.9 6.5E-12   2E-17   79.2   0.0   45    1-45     66-110 (110)
+  5 tr|A0A172YRS2|A0A172YRS2_9GAMM  98.9 7.7E-12 3.1E-17   91.1   0.0   36    1-36    329-364 (366)
+  6 tr|A0A0P9JCQ9|A0A0P9JCQ9_9PSED  98.9   1E-11 3.9E-17   92.1   0.0   36    1-36    406-441 (443)
+  7 tr|A0A090QZZ2|A0A090QZZ2_9GAMM  98.8 1.7E-11 5.3E-17   81.6   0.0   43    1-43    125-167 (167)
+  8 tr|A0A2U0ZMD8|A0A2U0ZMD8_9BURK  98.8 2.2E-11 8.9E-17   90.4   0.0   37    1-37    401-437 (439)
+  9 tr|A0A0F0E033|A0A0F0E033_9PSED  98.7 7.6E-11 2.4E-16   74.7   0.0   42    1-42     69-110 (111)
+ 10 tr|V5BTC5|V5BTC5_9BURK Polysac  98.7 8.6E-11 3.7E-16   86.4   0.0   34    1-34    361-394 (398)
+ 11 tr|F8L5W6|F8L5W6_SIMNZ Putativ  98.6 1.4E-10   6E-16   84.4   0.0   39    2-40    310-348 (352)
+ 12 tr|A0A2H0I9E4|A0A2H0I9E4_9GAMM  98.6 1.7E-10 7.7E-16   81.3   0.0   37    1-37    226-262 (264)
+ 13 tr|A0A2X1UHM5|A0A2X1UHM5_NEIME  98.6 3.1E-10 1.1E-15   80.2   0.0   35    1-35    220-254 (257)
+ 14 tr|K2BQS3|K2BQS3_9ZZZZ Unchara  98.6 3.1E-10 1.1E-15   71.6   0.0   37    1-37     63-99  (101)
+ 15 tr|A0A103E7F9|A0A103E7F9_9BURK  98.5   6E-10 2.3E-15   82.9   0.0   37    1-37    386-422 (424)
+ 16 tr|A0A1H7ED51|A0A1H7ED51_9BURK  98.5 6.3E-10 2.5E-15   80.0   0.0   35    1-35    261-295 (298)
+ 17 tr|A0A2E5U866|A0A2E5U866_9BACT  98.5 7.6E-10 2.7E-15   78.8   0.0   37    1-37    233-269 (271)
+ 18 tr|A0A2W7R4A8|A0A2W7R4A8_9RHOB  98.5 1.1E-09 3.9E-15   77.8   0.0   35    1-35    227-261 (264)
+ 19 tr|A0A0R0C806|A0A0R0C806_9GAMM  98.4 1.7E-09 5.6E-15   73.5   0.0   40    1-40    138-177 (180)
+ 20 tr|A0A2A4ZCQ9|A0A2A4ZCQ9_9RHOB  98.4 1.4E-09 5.6E-15   80.9   0.0   33    1-33    383-415 (419)
+ 21 tr|A0A2L0PP35|A0A2L0PP35_VITS1  98.3 4.6E-09 1.5E-14   72.8   0.0   38    1-38    171-208 (210)
+ 22 tr|I8T5S7|I8T5S7_9GAMM Unchara  98.3 6.5E-09   2E-14   56.4   0.0   36    1-36      2-37  (39)
+ 23 tr|A0A2U0WJE3|A0A2U0WJE3_9BURK  98.3   5E-09   2E-14   78.2   0.0   37    1-37    385-421 (423)
+ 24 tr|A0A011PCC1|A0A011PCC1_9PROT  98.2   1E-08 3.2E-14   62.4   0.0   36    1-36     31-66  (79)
+ 25 tr|A0A2E8RJR4|A0A2E8RJR4_9GAMM  98.2 1.1E-08 3.8E-14   75.8   0.0   37    1-37    340-376 (380)
+ 26 tr|A0A2X1N858|A0A2X1N858_ECOLX  98.1 3.3E-08   1E-13   72.7   0.0   41    1-41    200-240 (389)
+ 27 tr|A0A2T0WPW6|A0A2T0WPW6_9RHOB  97.8 1.9E-07 7.1E-13   65.1   0.0   36    1-36    157-192 (203)
+ 28 tr|J9KGD1|J9KGD1_ACYPI Unchara  97.8 4.1E-07 1.3E-12   68.7   0.0   41    1-41    354-394 (491)
+ 29 tr|A0A2H6JBQ0|A0A2H6JBQ0_9BACT  97.7 3.8E-07 1.5E-12   67.8   0.0   40    1-40    319-358 (363)
+ 30 tr|T1BQ82|T1BQ82_9ZZZZ Polysac  97.7 4.9E-07 1.7E-12   55.9   0.0   33    1-33     43-75  (81)
+ 31 tr|A0A2G1ZG92|A0A2G1ZG92_9GAMM  97.7 4.8E-07 1.9E-12   67.2   0.0   39    1-39    311-349 (357)
+ 32 tr|X1X4V1|X1X4V1_ACYPI Unchara  97.6 9.9E-07 3.1E-12   67.6   0.0   30    1-30     48-77  (574)
+ 33 tr|A0A1Z9QDS5|A0A1Z9QDS5_9FLAO  97.5 1.5E-06 5.2E-12   65.0   0.0   32    1-32    323-354 (372)
+ 34 tr|A0A1L3GI84|A0A1L3GI84_PELAE  97.5 1.4E-06 5.9E-12   64.7   0.0   35    1-35    310-344 (354)
+ 35 tr|A0A0N7LP94|A0A0N7LP94_9RHOB  97.4 2.9E-06 9.7E-12   55.1   0.0   30    1-30     75-104 (111)
+ 36 tr|A0A1H8LIE3|A0A1H8LIE3_9RHOB  97.4   4E-06 1.4E-11   62.6   0.0   34    1-34    314-347 (359)
+ 37 tr|K2AF42|K2AF42_9ZZZZ Unchara  97.4 4.9E-06 1.5E-11   57.4   0.0   34    2-35    147-180 (183)
+ 38 tr|A0A1V0B5R6|A0A1V0B5R6_9PSED  97.2 1.4E-05 4.3E-11   61.8   0.0   30    1-30    524-553 (567)
+ 39 tr|A0A2D4SAJ9|A0A2D4SAJ9_9GAMM  97.0 2.9E-05   1E-10   59.2   0.0   36    1-36    366-401 (409)
+ 40 tr|A1BHG2|A1BHG2_CHLPD Polysac  97.0 2.4E-05 1.1E-10   58.7   0.0   40    1-40    326-365 (387)
+ 41 tr|A0A0Q5CZZ4|A0A0Q5CZZ4_9BURK  96.8 9.2E-05 2.9E-10   56.1   0.0   30    1-30    360-389 (397)
+ 42 tr|A0A291CKT0|A0A291CKT0_BURTH  96.7 0.00012 3.9E-10   56.8   0.0   35    1-35    494-528 (533)
+ 43 tr|A0A1G5JQM5|A0A1G5JQM5_9RHOB  96.5 0.00027 8.3E-10   40.5   0.0   35    1-35      9-43  (46)
+ 44 tr|A0A2E9AK07|A0A2E9AK07_9GAMM  96.4 0.00033 1.1E-09   54.5   0.0   43    1-43    442-484 (486)
+ 45 tr|A0A2I7N7S7|A0A2I7N7S7_9NEIS  96.2 0.00081 2.5E-09   49.9   0.0   34    2-35    258-291 (303)
+ 46 tr|A0A2D5ASA8|A0A2D5ASA8_9BACT  96.1 0.00086 3.3E-09   49.0   0.0   40    1-40    195-234 (241)
+ 47 tr|A6DEM2|A6DEM2_9PROT Polysac  96.1 0.00071 3.6E-09   48.3   0.0   41    1-41    200-240 (244)
+ 48 tr|A0A084IQ12|A0A084IQ12_9GAMM  96.0  0.0014 4.5E-09   44.1   0.0   33    1-33     85-117 (129)
+ 49 tr|A0A2S0L0B2|A0A2S0L0B2_9BACT  95.9  0.0017 6.1E-09   49.6   0.0   34    1-34    309-342 (351)
+ 50 tr|A0A2M7S2K7|A0A2M7S2K7_9BACT  95.7  0.0027 9.8E-09   49.0   0.0   33    1-33    347-379 (387)
+ 51 tr|A0A1G1D0F6|A0A1G1D0F6_9BACT  95.7  0.0029   1E-08   47.8   0.0   30    1-30    244-273 (310)
+ 52 tr|A0A257KE04|A0A257KE04_9FLAO  95.5  0.0031 1.3E-08   46.1   0.0   34    1-34    203-236 (242)
+ 53 tr|A0A2E5WFG0|A0A2E5WFG0_9BACT  95.5  0.0035 1.4E-08   48.5   0.0   31    1-31    313-343 (390)
+ 54 tr|A0A261SBH4|A0A261SBH4_9BORD  95.5  0.0034 1.5E-08   48.0   0.0   33    1-33    332-365 (367)
+ 55 tr|A0A239JK94|A0A239JK94_9BACT  95.4  0.0039 1.8E-08   44.9   0.0   27    1-27    188-214 (224)
+ 56 tr|A0A2V8SBN7|A0A2V8SBN7_9BACT  95.4  0.0051 1.8E-08   44.5   0.0   30    1-30    163-192 (204)
+ 57 tr|A0A1G3CH18|A0A1G3CH18_9BACT  95.2  0.0047 2.5E-08   44.5   0.0   23    1-23    200-222 (256)
+ 58 tr|A0A1X6YH45|A0A1X6YH45_9RHOB  95.1  0.0067   3E-08   46.5   0.0   35    1-35    335-369 (372)
+ 59 tr|A0A1G1JSA1|A0A1G1JSA1_9BACT  95.0  0.0095 3.6E-08   44.4   0.0   36    1-36    206-241 (259)
+ 60 tr|R4X0H9|R4X0H9_9BURK Glycosy  95.0   0.013   4E-08   42.9   0.0   31    5-35    203-233 (237)
+ 61 tr|A0A1Z9MRT0|A0A1Z9MRT0_9FLAO  94.8   0.014 4.8E-08   45.6   0.0   34    1-34    358-391 (400)
+ 62 tr|A0A0P7YNF3|A0A0P7YNF3_9RHOB  94.8   0.015 5.2E-08   41.2   0.0   26    1-26    126-151 (163)
+ 63 tr|A0A157SWH2|A0A157SWH2_9BORD  94.7   0.014 5.6E-08   45.2   0.0   35    1-35    329-363 (369)
+ 64 tr|A0A2S6VRM1|A0A2S6VRM1_9GAMM  94.7   0.018 5.6E-08   38.4   0.0   35   11-45     77-111 (111)
+ 65 tr|A0A1J5ID17|A0A1J5ID17_9DELT  94.7    0.02 6.3E-08   46.8   0.0   34    2-35    713-746 (754)
+ 66 tr|A0A1U9NNU2|A0A1U9NNU2_9BACT  94.6   0.015 6.9E-08   42.5   0.0   35    1-35    201-235 (245)
+ 67 tr|A0A1W9R985|A0A1W9R985_9BACT  94.4   0.025   9E-08   42.0   0.0   35    1-35    198-232 (238)
+ 68 tr|A0A2N6HRT2|A0A2N6HRT2_9BACT  94.3   0.029   1E-07   41.2   0.0   30    1-30    169-198 (213)
+ 69 tr|A0A1F7RR78|A0A1F7RR78_9BACT  94.3   0.029 1.1E-07   43.5   0.0   29    1-29    304-332 (352)
+ 70 tr|A0A0M6YVV2|A0A0M6YVV2_9RHOB  94.1   0.026 1.3E-07   43.0   0.0   34    1-34    339-372 (376)
+ 71 tr|K2BTT8|K2BTT8_9ZZZZ Unchara  93.9   0.048 1.6E-07   39.9   0.0   36    1-36    172-207 (210)
+ 72 tr|C1F6E5|C1F6E5_ACIC5 Polysac  93.8    0.04 1.7E-07   42.5   0.0   32    1-32    310-341 (348)
+ 73 tr|A0A1G1R507|A0A1G1R507_9BACT  93.2   0.087   3E-07   40.2   0.0   38    1-38    224-261 (280)
+ 74 tr|A0A2D5YW44|A0A2D5YW44_9PLAN  93.1     0.1 3.1E-07   36.4   0.0   31    2-32     90-120 (141)
+ 75 tr|X0V2V5|X0V2V5_9ZZZZ Unchara  93.0    0.11 3.4E-07   34.1   0.0   30    1-30     48-77  (92)
+ 76 tr|A0A2E8JHQ1|A0A2E8JHQ1_9RHOB  93.0     0.1 3.4E-07   42.7   0.0   32    1-32    529-560 (568)
+ 77 tr|A0A0P0YE54|A0A0P0YE54_9PROT  92.8   0.096 3.9E-07   41.4   0.0   25    1-25    371-395 (404)
+ 78 tr|A0A0U1NLY1|A0A0U1NLY1_9RHOB  92.7    0.13 4.3E-07   40.7   0.0   30    1-30    365-394 (403)
+ 79 tr|A0A2E7CP33|A0A2E7CP33_9PROT  92.5    0.14 4.8E-07   40.7   0.0   28    2-29    373-400 (420)
+ 80 tr|A0A2S8WAT5|A0A2S8WAT5_9CAUL  92.5    0.12 4.8E-07   38.6   0.0   23    1-23    198-220 (239)
+ 81 tr|A0A2G2LUK3|A0A2G2LUK3_9RHOB  92.4    0.13 5.3E-07   39.0   0.0   31    1-31    222-256 (272)
+ 82 tr|A0A1G5R2X5|A0A1G5R2X5_9RHOB  92.3    0.18 5.7E-07   42.2   0.0   23    1-23    782-804 (814)
+ 83 tr|A0A222FM90|A0A222FM90_9GAMM  92.1     0.2 6.3E-07   33.1   0.0   19    2-23     54-72  (94)
+ 84 tr|A0A2G2CPU4|A0A2G2CPU4_9HELI  91.9    0.22 6.8E-07   40.0   0.0   32    1-32    440-471 (483)
+ 85 tr|A0A0S7XW85|A0A0S7XW85_9COXI  91.6    0.25 8.2E-07   37.6   0.0   26    1-26    229-254 (265)
+ 86 tr|A0A2T0PSV8|A0A2T0PSV8_9ACTN  91.5    0.28 8.5E-07   31.6   0.0   26    1-26     19-45  (77)
+ 87 tr|A6DJG9|A6DJG9_9BACT Polysac  90.8    0.33 1.2E-06   38.2   0.0   41    1-41    296-336 (339)
+ 88 tr|A0A1J5D739|A0A1J5D739_9DELT  90.7    0.31 1.2E-06   38.8   0.0   31    1-31    338-368 (390)
+ 89 tr|A0A0P9D0P0|A0A0P9D0P0_9BACL  90.5    0.42 1.4E-06   31.5   0.0   20    1-20     66-85  (86)
+ 90 tr|S9R2P7|S9R2P7_9RHOB Unchara  90.2    0.48 1.5E-06   34.9   0.0   32    1-32    164-195 (201)
+ 91 tr|A0A2E9IR37|A0A2E9IR37_9BACT  89.7    0.44 1.9E-06   37.6   0.0   38    1-38    308-345 (363)
+ 92 tr|Q0EZ83|Q0EZ83_9PROT Putativ  89.5    0.62   2E-06   37.7   0.0   32    1-32    410-441 (454)
+ 93 tr|A0A2D6HBU0|A0A2D6HBU0_9BACT  89.2     0.7 2.2E-06   35.9   0.0   30    1-30    274-307 (317)
+ 94 tr|A0A1M2ZLY9|A0A1M2ZLY9_9SPHN  88.7    0.78 2.6E-06   34.3   0.0   24    1-24    164-187 (212)
+ 95 tr|D7BSV0|D7BSV0_STRBB Unchara  88.6    0.85 2.7E-06   28.4   0.0   24    2-25     23-46  (60)
+ 96 tr|A0A2M9DQE4|A0A2M9DQE4_9DELT  87.6       1 3.5E-06   36.4   0.0   24    1-24    356-379 (396)
+ 97 tr|A0A1G1MEE0|A0A1G1MEE0_9BACT  86.8     1.4 4.3E-06   33.5   0.0   28    1-28    200-227 (245)
+ 98 tr|I0GM28|I0GM28_SELRL Unchara  86.7     1.4 4.4E-06   31.7   0.0   29    1-32    124-152 (158)
+ 99 tr|A0A1W1BUP5|A0A1W1BUP5_9ZZZZ  86.4     1.5 4.7E-06   32.4   0.0   35    1-35    146-180 (193)
+100 tr|A0A2M6XFU2|A0A2M6XFU2_9RHIZ  85.7     1.7 5.4E-06   25.8   0.0   31    2-32      4-34  (43)
+101 tr|A0A1Q7ZJJ8|A0A1Q7ZJJ8_9BACT  85.5     1.8 5.7E-06   35.6   0.0   31    1-31    442-472 (483)
+102 tr|K6YQW5|K6YQW5_9ALTE Unchara  85.5     1.7 5.7E-06   34.7   0.0   25    1-25    299-323 (343)
+103 tr|I4C6X7|I4C6X7_DESTA Peripla  85.0     1.8 6.3E-06   34.8   0.0   40    1-40    320-359 (363)
+104 tr|F2NHJ9|F2NHJ9_DESAR Polysac  84.8     1.8 6.5E-06   34.4   0.0   29    1-29    281-309 (329)
+105 tr|A0A2D6PX03|A0A2D6PX03_9BACT  84.6     2.1 6.8E-06   33.3   0.0   31    1-31    216-246 (274)
+106 tr|A0A1G1MYI8|A0A1G1MYI8_9BACT  84.4     2.3   7E-06   33.0   0.0   31    1-31    230-260 (278)
+107 tr|A0A1V0S8H8|A0A1V0S8H8_9VIRU  84.0     2.4 7.6E-06   32.4   0.0   37    8-44     56-92  (247)
+108 tr|A0A1G1NYC3|A0A1G1NYC3_9BACT  83.6     2.3 8.2E-06   33.3   0.0   29    1-29    238-266 (279)
+109 tr|A0A2W0A4Y0|A0A2W0A4Y0_9BACT  83.2     2.8 8.8E-06   28.0   0.0   20    1-20     56-75  (89)
+110 tr|A0A1F9CHI8|A0A1F9CHI8_9DELT  83.0     2.9   9E-06   32.3   0.0   29    2-30    225-254 (269)
+111 tr|A0A1J5EJ59|A0A1J5EJ59_9DELT  82.9       3 9.3E-06   34.3   0.0   29    2-30    449-477 (484)
+112 tr|A0A1G0YRJ0|A0A1G0YRJ0_9BACT  82.8     2.5 9.3E-06   34.2   0.0   30    1-30    320-349 (370)
+113 tr|A0A221K4Q5|A0A221K4Q5_9RHOB  82.6     2.9 9.6E-06   26.9   0.0   24    1-24     30-53  (67)
+114 tr|A0A2K3E1J2|A0A2K3E1J2_CHLRE  80.8     4.1 1.3E-05   34.6   0.0   30    1-30    163-192 (652)
+115 tr|A0A1T4WNR3|A0A1T4WNR3_9DELT  80.4     4.3 1.3E-05   34.7   0.0   37    2-38    641-677 (707)
+116 tr|A0A2M7YQX3|A0A2M7YQX3_9BACT  79.3       5 1.6E-05   32.1   0.0   32    1-32    308-339 (352)
+117 tr|A0A1H6HBV4|A0A1H6HBV4_SELRU  78.0     5.9 1.8E-05   30.5   0.0   26    6-31     96-121 (241)
+118 tr|A0A2D5KXC2|A0A2D5KXC2_PSEAS  77.7     6.1 1.9E-05   31.7   0.0   24    1-24    321-344 (347)
+119 tr|W8EYS8|W8EYS8_9BACT Unchara  76.7     6.9 2.1E-05   31.6   0.0   31    2-32    326-356 (367)
+120 tr|Q7V0P5|Q7V0P5_PROMP Possibl  76.7     4.2 2.1E-05   32.2   0.0   42    1-42    346-387 (388)
+121 tr|B8D0N0|B8D0N0_HALOH Polysac  74.9     8.2 2.6E-05   30.5   0.0   29    1-30    260-288 (295)
+122 tr|A0A2D5ZC04|A0A2D5ZC04_9BACT  73.9     9.1 2.8E-05   30.4   0.0   23    2-24    245-267 (308)
+123 tr|A0A2E4EJ16|A0A2E4EJ16_9FLAO  73.9     9.1 2.8E-05   31.1   0.0   19    1-19    171-189 (380)
+124 tr|A0A183K105|A0A183K105_9TREM  73.3     9.7   3E-05   26.5   0.0   25    7-31     68-92  (106)
+125 tr|A0A2V8HA02|A0A2V8HA02_9BACT  73.2     9.8 3.1E-05   32.0   0.0   26    1-26    485-510 (533)
+126 tr|A0A182R8W1|A0A182R8W1_ANOFN  72.2     9.7 3.3E-05   30.6   0.0   28    1-28    238-266 (308)
+127 tr|A0A2S9QAH1|A0A2S9QAH1_9RHIZ  72.0      10 3.4E-05   27.4   0.0   29    2-30     94-122 (133)
+128 tr|A0A2K0TNI3|A0A2K0TNI3_TRIHA  71.5      11 3.6E-05   31.1   0.0   36    1-36     29-64  (442)
+129 tr|A2E7H9|A2E7H9_TRIVA Unchara  70.8      12 3.8E-05   25.5   0.0   35    8-42     51-87  (93)
+130 tr|A0A1G1ME71|A0A1G1ME71_9BACT  70.8      12 3.8E-05   30.9   0.0   44    1-44    393-436 (437)
+131 tr|M2R1W9|M2R1W9_CERS8 Unchara  68.1      15 4.8E-05   27.1   0.0   30    2-32    105-134 (160)
+132 tr|A0A1G1LUP3|A0A1G1LUP3_9BACT  67.8      16 4.9E-05   30.5   0.0   38    1-38    418-455 (461)
+133 tr|A0A1V5UD59|A0A1V5UD59_9BACT  67.4      16   5E-05   29.6   0.0   36    1-36    303-338 (345)
+134 tr|A0A1F9GKI6|A0A1F9GKI6_9DELT  63.6      22 6.8E-05   29.0   0.0   41    2-42    304-344 (347)
+135 tr|A0A241VQA7|A0A241VQA7_9GAMM  61.9      25 7.6E-05   22.6   0.0   38    6-43     13-50  (60)
+136 tr|A0A2D5XQC2|A0A2D5XQC2_9BACT  60.4      25 8.4E-05   28.2   0.0   29    2-33    229-257 (275)
+137 tr|A1BHG2|A1BHG2_CHLPD Polysac  53.8      27 0.00013   28.5   0.0   15    1-15    239-253 (387)
+138 tr|A0A1F7FA74|A0A1F7FA74_9BACT  51.4      49 0.00015   26.2   0.0   23    2-24    198-220 (241)
+139 tr|A0A1V4SC02|A0A1V4SC02_9DELT  49.9      53 0.00017   22.8   0.0   34    7-41      5-38  (93)
+140 tr|A0A2M7S2K7|A0A2M7S2K7_9BACT  46.5      57  0.0002   27.6   0.0   12    1-12    262-273 (387)
+141 tr|A0A287LTH4|A0A287LTH4_HORVV  40.6      83 0.00029   26.2   0.0   40    3-43    163-202 (315)
+142 tr|A0A0M6YVV2|A0A0M6YVV2_9RHOB  40.5      56 0.00029   26.5   0.0   14    1-14    233-246 (376)
+143 tr|A0A1C6IVG5|A0A1C6IVG5_9CLOT  38.7   1E+02 0.00032   26.0   0.0   27    6-32     41-67  (384)
+144 tr|A0A2T0WPW6|A0A2T0WPW6_9RHOB  37.3      94 0.00035   24.5   0.0   11    1-11     69-79  (203)
+145 tr|E9UXJ3|E9UXJ3_9ACTN Unchara  34.2 1.4E+02 0.00042   21.4   0.0   40    2-41     34-74  (102)
+146 tr|C1F6E5|C1F6E5_ACIC5 Polysac  31.9 1.1E+02 0.00049   25.4   0.0   12    1-12    224-235 (348)
+147 tr|A0A1F7RR78|A0A1F7RR78_9BACT  22.4 2.6E+02 0.00094   24.1   0.0   12    1-12    219-230 (352)
+
+No 1
+>tr|X0NLW1|X0NLW1_PHOLE Putative outer membrane lipoprotein Wza OS=Photobacterium leiognathi lrivu.4.1 OX=1248232 GN=PLEI_0606 PE=4 SV=1
+Probab=99.27  E-value=7.2e-15  Score=105.90  Aligned_cols=44  Identities=75%  Similarity=1.323  Sum_probs=42.4  Template_Neff=4.300
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRWP   44 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~   44 (45)
+                      ||+|||||+++|++||||+|+||||+++++++.+.+.+++++|+
+T Consensus       333 ~P~DVVYVT~APi~RWNRvIsqlLPTi~~~~~~~~~~~~~~~~~  376 (376)
+T tr|X0NLW1|X0NL  333 QPYDVVYVTTAPIARWNRVISQLLPTISGVNDLTETANRIRNWP  376 (376)
+Confidence            69999999999999999999999999999999999999999885
+
+
+No 2
+>tr|A0A2S4K5T7|A0A2S4K5T7_9GAMM Polysaccharide export protein Wza OS=Cobetia sp. MM1IDA2H-1 OX=1268241 GN=BOH68_05875 PE=4 SV=1
+Probab=99.12  E-value=1.5e-13  Score=100.37  Aligned_cols=44  Identities=57%  Similarity=0.843  Sum_probs=41.8  Template_Neff=3.100
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRWP   44 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~   44 (45)
+                      ||.|||||+++|+.||||||+||||+++..++...+.+++++..
+T Consensus       354 qP~DVVYVttaplaRWNRVIs~LLPsvs~~~~~~~~~~d~~~l~  397 (398)
+T tr|A0A2S4K5T7|  354 QPQDVVYVTTAPLARWNRVISQLLPSVSLPGQVARTTRDIGDLR  397 (398)
+Confidence            69999999999999999999999999999999999999988765
+
+
+No 3
+>tr|A0A127FBE3|A0A127FBE3_9GAMM Polysaccharide export outer membrane protein OS=Steroidobacter denitrificans OX=465721 GN=ACG33_07385 PE=4 SV=1
+Probab=99.00  E-value=9.3e-13  Score=95.05  Aligned_cols=37  Identities=46%  Similarity=0.821  Sum_probs=33.5  Template_Neff=4.500
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      ||+|||||++++++||||+|+||||+.+.++++.++.
+T Consensus       330 qp~DVVyVd~a~vtRWnRvisqilPs~~~l~~~~~~~  366 (368)
+T tr|A0A127FBE3|  330 QPRDVVYVDAAGVTRWNRVISQILPTAQTLNNAASAQ  366 (368)
+Confidence            6999999999999999999999999999997766543
+
+
+No 4
+>tr|A0A2X5JG09|A0A2X5JG09_ECOLX Polysaccharide export protein OS=Escherichia coli OX=562 GN=SAMEA3472042_01568 PE=4 SV=1 
+Probab=98.90  E-value=6.5e-12  Score=79.21  Aligned_cols=45  Identities=82%  Similarity=1.401  Sum_probs=43.0  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRWPN   45 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~~   45 (45)
+                      +|.|+|||..+|++||||||+.++|+++++...+.+.+.++.|+|
+T Consensus        66 epydivyvttaplarwnrvisllvptisgvhdltetsrwiqtwpn  110 (110)
+T tr|A0A2X5JG09|   66 EPYDIVYVTTAPLARWNRVISLLVPTISGVHDLTETSRWIQTWPN  110 (110)
+Confidence            489999999999999999999999999999999999999999986
+
+
+No 5
+>tr|A0A172YRS2|A0A172YRS2_9GAMM Uncharacterized protein OS=Acinetobacter sp. NCu2D-2 OX=1608473 GN=A3K93_12370 PE=4 SV=1
+Probab=98.87  E-value=7.7e-12  Score=91.13  Aligned_cols=36  Identities=42%  Similarity=0.712  Sum_probs=33.2  Template_Neff=3.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      ||+||||||+++|+||+|||+||+|+.+++++....
+T Consensus       329 q~NDIVYVDaTGLtRWqRVinqilPfssaly~~~~l  364 (366)
+T tr|A0A172YRS2|  329 QSNDIVYVDATGLTRWQRVINQIIPFSSALYSFDRL  364 (366)
+Confidence            689999999999999999999999999999876654
+
+
+No 6
+>tr|A0A0P9JCQ9|A0A0P9JCQ9_9PSED Polysaccharide export protein OS=Pseudomonas coronafaciens pv. atropurpurea OX=129135 GN=ALO66_100073 PE=4 SV=1
+Probab=98.85  E-value=1e-11  Score=92.12  Aligned_cols=36  Identities=47%  Similarity=0.730  Sum_probs=32.5  Template_Neff=2.700
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      ||+|||||.+++++||||+||||||+.+.+.++...
+T Consensus       406 ~pqDVVfVGpAgITRWNRFISQLLPsa~iv~t~A~~  441 (443)
+T tr|A0A0P9JCQ9|  406 QPQDVVFVGPAGITRWNRFISQLLPSASIVGTGAAA  441 (443)
+Confidence            699999999999999999999999999888766543
+
+
+No 7
+>tr|A0A090QZZ2|A0A090QZZ2_9GAMM Polysaccharide export lipoprotein Wza OS=Photobacterium aphoticum OX=754436 GN=JCM19237_413 PE=4 SV=1 
+Probab=98.83  E-value=1.7e-11  Score=81.56  Aligned_cols=43  Identities=72%  Similarity=1.256  Sum_probs=39.6  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRW   43 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~   43 (45)
+                      ||.|+|||.++|+.||||+|+|++|++++.+-.+...-.+++|
+T Consensus       125 qpydivyvtaapivrwnrvisqlvptisgfneltegvlrvrnw  167 (167)
+T tr|A0A090QZZ2|  125 QPYDIVYVTAAPIVRWNRVISQLVPTISGFNELTEGVLRVRNW  167 (167)
+Confidence            6999999999999999999999999999999888887777776
+
+
+No 8
+>tr|A0A2U0ZMD8|A0A2U0ZMD8_9BURK Polysaccharide export outer membrane protein OS=Variovorax sp. GV014 OX=2135502 GN=C7518_101778 PE=4 SV=1
+Probab=98.79  E-value=2.2e-11  Score=90.37  Aligned_cols=37  Identities=49%  Similarity=0.856  Sum_probs=33.4  Template_Neff=3.300
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      ||+||||||+.+|+|||||||+|||+.++.+......
+T Consensus       401 ~prDVVyVDa~~LVrWnRViSLilPsaq~~~~~~~~~  437 (439)
+T tr|A0A2U0ZMD8|  401 QPKDVVYVDAVPLVRWNRVISLILPSAQTVNTGRRVA  437 (439)
+Confidence            6999999999999999999999999999988765543
+
+
+No 9
+>tr|A0A0F0E033|A0A0F0E033_9PSED Uncharacterized protein OS=Pseudomonas sp. 21 OX=1619948 GN=UB43_08470 PE=4 SV=1 
+Probab=98.71  E-value=7.6e-11  Score=74.68  Aligned_cols=42  Identities=43%  Similarity=0.691  Sum_probs=36.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKR   42 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~   42 (45)
+                      ||.|||||.+++++||||+|+||+|+...+.+.+...+++.|
+T Consensus        69 qpqdvvyvgpagvtrwnrlisqlvpsagiigtgstvqrnlnd  110 (111)
+T tr|A0A0F0E033|   69 QPQDVVYVGPAGVTRWNRLISQLVPSAGIIGTGSTVQRNLND  110 (111)
+Confidence            699999999999999999999999999988877776666544
+
+
+No 10
+>tr|V5BTC5|V5BTC5_9BURK Polysaccharide export lipoprotein Wza OS=Burkholderia cenocepacia KC-01 OX=1396830 GN=P355_5354 PE=4 SV=1
+Probab=98.67  E-value=8.6e-11  Score=86.43  Aligned_cols=34  Identities=44%  Similarity=0.701  Sum_probs=31.2  Template_Neff=3.700
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      ||+|||||+.++|.||||||++|||++++..++.
+T Consensus       361 qPkDVVYVD~~~LVR~sRVlsLLlPainagltaa  394 (398)
+T tr|V5BTC5|V5BT  361 QPKDVVYVDANGLVRFSRVLSLLLPAINAGLTAA  394 (398)
+Confidence            6999999999999999999999999999876544
+
+
+No 11
+>tr|F8L5W6|F8L5W6_SIMNZ Putative polysaccharide export protein Wza OS=Simkania negevensis (strain ATCC VR-1471 / Z) OX=331113 GN=wza PE=4 SV=1
+Probab=98.63  E-value=1.4e-10  Score=84.41  Aligned_cols=39  Identities=41%  Similarity=0.783  Sum_probs=34.7  Template_Neff=3.454
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      |||+|||.+.|++.|||+|+||+||..+.......+.++
+T Consensus       310 PGD~VYVs~kpITeWNrFI~QLlpSf~g~~~~~~~~~~~  348 (352)
+T tr|F8L5W6|F8L5  310 PGDIVYVSAKPITEWNRFISQLLPSFTGFQAGFKICKNY  348 (352)
+Confidence            999999999999999999999999999988776655543
+
+
+No 12
+>tr|A0A2H0I9E4|A0A2H0I9E4_9GAMM Uncharacterized protein OS=Gammaproteobacteria bacterium CG12_big_fil_rev_8_21_14_0_65_46_12 OX=1974024 GN=COW05_09170 PE=4 SV=
+Probab=98.61  E-value=1.7e-10  Score=81.32  Aligned_cols=37  Identities=41%  Similarity=0.712  Sum_probs=33.4  Template_Neff=3.986
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      ||+|||||+++++++|||||+|+||++++...+.+..
+T Consensus       226 q~NDIvyV~p~~~t~wNrvi~qilP~~~~~~~~ks~~  262 (264)
+T tr|A0A2H0I9E4|  226 QPNDIVYVPPAGITSWNRVIGQILPSFQTYWTTKSIS  262 (264)
+Confidence            6999999999999999999999999999988765543
+
+
+No 13
+>tr|A0A2X1UHM5|A0A2X1UHM5_NEIME Capsule polysaccharide export outer membrane protein OS=Neisseria meningitidis OX=487 GN=ctrA PE=4 SV=1
+Probab=98.58  E-value=3.1e-10  Score=80.18  Aligned_cols=35  Identities=63%  Similarity=0.999  Sum_probs=31.5  Template_Neff=1.961
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      ||.|+|||+++|++||||+||||+|++...+....
+T Consensus       220 ~~~d~vyvtaapitrwn~visql~~ti~~~~~l~~  254 (257)
+T tr|A0A2X1UHM5|  220 QSEDIVYVTAAPITRWNRVISQLTPTISNFNTLDN  254 (257)
+Confidence            68999999999999999999999999988776543
+
+
+No 14
+>tr|K2BQS3|K2BQS3_9ZZZZ Uncharacterized protein OS=groundwater metagenome OX=717931 GN=ACD_46C00262G0022 PE=4 SV=1
+Probab=98.57  E-value=3.1e-10  Score=71.57  Aligned_cols=37  Identities=41%  Similarity=0.757  Sum_probs=33.5  Template_Neff=2.170
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      +|.|||||.++++.+||++|+|+||+.++..+.....
+T Consensus        63 ~~~dvvyv~aa~~~~~n~~isq~lpt~tt~~~~~al~   99 (101)
+T tr|K2BQS3|K2BQ   63 QPQDVVYVSAANLSQWNNFISQILPTFTTYFQINALF   99 (101)
+Confidence            5899999999999999999999999999988776544
+
+
+No 15
+>tr|A0A103E7F9|A0A103E7F9_9BURK Sugar transporter OS=Burkholderia singularis OX=1503053 GN=WS67_04550 PE=4 SV=1
+Probab=98.51  E-value=6e-10  Score=82.88  Aligned_cols=37  Identities=54%  Similarity=0.889  Sum_probs=33.7  Template_Neff=2.600
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      ||+|||||++.+++||||+|+||+|+..+.++...+.
+T Consensus       386 ~pkDVVyVDa~gvvRwnRvis~Lv~~t~~a~~~~~~~  422 (424)
+T tr|A0A103E7F9|  386 QPKDVVYVDAAGVVRWNRVISQLVGSTTGAYNIQRAV  422 (424)
+Confidence            6999999999999999999999999999988776654
+
+
+No 16
+>tr|A0A1H7ED51|A0A1H7ED51_9BURK Polysaccharide export outer membrane protein OS=Paraburkholderia tropica OX=92647 GN=SAMN05216550_120121 PE=4 SV=1
+Probab=98.50  E-value=6.3e-10  Score=79.99  Aligned_cols=35  Identities=43%  Similarity=0.639  Sum_probs=31.6  Template_Neff=2.900
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      ||+|||||+.+++.|||||+++|||++++..++..
+T Consensus       261 ~pkDVVYVD~~gLvR~sRVlsLLlP~~na~~t~a~  295 (298)
+T tr|A0A1H7ED51|  261 QPKDVVYVDGNGLVRFSRVLSLLLPAINAGLTAAI  295 (298)
+Confidence            69999999999999999999999999988766543
+
+
+No 17
+>tr|A0A2E5U866|A0A2E5U866_9BACT Uncharacterized protein OS=Candidatus Marinimicrobia bacterium OX=2026760 GN=CMG64_07730 PE=4 SV=1
+Probab=98.49  E-value=7.6e-10  Score=78.78  Aligned_cols=37  Identities=49%  Similarity=0.912  Sum_probs=32.9  Template_Neff=2.110
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      +|+|||||.+++++||||+|+|++|..+.++...+..
+T Consensus       233 ~~~divyv~a~~~trwnr~isq~~p~~~~~~~~~~~~  269 (271)
+T tr|A0A2E5U866|  233 KPHDIVYVSAAPITRWNRVISQFFPFSSPINQVDNII  269 (271)
+Confidence            5899999999999999999999999998887665543
+
+
+No 18
+>tr|A0A2W7R4A8|A0A2W7R4A8_9RHOB Polysaccharide export outer membrane protein OS=Roseinatronobacter thiooxidans OX=121821 GN=LY56_01549 PE=4 SV=1
+Probab=98.45  E-value=1.1e-09  Score=77.80  Aligned_cols=35  Identities=49%  Similarity=0.973  Sum_probs=32.0  Template_Neff=2.051
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +|+|||||..+|++|||++|++|||+.++......
+T Consensus       227 ~p~dvvyv~~~~l~~wn~~i~~llpsv~~~~~~~~  261 (264)
+T tr|A0A2W7R4A8|  227 QPQDVVYVASSPLQRWNRVINQLLPSVQTIYEVDI  261 (264)
+Confidence            59999999999999999999999999998876544
+
+
+No 19
+>tr|A0A0R0C806|A0A0R0C806_9GAMM Capsular biosynthesis protein (Fragment) OS=Stenotrophomonas terrae OX=405446 GN=ABB27_18960 PE=4 SV=1
+Probab=98.42  E-value=1.7e-09  Score=73.50  Aligned_cols=40  Identities=33%  Similarity=0.601  Sum_probs=35.1  Template_Neff=1.522
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      +|||||||.+++++||||+++||||...-+.++.++..++
+T Consensus       138 ~pgdvvfvg~~~vtrw~r~~~qllp~t~~~s~~asa~~~~  177 (180)
+T tr|A0A0R0C806|  138 YPGDVVFVGPSSVTRWNRFVNQLLPFTSMISNTASAHYNI  177 (180)
+Confidence            4999999999999999999999999988887776665554
+
+
+No 20
+>tr|A0A2A4ZCQ9|A0A2A4ZCQ9_9RHOB Sugar transporter OS=Rhodobacteraceae bacterium OX=1904441 GN=COB16_17495 PE=4 SV=1
+Probab=98.42  E-value=1.4e-09  Score=80.94  Aligned_cols=33  Identities=36%  Similarity=0.857  Sum_probs=29.8  Template_Neff=3.100
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDM   33 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~   33 (45)
+                      +|+|||||.++|++||||+|+|++|++.+....
+T Consensus       383 RPnDvIFVaeQPIT~WnRvi~Qi~PsLi~~~~~  415 (419)
+T tr|A0A2A4ZCQ9|  383 RPNDVIFVAEQPITRWNRVIQQITPSLITTGAA  415 (419)
+Confidence            599999999999999999999999999776543
+
+
+No 21
+>tr|A0A2L0PP35|A0A2L0PP35_VITS1 Uncharacterized protein OS=Vitreoscilla sp. (strain C1) OX=96942 GN=ADP71_26040 PE=4 SV=1
+Probab=98.31  E-value=4.6e-09  Score=72.79  Aligned_cols=38  Identities=53%  Similarity=1.030  Sum_probs=33.6  Template_Neff=1.576
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVR   38 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~   38 (45)
+                      ||+|||||++++..||||+|++|.|+...+...+.+..
+T Consensus       171 ~p~dvv~v~~a~~~rwn~~~s~i~p~v~~l~~~~~s~~  208 (210)
+T tr|A0A2L0PP35|  171 QPNDVVYVTRAPVIRWNRVISNIFPSVSSLNMFSNSVR  208 (210)
+Confidence            69999999999999999999999999998876665543
+
+
+No 22
+>tr|I8T5S7|I8T5S7_9GAMM Uncharacterized protein OS=Hydrocarboniphaga effusa AP103 OX=1172194 GN=WQQ_26500 PE=4 SV=1 
+Probab=98.28  E-value=6.5e-09  Score=56.40  Aligned_cols=36  Identities=44%  Similarity=0.770  Sum_probs=32.9  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      ||+|||||.+.....+|.+|+|+||++++.......
+T Consensus         2 qprdvvyvkatafaqynsvinqllptisavfqidrl   37 (39)
+T tr|I8T5S7|I8T5    2 QPRDVVYVKATAFAQYNSVINQLLPTISAVFQIDRL   37 (39)
+Confidence            799999999999999999999999999998876543
+
+
+No 23
+>tr|A0A2U0WJE3|A0A2U0WJE3_9BURK Polysaccharide export outer membrane protein OS=Paraburkholderia unamae OX=219649 GN=C7402_109104 PE=4 SV=1
+Probab=98.28  E-value=5e-09  Score=78.23  Aligned_cols=37  Identities=43%  Similarity=0.697  Sum_probs=34.3  Template_Neff=3.100
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      ||.|||||..++.+||||+|+||+|++++++...+..
+T Consensus       385 qP~DVVYVgtA~~arfNR~L~qI~Ptiqtlf~~k~lt  421 (423)
+T tr|A0A2U0WJE3|  385 QPLDVVYVGTASSARFNRVLQQILPTIQTLFYTKQLT  421 (423)
+Confidence            6999999999999999999999999999998877654
+
+
+No 24
+>tr|A0A011PCC1|A0A011PCC1_9PROT Polysaccharide export protein Wza OS=Candidatus Accumulibacter sp. BA-94 OX=1454005 GN=AW12_02289 PE=4 SV=1 
+Probab=98.23  E-value=1e-08  Score=62.39  Aligned_cols=36  Identities=44%  Similarity=0.885  Sum_probs=32.3  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      +|+|||||+++|+.||.|||..|||+...++.++++
+T Consensus        31 rprdiiyvdaapvvrwqrvianilptatmlnltsqt   66 (79)
+T tr|A0A011PCC1|   31 RPRDIIYVDAAPVVRWQRVIANILPTATMLNLTSQT   66 (79)
+Confidence            589999999999999999999999999888766554
+
+
+No 25
+>tr|A0A2E8RJR4|A0A2E8RJR4_9GAMM Capsular biosynthesis protein OS=Gammaproteobacteria bacterium OX=1913989 GN=CMD58_05870 PE=4 SV=1
+Probab=98.21  E-value=1.1e-08  Score=75.77  Aligned_cols=37  Identities=41%  Similarity=0.694  Sum_probs=33.2  Template_Neff=2.183
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETV   37 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~   37 (45)
+                      +|+|||||.+++++||||+|+|++|...-++++.++.
+T Consensus       340 ~~~divfvg~agvt~w~rfinq~~pft~fin~a~~t~  376 (380)
+T tr|A0A2E8RJR4|  340 RPGDIVFVGPAGVTRWNRFINQLLPFTNFINNAANTQ  376 (380)
+Confidence            5999999999999999999999999998888766553
+
+
+No 26
+>tr|A0A2X1N858|A0A2X1N858_ECOLX Polysaccharide export protein OS=Escherichia coli OX=562 GN=etp PE=4 SV=1
+Probab=98.09  E-value=3.3e-08  Score=72.72  Aligned_cols=41  Identities=83%  Similarity=1.331  Sum_probs=36.7  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      +|.|+|||..+|+.||||+|+.|+|++++....+.+.+.++
+T Consensus       200 epydivyvttaplarwnrvisllvptisgvhdltetsrwiq  240 (389)
+T tr|A0A2X1N858|  200 EPYDIVYVTTAPLARWNRVISLLVPTISGVHDLTETSRWIQ  240 (389)
+Confidence            48999999999999999999999999999988777776654
+
+
+No 27
+>tr|A0A2T0WPW6|A0A2T0WPW6_9RHOB SLBB domain-containing protein OS=Donghicola tyrosinivorans OX=1652492 GN=CLV74_10785 PE=4 SV=1
+Probab=97.84  E-value=1.9e-07  Score=65.14  Aligned_cols=36  Identities=33%  Similarity=0.699  Sum_probs=32.2  Template_Neff=2.412
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      +|||||||+++++..||+.|+.+||+++.....-.-
+T Consensus       157 ~~GDvvYvP~~~~~~wn~ai~~ilPslQ~~~~~~~p  192 (203)
+T tr|A0A2T0WPW6|  157 EPGDVVYVPPHPLGNWNRAIDEILPSLQIISVILIP  192 (203)
+Confidence            699999999999999999999999999988765443
+
+
+No 28
+>tr|J9KGD1|J9KGD1_ACYPI Uncharacterized protein OS=Acyrthosiphon pisum OX=7029 PE=4 SV=2 
+Probab=97.75  E-value=4.1e-07  Score=68.68  Aligned_cols=41  Identities=61%  Similarity=1.053  Sum_probs=35.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      ||.|+|||..+|+.||||+|.|+-|++++.+..+...-.++
+T Consensus       354 qpydivyvtvapiarwnrligqlaptissfndltegalrvr  394 (491)
+T tr|J9KGD1|J9KG  354 QPYDIVYVTVAPIARWNRLIGQLAPTISSFNDLTEGALRVR  394 (491)
+Confidence            69999999999999999999999999999887766654443
+
+
+No 29
+>tr|A0A2H6JBQ0|A0A2H6JBQ0_9BACT Polysaccharide biosynthesis/export protein OS=bacterium BMS3Bbin12 OX=2005735 GN=BMS3Bbin12_01340 PE=4 SV=1
+Probab=97.73  E-value=3.8e-07  Score=67.81  Aligned_cols=40  Identities=30%  Similarity=0.650  Sum_probs=34.7  Template_Neff=2.922
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      +|||||||+.+++..||.+|+|++|+++++...-+.+-.+
+T Consensus       319 ~~gDIVyVpqt~vs~wn~~iq~~lpslq~i~~~lnpFv~i  358 (363)
+T tr|A0A2H6JBQ0|  319 ESGDIVFVPQTPISSWNQAIQQLLPSLQAISGVLNPFVSI  358 (363)
+Confidence            6899999999999999999999999999998766544433
+
+
+No 30
+>tr|T1BQ82|T1BQ82_9ZZZZ Polysaccharide export protein (Fragment) OS=mine drainage metagenome OX=410659 GN=B1B_04841 PE=4 SV=1
+Probab=97.71  E-value=4.9e-07  Score=55.93  Aligned_cols=33  Identities=42%  Similarity=0.951  Sum_probs=29.7  Template_Neff=1.642
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDM   33 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~   33 (45)
+                      ||.|+|||..+++..|||++|+|+|...++.-+
+T Consensus        43 ~p~d~~yv~~~~v~~w~~i~s~i~~~~~~~~~~   75 (81)
+T tr|T1BQ82|T1BQ   43 RPQDVVYVATSPVSAWNRIVSQILPTVETLYET   75 (81)
+Confidence            699999999999999999999999998776543
+
+
+No 31
+>tr|A0A2G1ZG92|A0A2G1ZG92_9GAMM Capsule biosynthesis protein CapA OS=Shewanella sp. OX=50422 GN=COB74_05825 PE=4 SV=1
+Probab=97.69  E-value=4.8e-07  Score=67.18  Aligned_cols=39  Identities=38%  Similarity=0.684  Sum_probs=34.0  Template_Neff=2.984
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRY   39 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~   39 (45)
+                      ||||+|||+.+++..||.++++++|++.++.++.-..+.
+T Consensus       311 kpnDivyvpk~~i~~wn~~l~~~mPtleav~~~~ll~~~  349 (357)
+T tr|A0A2G1ZG92|  311 KPNDIVYVPKSPIGSWNDILSQIMPTLEAVLTAFLLNRE  349 (357)
+Confidence            699999999999999999999999999998766544443
+
+
+No 32
+>tr|X1X4V1|X1X4V1_ACYPI Uncharacterized protein OS=Acyrthosiphon pisum OX=7029 PE=4 SV=1 
+Probab=97.62  E-value=9.9e-07  Score=67.61  Aligned_cols=30  Identities=70%  Similarity=1.215  Sum_probs=27.7  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|.|+|||++.|++||||+|+-+||++...
+T Consensus        48 epydivyvtatpitrwnrvisgllptivvv   77 (574)
+T tr|X1X4V1|X1X4   48 EPYDIVYVTATPITRWNRVISGLLPTIVVV   77 (574)
+Confidence            489999999999999999999999998654
+
+
+No 33
+>tr|A0A1Z9QDS5|A0A1Z9QDS5_9FLAO Uncharacterized protein OS=Flavobacteriales bacterium TMED235 OX=1986726 GN=CBD95_04220 PE=4 SV=1
+Probab=97.54  E-value=1.5e-06  Score=64.99  Aligned_cols=32  Identities=41%  Similarity=0.782  Sum_probs=28.7  Template_Neff=2.036
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      ||+|+|||+++++++|||.|+.|||......+
+T Consensus       323 ~~kDIvfiPPt~iVKwNRtISLLLPQTdLF~S  354 (372)
+T tr|A0A1Z9QDS5|  323 QPKDIVFIPPTEIVKWNRTISLLLPQTDLFKS  354 (372)
+Confidence            69999999999999999999999998765543
+
+
+No 34
+>tr|A0A1L3GI84|A0A1L3GI84_PELAE Sugar transporter OS=Pelobacter acetylenicus OX=29542 GN=A7E75_12015 PE=4 SV=1
+Probab=97.52  E-value=1.4e-06  Score=64.71  Aligned_cols=35  Identities=29%  Similarity=0.642  Sum_probs=31.4  Template_Neff=3.300
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +.||||||+.+++..||..|+.||||+++.++.=+
+T Consensus       310 ~eGDIIYVPks~~g~WNdAI~EILPSLQavSAiLq  344 (354)
+T tr|A0A1L3GI84|  310 QEGDIIYVPKSALGNWNDAIGEILPSLQAFSAILQ  344 (354)
+Confidence            36999999999999999999999999999876543
+
+
+No 35
+>tr|A0A0N7LP94|A0A0N7LP94_9RHOB Polysaccharide export protein Wza OS=Ruegeria atlantica OX=81569 GN=RUM4293_03494 PE=4 SV=1
+Probab=97.44  E-value=2.9e-06  Score=55.08  Aligned_cols=30  Identities=30%  Similarity=0.813  Sum_probs=27.5  Template_Neff=1.477
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|+||+||.+..+++|||.|+||.|++...
+T Consensus        75 r~~d~if~~e~~~t~w~r~isqitp~l~~~  104 (111)
+T tr|A0A0N7LP94|   75 RSNDIIFISENAITQWNRIISQITPSLINS  104 (111)
+Confidence            589999999999999999999999997654
+
+
+No 36
+>tr|A0A1H8LIE3|A0A1H8LIE3_9RHOB Polysaccharide export outer membrane protein OS=Pseudorhodobacter antarcticus OX=1077947 GN=SAMN05216227_104211 PE=4 SV=1
+Probab=97.38  E-value=4e-06  Score=62.56  Aligned_cols=34  Identities=29%  Similarity=0.622  Sum_probs=30.8  Template_Neff=1.751
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      +|||||||+.+.+-.||.+|.+|||+++.+...-
+T Consensus       314 ~pgdvv~vp~~~~g~wn~~i~~ilpslq~i~gi~  347 (359)
+T tr|A0A1H8LIE3|  314 APGDVVYVPQDSLGEWNDAIEMILPSLQLIGGIL  347 (359)
+Confidence            5999999999999999999999999998876543
+
+
+No 37
+>tr|K2AF42|K2AF42_9ZZZZ Uncharacterized protein OS=groundwater metagenome OX=717931 GN=ACD_54C00766G0003 PE=4 SV=1 
+Probab=97.36  E-value=4.9e-06  Score=57.37  Aligned_cols=34  Identities=38%  Similarity=0.796  Sum_probs=29.9  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      .|||+||..+|+.+||..|+.+||+.++.-+...
+T Consensus       147 sgdviyvtrsplskwndtisrllpsvsagksvat  180 (183)
+T tr|K2AF42|K2AF  147 SGDVIYVTRSPLSKWNDTISRLLPSVSAGKSVAT  180 (183)
+Confidence            6899999999999999999999999987655443
+
+
+No 38
+>tr|A0A1V0B5R6|A0A1V0B5R6_9PSED Uncharacterized protein OS=Pseudomonas sp. S-6-2 OX=1931241 GN=BVH74_11110 PE=4 SV=1
+Probab=97.17  E-value=1.4e-05  Score=61.76  Aligned_cols=30  Identities=47%  Similarity=0.804  Sum_probs=27.2  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +.||.|||.+.+++||||.|+|+||+++-.
+T Consensus       524 kagdlvfvgatgltrwnrtisqmlptlsrq  553 (567)
+T tr|A0A1V0B5R6|  524 KEGDLVFVGATGLTRWNRTISQMLPTLSRQ  553 (567)
+Confidence            469999999999999999999999997643
+
+
+No 39
+>tr|A0A2D4SAJ9|A0A2D4SAJ9_9GAMM Uncharacterized protein OS=Salinisphaeraceae bacterium OX=2026789 GN=CMN28_05510 PE=4 SV=1
+Probab=97.00  E-value=2.9e-05  Score=59.17  Aligned_cols=36  Identities=31%  Similarity=0.461  Sum_probs=32.0  Template_Neff=2.019
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      ||+|||||.++++.+|||.++||.|+++........
+T Consensus       366 ~~rdvvf~~~a~~v~~n~~~a~i~p~~n~l~~~~~~  401 (409)
+T tr|A0A2D4SAJ9|  366 QPRDVVFVAPADTVNINRALAQIAPSLNLLIQSYFL  401 (409)
+Confidence            699999999999999999999999999988655443
+
+
+No 40
+>tr|A1BHG2|A1BHG2_CHLPD Polysaccharide export protein OS=Chlorobium phaeobacteroides (strain DSM 266) OX=290317 GN=Cpha266_1823 PE=4 SV=1
+Probab=96.98  E-value=2.4e-05  Score=58.70  Aligned_cols=40  Identities=23%  Similarity=0.324  Sum_probs=34.3  Template_Neff=4.357
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      ++||||||++.++++||.++.||.|+.+.....+......
+T Consensus       326 ~~~DIIyVp~~giakfnY~lqqI~P~~~ll~lg~~~~~~~  365 (387)
+T tr|A1BHG2|A1BH  326 MDGDIIYVPPSGLAKFNYFLQQINPFLQLLNLGTSILESF  365 (387)
+Confidence            4799999999999999999999999999887666555443
+
+
+No 41
+>tr|A0A0Q5CZZ4|A0A0Q5CZZ4_9BURK Uncharacterized protein OS=Duganella sp. Leaf126 OX=1736266 GN=ASF61_08565 PE=4 SV=1
+Probab=96.77  E-value=9.2e-05  Score=56.07  Aligned_cols=30  Identities=47%  Similarity=0.799  Sum_probs=27.3  Template_Neff=1.208
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      ||+|||||.++-++.|.|.|+||+|.-.+.
+T Consensus       360 qprdvvyvaas~ltnwhraisqlfpgelss  389 (397)
+T tr|A0A0Q5CZZ4|  360 QPRDVVYVAASTLTNWHRAISQLFPGELSS  389 (397)
+Confidence            699999999999999999999999976543
+
+
+No 42
+>tr|A0A291CKT0|A0A291CKT0_BURTH Capsular biosynthesis protein OS=Burkholderia thailandensis OX=57975 GN=CO709_16495 PE=4 SV=1
+Probab=96.69  E-value=0.00012  Score=56.84  Aligned_cols=35  Identities=43%  Similarity=0.719  Sum_probs=30.8  Template_Neff=1.179
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +|-|||||..+|..|+||++++|+|+.++.+..-+
+T Consensus       494 kpldvvyvgtap~~rfnr~l~~i~pta~s~~~~ws  528 (533)
+T tr|A0A291CKT0|  494 KPLDVVYVGTAPAARFNRMLSQILPTAESFYLIWS  528 (533)
+Confidence            58899999999999999999999999988765433
+
+
+No 43
+>tr|A0A1G5JQM5|A0A1G5JQM5_9RHOB Polysaccharide export outer membrane protein (Fragment) OS=Paracoccus tibetensis OX=336292 GN=SAMN05660710_03369 PE=4 SV=1 
+Probab=96.50  E-value=0.00027  Score=40.48  Aligned_cols=35  Identities=37%  Similarity=0.678  Sum_probs=29.1  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +.||.|||.++|...|..+++.+..+.++.+...+
+T Consensus         9 rdgdtvyvteapyvqwqkvlsaitgsastandlas   43 (46)
+T tr|A0A1G5JQM5|    9 RDGDTVYVTEAPYVQWQKVLSAITGSASTANDLAS   43 (46)
+Confidence            36899999999999999999999887776655443
+
+
+No 44
+>tr|A0A2E9AK07|A0A2E9AK07_9GAMM Uncharacterized protein OS=Salinisphaera sp. OX=1914330 GN=CMN27_08140 PE=4 SV=1
+Probab=96.43  E-value=0.00033  Score=54.53  Aligned_cols=43  Identities=23%  Similarity=0.494  Sum_probs=36.4  Template_Neff=1.543
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRW   43 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~   43 (45)
+                      ||+||||-.++.+..+||.+..+||++.++...--.-+.+.+.
+T Consensus       442 qprdvvfaapasfvnfnralalilpsl~ait~sy~lyd~~~~~  484 (486)
+T tr|A0A2E9AK07|  442 QPRDVVFAAPASFVNFNRALALILPSLNAITQSYLLYDRLSRN  484 (486)
+Confidence            7999999999999999999999999999987665555555443
+
+
+No 45
+>tr|A0A2I7N7S7|A0A2I7N7S7_9NEIS Uncharacterized protein OS=Neisseriaceae bacterium DSM 100970 OX=2052837 GN=CUN60_09485 PE=4 SV=1 
+Probab=96.18  E-value=0.00081  Score=49.89  Aligned_cols=34  Identities=35%  Similarity=0.607  Sum_probs=30.0  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      ..|+|||..++++.+||++.|+||...+...+..
+T Consensus       258 nedivyvstagiaqfnrvmtqilpaaetiwyten  291 (303)
+T tr|A0A2I7N7S7|  258 NEDIVYVSTAGIAQFNRVMTQILPAAETIWYTEN  291 (303)
+Confidence            4699999999999999999999999988865443
+
+
+No 46
+>tr|A0A2D5ASA8|A0A2D5ASA8_9BACT Uncharacterized protein OS=Planctomycetes bacterium OX=2026780 GN=CMJ89_01825 PE=4 SV=1
+Probab=96.09  E-value=0.00086  Score=48.99  Aligned_cols=40  Identities=33%  Similarity=0.521  Sum_probs=34.9  Template_Neff=2.754
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      ||||+|||...+.+.|+..++.++|.+++.+.--+++.++
+T Consensus       195 q~gD~ifv~~r~~a~~~~~~~dl~p~lq~vs~p~~~a~~~  234 (241)
+T tr|A0A2D5ASA8|  195 QPGDIIFVGQRTWADWAQAARDLVPVLQAVSIPLSTARDI  234 (241)
+Confidence            6999999999999999999999999999987665555544
+
+
+No 47
+>tr|A6DEM2|A6DEM2_9PROT Polysaccharide export protein OS=Caminibacter mediatlanticus TB-2 OX=391592 GN=CMTB2_04292 PE=4 SV=1
+Probab=96.06  E-value=0.00071  Score=48.35  Aligned_cols=41  Identities=24%  Similarity=0.400  Sum_probs=36.0  Template_Neff=4.980
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      +|+|||||.+.....+|..++.++|.++.++...+.+-.+.
+T Consensus       200 ~PnDIVYV~P~~~K~fnv~~~e~~p~f~~i~~i~spFv~ik  240 (244)
+T tr|A6DEM2|A6DE  200 KPNDIVYVQPNNWKAFNVASNEYTPIFQTISSILSPFVNIK  240 (244)
+Confidence            69999999999999999999999999999987776655443
+
+
+No 48
+>tr|A0A084IQ12|A0A084IQ12_9GAMM Polysaccharide export protein OS=Salinisphaera hydrothermalis C41B8 OX=1304275 GN=C41B8_01662 PE=4 SV=1 
+Probab=95.99  E-value=0.0014  Score=44.08  Aligned_cols=33  Identities=36%  Similarity=0.731  Sum_probs=30.1  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDM   33 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~   33 (45)
+                      +|+|+||-.++.+..+||.+.|+.|.+.++..+
+T Consensus        85 kprdivyaapaslvnfnrafaqitpalntifqt  117 (129)
+T tr|A0A084IQ12|   85 KPRDIVYAAPASLVNFNRAFAQITPALNTIFQT  117 (129)
+Confidence            599999999999999999999999998887653
+
+
+No 49
+>tr|A0A2S0L0B2|A0A2S0L0B2_9BACT Uncharacterized protein OS=Victivallales bacterium CCUG 44730 OX=2094242 GN=C5Q97_19225 PE=4 SV=1
+Probab=95.87  E-value=0.0017  Score=49.65  Aligned_cols=34  Identities=32%  Similarity=0.488  Sum_probs=30.9  Template_Neff=2.320
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      +|||+|||+..++..+|-+|.+++|+.+.++-..
+T Consensus       309 ~P~DiVyiPkd~~SeYNvfI~kl~PTgQl~Nl~~  342 (351)
+T tr|A0A2S0L0B2|  309 APNDIVYIPKDGLSEYNVFIRKLLPTGQLLNLLL  342 (351)
+Confidence            4999999999999999999999999999886543
+
+
+No 50
+>tr|A0A2M7S2K7|A0A2M7S2K7_9BACT Uncharacterized protein OS=Elusimicrobia bacterium CG_4_10_14_0_8_um_filter_37_32 OX=2014301 GN=COY53_02880 PE=4 SV=1
+Probab=95.68  E-value=0.0027  Score=49.04  Aligned_cols=33  Identities=33%  Similarity=0.378  Sum_probs=30.3  Template_Neff=2.127
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDM   33 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~   33 (45)
+                      ||||||||+.-+++.-+-++++|||.++.++..
+T Consensus       347 q~~divyvpr~~l~~~~~fis~ilp~l~~v~~~  379 (387)
+T tr|A0A2M7S2K7|  347 QSGDIVYVPRKSLATGTWFISSILPWLTLVTFI  379 (387)
+Confidence            799999999999999999999999999877654
+
+
+No 51
+>tr|A0A1G1D0F6|A0A1G1D0F6_9BACT Uncharacterized protein OS=Nitrospinae bacterium RIFCSPLOWO2_01_FULL_39_10 OX=1801683 GN=A2889_00760 PE=4 SV=1
+Probab=95.67  E-value=0.0029  Score=47.81  Aligned_cols=30  Identities=27%  Similarity=0.657  Sum_probs=28.0  Template_Neff=1.953
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|+|||||+.+++..||.++.+|-|+....
+T Consensus       244 ~~~dvi~vprs~i~n~~~f~~ki~p~~~~l  273 (310)
+T tr|A0A1G1D0F6|  244 QPDDVIFVPRSAIGNWNAFFNKIRPTMEFL  273 (310)
+Confidence            699999999999999999999999998765
+
+
+No 52
+>tr|A0A257KE04|A0A257KE04_9FLAO Uncharacterized protein OS=Flavobacterium sp. BFFFF2 OX=2015558 GN=CFE24_01195 PE=4 SV=1
+Probab=95.55  E-value=0.0031  Score=46.06  Aligned_cols=34  Identities=26%  Similarity=0.423  Sum_probs=31.0  Template_Neff=3.625
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      +|||||||++..-..|.+-++-++|..++..++.
+T Consensus       203 ~PGDiV~VPskk~K~fDkR~~tIIPftsaitaaa  236 (242)
+T tr|A0A257KE04|  203 HPGDIVIVPSKKGKEFDKRISTIIPFTSAITAAA  236 (242)
+Confidence            5999999999999999999999999998887654
+
+
+No 53
+>tr|A0A2E5WFG0|A0A2E5WFG0_9BACT Uncharacterized protein OS=Gemmatimonadaceae bacterium OX=2026741 GN=CME05_11355 PE=4 SV=1
+Probab=95.52  E-value=0.0035  Score=48.48  Aligned_cols=31  Identities=35%  Similarity=0.427  Sum_probs=28.4  Template_Neff=2.991
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      |++|||||+.+-+..||.+|+||-|.++.+.
+T Consensus       313 ~~~Div~vprs~i~D~n~~it~I~P~L~~l~  343 (390)
+T tr|A0A2E5WFG0|  313 QNDDIVYVPRSFLGDVNDVITRIEPLLEVLT  343 (390)
+Confidence            5899999999999999999999999987763
+
+
+No 54
+>tr|A0A261SBH4|A0A261SBH4_9BORD Uncharacterized protein OS=Bordetella genomosp. 10 OX=1416804 GN=CAL29_14915 PE=4 SV=1
+Probab=95.49  E-value=0.0034  Score=47.98  Aligned_cols=33  Identities=30%  Similarity=0.648  Sum_probs=28.7  Template_Neff=3.800
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISG-VHDM   33 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~-~~~~   33 (45)
+                      +.||.|||+.+|.++|+++++-+-.++.+ ..+.
+T Consensus       332 rDgD~iYVteAPftq~~Kvlsa~~g~l~~~~~s~  365 (367)
+T tr|A0A261SBH4|  332 RDGDTIYVSEAPFTQWQKVLSAFTGTLSAVAFSA  365 (367)
+Confidence            36899999999999999999999998887 5543
+
+
+No 55
+>tr|A0A239JK94|A0A239JK94_9BACT Polysaccharide export outer membrane protein OS=Granulicella rosea OX=474952 GN=SAMN05421770_1047 PE=4 SV=1
+Probab=95.41  E-value=0.0039  Score=44.88  Aligned_cols=27  Identities=26%  Similarity=0.373  Sum_probs=23.9  Template_Neff=4.183
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTI   27 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~   27 (45)
+                      ||||+|||+...+++|+|++...-++.
+T Consensus       188 ~pGDiv~VP~~~~ski~rf~~~~~~~~  214 (224)
+T tr|A0A239JK94|  188 QPGDMVFVPRNKLSKIERFVKLANFGL  214 (224)
+Confidence            699999999999999999999865553
+
+
+No 56
+>tr|A0A2V8SBN7|A0A2V8SBN7_9BACT Uncharacterized protein OS=Acidobacteria bacterium OX=1978231 GN=DMF50_03200 PE=4 SV=1
+Probab=95.39  E-value=0.0051  Score=44.45  Aligned_cols=30  Identities=37%  Similarity=0.672  Sum_probs=27.2  Template_Neff=2.130
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|||||||+.+.+..||.++|.|-|++.-.
+T Consensus       163 ~~~div~vpr~~i~~~~~~~s~~~p~l~~i  192 (204)
+T tr|A0A2V8SBN7|  163 QPGDIVYVPRSAIGDWNEFFSIINPALGII  192 (204)
+Confidence            589999999999999999999999987644
+
+
+No 57
+>tr|A0A1G3CH18|A0A1G3CH18_9BACT Uncharacterized protein OS=Planctomycetes bacterium RIFOXYC2_FULL_41_27 OX=1801986 GN=A3J92_06180 PE=4 SV=1
+Probab=95.24  E-value=0.0047  Score=44.50  Aligned_cols=23  Identities=43%  Similarity=0.801  Sum_probs=21.1  Template_Neff=5.227
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQL   23 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisql   23 (45)
+                      +|+|||||+.+.++++|.+++|.
+T Consensus       200 ~p~DIVyVPKs~Ia~~n~fvdQY  222 (256)
+T tr|A0A1G3CH18|  200 QPYDIVYVPKSNIANVNKFVDQY  222 (256)
+Confidence            68999999999999999998884
+
+
+No 58
+>tr|A0A1X6YH45|A0A1X6YH45_9RHOB Polysaccharide biosynthesis/export protein OS=Roseivivax jejudonensis OX=1529041 GN=ROJ8625_00778 PE=4 SV=1
+Probab=95.13  E-value=0.0067  Score=46.48  Aligned_cols=35  Identities=26%  Similarity=0.598  Sum_probs=28.4  Template_Neff=4.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +|+|+||++++|++.|+.+++.+--.....++..+
+T Consensus       335 ~p~D~V~aTESP~~~~~til~l~g~~~g~~~~~~~  369 (372)
+T tr|A0A1X6YH45|  335 RPGDTVYVTESPVTQWQTILGLIGGTLGVANSVNN  369 (372)
+Confidence            59999999999999999999988766655554433
+
+
+No 59
+>tr|A0A1G1JSA1|A0A1G1JSA1_9BACT Uncharacterized protein OS=Omnitrophica bacterium RIFCSPLOWO2_01_FULL_45_10 OX=1801826 GN=A2987_04050 PE=4 SV=1
+Probab=95.03  E-value=0.0095  Score=44.40  Aligned_cols=36  Identities=22%  Similarity=0.346  Sum_probs=31.4  Template_Neff=2.527
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      |++|+|||+..-++..|..+++|.|++..+.++...
+T Consensus       206 ~~~D~VyVPktfiA~~n~~~~~i~~~~~~v~t~~~~  241 (259)
+T tr|A0A1G1JSA1|  206 QANDMVYVPKTFIADFNKFMSDIYNFLPQVWTAFGL  241 (259)
+Confidence            689999999999999999999999999866655443
+
+
+No 60
+>tr|R4X0H9|R4X0H9_9BURK Glycosyl transferase family 4 OS=Burkholderia insecticola OX=758793 GN=BRPE64_ACDS26730 PE=4 SV=1 
+Probab=94.96  E-value=0.013  Score=42.94  Aligned_cols=31  Identities=29%  Similarity=0.612  Sum_probs=26.3  Template_Neff=1.000
+
+Q 2j58              5 IVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         5 VVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      |..|...++.||||+-+.++|+.+..+-..+
+T Consensus       203 vllvartglarwnrianlllpsaqgtnlgrq  233 (237)
+T tr|R4X0H9|R4X0  203 VLLVARTGLARWNRIANLLLPSAQGTNLGRQ  233 (237)
+Confidence            4578899999999999999999988765543
+
+
+No 61
+>tr|A0A1Z9MRT0|A0A1Z9MRT0_9FLAO Uncharacterized protein OS=Crocinitomicaceae bacterium TMED209 OX=1986724 GN=CBD69_00475 PE=4 SV=1
+Probab=94.85  E-value=0.014  Score=45.60  Aligned_cols=34  Identities=32%  Similarity=0.526  Sum_probs=29.3  Template_Neff=1.784
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      +|.|||||..+|+.-+.|.++|+|.|....-++.
+T Consensus       358 rpddivfvatqplslysrtl~qilgstgltlqar  391 (400)
+T tr|A0A1Z9MRT0|  358 RPDDIVFVATQPLSLYSRTLSQILGSTGLTLQAR  391 (400)
+Confidence            5999999999999999999999999876554433
+
+
+No 62
+>tr|A0A0P7YNF3|A0A0P7YNF3_9RHOB Uncharacterized protein OS=Rhodobacteraceae bacterium HLUCCA24 OX=1666918 GN=HLUCCA24_02335 PE=4 SV=1
+Probab=94.80  E-value=0.015  Score=41.17  Aligned_cols=26  Identities=38%  Similarity=0.762  Sum_probs=22.9  Template_Neff=2.091
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPT   26 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs   26 (45)
+                      +|||.|||+++|+++|..+++.|-..
+T Consensus       126 ~pgdtv~~tesp~t~~q~vf~l~g~~  151 (163)
+T tr|A0A0P7YNF3|  126 RPGDTVYVTESPITQWQTVFSLIGSA  151 (163)
+Confidence            59999999999999999999877543
+
+
+No 63
+>tr|A0A157SWH2|A0A157SWH2_9BORD Outer membrane protein involved in polysaccharide OS=Bordetella ansorpii OX=288768 GN=wza2 PE=4 SV=1
+Probab=94.74  E-value=0.014  Score=45.21  Aligned_cols=35  Identities=34%  Similarity=0.648  Sum_probs=28.4  Template_Neff=3.100
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      ||.|+|||+-+++-.|..+|+-|.-+.........
+T Consensus       329 qP~D~IYVTNA~vyEwqKiispIvQ~l~lgr~~~~  363 (369)
+T tr|A0A157SWH2|  329 QPEDTIYVTNAPVYEWQKIISPIVQVLVLGRTVGA  363 (369)
+Confidence            69999999999999999999988766655544333
+
+
+No 64
+>tr|A0A2S6VRM1|A0A2S6VRM1_9GAMM Uncharacterized protein OS=Pantoea sp. BRM17 OX=1343867 GN=CRX72_21915 PE=3 SV=1 
+Probab=94.74  E-value=0.018  Score=38.44  Aligned_cols=35  Identities=43%  Similarity=0.772  Sum_probs=31.5  Template_Neff=1.000
+
+Q 2j58             11 APLVRWNRVISQLVPTISGVHDMTETVRYIKRWPN   45 (45)
+Q Consensus        11 ~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~~   45 (45)
+                      .|..|-||||+-|||++.++...+++.-.+++|.|
+T Consensus        77 dpaarrnrvisgllptivgiddasssalrfrnwsn  111 (111)
+T tr|A0A2S6VRM1|   77 DPAARRNRVISGLLPTIVGIDDASSSALRFRNWSN  111 (111)
+Confidence            35678999999999999999999999999999976
+
+
+No 65
+>tr|A0A1J5ID17|A0A1J5ID17_9DELT Uncharacterized protein OS=Syntrophaceae bacterium CG2_30_49_12 OX=1805377 GN=AUK24_04735 PE=4 SV=1
+Probab=94.66  E-value=0.02  Score=46.83  Aligned_cols=34  Identities=29%  Similarity=0.587  Sum_probs=29.7  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      .||.|||....++.||-+++|+||++.+....+.
+T Consensus       713 kgdtvyvartaiadwnvflsqmlptltttrviqt  746 (754)
+T tr|A0A1J5ID17|  713 KGDTVYVARTAIADWNVFLSQMLPTLTTTRVIQT  746 (754)
+Confidence            6899999999999999999999999887654443
+
+
+No 66
+>tr|A0A1U9NNU2|A0A1U9NNU2_9BACT Polysaccharide export protein Wza OS=Phycisphaerae bacterium ST-NAGAB-D1 OX=1936003 GN=STSP2_02657 PE=4 SV=1
+Probab=94.59  E-value=0.015  Score=42.54  Aligned_cols=35  Identities=31%  Similarity=0.448  Sum_probs=27.5  Template_Neff=4.296
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      ||||||||++++|.+.--++.++|--++-+.+..+
+T Consensus       201 ~egDIIyVPPt~La~~g~~iqe~l~Pi~pa~s~~~  235 (245)
+T tr|A0A1U9NNU2|  201 QEGDIIYVPPTPLAAIGMVIQELLRPIQPAFSAVS  235 (245)
+Confidence            68999999999999999999998755544443333
+
+
+No 67
+>tr|A0A1W9R985|A0A1W9R985_9BACT Uncharacterized protein OS=Candidatus Omnitrophica bacterium 4484_70.1 OX=1970782 GN=B6D56_03475 PE=4 SV=1
+Probab=94.39  E-value=0.025  Score=42.01  Aligned_cols=35  Identities=34%  Similarity=0.451  Sum_probs=29.0  Template_Neff=2.218
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +|||+|||+.+-+.+-||.+++|+..+.......+
+T Consensus       198 ~pgdiv~vp~~~~~~i~~~l~~llsp~~~~~~~~~  232 (238)
+T tr|A0A1W9R985|  198 DPGDIVYVPMALPPRINDTLGQLLSPIMQYASLSN  232 (238)
+Confidence            59999999999999999999999876665544443
+
+
+No 68
+>tr|A0A2N6HRT2|A0A2N6HRT2_9BACT Uncharacterized protein OS=Nitrospira sp. CG24A OX=1985133 GN=CAF41_06940 PE=4 SV=1
+Probab=94.28  E-value=0.029  Score=41.15  Aligned_cols=30  Identities=27%  Similarity=0.395  Sum_probs=27.8  Template_Neff=2.040
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      |.||||||+...+-.||...+.++|++++.
+T Consensus       169 e~~divfvpr~~l~d~se~~~~i~p~i~~~  198 (213)
+T tr|A0A2N6HRT2|  169 EENDIVFVPREHLGDASEAAKKIFPSISTA  198 (213)
+Confidence            469999999999999999999999998765
+
+
+No 69
+>tr|A0A1F7RR78|A0A1F7RR78_9BACT Uncharacterized protein OS=Candidatus Schekmanbacteria bacterium RBG_13_48_7 OX=1817878 GN=A2161_14370 PE=4 SV=1
+Probab=94.26  E-value=0.029  Score=43.52  Aligned_cols=29  Identities=24%  Similarity=0.670  Sum_probs=25.6  Template_Neff=2.240
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISG   29 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~   29 (45)
+                      +.+|+|||.++.++.|+|+..+++.+..-
+T Consensus       304 e~~diiyv~~t~~~~~~~~~~~~~~~~~~  332 (352)
+T tr|A0A1F7RR78|  304 ESQDIIYVSSTKFATWERFFDRFLSSIIE  332 (352)
+Confidence            36899999999999999999999966553
+
+
+No 70
+>tr|A0A0M6YVV2|A0A0M6YVV2_9RHOB Polysaccharide export protein Wza OS=Labrenzia alba OX=311410 GN=LP7551_02511 PE=4 SV=1
+Probab=94.07  E-value=0.026  Score=43.03  Aligned_cols=34  Identities=26%  Similarity=0.409  Sum_probs=28.1  Template_Neff=5.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMT   34 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~   34 (45)
+                      +.+|||||..++.+.|.++++.+-+......+..
+T Consensus       339 rdkDiiYVanAp~ve~~Kfl~iv~~~~~~~~~~~  372 (376)
+T tr|A0A0M6YVV2|  339 RDKDIIYVSNAPSVELTKFLSIVNGVTSTAASVA  372 (376)
+Confidence            4799999999999999999998777766655443
+
+
+No 71
+>tr|K2BTT8|K2BTT8_9ZZZZ Uncharacterized protein (Fragment) OS=groundwater metagenome OX=717931 GN=ACD_45C00726G0001 PE=4 SV=1
+Probab=93.89  E-value=0.048  Score=39.95  Aligned_cols=36  Identities=31%  Similarity=0.520  Sum_probs=31.6  Template_Neff=1.484
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      |.||||||+.+.+..+|+++..++|+..+..+....
+T Consensus       172 q~~div~v~~~~~nsfnkfmqtvfptfttywtikgl  207 (210)
+T tr|K2BTT8|K2BT  172 QENDIVYVSSATLNSFNKFMQTVFPTFTTYWTIKGL  207 (210)
+Confidence            579999999999999999999999999887765543
+
+
+No 72
+>tr|C1F6E5|C1F6E5_ACIC5 Polysaccharide biosynthesis/export protein OS=Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 / JCM 7670 / NBRC 15755 
+Probab=93.80  E-value=0.04  Score=42.48  Aligned_cols=32  Identities=25%  Similarity=0.388  Sum_probs=28.5  Template_Neff=3.642
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      |.||||||+.+++.+.+.++.++-|..+....
+T Consensus       310 ~~GDIiyVP~sg~ak~gY~l~~~sP~~sl~t~  341 (348)
+T tr|C1F6E5|C1F6  310 ESGDIIYVPRSGFAKVGYILQQLSPFVSLLTI  341 (348)
+Confidence            47999999999999999999999998876543
+
+
+No 73
+>tr|A0A1G1R507|A0A1G1R507_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium RIFOXYC2_FULL_45_15 OX=1801879 GN=A2471_04730 PE=4 SV=1
+Probab=93.17  E-value=0.087  Score=40.15  Aligned_cols=38  Identities=37%  Similarity=0.480  Sum_probs=33.5  Template_Neff=1.885
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVR   38 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~   38 (45)
+                      +|.|||||+.+-+..-|.++.||-|-+.+.+.+.....
+T Consensus       224 ~~qdiv~vpk~~i~nv~~f~~~i~pi~~g~y~~~~~~~  261 (280)
+T tr|A0A1G1R507|  224 QPQDIVYVPKKFIANVNYFFEQIAPIIDGVYTASTTDI  261 (280)
+Confidence            58999999999999999999999999999887665543
+
+
+No 74
+>tr|A0A2D5YW44|A0A2D5YW44_9PLAN Uncharacterized protein (Fragment) OS=Planctomycetaceae bacterium OX=2026779 GN=CMJ49_07380 PE=4 SV=1 
+Probab=93.12  E-value=0.1  Score=36.37  Aligned_cols=31  Identities=35%  Similarity=0.366  Sum_probs=25.0  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      .||+|||++.++.|-.-.|.|||-.++...+
+T Consensus        90 egdivyvpphglarvgltiqqlllpiqpaas  120 (141)
+T tr|A0A2D5YW44|   90 EGDIVYVPPHGLARVGLTIQQLLLPIQPAAS  120 (141)
+Confidence            5899999999999999999998654444433
+
+
+No 75
+>tr|X0V2V5|X0V2V5_9ZZZZ Uncharacterized protein OS=marine sediment metagenome OX=412755 GN=S01H1_43190 PE=4 SV=1 
+Probab=93.02  E-value=0.11  Score=34.15  Aligned_cols=30  Identities=27%  Similarity=0.510  Sum_probs=26.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      ||+||||++..-++..|.+...+-|++...
+T Consensus        48 qpndvvyiprtfianlnqfwtdfqptldqg   77 (92)
+T tr|X0V2V5|X0V2   48 QPNDVVYIPRTFIANLNQFWTDFQPTLDQG   77 (92)
+Confidence            699999999999999999999999987543
+
+
+No 76
+>tr|A0A2E8JHQ1|A0A2E8JHQ1_9RHOB Uncharacterized protein OS=Marinovum sp. OX=2024839 GN=CMH07_04830 PE=4 SV=1
+Probab=93.02  E-value=0.1  Score=42.68  Aligned_cols=32  Identities=19%  Similarity=0.548  Sum_probs=27.7  Template_Neff=1.634
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      +|+|||||..+|++.|||+..+|.-++.+.-.
+T Consensus       529 rp~di~f~s~qp~~~f~~~~g~~~~~~~~~l~  560 (568)
+T tr|A0A2E8JHQ1|  529 RPNDIIFISDQPVSQFTRVVGRINNAFRSGLG  560 (568)
+Confidence            59999999999999999999999877665543
+
+
+No 77
+>tr|A0A0P0YE54|A0A0P0YE54_9PROT Polysaccharide export protein OS=Asaia bogorensis NBRC 16594 OX=1231624 GN=Asbog_00501 PE=4 SV=1
+Probab=92.82  E-value=0.096  Score=41.42  Aligned_cols=25  Identities=44%  Similarity=0.672  Sum_probs=22.3  Template_Neff=3.211
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVP   25 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllP   25 (45)
+                      +.+|||||.++|+.--.|+|+.|+-
+T Consensus       371 ed~DvVYVaEaPIVpv~rvi~~lfQ  395 (404)
+T tr|A0A0P0YE54|  371 EDGDVVYVAEAPIVPVERVINTLFQ  395 (404)
+Confidence            3589999999999999999998864
+
+
+No 78
+>tr|A0A0U1NLY1|A0A0U1NLY1_9RHOB Polysaccharide export protein Wza OS=Nereida ignava OX=282199 GN=NIG5292_01771 PE=4 SV=1
+Probab=92.68  E-value=0.13  Score=40.74  Aligned_cols=30  Identities=30%  Similarity=0.612  Sum_probs=26.2  Template_Neff=1.541
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|+|||||.++|+...||.+..|-|--..+
+T Consensus       365 rpndi~fv~eqp~~~lnrtl~~i~plr~l~  394 (403)
+T tr|A0A0U1NLY1|  365 RPNDIVFVPEQPIMTLNRTLQNITPLRILI  394 (403)
+Confidence            599999999999999999999998865433
+
+
+No 79
+>tr|A0A2E7CP33|A0A2E7CP33_9PROT Uncharacterized protein OS=Proteobacteria bacterium OX=1977087 GN=CMK59_13950 PE=4 SV=1
+Probab=92.53  E-value=0.14  Score=40.69  Aligned_cols=28  Identities=29%  Similarity=0.477  Sum_probs=25.5  Template_Neff=1.540
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISG   29 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~   29 (45)
+                      -+|||||..+.+..|.|.|..|+|+...
+T Consensus       373 ~rdivy~~~st~q~w~r~~d~l~~~s~~  400 (420)
+T tr|A0A2E7CP33|  373 DRDIVYIGSSTSQNWDRLIDMLFQGSVF  400 (420)
+Confidence            5799999999999999999999998654
+
+
+No 80
+>tr|A0A2S8WAT5|A0A2S8WAT5_9CAUL Polysaccharide export protein OS=Brevundimonas sp. MYb31 OX=1848616 GN=CQ026_02415 PE=4 SV=1
+Probab=92.51  E-value=0.12  Score=38.61  Aligned_cols=23  Identities=26%  Similarity=0.426  Sum_probs=20.8  Template_Neff=3.300
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQL   23 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisql   23 (45)
+                      +++|||||+.+.+...+.++.|+
+T Consensus       198 rr~DIIyVPRS~iaE~~~f~~Q~  220 (239)
+T tr|A0A2S8WAT5|  198 RRGDIIYVPRSTLAELALFFTQF  220 (239)
+Confidence            57999999999999999998884
+
+
+No 81
+>tr|A0A2G2LUK3|A0A2G2LUK3_9RHOB Polysaccharide export protein OS=Robiginitomaculum sp. OX=2030823 GN=COA84_06035 PE=4 SV=1
+Probab=92.37  E-value=0.13  Score=39.01  Aligned_cols=31  Identities=19%  Similarity=0.336  Sum_probs=25.7  Template_Neff=3.422
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQL----VPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisql----lPs~~~~~   31 (45)
+                      +++|||||+.+.+..-|-+++|.    ||...+.+
+T Consensus       222 ~r~DvvfVPRS~IaeiNlF~~QyIrdaLP~~f~~~  256 (272)
+T tr|A0A2G2LUK3|  222 RRGDVVFVPRSTIAEINLFMQQYIRDALPVSFSFS  256 (272)
+Confidence            58999999999999999999994    66655543
+
+
+No 82
+>tr|A0A1G5R2X5|A0A1G5R2X5_9RHOB Protein involved in polysaccharide export, contains SLBB domain of the beta-grasp fold OS=Epibacterium ulvae OX=1156985 GN=SAMN04488118_10795 PE=4 SV=1 
+Probab=92.25  E-value=0.18  Score=42.17  Aligned_cols=23  Identities=26%  Similarity=0.931  Sum_probs=20.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQL   23 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisql   23 (45)
+                      +|+||+||.++|+.+|.|-+..+
+T Consensus       782 rpndvifveeqpiakwerslrsi  804 (814)
+T tr|A0A1G5R2X5|  782 RPNDVIFVEEQPIAKWERSLRSI  804 (814)
+Confidence            59999999999999999987765
+
+
+No 83
+>tr|A0A222FM90|A0A222FM90_9GAMM Uncharacterized protein OS=Bacterioplanes sanyensis OX=1249553 GN=CHH28_11945 PE=4 SV=1 
+Probab=92.07  E-value=0.2  Score=33.10  Aligned_cols=19  Identities=47%  Similarity=0.959  Sum_probs=16.2  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQL   23 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisql   23 (45)
+                      |+||+||+   +..|.|+|+|-
+T Consensus        54 pndilfvp---vaewdrfisqn   72 (94)
+T tr|A0A222FM90|   54 PNDILFVP---VAEWDRFISQN   72 (94)
+Confidence            89999995   67899999884
+
+
+No 84
+>tr|A0A2G2CPU4|A0A2G2CPU4_9HELI Uncharacterized protein OS=Sulfurimonas sp. OX=2022749 GN=COA39_05360 PE=3 SV=1 
+Probab=91.94  E-value=0.22  Score=39.96  Aligned_cols=32  Identities=25%  Similarity=0.858  Sum_probs=29.3  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      +|.|.+|+....+..||.++..+||++..+-+
+T Consensus       440 kpydmiyisktklgdwntimtmilpsln~lms  471 (483)
+T tr|A0A2G2CPU4|  440 KPYDMIYISKTKLGDWNTIMTMILPSLNXLMS  471 (483)
+Confidence            58999999999999999999999999987644
+
+
+No 85
+>tr|A0A0S7XW85|A0A0S7XW85_9COXI Uncharacterized protein OS=Coxiella sp. DG_40 OX=1703354 GN=AMJ43_07175 PE=4 SV=1
+Probab=91.60  E-value=0.25  Score=37.57  Aligned_cols=26  Identities=31%  Similarity=0.569  Sum_probs=23.2  Template_Neff=1.392
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPT   26 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs   26 (45)
+                      +|||+|||+-+--+|+|.+|+..+-.
+T Consensus       229 kpgd~~yvdhtlhtr~n~~~~~vf~~  254 (265)
+T tr|A0A0S7XW85|  229 KPGDVIYVDHTLHTRFNQFISDVFHI  254 (265)
+Confidence            69999999999999999999887654
+
+
+No 86
+>tr|A0A2T0PSV8|A0A2T0PSV8_9ACTN Uncharacterized protein OS=Allonocardiopsis opalescens OX=1144618 GN=CLV72_11257 PE=4 SV=1 
+Probab=91.52  E-value=0.28  Score=31.59  Aligned_cols=26  Identities=46%  Similarity=0.715  Sum_probs=19.0  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWN-RVISQLVPT   26 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWn-RvisqllPs   26 (45)
+                      ||||||||..+...|.- .-+.|++|+
+T Consensus        19 qpgdvvyvssaearrltsdsvaqvvpt   45 (77)
+T tr|A0A2T0PSV8|   19 QPGDVVYVSSAEARRLTSDSVAQVVPT   45 (77)
+Confidence            69999999988877653 345566665
+
+
+No 87
+>tr|A6DJG9|A6DJG9_9BACT Polysaccharide export protein OS=Lentisphaera araneosa HTCC2155 OX=313628 GN=LNTAR_11841 PE=4 SV=1
+Probab=90.79  E-value=0.33  Score=38.15  Aligned_cols=41  Identities=20%  Similarity=0.263  Sum_probs=28.7  Template_Neff=2.194
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      +|||||||...+.....|++.-.+-......+++.....+.
+T Consensus       296 ~p~divyv~e~~~~~~e~l~~~~~~~~~~~~~s~~~~~~~~  336 (339)
+T tr|A6DJG9|A6DJ  296 QPGDIVYVPEKSFDDFEELIDIATKAFITAFSSKTATYSFD  336 (339)
+Confidence            69999999999999888887766555444444444444443
+
+
+No 88
+>tr|A0A1J5D739|A0A1J5D739_9DELT Uncharacterized protein OS=Deltaproteobacteria bacterium CG2_30_43_15 OX=1805125 GN=AUK23_06360 PE=4 SV=1
+Probab=90.71  E-value=0.31  Score=38.77  Aligned_cols=31  Identities=26%  Similarity=0.398  Sum_probs=28.2  Template_Neff=2.951
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      |.||||||+.+-+...|..++++.|-+....
+T Consensus       338 ~~GDvvyvPr~~Igdin~~~~~~~PiLd~~~  368 (390)
+T tr|A0A1J5D739|  338 QDGDVVYVPRTKIGDINDWFTNLIPILDYLF  368 (390)
+Confidence            4799999999999999999999999987763
+
+
+No 89
+>tr|A0A0P9D0P0|A0A0P9D0P0_9BACL Uncharacterized protein OS=Alicyclobacillus ferrooxydans OX=471514 GN=AN477_14545 PE=4 SV=1
+Probab=90.46  E-value=0.42  Score=31.49  Aligned_cols=20  Identities=35%  Similarity=0.810  Sum_probs=18.5  Template_Neff=1.442
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVI   20 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvi   20 (45)
+                      |||||..|+.....-|||++
+T Consensus        66 ~pgd~l~vptk~~~~w~rlv   85 (86)
+T tr|A0A0P9D0P0|   66 QPGDVLWVPTKSVSMWARLV   85 (86)
+Confidence            69999999999999999974
+
+
+No 90
+>tr|S9R2P7|S9R2P7_9RHOB Uncharacterized protein OS=Rubellimicrobium thermophilum DSM 16684 OX=1123069 GN=ruthe_01059 PE=4 SV=1 
+Probab=90.25  E-value=0.48  Score=34.86  Aligned_cols=32  Identities=41%  Similarity=0.676  Sum_probs=26.5  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      +.||.|||.++|...+.|+|..|.-++.++-+
+T Consensus       164 rdgdtvyvteapfvqfsrviaaltgtldsies  195 (201)
+T tr|S9R2P7|S9R2  164 RDGDTVYVTEAPFVQFSRVIAALTGTLDSIES  195 (201)
+Confidence            35899999999999999999988776655543
+
+
+No 91
+>tr|A0A2E9IR37|A0A2E9IR37_9BACT Uncharacterized protein OS=Puniceicoccaceae bacterium OX=2026784 GN=CML13_08215 PE=4 SV=1
+Probab=89.67  E-value=0.44  Score=37.57  Aligned_cols=38  Identities=29%  Similarity=0.386  Sum_probs=29.5  Template_Neff=3.554
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVR   38 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~   38 (45)
+                      +|||||||+.+|-..--|.+..++-+....-...+..+
+T Consensus       308 epgDIVyVP~~p~~~l~~y~~~~l~Tf~~tVa~nEg~~  345 (363)
+T tr|A0A2E9IR37|  308 EPGDIVYVPFTPYRTLERYADAALNTFAQTVAANEGAR  345 (363)
+Confidence            59999999999999999988888877665544444443
+
+
+No 92
+>tr|Q0EZ83|Q0EZ83_9PROT Putative polysaccharide export protein wza OS=Mariprofundus ferrooxydans PV-1 OX=314345 GN=SPV1_07596 PE=4 SV=1
+Probab=89.52  E-value=0.62  Score=37.66  Aligned_cols=32  Identities=25%  Similarity=0.495  Sum_probs=29.2  Template_Neff=1.207
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      |.||||||+.+-+.+-|.|+..|.|+..++-.
+T Consensus       410 qagdiiyvpnsfigkvndvl~eitps~ntllq  441 (454)
+T tr|Q0EZ83|Q0EZ  410 QAGDIIYVPNSFIGKVNDVLTEITPSMNTLLQ  441 (454)
+Confidence            57999999999999999999999999887644
+
+
+No 93
+>tr|A0A2D6HBU0|A0A2D6HBU0_9BACT Uncharacterized protein OS=Planctomycetes bacterium OX=2026780 GN=CMJ84_03095 PE=4 SV=1 
+Probab=89.21  E-value=0.7  Score=35.90  Aligned_cols=30  Identities=40%  Similarity=0.791  Sum_probs=23.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWN----RVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWn----RvisqllPs~~~~   30 (45)
+                      ||.|||||...|+++-|    |.|.|++|.-+..
+T Consensus       274 qpydviyvpdtpvtkvniwvdryirqmipipnlf  307 (317)
+T tr|A0A2D6HBU0|  274 QPYDVIYVPDTPVTKVNIWVDRYIRQMIPIPNLF  307 (317)
+Confidence            69999999999999765    6777877765443
+
+
+No 94
+>tr|A0A1M2ZLY9|A0A1M2ZLY9_9SPHN Uncharacterized protein OS=Sphingomonas sp. 66-10 OX=1895848 GN=BGN95_16925 PE=4 SV=1
+Probab=88.66  E-value=0.78  Score=34.34  Aligned_cols=24  Identities=38%  Similarity=0.529  Sum_probs=22.1  Template_Neff=1.515
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      ||||++.|.+++-+||-|+|...+
+T Consensus       164 qp~d~ivvqes~~~~f~r~iq~y~  187 (212)
+T tr|A0A1M2ZLY9|  164 QPGDIIVVQESGSSRFARFIQDYV  187 (212)
+Confidence            799999999999999999998764
+
+
+No 95
+>tr|D7BSV0|D7BSV0_STRBB Uncharacterized protein OS=Streptomyces bingchenggensis (strain BCW-1) OX=749414 GN=SBI_00006 PE=4 SV=1 
+Probab=88.59  E-value=0.85  Score=28.41  Aligned_cols=24  Identities=42%  Similarity=0.815  Sum_probs=20.0  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVP   25 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllP   25 (45)
+                      |+..-..+++|+.||.|++.-|+.
+T Consensus        23 pretthldaaplsrwrrvvdglva   46 (60)
+T tr|D7BSV0|D7BS   23 PRETTHLDAAPLSRWRRVVDGLVA   46 (60)
+Confidence            566667899999999999988764
+
+
+No 96
+>tr|A0A2M9DQE4|A0A2M9DQE4_9DELT Uncharacterized protein OS=Desulfofaba hansenii OX=157842 GN=CKJ97_14570 PE=4 SV=1
+Probab=87.61  E-value=1  Score=36.40  Aligned_cols=24  Identities=42%  Similarity=0.562  Sum_probs=21.9  Template_Neff=1.967
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      ||+|||||+...+..-|.+|..++
+T Consensus       356 ~p~divyvpk~~ld~~ndti~kif  379 (396)
+T tr|A0A2M9DQE4|  356 QPGDIVYVPKGRLDEVNDTIEKIF  379 (396)
+Confidence            799999999999999999988765
+
+
+No 97
+>tr|A0A1G1MEE0|A0A1G1MEE0_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium RBG_13_41_10 OX=1801849 GN=A2166_00500 PE=4 SV=1 
+Probab=86.75  E-value=1.4  Score=33.51  Aligned_cols=28  Identities=32%  Similarity=0.576  Sum_probs=23.5  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTIS   28 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~   28 (45)
+                      +||||+||++.-..+.-|+|+-+....+
+T Consensus       200 hpgdvlyvpatvmakimrvispvtapvs  227 (245)
+T tr|A0A1G1MEE0|  200 HPGDVLYVPATVMAKIMRVISPVTAPVS  227 (245)
+Confidence            4999999999999999999998754433
+
+
+No 98
+>tr|I0GM28|I0GM28_SELRL Uncharacterized protein OS=Selenomonas ruminantium subsp. lactilytica (strain NBRC 103574 / TAM6421) OX=927704 GN=SELR_01070 PE=4 SV=1 
+Probab=86.66  E-value=1.4  Score=31.73  Aligned_cols=29  Identities=31%  Similarity=0.543  Sum_probs=23.5  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      |.||+|||+.+.-.+|..   .+||..++...
+T Consensus       124 qdgdivyvpksngvkwke---dilpffqayty  152 (158)
+T tr|I0GM28|I0GM  124 QDGDIVYVPKSNGVKWKE---DILPFFQAYTY  152 (158)
+Confidence            579999999999999975   56888776543
+
+
+No 99
+>tr|A0A1W1BUP5|A0A1W1BUP5_9ZZZZ Polysaccharide export outer membrane protein OS=hydrothermal vent metagenome OX=652676 GN=MNB_SV-13-1508 PE=4 SV=1 
+Probab=86.42  E-value=1.5  Score=32.42  Aligned_cols=35  Identities=31%  Similarity=0.532  Sum_probs=30.4  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTE   35 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~   35 (45)
+                      +|+|.+||.+....-+|.-|+.+-|+.........
+T Consensus       146 hpndtiyvtpndmkpfntgisevaptvelvggivn  180 (193)
+T tr|A0A1W1BUP5|  146 HPNDTIYVTPNDMKPFNTGISEVAPTVELVGGIVN  180 (193)
+Confidence            48999999999999999999999999887764443
+
+
+No 100
+>tr|A0A2M6XFU2|A0A2M6XFU2_9RHIZ Sugar transporter (Fragment) OS=Methylobacterium sp. CG09_land_8_20_14_0_10_71_15 OX=1975532 GN=COT56_19335 PE=4 SV=1
+Probab=85.74  E-value=1.7  Score=25.82  Aligned_cols=31  Identities=32%  Similarity=0.541  Sum_probs=23.3  Template_Neff=1.372
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      .+|.|||..+|.+.-..+++-+--.+..+.+
+T Consensus         4 nrdlvyvs~apf~ev~kvl~vfs~~~~p~as   34 (43)
+T tr|A0A2M6XFU2|    4 NRDLVYVSSAPFAEVQKVLSVFSTVIAPVAS   34 (43)
+Confidence            5799999999999998888766544443333
+
+
+No 101
+>tr|A0A1Q7ZJJ8|A0A1Q7ZJJ8_9BACT Uncharacterized protein OS=Acidobacteria bacterium 13_1_20CM_2_68_7 OX=1803430 GN=AUG09_01330 PE=4 SV=1
+Probab=85.52  E-value=1.8  Score=35.61  Aligned_cols=31  Identities=29%  Similarity=0.512  Sum_probs=27.5  Template_Neff=1.246
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      +|||+|||+...+.....+++-|-|.+.-+-
+T Consensus       442 ~pgdivfvprra~atlqe~ms~i~palgiie  472 (483)
+T tr|A0A1Q7ZJJ8|  442 QPGDIVFVPRRAIATLQEVMSIIQPALGIIE  472 (483)
+Confidence            6999999999999999999999999876543
+
+
+No 102
+>tr|K6YQW5|K6YQW5_9ALTE Uncharacterized protein OS=Aliiglaciecola lipolytica E3 OX=1127673 GN=GLIP_1068 PE=4 SV=1
+Probab=85.48  E-value=1.7  Score=34.67  Aligned_cols=25  Identities=24%  Similarity=0.494  Sum_probs=22.2  Template_Neff=1.676
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVP   25 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllP   25 (45)
+                      +|.|||||+.+++.+-|.++.|.+-
+T Consensus       299 ~p~dv~yvpkt~i~~~n~~veqyi~  323 (343)
+T tr|K6YQW5|K6YQ  299 MPSDVIYVPKTGINEANQFVEQYIR  323 (343)
+Confidence            5899999999999999999888643
+
+
+No 103
+>tr|I4C6X7|I4C6X7_DESTA Periplasmic protein involved in polysaccharide export OS=Desulfomonile tiedjei (strain ATCC 49306 / DSM 6799 / DCB-1) OX=706587
+Probab=85.01  E-value=1.8  Score=34.85  Aligned_cols=40  Identities=25%  Similarity=0.546  Sum_probs=32.6  Template_Neff=2.072
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYI   40 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~   40 (45)
+                      +|.||+||+.+-+...|.+|.|-+-++....+...+.+++
+T Consensus       320 k~ydvi~vp~t~v~~l~~~m~~~i~ti~~~~s~v~ti~~~  359 (363)
+T tr|I4C6X7|I4C6  320 KPYDVIYVPKTYVADLRQFMEQYIRTINEFASLVNTINQI  359 (363)
+Confidence            5899999999999999999999988877766655554443
+
+
+No 104
+>tr|F2NHJ9|F2NHJ9_DESAR Polysaccharide export protein OS=Desulfobacca acetoxidans (strain ATCC 700848 / DSM 11109 / ASRB2) OX=880072 GN=Desac_1329 PE=4
+Probab=84.84  E-value=1.8  Score=34.42  Aligned_cols=29  Identities=21%  Similarity=0.410  Sum_probs=24.5  Template_Neff=2.125
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISG   29 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~   29 (45)
+                      |+||||.|+-+++++-|..+.|.|-.+..
+T Consensus       281 ~~gdvvivp~sgiakl~~~v~q~l~dl~p  309 (329)
+T tr|F2NHJ9|F2NH  281 RPGDVVIVPKSGIAKLNNYVQQYLRDLNP  309 (329)
+Confidence            68999999999999999998887654443
+
+
+No 105
+>tr|A0A2D6PX03|A0A2D6PX03_9BACT Uncharacterized protein OS=Planctomycetes bacterium OX=2026780 GN=CMJ83_14270 PE=4 SV=1
+Probab=84.58  E-value=2.1  Score=33.32  Aligned_cols=31  Identities=29%  Similarity=0.521  Sum_probs=25.3  Template_Neff=1.453
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      +|.|++||+++-+-.+||.+.-|--..+++.
+T Consensus       216 rpddii~vpp~~lgh~n~~~~g~~~pf~~lf  246 (274)
+T tr|A0A2D6PX03|  216 RPDDIIYVPPSILGHFNRWIAGISAPFQSLF  246 (274)
+Confidence            5899999999999999999998844444443
+
+
+No 106
+>tr|A0A1G1MYI8|A0A1G1MYI8_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium GWF2_43_52 OX=1801847 GN=A2Y00_03510 PE=4 SV=1 
+Probab=84.43  E-value=2.3  Score=32.97  Aligned_cols=31  Identities=26%  Similarity=0.497  Sum_probs=24.8  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      +||||+||+..-..+.-|+|+-+-.+.....
+T Consensus       230 kpgdvlyvpstvmaklirvinpvastvgvas  260 (278)
+T tr|A0A1G1MYI8|  230 KPGDVLYVPSTVMAKLIRVINPVASTVGVAS  260 (278)
+Confidence            5999999999999999999887665554433
+
+
+No 107
+>tr|A0A1V0S8H8|A0A1V0S8H8_9VIRU Uncharacterized protein OS=Catovirus CTV1 OX=1977631 GN=Catovirus_1_62 PE=4 SV=1 
+Probab=84.03  E-value=2.4  Score=32.39  Aligned_cols=37  Identities=22%  Similarity=0.392  Sum_probs=30.7  Template_Neff=1.000
+
+Q 2j58              8 VTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRWP   44 (45)
+Q Consensus         8 V~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~   44 (45)
+                      |+.+|++|||.-+..||-.-..++-+....+..++..
+T Consensus        56 vtktpltrwnnrlerllneknnlnrgdrlfnnyrdli   92 (247)
+T tr|A0A1V0S8H8|   56 VTKTPLTRWNNRLERLLNEKNNLNRGDRLFNNYRDLI   92 (247)
+Confidence            6789999999999999998888887777777766653
+
+
+No 108
+>tr|A0A1G1NYC3|A0A1G1NYC3_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_02_FULL_52_10 OX=1801858 GN=A3C36_04720 PE=4 SV=1
+Probab=83.56  E-value=2.3  Score=33.33  Aligned_cols=29  Identities=31%  Similarity=0.438  Sum_probs=23.1  Template_Neff=2.286
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISG   29 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~   29 (45)
+                      +|||.+||++.-+++--|+|+-+--.+.+
+T Consensus       238 ~PGDtLYvPpTfmAK~mRviqPvt~Pi~t  266 (279)
+T tr|A0A1G1NYC3|  238 KPGDTLYVPPTFMAKTMRVIQPVTQPIST  266 (279)
+Confidence            69999999999999998888766443333
+
+
+No 109
+>tr|A0A2W0A4Y0|A0A2W0A4Y0_9BACT Uncharacterized protein OS=Acidobacteria bacterium OX=1978231 GN=DMG71_04815 PE=4 SV=1 
+Probab=83.15  E-value=2.8  Score=28.03  Aligned_cols=20  Identities=25%  Similarity=0.561  Sum_probs=17.2  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVI   20 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvi   20 (45)
+                      +|||.+||+++.+.+..|+-
+T Consensus        56 rpgdmlyvpestvsklrrfa   75 (89)
+T tr|A0A2W0A4Y0|   56 RPGDMLYVPESTVSKLRRFA   75 (89)
+Confidence            59999999999998887764
+
+
+No 110
+>tr|A0A1F9CHI8|A0A1F9CHI8_9DELT Uncharacterized protein OS=Deltaproteobacteria bacterium RBG_16_54_11 OX=1797842 GN=A2Z08_09155 PE=4 SV=1 
+Probab=83.03  E-value=2.9  Score=32.34  Aligned_cols=29  Identities=24%  Similarity=0.555  Sum_probs=23.3  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQL-VPTISGV   30 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisql-lPs~~~~   30 (45)
+                      .+||+||+.+.+..||.+|... -|+...+
+T Consensus       225 qndvifvprsaigdwnafiklyirptvevl  254 (269)
+T tr|A0A1F9CHI8|  225 QNDVIFVPRSAIGDWNAFIKLYIRPTVEVL  254 (269)
+Confidence            4799999999999999999865 4554443
+
+
+No 111
+>tr|A0A1J5EJ59|A0A1J5EJ59_9DELT Uncharacterized protein OS=Desulfobacterales bacterium CG2_30_60_27 OX=1805129 GN=AUK28_09320 PE=4 SV=1
+Probab=82.86  E-value=3  Score=34.30  Aligned_cols=29  Identities=28%  Similarity=0.498  Sum_probs=26.3  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      .||+|||.+.-++...|+-.|++|.+.++
+T Consensus       449 agdivyvpatmvtsierlsrqiipfldal  477 (484)
+T tr|A0A1J5EJ59|  449 AGDIVYVPATMVTSIERLSRQIIPFLDAL  477 (484)
+Confidence            58999999999999999999999988765
+
+
+No 112
+>tr|A0A1G0YRJ0|A0A1G0YRJ0_9BACT Uncharacterized protein OS=Lentisphaerae bacterium GWF2_52_8 OX=1798575 GN=A2X49_15280 PE=4 SV=1
+Probab=82.83  E-value=2.5  Score=34.16  Aligned_cols=30  Identities=27%  Similarity=0.312  Sum_probs=25.6  Template_Neff=2.411
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      |.||||||++.|+....|+...++-..+.+
+T Consensus       320 ~~~DIvfv~e~~~~~~~R~~~~~itF~~~V  349 (370)
+T tr|A0A1G0YRJ0|  320 QNGDIVFVPEQGFSEYERYADYLITFAQLV  349 (370)
+Confidence            468999999999999999999998555444
+
+
+No 113
+>tr|A0A221K4Q5|A0A221K4Q5_9RHOB Polysaccharide biosynthesis protein OS=Sulfitobacter pseudonitzschiae OX=1402135 GN=SULPSESMR1_03049 PE=4 SV=1
+Probab=82.64  E-value=2.9  Score=26.89  Aligned_cols=24  Identities=33%  Similarity=0.520  Sum_probs=19.6  Template_Neff=1.478
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      .|+|+|++.++++..-.-+++.+-
+T Consensus        30 ~~~d~v~~te~~~~~~rtvl~l~g   53 (67)
+T tr|A0A221K4Q5|   30 HPRDTVFVTESPINSTRTVLSLIG   53 (67)
+Confidence            489999999999998777776553
+
+
+No 114
+>tr|A0A2K3E1J2|A0A2K3E1J2_CHLRE Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g094700v5 PE=4 SV=1 
+Probab=80.85  E-value=4.1  Score=34.57  Aligned_cols=30  Identities=37%  Similarity=0.565  Sum_probs=27.0  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      ||||.||..+..-..||..|.-|||..+-.
+T Consensus       163 qpgdlvyltarekgqfnqyiapllprasht  192 (652)
+T tr|A0A2K3E1J2|  163 QPGDLVYLTAREKGQFNQYIAPLLPRASHT  192 (652)
+Confidence            699999999999999999999999976543
+
+
+No 115
+>tr|A0A1T4WNR3|A0A1T4WNR3_9DELT Protein involved in polysaccharide export, contains SLBB domain of the beta-grasp fold OS=Desulfovibrio bizertensis DSM 18034 OX=1121442 GN=SAMN02745702_02470 PE=4 SV=1 
+Probab=80.43  E-value=4.3  Score=34.68  Aligned_cols=37  Identities=16%  Similarity=0.437  Sum_probs=31.2  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVR   38 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~   38 (45)
+                      .+||+|+..+..+.+|.++..++|-...+...++...
+T Consensus       641 dndviyigssamtdfnyvmrsiipmmdvldlgtnvle  677 (707)
+T tr|A0A1T4WNR3|  641 DNDVIYIGSSAMTDFNYVMRSIIPMMDVLDLGTNVLE  677 (707)
+Confidence            5799999999999999999999999877765554443
+
+
+No 116
+>tr|A0A2M7YQX3|A0A2M7YQX3_9BACT Uncharacterized protein OS=bacterium CG_4_9_14_3_um_filter_65_15 OX=1975567 GN=CO151_12775 PE=4 SV=1 
+Probab=79.26  E-value=5  Score=32.13  Aligned_cols=32  Identities=28%  Similarity=0.490  Sum_probs=29.1  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      ||||-+.|..+.++++..++..+||.++...+
+T Consensus       308 qpgdrihvsqsnvtkfgyvlknllpvlsvvts  339 (352)
+T tr|A0A2M7YQX3|  308 QPGDRIHVSQSNVTKFGYVLKNLLPVLSVVTS  339 (352)
+Confidence            69999999999999999999999998876644
+
+
+No 117
+>tr|A0A1H6HBV4|A0A1H6HBV4_SELRU Uncharacterized protein OS=Selenomonas ruminantium OX=971 GN=SAMN05216583_11725 PE=4 SV=1 
+Probab=77.98  E-value=5.9  Score=30.49  Aligned_cols=26  Identities=38%  Similarity=0.659  Sum_probs=22.1  Template_Neff=1.000
+
+Q 2j58              6 VYVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         6 VyV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      +||.++.+.+|||+|-|-|.+.++..
+T Consensus        96 lfvceatlhkwnrfilqalatmssyt  121 (241)
+T tr|A0A1H6HBV4|   96 LFVCEATLHKWNRFILQALATMSSYT  121 (241)
+Confidence            58999999999999999888766543
+
+
+No 118
+>tr|A0A2D5KXC2|A0A2D5KXC2_PSEAS Uncharacterized protein OS=Pseudoalteromonas sp. OX=53249 GN=CMK65_01205 PE=4 SV=1 
+Probab=77.70  E-value=6.1  Score=31.67  Aligned_cols=24  Identities=50%  Similarity=0.825  Sum_probs=22.1  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      |.||+.|...+|-..|-|.|+.++
+T Consensus       321 qsgdilyltkapksswlrtiseli  344 (347)
+T tr|A0A2D5KXC2|  321 QSGDILYLTKAPKSSWLRTISELI  344 (347)
+Confidence            579999999999999999999875
+
+
+No 119
+>tr|W8EYS8|W8EYS8_9BACT Uncharacterized protein OS=Hymenobacter swuensis DY53 OX=1227739 GN=Hsw_PA0143 PE=4 SV=1 
+Probab=76.66  E-value=6.9  Score=31.61  Aligned_cols=31  Identities=26%  Similarity=0.453  Sum_probs=25.4  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      |||||||++..-..+.|--.-||...++...
+T Consensus       326 pgdvvyvpaksskeferksggilaiasglsa  356 (367)
+T tr|W8EYS8|W8EY  326 PGDVVYVPAKSSKEFERKSGGILAIASGLSA  356 (367)
+Confidence            8999999999999999987777766555543
+
+
+No 120
+>tr|Q7V0P5|Q7V0P5_PROMP Possible polysaccharide export or synthesis protein OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / M
+Probab=76.66  E-value=4.2  Score=32.23  Aligned_cols=42  Identities=19%  Similarity=0.209  Sum_probs=35.9  Template_Neff=4.902
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKR   42 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~   42 (45)
+                      +.||+|+|..+.+..=+-||+.+.....+.+++-...+.+.+
+T Consensus       346 ~~GDiI~V~~S~l~~t~~vi~EiT~PfvGiysty~l~~~~~~  387 (388)
+T tr|Q7V0P5|Q7V0  346 MEGDIIRVRNSLLGKTSEVINEITAPFVGIYSTYSLFEGITD  387 (388)
+Confidence            479999999999999999999998888888887777666544
+
+
+No 121
+>tr|B8D0N0|B8D0N0_HALOH Polysaccharide export protein OS=Halothermothrix orenii (strain H 168 / OCM 544 / DSM 9562) OX=373903 GN=Hore_22210 PE=4 SV=1 
+Probab=74.94  E-value=8.2  Score=30.49  Aligned_cols=29  Identities=24%  Similarity=0.662  Sum_probs=23.0  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      +|||++|+++.|...+..+++. +|.+.+.
+T Consensus       260 kpgdiiyipekpypdfehllsl-ipflnsl  288 (295)
+T tr|B8D0N0|B8D0  260 KPGDIIYIPEKPYPDFEHLLSL-IPFLNSL  288 (295)
+Confidence            5999999999999999877764 4655443
+
+
+No 122
+>tr|A0A2D5ZC04|A0A2D5ZC04_9BACT Uncharacterized protein OS=Phycisphaeraceae bacterium OX=2026777 GN=CMJ18_20705 PE=4 SV=1 
+Probab=73.95  E-value=9.1  Score=30.43  Aligned_cols=23  Identities=35%  Similarity=0.543  Sum_probs=19.5  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      .||+|||.++.++...|+-..|+
+T Consensus       245 egdivyvppstltnidrfaqhli  267 (308)
+T tr|A0A2D5ZC04|  245 EGDIVYVPPSTLTNIDRFAQHLI  267 (308)
+Confidence            58999999999998888766654
+
+
+No 123
+>tr|A0A2E4EJ16|A0A2E4EJ16_9FLAO Uncharacterized protein (Fragment) OS=Crocinitomicaceae bacterium OX=2026728 GN=CL840_16185 PE=4 SV=1 
+Probab=73.92  E-value=9.1  Score=31.11  Aligned_cols=19  Identities=47%  Similarity=0.648  Sum_probs=17.7  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRV   19 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRv   19 (45)
+                      ||||-+.|+++|++|.||-
+T Consensus       171 qpgdnlivpespltrlnrs  189 (380)
+T tr|A0A2E4EJ16|  171 QPGDNLIVPESPLTRLNRS  189 (380)
+Confidence            6999999999999999984
+
+
+No 124
+>tr|A0A183K105|A0A183K105_9TREM Uncharacterized protein OS=Schistosoma curassoni OX=6186 PE=4 SV=1 
+Probab=73.32  E-value=9.7  Score=26.47  Aligned_cols=25  Identities=32%  Similarity=0.493  Sum_probs=20.2  Template_Neff=1.000
+
+Q 2j58              7 YVTTAPLVRWNRVISQLVPTISGVH   31 (45)
+Q Consensus         7 yV~~~~l~rWnRvisqllPs~~~~~   31 (45)
+                      .|+++--.|+||+|+.+||-..+.+
+T Consensus        68 lvtesysirfnriislilplslssn   92 (106)
+T tr|A0A183K105|   68 LVTESYSIRFNRIISLILPLSLSSN   92 (106)
+Confidence            4677777899999999999766554
+
+
+No 125
+>tr|A0A2V8HA02|A0A2V8HA02_9BACT Uncharacterized protein OS=Acidobacteria bacterium OX=1978231 GN=DMF88_02775 PE=4 SV=1
+Probab=73.18  E-value=9.8  Score=32.01  Aligned_cols=26  Identities=27%  Similarity=0.701  Sum_probs=20.9  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPT   26 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs   26 (45)
+                      ||-|||||+.+.+.+-..++.|.+-.
+T Consensus       485 qpfdvvyvpksaiakvdqfvdqyirq  510 (533)
+T tr|A0A2V8HA02|  485 QPFDVVYVPKSAIAKVDQFVDQYIRQ  510 (533)
+Confidence            68899999999999988776655433
+
+
+No 126
+>tr|A0A182R8W1|A0A182R8W1_ANOFN Uncharacterized protein OS=Anopheles funestus OX=62324 PE=4 SV=1
+Probab=72.21  E-value=9.7  Score=30.60  Aligned_cols=28  Identities=36%  Similarity=0.746  Sum_probs=22.1  Template_Neff=1.796
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVI-SQLVPTIS   28 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvi-sqllPs~~   28 (45)
+                      +|||+|||...+-..|-|-| ..++|...
+T Consensus       238 ~~gdlv~v~e~~r~~w~r~iv~~~~~g~d  266 (308)
+T tr|A0A182R8W1|  238 KPGDLVFVTEGPRNEWPRGIVEEIIPGSD  266 (308)
+Confidence            58999999999999999865 45566543
+
+
+No 127
+>tr|A0A2S9QAH1|A0A2S9QAH1_9RHIZ Capsular biosynthesis protein (Fragment) OS=Labrys okinawensis OX=346911 GN=C5L14_19125 PE=4 SV=1
+Probab=72.04  E-value=10  Score=27.41  Aligned_cols=29  Identities=17%  Similarity=0.460  Sum_probs=23.2  Template_Neff=1.571
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGV   30 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~   30 (45)
+                      .+||+||..+|++.+..+++.|-..+...
+T Consensus        94 ~kdvly~snap~~d~~kf~~~i~~~~~~~  122 (133)
+T tr|A0A2S9QAH1|   94 NKDVLYISNAPSTDFQKFVQMIYSGVGIV  122 (133)
+Confidence            57999999999999998888775554433
+
+
+No 128
+>tr|A0A2K0TNI3|A0A2K0TNI3_TRIHA Uncharacterized protein OS=Trichoderma harzianum OX=5544 GN=THARTR1_10597 PE=4 SV=1 
+Probab=71.50  E-value=11  Score=31.09  Aligned_cols=36  Identities=31%  Similarity=0.457  Sum_probs=31.3  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      ||||||.|..-|+.-.-|++..-||.+....+....
+T Consensus        29 qpgdvvmvhgfplvmlprilrhrlpniyltfslhgs   64 (442)
+T tr|A0A2K0TNI3|   29 QPGDVVMVHGFPLVMLPRILRHRLPNIYLTFSLHGS   64 (442)
+Confidence            799999999999999999999999998877665543
+
+
+No 129
+>tr|A2E7H9|A2E7H9_TRIVA Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_379540 PE=4 SV=1 
+Probab=70.82  E-value=12  Score=25.54  Aligned_cols=35  Identities=23%  Similarity=0.439  Sum_probs=23.5  Template_Neff=1.000
+
+Q 2j58              8 VTTAPLVRWNRVISQLVPTISG--VHDMTETVRYIKR   42 (45)
+Q Consensus         8 V~~~~l~rWnRvisqllPs~~~--~~~~~~~~~~~~~   42 (45)
+                      ++.+.-++|||++..|-|+-..  .+++.+...++.+
+T Consensus        51 idvanrtkwnrllkrlsptneddvfnsaesicadidd   87 (93)
+T tr|A2E7H9|A2E7   51 IDVANRTKWNRLLKRLSPTNEDDVFNSAESICADIDD   87 (93)
+Confidence            4566778999999999997543  3444444555443
+
+
+No 130
+>tr|A0A1G1ME71|A0A1G1ME71_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium RBG_13_41_10 OX=1801849 GN=A2166_03195 PE=4 SV=1 
+Probab=70.76  E-value=12  Score=30.92  Aligned_cols=44  Identities=18%  Similarity=0.315  Sum_probs=37.4  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRWP   44 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~~   44 (45)
+                      |..||+||+.+-+..-..++..|.|-....+..+++...+.+.+
+T Consensus       393 qaqdvifvphsligniddfvqtltpwvnliyqsasaneaiknip  436 (437)
+T tr|A0A1G1ME71|  393 QAQDVIFVPHSLIGNIDDFVQTLTPWVNLIYQSASANEAIKNIP  436 (437)
+Confidence            46899999999999999999999999998888877777766653
+
+
+No 131
+>tr|M2R1W9|M2R1W9_CERS8 Uncharacterized protein OS=Ceriporiopsis subvermispora (strain B) OX=914234 GN=CERSUDRAFT_126403 PE=4 SV=1 
+Probab=68.07  E-value=15  Score=27.10  Aligned_cols=30  Identities=23%  Similarity=0.512  Sum_probs=24.6  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      |||+.||.+.|. .-.++|..++|++.++.-
+T Consensus       105 pgdimfvrenpa-eigqfidsvfpslgalsi  134 (160)
+T tr|M2R1W9|M2R1  105 PGDIMFVRENPA-EIGQFIDSVFPSLGALSI  134 (160)
+Confidence            899999998875 456889999999887753
+
+
+No 132
+>tr|A0A1G1LUP3|A0A1G1LUP3_9BACT Uncharacterized protein OS=Omnitrophica WOR_2 bacterium GWA2_47_8 OX=1801840 GN=A2Z88_05365 PE=4 SV=1 
+Probab=67.78  E-value=16  Score=30.54  Aligned_cols=38  Identities=26%  Similarity=0.404  Sum_probs=28.1  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVR   38 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~   38 (45)
+                      +|||.+||+..-..+--|+|+-+....++...+.+...
+T Consensus       418 rpgdflyvpstvmakvfrvispvtapvssaaaaqsgvg  455 (461)
+T tr|A0A1G1LUP3|  418 RPGDFLYVPSTVMAKVFRVISPVTAPVSSAAAAQSGVG  455 (461)
+Confidence            59999999999999998999887555554444444433
+
+
+No 133
+>tr|A0A1V5UD59|A0A1V5UD59_9BACT Polysaccharide biosynthesis/export protein OS=bacterium ADurb.Bin243 OX=1866936 GN=BWY32_02883 PE=4 SV=1 
+Probab=67.44  E-value=16  Score=29.58  Aligned_cols=36  Identities=22%  Similarity=0.211  Sum_probs=28.7  Template_Neff=1.000
+
+Q 2j58              1 QPYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTET   36 (45)
+Q Consensus         1 qp~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~   36 (45)
+                      |.||.||++.+.-..+..-|.|+-|-....--.+.+
+T Consensus       303 qdgdmvyiprssdksfsycikqiapyavvsligaea  338 (345)
+T tr|A0A1V5UD59|  303 QDGDMVYIPRSSDKSFSYCIKQIAPYAVVSLIGAEA  338 (345)
+Confidence            569999999999999999999999976544333333
+
+
+No 134
+>tr|A0A1F9GKI6|A0A1F9GKI6_9DELT Uncharacterized protein OS=Deltaproteobacteria bacterium RIFCSPLOWO2_01_FULL_45_74 OX=1797872 GN=A2979_04600 PE=4 SV=1 
+Probab=63.57  E-value=22  Score=28.98  Aligned_cols=41  Identities=32%  Similarity=0.351  Sum_probs=33.1  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKR   42 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~   42 (45)
+                      ..|+|||+.--++..|-.|+.+.|-++..-..++..+++.|
+T Consensus       304 ssdivyvprlfianlniaisritpllsntllgtsvyrdvkd  344 (347)
+T tr|A0A1F9GKI6|  304 SSDIVYVPRLFIANLNIAISRITPLLSNTLLGTSVYRDVKD  344 (347)
+Confidence            46999999999999999999999988776655555555544
+
+
+No 135
+>tr|A0A241VQA7|A0A241VQA7_9GAMM Uncharacterized protein OS=Acinetobacter sp. ANC 5054 OX=1977877 GN=B9T33_10005 PE=4 SV=1 
+Probab=61.88  E-value=25  Score=22.62  Aligned_cols=38  Identities=18%  Similarity=0.440  Sum_probs=31.0  Template_Neff=1.000
+
+Q 2j58              6 VYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRW   43 (45)
+Q Consensus         6 VyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~   43 (45)
+                      +|..+.....|..|..|+-|.++.+..+.+..-.+.|+
+T Consensus        13 iyacepasvnwenvyqqvkpniqnldqakniflsfddf   50 (60)
+T tr|A0A241VQA7|   13 IYACEPASVNWENVYQQVKPNIQNLDQAKNIFLSFDDF   50 (60)
+Confidence            56666777899999999999999998888777666554
+
+
+No 136
+>tr|A0A2D5XQC2|A0A2D5XQC2_9BACT Uncharacterized protein OS=Planctomycetes bacterium OX=2026780 GN=CMJ86_08300 PE=4 SV=1
+Probab=60.42  E-value=25  Score=28.16  Aligned_cols=29  Identities=24%  Similarity=0.486  Sum_probs=21.4  Template_Neff=1.555
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLVPTISGVHDM   33 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqllPs~~~~~~~   33 (45)
+                      |+|||||..++-.|+   -+..+|-++++..+
+T Consensus       229 p~d~ifvp~~~~~rf---~e~~~p~lqg~g~t  257 (275)
+T tr|A0A2D5XQC2|  229 PDDIIFVPRSRTDRF---QEDVTPYLQGIGFT  257 (275)
+Confidence            899999987766655   46678887776543
+
+
+No 137
+>tr|A1BHG2|A1BHG2_CHLPD Polysaccharide export protein OS=Chlorobium phaeobacteroides (strain DSM 266) OX=290317 GN=Cpha266_1823 PE=4 SV=1
+Probab=53.85  E-value=27  Score=28.48  Aligned_cols=15  Identities=13%  Similarity=0.266  Sum_probs=11.6  Template_Neff=4.357
+
+Q 2j58              1 QPYDIVYVTTAPLVR   15 (45)
+Q Consensus         1 qp~DVVyV~~~~l~r   15 (45)
+                      +++|||||+.+.-+-
+T Consensus       239 ~nnDvIyIPes~d~~  253 (387)
+T tr|A1BHG2|A1BH  239 MNNDVIYIPESSDEL  253 (387)
+Confidence            479999999876543
+
+
+No 138
+>tr|A0A1F7FA74|A0A1F7FA74_9BACT Uncharacterized protein OS=Candidatus Raymondbacteria bacterium RIFOXYD12_FULL_49_13 OX=1817890 GN=A2519_15520 PE=4 SV=1 
+Probab=51.36  E-value=49  Score=26.16  Aligned_cols=23  Identities=30%  Similarity=0.450  Sum_probs=20.3  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWNRVISQLV   24 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWnRvisqll   24 (45)
+                      .||++||.++.++.-.|+|..+.
+T Consensus       198 dgdilfvqesklteakriidllt  220 (241)
+T tr|A0A1F7FA74|  198 DGDILFVQESKLTEAKRIIDLLT  220 (241)
+Confidence            58999999999999999988763
+
+
+No 139
+>tr|A0A1V4SC02|A0A1V4SC02_9DELT Uncharacterized protein OS=Desulfobacteraceae bacterium 4484_190.3 OX=1956169 GN=B1H13_01925 PE=4 SV=1 
+Probab=49.88  E-value=53  Score=22.84  Aligned_cols=34  Identities=32%  Similarity=0.502  Sum_probs=25.9  Template_Neff=1.000
+
+Q 2j58              7 YVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         7 yV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      ||.+....|| -+++.|+|..+....+-...+.+.
+T Consensus         5 yvsaeeavrw-gfvskivppdqlmdaafeladeik   38 (93)
+T tr|A0A1V4SC02|    5 YVSAEEAVRW-GFVSKIVPPDQLMDAAFELADEIK   38 (93)
+Confidence            8888999999 577899998887766655555543
+
+
+No 140
+>tr|A0A2M7S2K7|A0A2M7S2K7_9BACT Uncharacterized protein OS=Elusimicrobia bacterium CG_4_10_14_0_8_um_filter_37_32 OX=2014301 GN=COY53_02880 PE=4 SV=1
+Probab=46.50  E-value=57  Score=27.62  Aligned_cols=12  Identities=50%  Similarity=0.540  Sum_probs=10.1  Template_Neff=2.127
+
+Q 2j58              1 QPYDIVYVTTAP   12 (45)
+Q Consensus         1 qp~DVVyV~~~~   12 (45)
+                      ||||||||+...
+T Consensus       262 q~~div~vpk~t  273 (387)
+T tr|A0A2M7S2K7|  262 QPGDIVEVPKET  273 (387)
+Confidence            799999998654
+
+
+No 141
+>tr|A0A287LTH4|A0A287LTH4_HORVV Purple acid phosphatase OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+Probab=40.55  E-value=83  Score=26.16  Aligned_cols=40  Identities=28%  Similarity=0.363  Sum_probs=30.8  Template_Neff=1.895
+
+Q 2j58              3 YDIVYVTTAPLVRWNRVISQLVPTISGVHDMTETVRYIKRW   43 (45)
+Q Consensus         3 ~DVVyV~~~~l~rWnRvisqllPs~~~~~~~~~~~~~~~~~   43 (45)
+                      |||+|- ..=|+.|..+|.+|-|..+.........+--++|
+T Consensus       163 gdisya-tgfl~ewdfflhli~p~as~~symtaignherdy  202 (315)
+T tr|A0A287LTH4|  163 GDISYA-TGFLAEWDFFLHLINPVASQVSYMTAIGNHERDY  202 (315)
+Confidence            677774 3568899999999999998887776666655444
+
+
+No 142
+>tr|A0A0M6YVV2|A0A0M6YVV2_9RHOB Polysaccharide export protein Wza OS=Labrenzia alba OX=311410 GN=LP7551_02511 PE=4 SV=1
+Probab=40.47  E-value=56  Score=26.45  Aligned_cols=14  Identities=36%  Similarity=0.674  Sum_probs=11.4  Template_Neff=5.000
+
+Q 2j58              1 QPYDIVYVTTAPLV   14 (45)
+Q Consensus         1 qp~DVVyV~~~~l~   14 (45)
+                      +|||+|||...|-+
+T Consensus       233 ~PgD~I~v~~~prt  246 (376)
+T tr|A0A0M6YVV2|  233 RPGDTIYVERDPRT  246 (376)
+Confidence            59999999887743
+
+
+No 143
+>tr|A0A1C6IVG5|A0A1C6IVG5_9CLOT Uncharacterized protein OS=uncultured Clostridium sp. OX=59620 GN=SAMEA3545404_02224 PE=4 SV=1 
+Probab=38.67  E-value=1e+02  Score=25.95  Aligned_cols=27  Identities=22%  Similarity=0.513  Sum_probs=22.1  Template_Neff=1.000
+
+Q 2j58              6 VYVTTAPLVRWNRVISQLVPTISGVHD   32 (45)
+Q Consensus         6 VyV~~~~l~rWnRvisqllPs~~~~~~   32 (45)
+                      -|.+++....|.|.+.|+||.+.+...
+T Consensus        41 afleearmnswrralcqllpglgagal   67 (384)
+T tr|A0A1C6IVG5|   41 AFLEEARMNSWRRALCQLLPGLGAGAL   67 (384)
+Confidence            366778888999999999999876543
+
+
+No 144
+>tr|A0A2T0WPW6|A0A2T0WPW6_9RHOB SLBB domain-containing protein OS=Donghicola tyrosinivorans OX=1652492 GN=CLV74_10785 PE=4 SV=1
+Probab=37.32  E-value=94  Score=24.46  Aligned_cols=11  Identities=36%  Similarity=0.766  Sum_probs=9.0  Template_Neff=2.412
+
+Q 2j58              1 QPYDIVYVTTA   11 (45)
+Q Consensus         1 qp~DVVyV~~~   11 (45)
+                      ||||+||++..
+T Consensus        69 ~pgD~IY~P~~   79 (203)
+T tr|A0A2T0WPW6|   69 QPGDYIYIPSR   79 (203)
+Confidence            69999999754
+
+
+No 145
+>tr|E9UXJ3|E9UXJ3_9ACTN Uncharacterized protein OS=Nocardioidaceae bacterium Broad-1 OX=408672 GN=NBCG_03472 PE=4 SV=1 
+Probab=34.18  E-value=1.4e+02  Score=21.41  Aligned_cols=40  Identities=25%  Similarity=0.318  Sum_probs=31.1  Template_Neff=1.000
+
+Q 2j58              2 PYDIVYVTTAPLVRWN-RVISQLVPTISGVHDMTETVRYIK   41 (45)
+Q Consensus         2 p~DVVyV~~~~l~rWn-RvisqllPs~~~~~~~~~~~~~~~   41 (45)
+                      -|||+-++..|+.|-. |+|..-+|...-++.+.++...++
+T Consensus        34 igdvitipgtplrrcrvrlirsavpgvvwlyltdstgkrir   74 (102)
+T tr|E9UXJ3|E9UX   34 IGDVITIPGTPLRRCRVRLIRSAVPGVVWLYLTDSTGKRIR   74 (102)
+Confidence            3899999999998753 678888888877777777666554
+
+
+No 146
+>tr|C1F6E5|C1F6E5_ACIC5 Polysaccharide biosynthesis/export protein OS=Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 / JCM 7670 / NBRC 15755 
+Probab=31.94  E-value=1.1e+02  Score=25.43  Aligned_cols=12  Identities=42%  Similarity=0.631  Sum_probs=9.4  Template_Neff=3.642
+
+Q 2j58              1 QPYDIVYVTTAP   12 (45)
+Q Consensus         1 qp~DVVyV~~~~   12 (45)
+                      |.+|||||+.+.
+T Consensus       224 ~R~DiVyVPd~~  235 (348)
+T tr|C1F6E5|C1F6  224 KRDDIVYVPDSS  235 (348)
+Confidence            468999998664
+
+
+No 147
+>tr|A0A1F7RR78|A0A1F7RR78_9BACT Uncharacterized protein OS=Candidatus Schekmanbacteria bacterium RBG_13_48_7 OX=1817878 GN=A2161_14370 PE=4 SV=1
+Probab=22.41  E-value=2.6e+02  Score=24.07  Aligned_cols=12  Identities=33%  Similarity=0.653  Sum_probs=9.7  Template_Neff=2.240
+
+Q 2j58              1 QPYDIVYVTTAP   12 (45)
+Q Consensus         1 qp~DVVyV~~~~   12 (45)
+                      ||||++|+++.-
+T Consensus       219 ~p~dii~~p~~~  230 (352)
+T tr|A0A1F7RR78|  219 EPGDIIYFPSIL  230 (352)
+Confidence            699999998654
+
+
