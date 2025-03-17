@@ -143,8 +143,19 @@ X_all=all_MSAT_pca10_plus_lips_motifs_scores_Preddimer_Distance_df.drop('label',
 y_all=all_MSAT_pca10_plus_lips_motifs_scores_Preddimer_Distance_df['label']
 scores=cross_validate(classifier, X_all,y_all,cv=5, scoring=scoring, return_estimator=True)
 feature_weights = [est.coef_[0] for est in scores['estimator']]
+featrues_intercept= [est.intercept_[0] for est in scores['estimator']]
 # print(scores)
 
+'''## Saving TMH-ID Model Weights 
+''' 
+models={}
+models["weights"]=feature_weights
+models["intercept"]=featrues_intercept
+with open("TMH-ID_Model_Weights/TMH-ID_5Fold_Weights.pkl","wb") as f:
+    pickle.dump(models,f)
+
+with open('TMH-ID_Model_Weights/TMH-ID_Final_Weights.pkl', 'wb') as f2:
+    pickle.dump(classifier, f2)
 
 print ("\n====================================\n\tTMH-ID Model Results\n====================================\n")
 
