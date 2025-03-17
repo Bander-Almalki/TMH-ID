@@ -133,6 +133,6 @@ plt.xlabel('TM Homodimers')
 plt.ylabel('F1_score')
 plt.show()
 
-with open('alphafold_prediction_plus_GTLabel.pkl', 'wb') as f:
-  pickle.dump(sorted_dict, f)
+# with open('alphafold_prediction_plus_GTLabel.pkl', 'wb') as f:
+#   pickle.dump(sorted_dict, f)
 
