@@ -1,6 +1,6 @@
 # TMH-ID: Predicting Interface Residues in Alpha-Helical Transmembrane Proteins Homodimers Using Sequential and Structural Features
 
-<img src="https://github.com/Bander-Almalki/TMH-ID/blob/main/output/Interface_Residues.png" alt="Interface_Residues" width="398" height="349">
+<img src="https://github.com/Bander-Almalki/TMH-ID/main/output/Interface_Residues.png" alt="Interface_Residues" width="398" height="349">
 
 A machine learning model that integrates two distinct computational approaches by combining sequential and structural features extracted from a large protein language model and a molecular dynamics simulation model, respectively. Additionally, it incorporates specialized transmembrane protein features to enhance the accurate identification of interface residues in transmembrane proteins.
 
